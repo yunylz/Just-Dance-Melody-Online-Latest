@@ -1,0 +1,82 @@
+export const COMMENT_TYPES = {
+    AUTODANCE: 1,
+};
+
+export const HOME_TILE_TYPES = {
+    MAP: 0,
+    PLAYLIST: 1,
+    NEWS: 2,
+    VIDEO: 3,
+    FEEDBACK: 4,
+    UPLAY: 5,
+    JDUCOUNTDOWN: 6,
+    JDUTRIAL: 7,
+    OFFLINEGENERATION: 8,
+    OFFLINEREPLACEABLE: 9
+}
+
+export const MAP_TILE_INFO = {
+    RECOMMENDED: 0,
+    JDU_EXCLUSIVE: 1,
+    JDU_INCENTIVE: 2,
+    LOCAL_TRACK: 3,
+    ONLINETYPES_END: 4,
+    SKU_MAP_UNLOCK: 5,
+    SKU_RANDOM: 6,
+    MAX: 7
+};
+
+export const PLAYLIST_TILE_INFO = {
+    RECOMMENDED: 0,
+    CURATED: 1,
+    TOP_PLAYED: 2,
+    WC_QUALIFICATION: 3,
+    ONLINETYPES_END: 4,
+    SKU: 5,
+    MAX: 6
+};
+
+export const NEWS_TILE_INFO = {
+    NEWS: 0,
+    GAME_EVENTS: 1,
+    IRLEVENTS: 2,
+    WCEVENTS: 3,
+    TIPS: 4,
+    WCWINNERANNOUNCE: 5,
+    LBCHALLENGEWINNER: 6,
+    ONLINETYPES_END: 7,
+    ONLINEINCENTIVE: 8,
+    MAX: 9
+};
+
+export const VIDEO_TILE_INFO = {
+    COMMUNITY: 0,
+    MARKETING: 1,
+    ONLINETYPES_END: 2,
+    MAX: 3
+}; 
+
+export const FEEDBACK_TILE_INFO = {
+    MAX: 0
+};
+
+export const UPLAY_TILE_INFO = {
+    CREATION: 0,
+    REWARD: 1,
+    ACTION: 2,
+    ONLINETYPES_END: 3,
+    MAX: 4
+};
+
+export const OFFLINEGEN_TILE_INFO = {
+    TARGET_TYPE: 0,
+    TARGET_SUBTYPE: 1,
+    MAX: 2
+};
+
+export const CUSTOMIZABLEITEM_TILE_INFO = {
+    AVATAR: 0,
+    PORTRAITBORDER: 1,
+    ONLINETYPES_END: 2,
+    MAX: 3
+};

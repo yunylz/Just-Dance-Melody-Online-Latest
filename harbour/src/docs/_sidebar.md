@@ -1,0 +1,12 @@
+- [Home](/)
+- **Auth System**
+  - [Overview](auth/README.md)
+  - [Architecture](auth/architecture.md)
+  - [Layer 1: Platform Tokens](auth/layer-1-platform-tokens.md)
+  - [Layer 2: Harbour Tickets](auth/layer-2-harbour-tickets.md)
+  - [Session Flow](auth/session-flow.md)
+  - [Middleware Pipeline](auth/middleware-pipeline.md)
+  - [External Services](auth/external-services.md)
+  - [HTTP Error Codes](auth/http-codes.md)
+- **Services**
+  - [Route Table](services/README.md)

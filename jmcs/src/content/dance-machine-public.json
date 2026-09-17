@@ -1,0 +1,3304 @@
+{
+    "__class": "OnlineBlockDb",
+    "blocks": {
+        "JDMApplauseConcert": {
+            "__class": "OnlineBlock",
+            "artist": "JDMApplauseConcert Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/pc/JDMApplauseConcert_Cover_Generic.tga.ckd/f5b19d46f548e39acf7618d4e36729df.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/pc/JDMApplauseConcert_Cover_Online.tga.ckd/cf70739917a25072c19b2d2cda9aea57.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/ps4/JDMApplauseConcert_Cover_Generic.tga.ckd/f5b19d46f548e39acf7618d4e36729df.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/ps4/JDMApplauseConcert_Cover_Online.tga.ckd/cf70739917a25072c19b2d2cda9aea57.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/wiiu/JDMApplauseConcert_Cover_Generic.tga.ckd/11b07552fb164038924797d9b3c4cf95.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/wiiu/JDMApplauseConcert_Cover_Online.tga.ckd/4dc687ba511ae1694194a31f27612f4a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/x1/JDMApplauseConcert_Cover_Generic.tga.ckd/f5b19d46f548e39acf7618d4e36729df.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMApplauseConcert/x1/JDMApplauseConcert_Cover_Online.tga.ckd/cf70739917a25072c19b2d2cda9aea57.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.5,
+            "mapName": "JDMApplauseConcert",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMApplauseConcert_mapContent"
+            },
+            "parentMapName": "JDMApplauseConcert",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMApplauseConcert"
+        },
+        "JDMBallerina": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBallerina Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/pc/JDMBallerina_Cover_Generic.tga.ckd/7ef53d9a23d87f618d9e5b41e94006ba.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/pc/JDMBallerina_Cover_Online.tga.ckd/598d68b9ee0248421c05f8f6fe7a7a28.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/ps4/JDMBallerina_Cover_Generic.tga.ckd/7ef53d9a23d87f618d9e5b41e94006ba.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/ps4/JDMBallerina_Cover_Online.tga.ckd/598d68b9ee0248421c05f8f6fe7a7a28.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/wiiu/JDMBallerina_Cover_Generic.tga.ckd/4fcccfcc48062c1a6a30665e29ab57f3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/wiiu/JDMBallerina_Cover_Online.tga.ckd/ad7520b7a299730923a72138ee713a9d.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/x1/JDMBallerina_Cover_Generic.tga.ckd/7ef53d9a23d87f618d9e5b41e94006ba.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerina/x1/JDMBallerina_Cover_Online.tga.ckd/598d68b9ee0248421c05f8f6fe7a7a28.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.729999999999997,
+            "mapName": "JDMBallerina",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBallerina_mapContent"
+            },
+            "parentMapName": "JDMBallerina",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMBallerina"
+        },
+        "JDMBallerinaALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBallerina Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/pc/JDMBallerinaALT01_Cover_Generic.tga.ckd/63c1c9aa20f646522400512424fec7b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/pc/JDMBallerinaALT01_Cover_Online.tga.ckd/b1397a8d19f00b1b5d1212f6f20d3641.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/ps4/JDMBallerinaALT01_Cover_Generic.tga.ckd/63c1c9aa20f646522400512424fec7b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/ps4/JDMBallerinaALT01_Cover_Online.tga.ckd/b1397a8d19f00b1b5d1212f6f20d3641.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/wiiu/JDMBallerinaALT01_Cover_Generic.tga.ckd/16610281441e1628e5fe8223393ee922.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/wiiu/JDMBallerinaALT01_Cover_Online.tga.ckd/5f88433ec4090d0c1bb5e0641f929d23.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/x1/JDMBallerinaALT01_Cover_Generic.tga.ckd/63c1c9aa20f646522400512424fec7b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaALT01/x1/JDMBallerinaALT01_Cover_Online.tga.ckd/b1397a8d19f00b1b5d1212f6f20d3641.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.729999999999997,
+            "mapName": "JDMBallerinaALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBallerinaALT01_mapContent"
+            },
+            "parentMapName": "JDMBallerina",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMBallerina - ALTERNATE01"
+        },
+        "JDMBallerinaBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBallerina Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/pc/JDMBallerinaBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/pc/JDMBallerinaBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/ps4/JDMBallerinaBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/ps4/JDMBallerinaBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/wiiu/JDMBallerinaBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/wiiu/JDMBallerinaBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/x1/JDMBallerinaBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBallerinaBS/x1/JDMBallerinaBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_BonusStage"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.677999999999997,
+            "mapName": "JDMBallerinaBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBallerinaBS_mapContent"
+            },
+            "parentMapName": "JDMBallerinaBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMBallerina - BONUS STAGE"
+        },
+        "JDMBollywood": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBollywood Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/pc/JDMBollywood_Cover_Generic.tga.ckd/ac2cb73000cf2abb261095105c6820c6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/pc/JDMBollywood_Cover_Online.tga.ckd/a0c44288a7ff1296e92dccf0dd4292e4.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/ps4/JDMBollywood_Cover_Generic.tga.ckd/ac2cb73000cf2abb261095105c6820c6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/ps4/JDMBollywood_Cover_Online.tga.ckd/a0c44288a7ff1296e92dccf0dd4292e4.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/wiiu/JDMBollywood_Cover_Generic.tga.ckd/7b5d326b3518e8d167b9381b31f6bafa.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/wiiu/JDMBollywood_Cover_Online.tga.ckd/389caed2c64f511df0fc872e84a675fc.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/x1/JDMBollywood_Cover_Generic.tga.ckd/ac2cb73000cf2abb261095105c6820c6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywood/x1/JDMBollywood_Cover_Online.tga.ckd/a0c44288a7ff1296e92dccf0dd4292e4.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.4,
+            "mapName": "JDMBollywood",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBollywood_mapContent"
+            },
+            "parentMapName": "JDMBollywood",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMBollywood"
+        },
+        "JDMBollywoodALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBollywood Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/pc/JDMBollywoodALT01_Cover_Generic.tga.ckd/ca72608b971055c6613b4bb1430971d4.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/pc/JDMBollywoodALT01_Cover_Online.tga.ckd/b4fd4364798d9060ffbbc0dbb1b3bd1d.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/ps4/JDMBollywoodALT01_Cover_Generic.tga.ckd/ca72608b971055c6613b4bb1430971d4.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/ps4/JDMBollywoodALT01_Cover_Online.tga.ckd/b4fd4364798d9060ffbbc0dbb1b3bd1d.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/wiiu/JDMBollywoodALT01_Cover_Generic.tga.ckd/109261ed4848559510d82eb711853187.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/wiiu/JDMBollywoodALT01_Cover_Online.tga.ckd/ffeedaac0448096868a3921e3af7030f.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/x1/JDMBollywoodALT01_Cover_Generic.tga.ckd/ca72608b971055c6613b4bb1430971d4.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBollywoodALT01/x1/JDMBollywoodALT01_Cover_Online.tga.ckd/b4fd4364798d9060ffbbc0dbb1b3bd1d.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.4,
+            "mapName": "JDMBollywoodALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBollywoodALT01_mapContent"
+            },
+            "parentMapName": "JDMBollywood",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMBollywood - ALTERNATE01"
+        },
+        "JDMBruceLee": {
+            "__class": "OnlineBlock",
+            "artist": "JDMBruceLee Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/pc/JDMBruceLee_Cover_Generic.tga.ckd/44740939e41956b67501bd3980653800.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/pc/JDMBruceLee_Cover_Online.tga.ckd/fc49985bc376562a53c287273e09c3af.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/ps4/JDMBruceLee_Cover_Generic.tga.ckd/44740939e41956b67501bd3980653800.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/ps4/JDMBruceLee_Cover_Online.tga.ckd/fc49985bc376562a53c287273e09c3af.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/wiiu/JDMBruceLee_Cover_Generic.tga.ckd/f66348a56012117bed5f74984aac4e42.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/wiiu/JDMBruceLee_Cover_Online.tga.ckd/99dc5178abf71ffa291430bd67553f03.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/x1/JDMBruceLee_Cover_Generic.tga.ckd/44740939e41956b67501bd3980653800.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMBruceLee/x1/JDMBruceLee_Cover_Online.tga.ckd/fc49985bc376562a53c287273e09c3af.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.718,
+            "mapName": "JDMBruceLee",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMBruceLee_mapContent"
+            },
+            "parentMapName": "JDMBruceLee",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMBruceLee"
+        },
+        "JDMCharleston": {
+            "__class": "OnlineBlock",
+            "artist": "JDMCharleston Artist",
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.297,
+            "mapName": "JDMCharleston",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "parentMapName": "JDMCharleston",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMCharleston"
+        },
+        "JDMCharlestonALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMCharleston Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/pc/JDMCharlestonALT01_Cover_Generic.tga.ckd/7f52fde49e2f511f5534e5c2741bb66d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/pc/JDMCharlestonALT01_Cover_Online.tga.ckd/9bbe041ab1e851fe3a7aa2eab54282d1.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/ps4/JDMCharlestonALT01_Cover_Generic.tga.ckd/7f52fde49e2f511f5534e5c2741bb66d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/ps4/JDMCharlestonALT01_Cover_Online.tga.ckd/9bbe041ab1e851fe3a7aa2eab54282d1.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/wiiu/JDMCharlestonALT01_Cover_Generic.tga.ckd/1c64d0cfdc3a030f39e4ee3404c67ca4.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/wiiu/JDMCharlestonALT01_Cover_Online.tga.ckd/037cd7eb9d87241a759fa5508739b111.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/x1/JDMCharlestonALT01_Cover_Generic.tga.ckd/7f52fde49e2f511f5534e5c2741bb66d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonALT01/x1/JDMCharlestonALT01_Cover_Online.tga.ckd/9bbe041ab1e851fe3a7aa2eab54282d1.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.296999999999997,
+            "mapName": "JDMCharlestonALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMCharlestonALT01_mapContent"
+            },
+            "parentMapName": "JDMCharleston",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMCharleston - ALTERNATE01"
+        },
+        "JDMCharlestonBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMCharleston Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/pc/JDMCharlestonBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/pc/JDMCharlestonBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/ps4/JDMCharlestonBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/ps4/JDMCharlestonBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/wiiu/JDMCharlestonBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/wiiu/JDMCharlestonBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/x1/JDMCharlestonBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCharlestonBS/x1/JDMCharlestonBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_BonusStage"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.779999999999998,
+            "mapName": "JDMCharlestonBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMCharlestonBS_mapContent"
+            },
+            "parentMapName": "JDMCharlestonBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMCharleston - BONUS STAGE"
+        },
+        "JDMCheerleader": {
+            "__class": "OnlineBlock",
+            "artist": "JDMCheerleader Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/nx/JDMCheerleader_Cover_Generic.tga.ckd/dfa06e67e873b2be70f6940d3a08ffd7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/nx/JDMCheerleader_Cover_Online.tga.ckd/8611f2a43f59c4333d06f446db9345bd.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/pc/JDMCheerleader_Cover_Generic.tga.ckd/0267bfd7c8fdf45b3c040b34fe3c6dfd.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/pc/JDMCheerleader_Cover_Online.tga.ckd/c4f6de89d85e7b33d55768d3951804aa.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/ps4/JDMCheerleader_Cover_Generic.tga.ckd/0267bfd7c8fdf45b3c040b34fe3c6dfd.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/ps4/JDMCheerleader_Cover_Online.tga.ckd/c4f6de89d85e7b33d55768d3951804aa.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/wiiu/JDMCheerleader_Cover_Generic.tga.ckd/16ec6c9ba3c4672df2eb70c8f78d77e8.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/wiiu/JDMCheerleader_Cover_Online.tga.ckd/c39be7634aed9a4dc0cda2371f1d3596.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/x1/JDMCheerleader_Cover_Generic.tga.ckd/0267bfd7c8fdf45b3c040b34fe3c6dfd.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMCheerleader/x1/JDMCheerleader_Cover_Online.tga.ckd/c4f6de89d85e7b33d55768d3951804aa.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.049,
+            "mapName": "JDMCheerleader",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMCheerleader_mapContent"
+            },
+            "parentMapName": "JDMCheerleader",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMCheerleader"
+        },
+        "JDMEgyptian": {
+            "__class": "OnlineBlock",
+            "artist": "JDMEgyptian Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/pc/JDMEgyptian_Cover_Generic.tga.ckd/5f2f0ebe8ba213ce2c15dd825bc42a5a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/pc/JDMEgyptian_Cover_Online.tga.ckd/c0dca9f54b366615d102b6322d057a85.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/ps4/JDMEgyptian_Cover_Generic.tga.ckd/5f2f0ebe8ba213ce2c15dd825bc42a5a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/ps4/JDMEgyptian_Cover_Online.tga.ckd/c0dca9f54b366615d102b6322d057a85.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/wiiu/JDMEgyptian_Cover_Generic.tga.ckd/d21bcb9e32f89bfd5cc1743c1c8a95b0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/wiiu/JDMEgyptian_Cover_Online.tga.ckd/670923a8ced72a93a93d93ecc6980c17.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/x1/JDMEgyptian_Cover_Generic.tga.ckd/5f2f0ebe8ba213ce2c15dd825bc42a5a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptian/x1/JDMEgyptian_Cover_Online.tga.ckd/c0dca9f54b366615d102b6322d057a85.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 24.49,
+            "mapName": "JDMEgyptian",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMEgyptian_mapContent"
+            },
+            "parentMapName": "JDMEgyptian",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMEgyptian"
+        },
+        "JDMEgyptianBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMEgyptian Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/pc/JDMEgyptianBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/pc/JDMEgyptianBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/ps4/JDMEgyptianBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/ps4/JDMEgyptianBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/wiiu/JDMEgyptianBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/wiiu/JDMEgyptianBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/x1/JDMEgyptianBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMEgyptianBS/x1/JDMEgyptianBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_BonusStage"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.964,
+            "mapName": "JDMEgyptianBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMEgyptianBS_mapContent"
+            },
+            "parentMapName": "JDMEgyptianBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMEgyptian - BONUS STAGE"
+        },
+        "JDMFlamenco": {
+            "__class": "OnlineBlock",
+            "artist": "JDMFlamenco Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/pc/JDMFlamenco_Cover_Generic.tga.ckd/ffdae6ae8927895ccb3eecfe25d4cc88.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/pc/JDMFlamenco_Cover_Online.tga.ckd/37bc56d38ed652bff81c698d1c5adbc2.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/ps4/JDMFlamenco_Cover_Generic.tga.ckd/ffdae6ae8927895ccb3eecfe25d4cc88.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/ps4/JDMFlamenco_Cover_Online.tga.ckd/37bc56d38ed652bff81c698d1c5adbc2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/wiiu/JDMFlamenco_Cover_Generic.tga.ckd/e5ed2f47c15309ec84ddd8f0d6fa216a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/wiiu/JDMFlamenco_Cover_Online.tga.ckd/da5a032610df2619c1555420da84e7ed.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/x1/JDMFlamenco_Cover_Generic.tga.ckd/ffdae6ae8927895ccb3eecfe25d4cc88.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamenco/x1/JDMFlamenco_Cover_Online.tga.ckd/37bc56d38ed652bff81c698d1c5adbc2.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.464,
+            "mapName": "JDMFlamenco",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMFlamenco_mapContent"
+            },
+            "parentMapName": "JDMFlamenco",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMFlamenco"
+        },
+        "JDMFlamencoALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMFlamenco Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/pc/JDMFlamencoALT01_Cover_Generic.tga.ckd/6fd5e404b010a2139d2d11eb28e7867e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/pc/JDMFlamencoALT01_Cover_Online.tga.ckd/7f6bc6c0a5a995eb68c7dbee6e308927.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/ps4/JDMFlamencoALT01_Cover_Generic.tga.ckd/6fd5e404b010a2139d2d11eb28e7867e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/ps4/JDMFlamencoALT01_Cover_Online.tga.ckd/7f6bc6c0a5a995eb68c7dbee6e308927.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/wiiu/JDMFlamencoALT01_Cover_Generic.tga.ckd/230f7932845542ac1a094acb207a862a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/wiiu/JDMFlamencoALT01_Cover_Online.tga.ckd/2c6bc04a0d71df5e6bcc54b523cbc6c3.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/x1/JDMFlamencoALT01_Cover_Generic.tga.ckd/6fd5e404b010a2139d2d11eb28e7867e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFlamencoALT01/x1/JDMFlamencoALT01_Cover_Online.tga.ckd/7f6bc6c0a5a995eb68c7dbee6e308927.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30,
+            "mapName": "JDMFlamencoALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMFlamencoALT01_mapContent"
+            },
+            "parentMapName": "JDMFlamenco",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMFlamenco - ALTERNATE01"
+        },
+        "JDMFrenchCancan": {
+            "__class": "OnlineBlock",
+            "artist": "JDMFrenchCancan Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/pc/JDMFrenchCancan_Cover_Generic.tga.ckd/85416c9cd7c665d9e556a8347f6e2d93.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/pc/JDMFrenchCancan_Cover_Online.tga.ckd/d34ee4ed6e47e9f3fbe0993f59ad1a55.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/ps4/JDMFrenchCancan_Cover_Generic.tga.ckd/85416c9cd7c665d9e556a8347f6e2d93.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/ps4/JDMFrenchCancan_Cover_Online.tga.ckd/d34ee4ed6e47e9f3fbe0993f59ad1a55.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/wiiu/JDMFrenchCancan_Cover_Generic.tga.ckd/e4883d99b5b37006de48607e01b0a091.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/wiiu/JDMFrenchCancan_Cover_Online.tga.ckd/1cf8ec5dd16f94abd4cd8ce53c0eebb0.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/x1/JDMFrenchCancan_Cover_Generic.tga.ckd/85416c9cd7c665d9e556a8347f6e2d93.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMFrenchCancan/x1/JDMFrenchCancan_Cover_Online.tga.ckd/d34ee4ed6e47e9f3fbe0993f59ad1a55.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.409,
+            "mapName": "JDMFrenchCancan",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMFrenchCancan_mapContent"
+            },
+            "parentMapName": "JDMFrenchCancan",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMFrenchCancan"
+        },
+        "JDMGymnast": {
+            "__class": "OnlineBlock",
+            "artist": "JDMGymnast Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/pc/JDMGymnast_Cover_Generic.tga.ckd/928c3835f5ff768fa610d21816feca86.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/pc/JDMGymnast_Cover_Online.tga.ckd/886bd970f7b0d4657b050f73d25e5975.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/ps4/JDMGymnast_Cover_Generic.tga.ckd/928c3835f5ff768fa610d21816feca86.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/ps4/JDMGymnast_Cover_Online.tga.ckd/886bd970f7b0d4657b050f73d25e5975.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/wiiu/JDMGymnast_Cover_Generic.tga.ckd/b692583b923e38bda4149bf41041e7fb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/wiiu/JDMGymnast_Cover_Online.tga.ckd/4333c453c332ec12d37923b1bfdbf810.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/x1/JDMGymnast_Cover_Generic.tga.ckd/928c3835f5ff768fa610d21816feca86.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnast/x1/JDMGymnast_Cover_Online.tga.ckd/886bd970f7b0d4657b050f73d25e5975.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 25.366,
+            "mapName": "JDMGymnast",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMGymnast_mapContent"
+            },
+            "parentMapName": "JDMGymnast",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMGymnast"
+        },
+        "JDMGymnastALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMGymnast Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/pc/JDMGymnastALT01_Cover_Generic.tga.ckd/010ff981c918b6f850bcc8cfd6cbbe34.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/pc/JDMGymnastALT01_Cover_Online.tga.ckd/ce24cd7f69fe320558f62f950411b295.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/ps4/JDMGymnastALT01_Cover_Generic.tga.ckd/010ff981c918b6f850bcc8cfd6cbbe34.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/ps4/JDMGymnastALT01_Cover_Online.tga.ckd/ce24cd7f69fe320558f62f950411b295.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/wiiu/JDMGymnastALT01_Cover_Generic.tga.ckd/84c34c1c983f52c6d6988c7ad8280c00.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/wiiu/JDMGymnastALT01_Cover_Online.tga.ckd/2db3b98267de5e608108d2e2144bf043.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/x1/JDMGymnastALT01_Cover_Generic.tga.ckd/010ff981c918b6f850bcc8cfd6cbbe34.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMGymnastALT01/x1/JDMGymnastALT01_Cover_Online.tga.ckd/ce24cd7f69fe320558f62f950411b295.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 25.366,
+            "mapName": "JDMGymnastALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMGymnastALT01_mapContent"
+            },
+            "parentMapName": "JDMGymnast",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMGymnast - ALTERNATE01"
+        },
+        "JDMHaka": {
+            "__class": "OnlineBlock",
+            "artist": "JDMHaka Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/pc/JDMHaka_Cover_Generic.tga.ckd/e1550a0f135d37d553a37e9be4e7bf82.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/pc/JDMHaka_Cover_Online.tga.ckd/2ca065e3f108e13df88bcd1456bd7bf0.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/ps4/JDMHaka_Cover_Generic.tga.ckd/e1550a0f135d37d553a37e9be4e7bf82.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/ps4/JDMHaka_Cover_Online.tga.ckd/2ca065e3f108e13df88bcd1456bd7bf0.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/wiiu/JDMHaka_Cover_Generic.tga.ckd/6e327d8869b193fed2cb4b61fd0b46f2.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/wiiu/JDMHaka_Cover_Online.tga.ckd/27df1d1a2fc4108954296216db07e42f.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/x1/JDMHaka_Cover_Generic.tga.ckd/e1550a0f135d37d553a37e9be4e7bf82.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMHaka/x1/JDMHaka_Cover_Online.tga.ckd/2ca065e3f108e13df88bcd1456bd7bf0.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 20.308,
+            "mapName": "JDMHaka",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMHaka_mapContent"
+            },
+            "parentMapName": "JDMHaka",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMHaka"
+        },
+        "JDMIsidora": {
+            "__class": "OnlineBlock",
+            "artist": "JDMIsidora Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/pc/JDMIsidora_Cover_Generic.tga.ckd/0dc2cafcf54def22b9a0155efe8f674e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/pc/JDMIsidora_Cover_Online.tga.ckd/978924e718571ce887bbd301a71953f5.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/ps4/JDMIsidora_Cover_Generic.tga.ckd/0dc2cafcf54def22b9a0155efe8f674e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/ps4/JDMIsidora_Cover_Online.tga.ckd/978924e718571ce887bbd301a71953f5.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/wiiu/JDMIsidora_Cover_Generic.tga.ckd/30a8a2f92fa21786fd00a79b6d04f139.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/wiiu/JDMIsidora_Cover_Online.tga.ckd/7882b7051f79f847e490ba5c8e7da750.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/x1/JDMIsidora_Cover_Generic.tga.ckd/0dc2cafcf54def22b9a0155efe8f674e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMIsidora/x1/JDMIsidora_Cover_Online.tga.ckd/978924e718571ce887bbd301a71953f5.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.026999999999997,
+            "mapName": "JDMIsidora",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMIsidora_mapContent"
+            },
+            "parentMapName": "JDMIsidora",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMIsidora"
+        },
+        "JDMKungFu": {
+            "__class": "OnlineBlock",
+            "artist": "JDMKungFu Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/pc/JDMKungFu_Cover_Generic.tga.ckd/fd5763a67d211fb2591bdf02cb4baf54.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/pc/JDMKungFu_Cover_Online.tga.ckd/848a3c9a82e30e538ba97aec6b474e83.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/ps4/JDMKungFu_Cover_Generic.tga.ckd/fd5763a67d211fb2591bdf02cb4baf54.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/ps4/JDMKungFu_Cover_Online.tga.ckd/848a3c9a82e30e538ba97aec6b474e83.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/wiiu/JDMKungFu_Cover_Generic.tga.ckd/1eb724917d0633540bd79165b732fe58.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/wiiu/JDMKungFu_Cover_Online.tga.ckd/2241a19d5450699627df87c3898ae00c.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/x1/JDMKungFu_Cover_Generic.tga.ckd/fd5763a67d211fb2591bdf02cb4baf54.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFu/x1/JDMKungFu_Cover_Online.tga.ckd/848a3c9a82e30e538ba97aec6b474e83.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 34.091,
+            "mapName": "JDMKungFu",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMKungFu_mapContent"
+            },
+            "parentMapName": "JDMKungFu",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMKungFu"
+        },
+        "JDMKungFuALT01": {
+            "__class": "OnlineBlock",
+            "artist": "JDMKungFu Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/pc/JDMKungFuALT01_Cover_Generic.tga.ckd/37d2ee91a0bc1db42ff64deaf06eb623.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/pc/JDMKungFuALT01_Cover_Online.tga.ckd/e22ed948a40bd68eac4d48f8d9400239.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/ps4/JDMKungFuALT01_Cover_Generic.tga.ckd/37d2ee91a0bc1db42ff64deaf06eb623.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/ps4/JDMKungFuALT01_Cover_Online.tga.ckd/e22ed948a40bd68eac4d48f8d9400239.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/wiiu/JDMKungFuALT01_Cover_Generic.tga.ckd/acf5c0b6ab300354d97b6070fcd3de69.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/wiiu/JDMKungFuALT01_Cover_Online.tga.ckd/0ec03f917e5f21056675ba21fb4d2e93.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/x1/JDMKungFuALT01_Cover_Generic.tga.ckd/37d2ee91a0bc1db42ff64deaf06eb623.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMKungFuALT01/x1/JDMKungFuALT01_Cover_Online.tga.ckd/e22ed948a40bd68eac4d48f8d9400239.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "Empty Credits",
+            "customTypeNameId": 8610,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 34.091,
+            "mapName": "JDMKungFuALT01",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMKungFuALT01_mapContent"
+            },
+            "parentMapName": "JDMKungFu",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMKungFu - ALTERNATE01"
+        },
+        "JDMLimbo": {
+            "__class": "OnlineBlock",
+            "artist": "JDMLimbo Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/pc/JDMLimbo_Cover_Generic.tga.ckd/ff8ffe96ae317f70b9f5215da2b5239b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/pc/JDMLimbo_Cover_Online.tga.ckd/a99da58746a98986ca9dc81348112026.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/ps4/JDMLimbo_Cover_Generic.tga.ckd/ff8ffe96ae317f70b9f5215da2b5239b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/ps4/JDMLimbo_Cover_Online.tga.ckd/a99da58746a98986ca9dc81348112026.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/wiiu/JDMLimbo_Cover_Generic.tga.ckd/7c89d56afd699055b261958e038593a7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/wiiu/JDMLimbo_Cover_Online.tga.ckd/58b7cd4fd5567a2b268208a5cad5b4aa.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/x1/JDMLimbo_Cover_Generic.tga.ckd/ff8ffe96ae317f70b9f5215da2b5239b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimbo/x1/JDMLimbo_Cover_Online.tga.ckd/a99da58746a98986ca9dc81348112026.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.695999999999998,
+            "mapName": "JDMLimbo",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMLimbo_mapContent"
+            },
+            "parentMapName": "JDMLimbo",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMLimbo"
+        },
+        "JDMLimboBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMLimbo Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/pc/JDMLimboBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/pc/JDMLimboBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/ps4/JDMLimboBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/ps4/JDMLimboBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/wiiu/JDMLimboBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/wiiu/JDMLimboBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/x1/JDMLimboBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMLimboBS/x1/JDMLimboBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDMBS"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 34.756,
+            "mapName": "JDMLimboBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMLimboBS_mapContent"
+            },
+            "parentMapName": "JDMLimboBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMLimbo - BONUS STAGE"
+        },
+        "JDMMaestro": {
+            "__class": "OnlineBlock",
+            "artist": "JDMMaestro Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/pc/JDMMaestro_Cover_Generic.tga.ckd/ceb74c0b6235786c6c10c4bc603ea2d0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/pc/JDMMaestro_Cover_Online.tga.ckd/4c56013e3f48744560f71f5ece6f63a2.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/ps4/JDMMaestro_Cover_Generic.tga.ckd/ceb74c0b6235786c6c10c4bc603ea2d0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/ps4/JDMMaestro_Cover_Online.tga.ckd/4c56013e3f48744560f71f5ece6f63a2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/wiiu/JDMMaestro_Cover_Generic.tga.ckd/679baf917ef0b0785e58b1a0dd88ad5f.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/wiiu/JDMMaestro_Cover_Online.tga.ckd/250e018aa392abb3d8fb1b65151cf13e.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/x1/JDMMaestro_Cover_Generic.tga.ckd/ceb74c0b6235786c6c10c4bc603ea2d0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMaestro/x1/JDMMaestro_Cover_Online.tga.ckd/4c56013e3f48744560f71f5ece6f63a2.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.616999999999997,
+            "mapName": "JDMMaestro",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMMaestro_mapContent"
+            },
+            "parentMapName": "JDMMaestro",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMMaestro"
+        },
+        "JDMMagicMike": {
+            "__class": "OnlineBlock",
+            "artist": "JDMMagicMike Artist",
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.968,
+            "mapName": "JDMMagicMike",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "parentMapName": "JDMMagicMike",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMMagicMike"
+        },
+        "JDMMetalGuitar": {
+            "__class": "OnlineBlock",
+            "artist": "JDMMetalGuitar Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/pc/JDMMetalGuitar_Cover_Generic.tga.ckd/d5a110de80f9a7c95909426bee62ba4d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/pc/JDMMetalGuitar_Cover_Online.tga.ckd/312ad43de78a59d2ef8e326728e86e90.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/ps4/JDMMetalGuitar_Cover_Generic.tga.ckd/d5a110de80f9a7c95909426bee62ba4d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/ps4/JDMMetalGuitar_Cover_Online.tga.ckd/312ad43de78a59d2ef8e326728e86e90.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/wiiu/JDMMetalGuitar_Cover_Generic.tga.ckd/3a6874a450dffbec745a2462db019465.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/wiiu/JDMMetalGuitar_Cover_Online.tga.ckd/4338b1ba66e4612bf62f9ebdad4de51f.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/x1/JDMMetalGuitar_Cover_Generic.tga.ckd/d5a110de80f9a7c95909426bee62ba4d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMMetalGuitar/x1/JDMMetalGuitar_Cover_Online.tga.ckd/312ad43de78a59d2ef8e326728e86e90.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 21.686999999999998,
+            "mapName": "JDMMetalGuitar",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMMetalGuitar_mapContent"
+            },
+            "parentMapName": "JDMMetalGuitar",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMMetalGuitar"
+        },
+        "JDMOrientalDance": {
+            "__class": "OnlineBlock",
+            "artist": "JDMOrientalDance Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/nx/JDMOrientalDance_Cover_Generic.tga.ckd/06261c37072379fbbad67e9fee35d6e9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/nx/JDMOrientalDance_Cover_Online.tga.ckd/8ed77e10f4cbe7edf12ab52324f4e8a5.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/pc/JDMOrientalDance_Cover_Generic.tga.ckd/83d05ee685a035233d1dba79e4cba0f6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/pc/JDMOrientalDance_Cover_Online.tga.ckd/40930347856f86935af28df876be0436.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/ps4/JDMOrientalDance_Cover_Generic.tga.ckd/83d05ee685a035233d1dba79e4cba0f6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/ps4/JDMOrientalDance_Cover_Online.tga.ckd/40930347856f86935af28df876be0436.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/wiiu/JDMOrientalDance_Cover_Generic.tga.ckd/1e7fb03968413ba165abc3ba16b1cafe.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/wiiu/JDMOrientalDance_Cover_Online.tga.ckd/00afb99df1c0b13b6c6561962391384a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/x1/JDMOrientalDance_Cover_Generic.tga.ckd/83d05ee685a035233d1dba79e4cba0f6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMOrientalDance/x1/JDMOrientalDance_Cover_Online.tga.ckd/40930347856f86935af28df876be0436.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.645,
+            "mapName": "JDMOrientalDance",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMOrientalDance_mapContent"
+            },
+            "parentMapName": "JDMOrientalDance",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMOrientalDance"
+        },
+        "JDMRapper": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRapper Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/pc/JDMRapper_Cover_Generic.tga.ckd/b46663e3ba14350ed5dd55c1ce752370.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/pc/JDMRapper_Cover_Online.tga.ckd/5ea71f65f354718da1f33fe625742d31.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/ps4/JDMRapper_Cover_Generic.tga.ckd/b46663e3ba14350ed5dd55c1ce752370.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/ps4/JDMRapper_Cover_Online.tga.ckd/5ea71f65f354718da1f33fe625742d31.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/wiiu/JDMRapper_Cover_Generic.tga.ckd/e689deb98dec122e95f4f6e8738747bb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/wiiu/JDMRapper_Cover_Online.tga.ckd/70220261828a649cd9e5459e08f3be7a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/x1/JDMRapper_Cover_Generic.tga.ckd/b46663e3ba14350ed5dd55c1ce752370.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRapper/x1/JDMRapper_Cover_Online.tga.ckd/5ea71f65f354718da1f33fe625742d31.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.691,
+            "mapName": "JDMRapper",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRapper_mapContent"
+            },
+            "parentMapName": "JDMRapper",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMRapper"
+        },
+        "JDMRaveParty": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRaveParty Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/pc/JDMRaveParty_Cover_Generic.tga.ckd/c74d9c93b0e5539a00ce53ad4f1672b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/pc/JDMRaveParty_Cover_Online.tga.ckd/6e57acfbfb9ec5d8f7f958e45139efab.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/ps4/JDMRaveParty_Cover_Generic.tga.ckd/c74d9c93b0e5539a00ce53ad4f1672b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/ps4/JDMRaveParty_Cover_Online.tga.ckd/6e57acfbfb9ec5d8f7f958e45139efab.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/wiiu/JDMRaveParty_Cover_Generic.tga.ckd/9aedb2203bb51407286bbef268d88208.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/wiiu/JDMRaveParty_Cover_Online.tga.ckd/f31877ed1d32f764054efe644fd67831.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/x1/JDMRaveParty_Cover_Generic.tga.ckd/c74d9c93b0e5539a00ce53ad4f1672b3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRaveParty/x1/JDMRaveParty_Cover_Online.tga.ckd/6e57acfbfb9ec5d8f7f958e45139efab.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.4,
+            "mapName": "JDMRaveParty",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRaveParty_mapContent"
+            },
+            "parentMapName": "JDMRaveParty",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMRaveParty"
+        },
+        "JDMRobot": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRobot Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/pc/JDMRobot_Cover_Generic.tga.ckd/f5e4710b321978f2470ed84f96a58b6a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/pc/JDMRobot_Cover_Online.tga.ckd/cf010d8d5fbf7861377f98a43e3cd83b.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/ps4/JDMRobot_Cover_Generic.tga.ckd/f5e4710b321978f2470ed84f96a58b6a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/ps4/JDMRobot_Cover_Online.tga.ckd/cf010d8d5fbf7861377f98a43e3cd83b.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/wiiu/JDMRobot_Cover_Generic.tga.ckd/944893747fc06eaf1f8de8132410f1b7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/wiiu/JDMRobot_Cover_Online.tga.ckd/f48b5373666d3a0e406218fbc34714aa.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/x1/JDMRobot_Cover_Generic.tga.ckd/f5e4710b321978f2470ed84f96a58b6a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRobot/x1/JDMRobot_Cover_Online.tga.ckd/cf010d8d5fbf7861377f98a43e3cd83b.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30,
+            "mapName": "JDMRobot",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRobot_mapContent"
+            },
+            "parentMapName": "JDMRobot",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMRobot"
+        },
+        "JDMRunningMan": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRunningMan Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/pc/JDMRunningMan_Cover_Generic.tga.ckd/1c69acdb9852095e8d7ab9868ac1a807.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/pc/JDMRunningMan_Cover_Online.tga.ckd/4b1bb648af2f8378e990675416da31e2.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/ps4/JDMRunningMan_Cover_Generic.tga.ckd/1c69acdb9852095e8d7ab9868ac1a807.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/ps4/JDMRunningMan_Cover_Online.tga.ckd/4b1bb648af2f8378e990675416da31e2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/wiiu/JDMRunningMan_Cover_Generic.tga.ckd/6b8f387c0c9c429b66206fe786aeb250.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/wiiu/JDMRunningMan_Cover_Online.tga.ckd/8bef1c12d65555417dce71135689d89c.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/x1/JDMRunningMan_Cover_Generic.tga.ckd/1c69acdb9852095e8d7ab9868ac1a807.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningMan/x1/JDMRunningMan_Cover_Online.tga.ckd/4b1bb648af2f8378e990675416da31e2.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.474999999999998,
+            "mapName": "JDMRunningMan",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRunningMan_mapContent"
+            },
+            "parentMapName": "JDMRunningMan",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMRunningMan"
+        },
+        "JDMRunningManBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRunningMan Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/pc/JDMRunningManBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/pc/JDMRunningManBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/ps4/JDMRunningManBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/ps4/JDMRunningManBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/wiiu/JDMRunningManBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/wiiu/JDMRunningManBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/x1/JDMRunningManBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRunningManBS/x1/JDMRunningManBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_BonusStage"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.743,
+            "mapName": "JDMRunningManBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRunningManBS_mapContent"
+            },
+            "parentMapName": "JDMRunningManBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMRunningMan - BONUS STAGE"
+        },
+        "JDMRussian": {
+            "__class": "OnlineBlock",
+            "artist": "JDMRussian Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/pc/JDMRussian_Cover_Generic.tga.ckd/6b42b1e12a1c70292802dea39f38f271.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/pc/JDMRussian_Cover_Online.tga.ckd/2755e85d77f3b2ad1030d6ee05baf269.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/ps4/JDMRussian_Cover_Generic.tga.ckd/6b42b1e12a1c70292802dea39f38f271.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/ps4/JDMRussian_Cover_Online.tga.ckd/2755e85d77f3b2ad1030d6ee05baf269.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/wiiu/JDMRussian_Cover_Generic.tga.ckd/cf3387ec0c8def99cb285ec6006426d3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/wiiu/JDMRussian_Cover_Online.tga.ckd/d032ebd7b443aefa5866227ee95ffe7d.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/x1/JDMRussian_Cover_Generic.tga.ckd/6b42b1e12a1c70292802dea39f38f271.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMRussian/x1/JDMRussian_Cover_Online.tga.ckd/2755e85d77f3b2ad1030d6ee05baf269.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.596999999999998,
+            "mapName": "JDMRussian",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMRussian_mapContent"
+            },
+            "parentMapName": "JDMRussian",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMRussian"
+        },
+        "JDMSaloon": {
+            "__class": "OnlineBlock",
+            "artist": "JDMSaloon Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/pc/JDMSaloon_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/pc/JDMSaloon_Cover_Generic.tga.ckd/23cc671381b23442153170b79e91139a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/pc/JDMSaloon_Cover_Online.tga.ckd/7cfd49c22bb7d2398daf477bc9868b8f.ckd"
+                    },
+                    "ps4": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/ps4/JDMSaloon_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/ps4/JDMSaloon_Cover_Generic.tga.ckd/23cc671381b23442153170b79e91139a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/ps4/JDMSaloon_Cover_Online.tga.ckd/7cfd49c22bb7d2398daf477bc9868b8f.ckd"
+                    },
+                    "wiiu": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/wiiu/JDMSaloon_Coach_1.tga.ckd/7f56ede70da25895353e59a055fb22d3.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/wiiu/JDMSaloon_Cover_Generic.tga.ckd/735a9ae16a1c853dba07fd43daab2078.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/wiiu/JDMSaloon_Cover_Online.tga.ckd/2f9c9169a655f151c934368747e24c39.ckd"
+                    },
+                    "x1": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/x1/JDMSaloon_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/x1/JDMSaloon_Cover_Generic.tga.ckd/23cc671381b23442153170b79e91139a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSaloon/x1/JDMSaloon_Cover_Online.tga.ckd/7cfd49c22bb7d2398daf477bc9868b8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.909,
+            "mapName": "JDMSaloon",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMSaloon_mapContent"
+            },
+            "parentMapName": "JDMSaloon",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMSaloon"
+        },
+        "JDMSirtaki": {
+            "__class": "OnlineBlock",
+            "artist": "JDMSirtaki Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Cover_Generic.tga.ckd/13e1b00254df9838f3ccd6b715fe0ae9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/pc/JDMSirtaki_Cover_Online.tga.ckd/0a4cdb9b9b800a9427eecc3c80d12349.ckd"
+                    },
+                    "ps4": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/ps4/JDMSirtaki_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/ps4/JDMSirtaki_Cover_Generic.tga.ckd/13e1b00254df9838f3ccd6b715fe0ae9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/ps4/JDMSirtaki_Cover_Online.tga.ckd/0a4cdb9b9b800a9427eecc3c80d12349.ckd"
+                    },
+                    "wiiu": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/wiiu/JDMSirtaki_Coach_1.tga.ckd/7f56ede70da25895353e59a055fb22d3.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/wiiu/JDMSirtaki_Cover_Generic.tga.ckd/034b6597e3d7de4b3637c1e9d63ccb55.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/wiiu/JDMSirtaki_Cover_Online.tga.ckd/f9106498f4b1a8d3653300a1010bf5ee.ckd"
+                    },
+                    "x1": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/x1/JDMSirtaki_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/x1/JDMSirtaki_Cover_Generic.tga.ckd/13e1b00254df9838f3ccd6b715fe0ae9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMSirtaki/x1/JDMSirtaki_Cover_Online.tga.ckd/0a4cdb9b9b800a9427eecc3c80d12349.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.215999999999998,
+            "mapName": "JDMSirtaki",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMSirtaki_mapContent"
+            },
+            "parentMapName": "JDMSirtaki",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMSirtaki"
+        },
+        "JDMStripteaseBurlesque": {
+            "__class": "OnlineBlock",
+            "artist": "JDMStripteaseBurlesque Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/nx/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/ea99c3f12f78cc881679dae56ec9871b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/nx/JDMStripteaseBurlesque_Cover_Online.tga.ckd/0c84c0fc2704d6d3892cdb7c9d482590.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/pc/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/fd351fb19cc09d760ce940d417b21ccb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/pc/JDMStripteaseBurlesque_Cover_Online.tga.ckd/8898f327a85c3422214ee21cc83161b2.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/ps4/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/fd351fb19cc09d760ce940d417b21ccb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/ps4/JDMStripteaseBurlesque_Cover_Online.tga.ckd/8898f327a85c3422214ee21cc83161b2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/wiiu/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/8740f55e0990d9923dce138702978e91.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/wiiu/JDMStripteaseBurlesque_Cover_Online.tga.ckd/d4e9058dd0d0de51f583543a082cc9f9.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/x1/JDMStripteaseBurlesque_Cover_Generic.tga.ckd/fd351fb19cc09d760ce940d417b21ccb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMStripteaseBurlesque/x1/JDMStripteaseBurlesque_Cover_Online.tga.ckd/8898f327a85c3422214ee21cc83161b2.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 27.884999999999998,
+            "mapName": "JDMStripteaseBurlesque",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMStripteaseBurlesque_mapContent"
+            },
+            "parentMapName": "JDMStripteaseBurlesque",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMStripteaseBurlesque"
+        },
+        "JDMTectonic": {
+            "__class": "OnlineBlock",
+            "artist": "JDMTectonic Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/nx/JDMTectonic_Cover_Generic.tga.ckd/5cdff3a1fbd130f9d4c68f868f77b4ac.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/nx/JDMTectonic_Cover_Online.tga.ckd/bde913a0717c06a5b1bc3c6689213291.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/pc/JDMTectonic_Cover_Generic.tga.ckd/88af20288f83e7bc9b67c84d4a338c98.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/pc/JDMTectonic_Cover_Online.tga.ckd/ddaf07b91c2fbf38b8a2fc47aee7251f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/ps4/JDMTectonic_Cover_Generic.tga.ckd/88af20288f83e7bc9b67c84d4a338c98.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/ps4/JDMTectonic_Cover_Online.tga.ckd/ddaf07b91c2fbf38b8a2fc47aee7251f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/wiiu/JDMTectonic_Cover_Generic.tga.ckd/cf2ad7d17729bd280b59e972dba808fd.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/wiiu/JDMTectonic_Cover_Online.tga.ckd/77b925e9a08f0391e8a46e9caaf585ae.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/x1/JDMTectonic_Cover_Generic.tga.ckd/88af20288f83e7bc9b67c84d4a338c98.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTectonic/x1/JDMTectonic_Cover_Online.tga.ckd/ddaf07b91c2fbf38b8a2fc47aee7251f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.346,
+            "mapName": "JDMTectonic",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMTectonic_mapContent"
+            },
+            "parentMapName": "JDMTectonic",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMTectonic"
+        },
+        "JDMTwerk": {
+            "__class": "OnlineBlock",
+            "artist": "JDMTwerk Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Cover_Generic.tga.ckd/b2b8ab4d1d3c67b8052f57cd0276b838.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/pc/JDMTwerk_Cover_Online.tga.ckd/31b274b02dd6c8546733002c2d86142e.ckd"
+                    },
+                    "ps4": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/ps4/JDMTwerk_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/ps4/JDMTwerk_Cover_Generic.tga.ckd/b2b8ab4d1d3c67b8052f57cd0276b838.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/ps4/JDMTwerk_Cover_Online.tga.ckd/31b274b02dd6c8546733002c2d86142e.ckd"
+                    },
+                    "wiiu": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/wiiu/JDMTwerk_Coach_1.tga.ckd/7f56ede70da25895353e59a055fb22d3.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/wiiu/JDMTwerk_Cover_Generic.tga.ckd/ef41c72c3bdeb417135c9cc7327aac53.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/wiiu/JDMTwerk_Cover_Online.tga.ckd/8146956c70e9885bfb1410d31a75a58a.ckd"
+                    },
+                    "x1": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/x1/JDMTwerk_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/x1/JDMTwerk_Cover_Generic.tga.ckd/b2b8ab4d1d3c67b8052f57cd0276b838.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerk/x1/JDMTwerk_Cover_Online.tga.ckd/31b274b02dd6c8546733002c2d86142e.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.544999999999998,
+            "mapName": "JDMTwerk",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMTwerk_mapContent"
+            },
+            "parentMapName": "JDMTwerk",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMTwerk"
+        },
+        "JDMTwerkBS": {
+            "__class": "OnlineBlock",
+            "artist": "JDMTwerk Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/pc/JDMTwerkBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/pc/JDMTwerkBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/ps4/JDMTwerkBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/ps4/JDMTwerkBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/wiiu/JDMTwerkBS_Cover_Generic.tga.ckd/895381bb32b75aed0917b5f21fe27eea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/wiiu/JDMTwerkBS_Cover_Online.tga.ckd/0b9f55995973d681c3bef720148004f8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/x1/JDMTwerkBS_Cover_Generic.tga.ckd/f939c7ef5251a63f54ca25f1cfb982f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMTwerkBS/x1/JDMTwerkBS_Cover_Online.tga.ckd/ae76a9f73798333d13c5e0a3f0a42a8f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_BonusStage"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.285,
+            "mapName": "JDMTwerkBS",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMTwerkBS_mapContent"
+            },
+            "parentMapName": "JDMTwerkBS",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "JDMBS"
+            ],
+            "title": "JDMTwerk - BONUS STAGE"
+        },
+        "JDMUAirHostess": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/nx/JDMUAirHostess_Cover_Generic.tga.ckd/147f35f8fec6d9715e292ebe7c027ad6.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/nx/JDMUAirHostess_Cover_Online.tga.ckd/2c31fdcc89c564a310247735f1eb2df3.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/pc/JDMUAirHostess_Cover_Generic.tga.ckd/f61ea694e72a2e430acdf9fa6f1cffc8.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/pc/JDMUAirHostess_Cover_Online.tga.ckd/1b1cec19286f1062a8df95f513131fe4.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/ps4/JDMUAirHostess_Cover_Generic.tga.ckd/f61ea694e72a2e430acdf9fa6f1cffc8.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/ps4/JDMUAirHostess_Cover_Online.tga.ckd/cecc93b5eed5496905880c6133595ef7.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/wiiu/JDMUAirHostess_Cover_Generic.tga.ckd/269251706ef2426b372c2307de1cdb55.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/wiiu/JDMUAirHostess_Cover_Online.tga.ckd/9ecbede8db5ffd8240cedcb6b9aee3ae.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/x1/JDMUAirHostess_Cover_Generic.tga.ckd/f61ea694e72a2e430acdf9fa6f1cffc8.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUAirHostess/x1/JDMUAirHostess_Cover_Online.tga.ckd/cecc93b5eed5496905880c6133595ef7.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.141,
+            "mapName": "JDMUAirHostess",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUAirHostess_mapContent"
+            },
+            "parentMapName": "JDMUAirHostess",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUBaroque": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/nx/JDMUBaroque_Cover_Generic.tga.ckd/ea2c876f2e1029bb05a0578844aa2c17.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/nx/JDMUBaroque_Cover_Online.tga.ckd/02d9dfed337555901ebc9fa382ce49e9.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/pc/JDMUBaroque_Cover_Generic.tga.ckd/5daf8fc8edf609cffd20ca95eefadf33.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/pc/JDMUBaroque_Cover_Online.tga.ckd/4a5cd886a3ce7d77e36f6863090981be.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/ps4/JDMUBaroque_Cover_Generic.tga.ckd/5daf8fc8edf609cffd20ca95eefadf33.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/ps4/JDMUBaroque_Cover_Online.tga.ckd/6130e7861eb6731790c2a9657f8ba585.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/wiiu/JDMUBaroque_Cover_Generic.tga.ckd/969acb30e04d1e9783bf53cd37fe3f76.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/wiiu/JDMUBaroque_Cover_Online.tga.ckd/b3bad9d4d450caef6980d5b5888da922.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/x1/JDMUBaroque_Cover_Generic.tga.ckd/5daf8fc8edf609cffd20ca95eefadf33.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBaroque/x1/JDMUBaroque_Cover_Online.tga.ckd/6130e7861eb6731790c2a9657f8ba585.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 27.945,
+            "mapName": "JDMUBaroque",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUBaroque_mapContent"
+            },
+            "parentMapName": "JDMUBaroque",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUBathroomSinger": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/nx/JDMUBathroomSinger_Cover_Generic.tga.ckd/a056f2debae8a9e33b49ec1adcdb226a.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/nx/JDMUBathroomSinger_Cover_Online.tga.ckd/edb49e2eb53c01ca90e77a0f2754a3e5.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/pc/JDMUBathroomSinger_Cover_Generic.tga.ckd/f6abc8f865ebab1db2809461e32ae26c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/pc/JDMUBathroomSinger_Cover_Online.tga.ckd/13cd7472d3825514206edeb3bde04d76.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/ps4/JDMUBathroomSinger_Cover_Generic.tga.ckd/f6abc8f865ebab1db2809461e32ae26c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/ps4/JDMUBathroomSinger_Cover_Online.tga.ckd/e4808d9197c8cba5d3a7d7f924b07bf8.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/wiiu/JDMUBathroomSinger_Cover_Generic.tga.ckd/890d113eb05ad6fd90caf69595e6a75c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/wiiu/JDMUBathroomSinger_Cover_Online.tga.ckd/0e24bfe36f2cab5d0647789fc60dedee.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/x1/JDMUBathroomSinger_Cover_Generic.tga.ckd/f6abc8f865ebab1db2809461e32ae26c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBathroomSinger/x1/JDMUBathroomSinger_Cover_Online.tga.ckd/e4808d9197c8cba5d3a7d7f924b07bf8.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.459,
+            "mapName": "JDMUBathroomSinger",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUBathroomSinger_mapContent"
+            },
+            "parentMapName": "JDMUBathroomSinger",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUBoxer": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/nx/JDMUBoxer_Cover_Generic.tga.ckd/a670d5a1e15109d593fe2cbeb06dddeb.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/nx/JDMUBoxer_Cover_Online.tga.ckd/474a31f5d28cc21c044350281563fb50.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/pc/JDMUBoxer_Cover_Generic.tga.ckd/1a674ac448c9f19b9c159f4152ea47b7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/pc/JDMUBoxer_Cover_Online.tga.ckd/9e884dbd632acccfcb6961359329754a.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/ps4/JDMUBoxer_Cover_Generic.tga.ckd/1a674ac448c9f19b9c159f4152ea47b7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/ps4/JDMUBoxer_Cover_Online.tga.ckd/65c2060e0d314434b6a35865c4522fe8.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/wiiu/JDMUBoxer_Cover_Generic.tga.ckd/b0f447635f53659a36ce2aa5d2d7c55e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/wiiu/JDMUBoxer_Cover_Online.tga.ckd/fde2eab9203f41b47c2bb8358ccd6d93.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/x1/JDMUBoxer_Cover_Generic.tga.ckd/1a674ac448c9f19b9c159f4152ea47b7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUBoxer/x1/JDMUBoxer_Cover_Online.tga.ckd/65c2060e0d314434b6a35865c4522fe8.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.403,
+            "mapName": "JDMUBoxer",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUBoxer_mapContent"
+            },
+            "parentMapName": "JDMUBoxer",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUChef": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/nx/JDMUChef_Cover_Generic.tga.ckd/88deae12d0b27b6088fd1f77fe5064df.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/nx/JDMUChef_Cover_Online.tga.ckd/659b34af34181b3a944198b677fe5724.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/pc/JDMUChef_Cover_Generic.tga.ckd/d01d8f6fbaae0b5d0e0139ea6cec8025.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/pc/JDMUChef_Cover_Online.tga.ckd/1108373dc99fccd174f2be46a1baf933.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/ps4/JDMUChef_Cover_Generic.tga.ckd/d01d8f6fbaae0b5d0e0139ea6cec8025.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/ps4/JDMUChef_Cover_Online.tga.ckd/fdd8b47a717662bf7e34e548fc798f25.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/wiiu/JDMUChef_Cover_Generic.tga.ckd/7be141022da15be63cee9769df56d63c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/wiiu/JDMUChef_Cover_Online.tga.ckd/fb1a805f53c0e2b0924ab5c4a032e1ca.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/x1/JDMUChef_Cover_Generic.tga.ckd/d01d8f6fbaae0b5d0e0139ea6cec8025.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUChef/x1/JDMUChef_Cover_Online.tga.ckd/fdd8b47a717662bf7e34e548fc798f25.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.127,
+            "mapName": "JDMUChef",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUChef_mapContent"
+            },
+            "parentMapName": "JDMUChef",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUCrab": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/nx/JDMUCrab_Cover_Generic.tga.ckd/75457d202c3963f874a14bb0ad4b8774.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/nx/JDMUCrab_Cover_Online.tga.ckd/5f7de457bb58038c690b9a9aff0307df.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/pc/JDMUCrab_Cover_Generic.tga.ckd/f0bfad51e2b708beef06896de17b1d95.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/pc/JDMUCrab_Cover_Online.tga.ckd/e369921fade7bc3ef795c81ef74ba43a.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/ps4/JDMUCrab_Cover_Generic.tga.ckd/f0bfad51e2b708beef06896de17b1d95.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/ps4/JDMUCrab_Cover_Online.tga.ckd/9e2622e5439f3ccdead60913f0624e0f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/wiiu/JDMUCrab_Cover_Generic.tga.ckd/76a1d2fc029d25c8a2e13bbe9a2a9ca9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/wiiu/JDMUCrab_Cover_Online.tga.ckd/6d0fcdd22760f39977d2c92ba1b244a1.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/x1/JDMUCrab_Cover_Generic.tga.ckd/f0bfad51e2b708beef06896de17b1d95.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrab/x1/JDMUCrab_Cover_Online.tga.ckd/9e2622e5439f3ccdead60913f0624e0f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.198,
+            "mapName": "JDMUCrab",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUCrab_mapContent"
+            },
+            "parentMapName": "JDMUCrab",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUCrazyBallerina": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/nx/JDMUCrazyBallerina_Cover_Generic.tga.ckd/c362c42d3d0cc8d8950ecb6f6753adea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/nx/JDMUCrazyBallerina_Cover_Online.tga.ckd/4602f767b7e51819b4703af765c1ba14.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/pc/JDMUCrazyBallerina_Cover_Generic.tga.ckd/1779ac6e7caef88920f99eca2363eaf2.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/pc/JDMUCrazyBallerina_Cover_Online.tga.ckd/8cb0162eb2b334caa0d5642ab0f6bcaa.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/ps4/JDMUCrazyBallerina_Cover_Generic.tga.ckd/1779ac6e7caef88920f99eca2363eaf2.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/ps4/JDMUCrazyBallerina_Cover_Online.tga.ckd/3a1208b7df61175ef20b7ba7565a547f.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/wiiu/JDMUCrazyBallerina_Cover_Generic.tga.ckd/30260f810127bf59b598fe4741f32a5c.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/wiiu/JDMUCrazyBallerina_Cover_Online.tga.ckd/015cb1c6264721aa129c4aa2e71a772a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/x1/JDMUCrazyBallerina_Cover_Generic.tga.ckd/1779ac6e7caef88920f99eca2363eaf2.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUCrazyBallerina/x1/JDMUCrazyBallerina_Cover_Online.tga.ckd/3a1208b7df61175ef20b7ba7565a547f.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.663,
+            "mapName": "JDMUCrazyBallerina",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUCrazyBallerina_mapContent"
+            },
+            "parentMapName": "JDMUCrazyBallerina",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUGeisha": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/nx/JDMUGeisha_Cover_Generic.tga.ckd/85624119c3cd57f54cd4578d342b34a1.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/nx/JDMUGeisha_Cover_Online.tga.ckd/fa5fd4decb7ce7838dc859a3f3c0c92b.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/pc/JDMUGeisha_Cover_Generic.tga.ckd/1d563e8c93982d007350a7e7c5ac1b53.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/pc/JDMUGeisha_Cover_Online.tga.ckd/6b9aaa8dc78f9249ca758382e0f6c868.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/ps4/JDMUGeisha_Cover_Generic.tga.ckd/1d563e8c93982d007350a7e7c5ac1b53.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/ps4/JDMUGeisha_Cover_Online.tga.ckd/c81d29ba9488e59465217c59c3736f84.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/wiiu/JDMUGeisha_Cover_Generic.tga.ckd/3d7e15c69169625f1ca36105213e78b0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/wiiu/JDMUGeisha_Cover_Online.tga.ckd/4a3a8ceaf1e6cfcdd3b611b57c96b5b8.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/x1/JDMUGeisha_Cover_Generic.tga.ckd/1d563e8c93982d007350a7e7c5ac1b53.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGeisha/x1/JDMUGeisha_Cover_Online.tga.ckd/c81d29ba9488e59465217c59c3736f84.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 27.383,
+            "mapName": "JDMUGeisha",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUGeisha_mapContent"
+            },
+            "parentMapName": "JDMUGeisha",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUGlassCleaner": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/nx/JDMUGlassCleaner_Cover_Generic.tga.ckd/4a0f85deb49b85c43d2cb1c64d67029e.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/nx/JDMUGlassCleaner_Cover_Online.tga.ckd/500c0da089cbb4bcedbb0b970353d799.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/pc/JDMUGlassCleaner_Cover_Generic.tga.ckd/c3f024be8181550e55787ef20f044be1.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/pc/JDMUGlassCleaner_Cover_Online.tga.ckd/3150bd39def6902aa284929a9eb7c926.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/ps4/JDMUGlassCleaner_Cover_Generic.tga.ckd/c3f024be8181550e55787ef20f044be1.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/ps4/JDMUGlassCleaner_Cover_Online.tga.ckd/26001643416aa32bb657cfa90858fb18.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/wiiu/JDMUGlassCleaner_Cover_Generic.tga.ckd/34d2ba66904a390aa98d16135f307e3b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/wiiu/JDMUGlassCleaner_Cover_Online.tga.ckd/f8acd37600aa595ad8a7b15cb28d34f6.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/x1/JDMUGlassCleaner_Cover_Generic.tga.ckd/c3f024be8181550e55787ef20f044be1.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUGlassCleaner/x1/JDMUGlassCleaner_Cover_Online.tga.ckd/26001643416aa32bb657cfa90858fb18.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 26.71,
+            "mapName": "JDMUGlassCleaner",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUGlassCleaner_mapContent"
+            },
+            "parentMapName": "JDMUGlassCleaner",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUHurdle": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/nx/JDMUHurdle_Cover_Generic.tga.ckd/fb745df2a6d47f07b8ab56746b404b77.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/nx/JDMUHurdle_Cover_Online.tga.ckd/1daff5e1c86a8d24296ddadaeaa2b1c2.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/pc/JDMUHurdle_Cover_Generic.tga.ckd/822ac6b7dc7cf63f801d15f93dca05f3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/pc/JDMUHurdle_Cover_Online.tga.ckd/459c8cc4a9d2b271be48ea9bcb94a058.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/ps4/JDMUHurdle_Cover_Generic.tga.ckd/822ac6b7dc7cf63f801d15f93dca05f3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/ps4/JDMUHurdle_Cover_Online.tga.ckd/b9eebafac835a921c1b13e03e60866a3.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/wiiu/JDMUHurdle_Cover_Generic.tga.ckd/533cb104db198442ec638fe78640846b.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/wiiu/JDMUHurdle_Cover_Online.tga.ckd/a31eb80e143106228607c886c8180fae.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/x1/JDMUHurdle_Cover_Generic.tga.ckd/822ac6b7dc7cf63f801d15f93dca05f3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUHurdle/x1/JDMUHurdle_Cover_Online.tga.ckd/b9eebafac835a921c1b13e03e60866a3.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.831,
+            "mapName": "JDMUHurdle",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUHurdle_mapContent"
+            },
+            "parentMapName": "JDMUHurdle",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUPirate": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/nx/JDMUPirate_Cover_Generic.tga.ckd/635bdf5399667abdb79dac205670ddef.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/nx/JDMUPirate_Cover_Online.tga.ckd/b9e1437dd9da25d91186f1a26f33a0dd.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/pc/JDMUPirate_Cover_Generic.tga.ckd/479abc4ee32f376dccd9b00dc0080566.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/pc/JDMUPirate_Cover_Online.tga.ckd/f594e07dd5e5a54b86b861f361272760.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/ps4/JDMUPirate_Cover_Generic.tga.ckd/479abc4ee32f376dccd9b00dc0080566.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/ps4/JDMUPirate_Cover_Online.tga.ckd/ccc898b78c4532a6aac86561b7eefe82.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/wiiu/JDMUPirate_Cover_Generic.tga.ckd/49fecb5af716e63f96f9a24b590270ab.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/wiiu/JDMUPirate_Cover_Online.tga.ckd/f494f7e1e7794053943d311b983e5eb5.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/x1/JDMUPirate_Cover_Generic.tga.ckd/479abc4ee32f376dccd9b00dc0080566.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUPirate/x1/JDMUPirate_Cover_Online.tga.ckd/ccc898b78c4532a6aac86561b7eefe82.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 23.837,
+            "mapName": "JDMUPirate",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUPirate_mapContent"
+            },
+            "parentMapName": "JDMUPirate",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUSecretaryTypewriter": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/nx/JDMUSecretaryTypewriter_Cover_Generic.tga.ckd/30813218d76b0d553f1a37a63d346db7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/nx/JDMUSecretaryTypewriter_Cover_Online.tga.ckd/0be1060cd06ce8bc23c6831b75460fef.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/pc/JDMUSecretaryTypewriter_Cover_Generic.tga.ckd/d6a2349882b2d567d2855ed52df12e76.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/pc/JDMUSecretaryTypewriter_Cover_Online.tga.ckd/5e538d0452cf6800c0dccfa38374ee49.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/ps4/JDMUSecretaryTypewriter_Cover_Generic.tga.ckd/d6a2349882b2d567d2855ed52df12e76.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/ps4/JDMUSecretaryTypewriter_Cover_Online.tga.ckd/fc0f252d922c06e3a874b6ca0e05fd18.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/wiiu/JDMUSecretaryTypewriter_Cover_Generic.tga.ckd/97315f434c4697c753c7ecbec70b6519.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/wiiu/JDMUSecretaryTypewriter_Cover_Online.tga.ckd/2d4b0304881c39d77e379b72c60c3e65.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/x1/JDMUSecretaryTypewriter_Cover_Generic.tga.ckd/d6a2349882b2d567d2855ed52df12e76.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSecretaryTypewriter/x1/JDMUSecretaryTypewriter_Cover_Online.tga.ckd/fc0f252d922c06e3a874b6ca0e05fd18.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 30.649,
+            "mapName": "JDMUSecretaryTypewriter",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUSecretaryTypewriter_mapContent"
+            },
+            "parentMapName": "JDMUSecretaryTypewriter",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUSuperHero": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/nx/JDMUSuperHero_Cover_Generic.tga.ckd/79986d7e9bce2507f392a62edd770591.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/nx/JDMUSuperHero_Cover_Online.tga.ckd/a30e1079c18d629b138f90f193969eef.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/pc/JDMUSuperHero_Cover_Generic.tga.ckd/a7de1a01a299317a63accd2da13679ee.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/pc/JDMUSuperHero_Cover_Online.tga.ckd/9143447fcdc9c896983437a5fadb6c25.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/ps4/JDMUSuperHero_Cover_Generic.tga.ckd/a7de1a01a299317a63accd2da13679ee.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/ps4/JDMUSuperHero_Cover_Online.tga.ckd/ea4d8ef1ea481c2fe4cf0e03ee6433e2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/wiiu/JDMUSuperHero_Cover_Generic.tga.ckd/68f378abe6766365d6b24abf720f1d41.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/wiiu/JDMUSuperHero_Cover_Online.tga.ckd/5ad47f2b2fdf7a611553152726ff463a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/x1/JDMUSuperHero_Cover_Generic.tga.ckd/a7de1a01a299317a63accd2da13679ee.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSuperHero/x1/JDMUSuperHero_Cover_Online.tga.ckd/ea4d8ef1ea481c2fe4cf0e03ee6433e2.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Cool"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 28.688,
+            "mapName": "JDMUSuperHero",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUSuperHero_mapContent"
+            },
+            "parentMapName": "JDMUSuperHero",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUSupporter": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/nx/JDMUSupporter_Cover_Generic.tga.ckd/2be6cba400ed6bf74799c89c4afc6d54.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/nx/JDMUSupporter_Cover_Online.tga.ckd/c96c1c888cd4b909fe9ae1d4feab6f62.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/pc/JDMUSupporter_Cover_Generic.tga.ckd/122d3d2e927e9355831c07306a70e37d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/pc/JDMUSupporter_Cover_Online.tga.ckd/3e569c431f645c3890567fc315f3f174.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/ps4/JDMUSupporter_Cover_Generic.tga.ckd/122d3d2e927e9355831c07306a70e37d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/ps4/JDMUSupporter_Cover_Online.tga.ckd/2282ac324d2e62466ca7484c14604ef0.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/wiiu/JDMUSupporter_Cover_Generic.tga.ckd/cd8f5e40d45f281b922caf573f9ac7f9.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/wiiu/JDMUSupporter_Cover_Online.tga.ckd/b84377a8b88c9377d1d7f5f5dc9a0ea5.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/x1/JDMUSupporter_Cover_Generic.tga.ckd/122d3d2e927e9355831c07306a70e37d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUSupporter/x1/JDMUSupporter_Cover_Online.tga.ckd/2282ac324d2e62466ca7484c14604ef0.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 26.751,
+            "mapName": "JDMUSupporter",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUSupporter_mapContent"
+            },
+            "parentMapName": "JDMUSupporter",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUTapDance": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/nx/JDMUTapDance_Cover_Generic.tga.ckd/e1039d804a4889b0ba0aca4d061d253d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/nx/JDMUTapDance_Cover_Online.tga.ckd/11a75d6af3ec3ea0578ce5c8a7f1a821.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/pc/JDMUTapDance_Cover_Generic.tga.ckd/487c5fd750ba130fd43cc94d51c24c89.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/pc/JDMUTapDance_Cover_Online.tga.ckd/e0578fdb18526dec01d959e3a1d272f7.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/ps4/JDMUTapDance_Cover_Generic.tga.ckd/487c5fd750ba130fd43cc94d51c24c89.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/ps4/JDMUTapDance_Cover_Online.tga.ckd/bae52962818e32848fdfa003638fe999.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/wiiu/JDMUTapDance_Cover_Generic.tga.ckd/14a02eb2b176918de973a2e6584aa923.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/wiiu/JDMUTapDance_Cover_Online.tga.ckd/4af46adf08ee4ca6d5e1d5ce205238b3.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/x1/JDMUTapDance_Cover_Generic.tga.ckd/487c5fd750ba130fd43cc94d51c24c89.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUTapDance/x1/JDMUTapDance_Cover_Online.tga.ckd/bae52962818e32848fdfa003638fe999.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Speed"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 27.229,
+            "mapName": "JDMUTapDance",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUTapDance_mapContent"
+            },
+            "parentMapName": "JDMUTapDance",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUWizard": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/nx/JDMUWizard_Cover_Generic.tga.ckd/fadbe6d257cc7aa165be93c75979ad13.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/nx/JDMUWizard_Cover_Online.tga.ckd/73664872580283e71ba4a90ebfae5449.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/pc/JDMUWizard_Cover_Generic.tga.ckd/3a5f906018e4f8a8adfb64ec3b20258d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/pc/JDMUWizard_Cover_Online.tga.ckd/b4fc0b47df1c585b294cfe6e782f25c9.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/ps4/JDMUWizard_Cover_Generic.tga.ckd/3a5f906018e4f8a8adfb64ec3b20258d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/ps4/JDMUWizard_Cover_Online.tga.ckd/5a821111e5cf63814d623dec0cc726c6.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/wiiu/JDMUWizard_Cover_Generic.tga.ckd/4b951d50c388b2196f10d75fb18617a7.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/wiiu/JDMUWizard_Cover_Online.tga.ckd/20259104c88c28d4e6d352d203046f7c.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/x1/JDMUWizard_Cover_Generic.tga.ckd/3a5f906018e4f8a8adfb64ec3b20258d.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUWizard/x1/JDMUWizard_Cover_Online.tga.ckd/5a821111e5cf63814d623dec0cc726c6.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 27.131,
+            "mapName": "JDMUWizard",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUWizard_mapContent"
+            },
+            "parentMapName": "JDMUWizard",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUZombie": {
+            "__class": "OnlineBlock",
+            "artist": "",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/nx/JDMUZombie_Cover_Generic.tga.ckd/698f435f05be90c4ece666799c32e2ba.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/nx/JDMUZombie_Cover_Online.tga.ckd/9ca82ac143177af7b323d04537eccd15.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/pc/JDMUZombie_Cover_Generic.tga.ckd/2db6e5dffefc5c2f41d596f06d1feeea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/pc/JDMUZombie_Cover_Online.tga.ckd/79d56bb3a7e60f0c70e4e22d4a05b44a.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/ps4/JDMUZombie_Cover_Generic.tga.ckd/2db6e5dffefc5c2f41d596f06d1feeea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/ps4/JDMUZombie_Cover_Online.tga.ckd/3f55362a8022cd504cd129552e80725b.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/wiiu/JDMUZombie_Cover_Generic.tga.ckd/08fff491f55db71b0bf37c4989092975.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/wiiu/JDMUZombie_Cover_Online.tga.ckd/8167642cf78ca6551630fe75c2779e0a.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/x1/JDMUZombie_Cover_Generic.tga.ckd/2db6e5dffefc5c2f41d596f06d1feeea.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUZombie/x1/JDMUZombie_Cover_Online.tga.ckd/3f55362a8022cd504cd129552e80725b.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 26.207,
+            "mapName": "JDMUZombie",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUZombie_mapContent"
+            },
+            "parentMapName": "JDMUZombie",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": ""
+        },
+        "JDMUnderwater": {
+            "__class": "OnlineBlock",
+            "artist": "JDMUnderwater Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/pc/JDMUnderwater_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/pc/JDMUnderwater_Cover_Generic.tga.ckd/0de62706f6a84ce83263f9048664d878.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/pc/JDMUnderwater_Cover_Online.tga.ckd/1bba54d9bdd755f970c0c2008f970e32.ckd"
+                    },
+                    "ps4": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/ps4/JDMUnderwater_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/ps4/JDMUnderwater_Cover_Generic.tga.ckd/0de62706f6a84ce83263f9048664d878.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/ps4/JDMUnderwater_Cover_Online.tga.ckd/1bba54d9bdd755f970c0c2008f970e32.ckd"
+                    },
+                    "wiiu": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/wiiu/JDMUnderwater_Coach_1.tga.ckd/7f56ede70da25895353e59a055fb22d3.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/wiiu/JDMUnderwater_Cover_Generic.tga.ckd/b0ddaca6568876e07ef1ddaaadb6d450.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/wiiu/JDMUnderwater_Cover_Online.tga.ckd/329656b9289c19db21d0707255ae253b.ckd"
+                    },
+                    "x1": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/x1/JDMUnderwater_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/x1/JDMUnderwater_Cover_Generic.tga.ckd/0de62706f6a84ce83263f9048664d878.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMUnderwater/x1/JDMUnderwater_Cover_Online.tga.ckd/1bba54d9bdd755f970c0c2008f970e32.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_WhatTheFuck"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 33,
+            "mapName": "JDMUnderwater",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMUnderwater_mapContent"
+            },
+            "parentMapName": "JDMUnderwater",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 6,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMUnderwater"
+        },
+        "JDMWestCoast": {
+            "__class": "OnlineBlock",
+            "artist": "JDMWestCoast Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/nx/JDMWestCoast_Cover_Generic.tga.ckd/6f7260933c2bb15c4ead0a93d3b9caaf.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/nx/JDMWestCoast_Cover_Online.tga.ckd/4e37a0d85e3c54afb5af4581f6b6f449.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/pc/JDMWestCoast_Cover_Generic.tga.ckd/941e1938c028747b6ab26bb23de26dd0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/pc/JDMWestCoast_Cover_Online.tga.ckd/d608a0037db580c722ea818afa10d51a.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/ps4/JDMWestCoast_Cover_Generic.tga.ckd/941e1938c028747b6ab26bb23de26dd0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/ps4/JDMWestCoast_Cover_Online.tga.ckd/d608a0037db580c722ea818afa10d51a.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/wiiu/JDMWestCoast_Cover_Generic.tga.ckd/ab83c0a025fc59e39ae1725f32d537c3.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/wiiu/JDMWestCoast_Cover_Online.tga.ckd/55e934acfd6c8962cb6de29998d59cbb.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/x1/JDMWestCoast_Cover_Generic.tga.ckd/941e1938c028747b6ab26bb23de26dd0.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMWestCoast/x1/JDMWestCoast_Cover_Online.tga.ckd/d608a0037db580c722ea818afa10d51a.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 26.666999999999998,
+            "mapName": "JDMWestCoast",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMWestCoast_mapContent"
+            },
+            "parentMapName": "JDMWestCoast",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMWestCoast"
+        },
+        "JDMYodel": {
+            "__class": "OnlineBlock",
+            "artist": "JDMYodel Artist",
+            "assets": {
+                "skus": {
+                    "nx": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/nx/JDMYodel_Cover_Generic.tga.ckd/c091345382ea96480f1c50ae6a0e0b88.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/nx/JDMYodel_Cover_Online.tga.ckd/2d54043d3fe7276156ef149fcfc49d2e.ckd"
+                    },
+                    "pc": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/pc/JDMYodel_Cover_Generic.tga.ckd/9e47938d0f842a2364ae0f07e692ddce.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/pc/JDMYodel_Cover_Online.tga.ckd/008c5a97e91bf51d7d0e0bdfd5a7d3c0.ckd"
+                    },
+                    "ps4": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/ps4/JDMYodel_Cover_Generic.tga.ckd/9e47938d0f842a2364ae0f07e692ddce.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/ps4/JDMYodel_Cover_Online.tga.ckd/008c5a97e91bf51d7d0e0bdfd5a7d3c0.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/wiiu/JDMYodel_Cover_Generic.tga.ckd/5d80f1a365a2ff5792193a1820a16067.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/wiiu/JDMYodel_Cover_Online.tga.ckd/0e6d882726f0c3b4159e345cb38689b1.ckd"
+                    },
+                    "x1": {
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/x1/JDMYodel_Cover_Generic.tga.ckd/9e47938d0f842a2364ae0f07e692ddce.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYodel/x1/JDMYodel_Cover_Online.tga.ckd/008c5a97e91bf51d7d0e0bdfd5a7d3c0.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 29.227,
+            "mapName": "JDMYodel",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMYodel_mapContent"
+            },
+            "parentMapName": "JDMYodel",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMYodel"
+        },
+        "JDMYoga": {
+            "__class": "OnlineBlock",
+            "artist": "JDMYoga Artist",
+            "assets": {
+                "skus": {
+                    "pc": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Coach_1.tga.ckd/b9394a9a7b10216ab8de50ec9acfb123.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Cover_Generic.tga.ckd/05763b6bdd562e70b4f26f63aee39354.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/pc/JDMYoga_Cover_Online.tga.ckd/2672d7692805affd6c143a4573f5de89.ckd"
+                    },
+                    "ps4": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/ps4/JDMYoga_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/ps4/JDMYoga_Cover_Generic.tga.ckd/05763b6bdd562e70b4f26f63aee39354.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/ps4/JDMYoga_Cover_Online.tga.ckd/2672d7692805affd6c143a4573f5de89.ckd"
+                    },
+                    "wiiu": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/wiiu/JDMYoga_Coach_1.tga.ckd/7f56ede70da25895353e59a055fb22d3.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/wiiu/JDMYoga_Cover_Generic.tga.ckd/06ea313499a9ab4d1e48698a59ebeb31.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/wiiu/JDMYoga_Cover_Online.tga.ckd/a8d0efd08370ea8e3622c5637239c624.ckd"
+                    },
+                    "x1": {
+                        "coach1ImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/x1/JDMYoga_Coach_1.tga.ckd/9bb7cda29c6f546f610c892760415a3f.ckd",
+                        "coverImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/x1/JDMYoga_Cover_Generic.tga.ckd/05763b6bdd562e70b4f26f63aee39354.ckd",
+                        "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/dance-machine/JDMYoga/x1/JDMYoga_Cover_Online.tga.ckd/2672d7692805affd6c143a4573f5de89.ckd"
+                    }
+                }
+            },
+            "coachCount": 1,
+            "credits": "CREDITS STRING TO BE FILLED",
+            "customTypeNameId": -1,
+            "difficulty": 2,
+            "jdmAttributes": [
+                "JDM_Normal"
+            ],
+            "lyricsColor": "FF0000FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 31.714,
+            "mapName": "JDMYoga",
+            "mode": 6,
+            "originalJDVersion": 2017,
+            "packages": {
+                "mapContent": "JDMYoga_mapContent"
+            },
+            "parentMapName": "JDMYoga",
+            "songColors": {
+                "songColor_1A": "444444FF",
+                "songColor_1B": "111111FF",
+                "songColor_2A": "AAAAAAFF",
+                "songColor_2B": "777777FF"
+            },
+            "status": 3,
+            "tags": [
+                "DanceMachine"
+            ],
+            "title": "JDMYoga"
+        }
+    }
+}

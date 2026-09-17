@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/CutieHoneyRETAKE/CutieHoneyRETAKE.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/CutieHoneyRETAKE/CutieHoneyRETAKE.ogg/a0c0687f7d9ef7dafe75cc31da9e01f8.ogg",
+    "jmcs://jd-contents/CutieHoneyRETAKE/CutieHoneyRETAKE_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/CutieHoneyRETAKE/CutieHoneyRETAKE_ULTRA.hd.webm/cbe6cb0f0ec16d573fae7c3e60db0f2c.webm",
+    "jmcs://jd-contents/CutieHoneyRETAKE/CutieHoneyRETAKE_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/CutieHoneyRETAKE/CutieHoneyRETAKE_HIGH.hd.webm/d34d905a70cc17fbcffa16466f56c834.webm",
+    "jmcs://jd-contents/CutieHoneyRETAKE/CutieHoneyRETAKE_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/CutieHoneyRETAKE/CutieHoneyRETAKE_MID.hd.webm/37ce21ec64c759a8c34b2e0fc72416e9.webm",
+    "jmcs://jd-contents/CutieHoneyRETAKE/CutieHoneyRETAKE_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/CutieHoneyRETAKE/CutieHoneyRETAKE_LOW.hd.webm/5427866d65fc8f645b26ee78f5ff0d0c.webm"
+  }
+}

@@ -1,0 +1,82 @@
+{
+    "bannerOverride": {
+        "KP": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": "jd2016"
+                }
+            ]
+        ],
+        "abba_2017": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2017"
+                    ]
+                }
+            ]
+        ],
+        "carnival": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2018"
+                    ]
+                }
+            ]
+        ],
+        "christmas": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2018"
+                    ]
+                }
+            ]
+        ],
+        "easter": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2018"
+                    ]
+                }
+            ]
+        ],
+        "halloween": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2018"
+                    ]
+                }
+            ]
+        ],
+        "kids3": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2017"
+                    ]
+                }
+            ]
+        ],
+        "valentine": [
+            [
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2018"
+                    ]
+                }
+            ]
+        ]
+    }
+}

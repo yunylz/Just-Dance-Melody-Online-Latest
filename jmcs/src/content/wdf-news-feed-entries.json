@@ -1,0 +1,1949 @@
+{
+    "100b7ce4-70dc-4851-bbe2-0da995324eb5": {
+        "activationTime": 1466778600,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vundet flest turneringer denne uge!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "de": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "hat in dieser Woche die meisten Wettkämpfe gewonnen!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "en": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has won the most tournaments this week!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "es": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "es quien ha ganado más torneos esta semana.",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "fi": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "on voittanut eniten turnauksia tällä viikolla!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "fr": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "a remporté le plus de tournois cette semaine !",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "it": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "ha vinto il maggior numero di tornei questa settimana!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "ja": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has won the most Tournaments this week!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "ko": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "이번 주 토너먼트에서 최다 우승을 차지했습니다!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "nl": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "heeft deze week de meeste toernooien gewonnen!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "no": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vunnet flest turneringer denne uken!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "foi quem ganhou mais torneios essa semana!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "ru": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "обходит всех по количеству побед в турнирах на этой неделе!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "sv": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vunnit flest turneringar den här veckan!",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "在本周赢得最多锦标赛！",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "在本週贏得最多錦標賽！",
+                "title": "[var:tournament-currentWeekMostTournamentsWinner]"
+            }
+        },
+        "locId": 13597,
+        "pool": "Priority2_Stats",
+        "textLocId": 13499,
+        "themeType": "tournament",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "tournament-currentWeekMostTournamentsWinner"
+            ]
+        }
+    },
+    "1242f0b5-ca12-42fa-b5d5-39ea0f409242": {
+        "activationTime": 1467043200,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "er blevet tildelt i spiltypen World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "wurden auf dem World Dance Floor erzielt.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "have been scored on the World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "se han conseguido en la World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "on annettu World Dance Floorilla.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "ont été remportées sur le World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "sono state ottenute sul World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "をWorld Dance Floorで獲得した",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "World Dance Floor에서 이 점수를 획득했습니다.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "zijn gescoord op de World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "har blit tildelt poeng på World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "marcaram pontos na World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "— результат на World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "har samlats på World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "已经在世界舞池得分",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd18_logo/15e75175cb746694bcef00ebd83f9565.png",
+                "text": "已經在世界舞池得分",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 13611,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2018",
+            "XoneJD2018"
+        ],
+        "textLocId": 13517,
+        "themeType": "global",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "global-totalStars"
+            ]
+        }
+    },
+    "163387db-0160-4e53-98f9-b384f348de61": {
+        "activationTime": 1466778600,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "er blevet tildelt under turneringerne.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "wurden bei Wettkämpfen erzielt.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "have been scored during tournaments.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "se han conseguido en los Torneos.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "on annettu turnausten aikana.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "ont été remportées au cours des Tournois.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "sono state ottenute nel corso del torneo",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "をトーナメントで獲得した",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "토너먼트에서 이 점수를 획득했습니다.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "zijn er gescoord tijdens toernooien",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "har blitt tildelt poeng under turneringer",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "marcou pontos durante os torneios.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "обходят всех по количеству очков в турнирах.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "har vunnits i turneringar",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "已经在锦标赛期间得分",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd17_logo/4bdee1cfdeb3a725890ccd9f5836a8d3.png",
+                "text": "已經在錦標賽期間得分",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 13599,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2017",
+            "PCJD2017",
+            "XoneJD2017"
+        ],
+        "textLocId": 13501,
+        "themeType": "tournament",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "tournament-totalStars"
+            ]
+        }
+    },
+    "1f651531-f3fb-4788-b331-b8eda8296e1e": {
+        "activationTime": 1498834800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vundet den seneste ugentlige turnering!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "de": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "hat den aktuellen wöchentlichen Wettkampf gewonnen!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "en": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has won the latest Weekly Tournament!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "es": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "ha ganado el último torneo semanal.",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "fi": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "on voittanut viimeisimmän viikkoturnauksen!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "fr": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "a remporté le dernier tournoi hebdomadaire !",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "it": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "ha vinto l'ultimo torneo settimanale!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "ja": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has won the latest Weekly Tournament!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "ko": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "최신 주간 토너먼트에서 우승했습니다!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "nl": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "heeft het laatste wekelijkse toernooi gewonnen!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "no": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vunnet forrige ukentlige turnering!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "ganhou o último Torneio Semanal!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "ru": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "побеждает в последнем еженедельном турнире!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "sv": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har vunnit den senaste veckoturneringen!",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "赢得最新的每周锦标赛！",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "贏得最新的每週錦標賽！",
+                "title": "[var:tournament-weeklyScheduledTournamentWinner]"
+            }
+        },
+        "locId": 13596,
+        "pool": "Priority2_Stats",
+        "textLocId": 13498,
+        "themeType": "tournament",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "tournament-weeklyScheduledTournamentWinner"
+            ]
+        }
+    },
+    "26e6f0d9-e567-4b9b-bd26-84428e70fe68": {
+        "activationTime": 1499266800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "er blevet scoret i holdkampe!",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "wurden in Team-Battles erzielt.",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "have been scored during Team Battles!",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "puntos se han conseguido durante las Batallas de equipos.",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "on annettu tiimitaisteluiden aikana.",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "ont été remportées au cours de Battles par Équipes",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "sono state ottenute nel corso delle Battaglie a Squadre",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "をチームバトルで獲得した！",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "팀 배틀에서 이 점수를 획득했습니다.",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "zijn gescoord tijdens Teambattles",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "har blitt tildelt i lagkamper",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "marcaram pontos durante Batalhas de Equipe",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "получено за время командных битв",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "har samlats under lagkamper",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "已经在团体对抗期间得分",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_team_battles_logo/a9163c56ed8c958de4a4a05aa51da70d.png",
+                "text": "已經在團體對抗期間得分",
+                "title": "[var:teambattle-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 14292,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2018",
+            "XoneJD2018"
+        ],
+        "textLocId": 14293,
+        "themeType": "teambattle",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "teambattle-totalStars"
+            ]
+        }
+    },
+    "31bc5f97-359b-4a00-a15c-49093fa8e0f0": {
+        "activationTime": 1603432800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "endTime": 1603436400,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gør dig klar til en ny turnering!",
+                "title": "Den sidste dans"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Mach dich bereit für einen neuen Wettkampf!",
+                "title": "Der letzte Tanz"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Get ready for a new tournament!",
+                "title": "The Last Dance"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "¡Prepárate para un nuevo Torneo!",
+                "title": "El último baile"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Valmistaudu uuteen turnaukseen!",
+                "title": "Viimeinen tanssi"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prépare-toi pour un nouveau Tournoi !",
+                "title": "Une dernière danse"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Preparatevi per un nuovo torneo!",
+                "title": "L'ultimo ballo"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "新しいトーナメントがまもなく開催！",
+                "title": "ラストダンス"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "새로운 토너먼트가 곧 펼쳐집니다!",
+                "title": "마지막 춤"
+            },
+            "nb": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gjør deg klar til en ny turnering!",
+                "title": "Den siste dansen"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Bereid je voor op een nieuw toernooi!",
+                "title": "De laatste dans"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prepare-se para um novo torneio!",
+                "title": "A Última Dança"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Приготовьтесь к новому турниру!",
+                "title": "Последний танец"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Ladda upp inför en ny turnering!",
+                "title": "Den sista dansen"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "准备好迎接全新锦标赛！",
+                "title": "最后之舞"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "準備好迎接全新錦標賽！",
+                "title": "最後之舞"
+            }
+        },
+        "locId": 20002810,
+        "pool": "Priority1_CountDown",
+        "rooms": [
+            "MainJD2020",
+            "XoneJD2020"
+        ],
+        "textLocId": 15585,
+        "type": "manual"
+    },
+    "3901a23f-8aa9-4b61-a32e-60666295c156": {
+        "activationTime": 1503583200,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "er blevet tildelt under turneringerne.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "wurden bei Wettkämpfen erzielt.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "have been scored during tournaments.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "se han conseguido en los Torneos.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "on annettu turnausten aikana.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "ont été remportées au cours des Tournois.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "sono state ottenute nel corso del torneo",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "をトーナメントで獲得した",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "토너먼트에서 이 점수를 획득했습니다.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "zijn er gescoord tijdens toernooien",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "har blitt tildelt poeng under turneringer",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "marcou pontos durante os torneios.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "обходят всех по количеству очков в турнирах.",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "har vunnits i turneringar",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "已经在锦标赛期间得分",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_tournaments_jd18_logo/858a36fbff4513bbcb74b22cdb5973b0.png",
+                "text": "已經在錦標賽期間得分",
+                "title": "[var:tournament-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 13599,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2018",
+            "XoneJD2018"
+        ],
+        "textLocId": 13501,
+        "themeType": "tournament",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "tournament-totalStars"
+            ]
+        }
+    },
+    "5e7ceb93-f332-4b6d-9182-e7f9b5c1b423": {
+        "activationTime": 1499266800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "er blevet tildelt under bosskampe.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "wurden während Boss-Kämpfen erzielt.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "have been scored during boss battles.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "se han conseguido en las Batallas de jefes.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "on annettu pomotaisteluiden aikana.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "ont été remportées au cours de Combats de Boss.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "sono state ottenute nel corso delle Battaglie boss.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "をボスとのバトルで獲得した",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "보스전에서 이 점수를 획득했습니다.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "zijn gescoord tijdens eindbaasgevechten",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "har blitt tildelt i boss-kamper",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "marcaram pontos durante batalhas de chefe.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "получено за время битв с боссом.",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "har samlats under bosskamper",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "已经在魔王战斗期间得分",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_boss_battles_logo/1f2de7b7a50b37b51bf366760cf8a3a8.png",
+                "text": "已經在魔王戰鬥期間得分",
+                "title": "[var:boss-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 14515,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2017",
+            "MainJD2018",
+            "OnlyBoss",
+            "PCJD2017",
+            "XoneJD2017",
+            "XoneJD2018"
+        ],
+        "textLocId": 14516,
+        "themeType": "boss",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "boss-totalStars"
+            ]
+        }
+    },
+    "6f9f8bfb-a657-4b71-b3ae-d0f8879748a0": {
+        "activationTime": 1603468800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "endTime": 1603472400,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gør dig klar til en ny turnering!",
+                "title": "Den sidste dans"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Mach dich bereit für einen neuen Wettkampf!",
+                "title": "Der letzte Tanz"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Get ready for a new tournament!",
+                "title": "The Last Dance"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "¡Prepárate para un nuevo Torneo!",
+                "title": "El último baile"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Valmistaudu uuteen turnaukseen!",
+                "title": "Viimeinen tanssi"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prépare-toi pour un nouveau Tournoi !",
+                "title": "Une dernière danse"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Preparatevi per un nuovo torneo!",
+                "title": "L'ultimo ballo"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "新しいトーナメントがまもなく開催！",
+                "title": "ラストダンス"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "새로운 토너먼트가 곧 펼쳐집니다!",
+                "title": "마지막 춤"
+            },
+            "nb": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gjør deg klar til en ny turnering!",
+                "title": "Den siste dansen"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Bereid je voor op een nieuw toernooi!",
+                "title": "De laatste dans"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prepare-se para um novo torneio!",
+                "title": "A Última Dança"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Приготовьтесь к новому турниру!",
+                "title": "Последний танец"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Ladda upp inför en ny turnering!",
+                "title": "Den sista dansen"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "准备好迎接全新锦标赛！",
+                "title": "最后之舞"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "準備好迎接全新錦標賽！",
+                "title": "最後之舞"
+            }
+        },
+        "locId": 20002810,
+        "pool": "Priority1_CountDown",
+        "rooms": [
+            "MainJD2020",
+            "XoneJD2020"
+        ],
+        "textLocId": 15585,
+        "type": "manual"
+    },
+    "793603b0-83c9-4e9d-ab9b-1ba7239e7a48": {
+        "activationTime": 1499765400,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "er spillet indtil nu",
+                "title": "[var:teambattle-totalPlayCount] holdkampe"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "wurden bisher gespielt.",
+                "title": "[var:teambattle-totalPlayCount] Team-Battles"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "have been played so far!",
+                "title": "[var:teambattle-totalPlayCount] Team Battles"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "se han jugado hasta ahora.",
+                "title": "[var:teambattle-totalPlayCount] Batallas de equipos"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "pelattu tähän mennessä.",
+                "title": "[var:teambattle-totalPlayCount] tiimitaistelua"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "ont été joués jusqu’ici",
+                "title": "[var:teambattle-totalPlayCount] Battles par Équipes"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "sono state giocate sinora",
+                "title": "[var:teambattle-totalPlayCount] Battaglie a Squadre"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "を現在までにプレイした！",
+                "title": "[var:teambattle-totalPlayCount]チームバトル"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "현재까지 이만큼이나 진행되었습니다!",
+                "title": "[var:teambattle-totalPlayCount] 팀 배틀"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "zijn tot nu toe gespeeld",
+                "title": "[var:teambattle-totalPlayCount] Teambattles"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "har blitt spilt så langt",
+                "title": "[var:teambattle-totalPlayCount] lagkamper"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "foram jogadas até agora",
+                "title": "[var:teambattle-totalPlayCount] Batalhas de Equipe"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "уже было сыграно!",
+                "title": "[var:teambattle-totalPlayCount] — столько командных битв"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "har spelats hittills",
+                "title": "[var:teambattle-totalPlayCount] lagkamper"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "至今已经游玩",
+                "title": " [var:teambattle-totalPlayCount] 团体对抗"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Team_battles_logo/0e8856754f32ae88276f8212d25180ed.png",
+                "text": "至今已經遊玩",
+                "title": " [var:teambattle-totalPlayCount] 團體對抗"
+            }
+        },
+        "locId": 14290,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2018",
+            "XoneJD2018"
+        ],
+        "textLocId": 14291,
+        "themeType": "teambattle",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "teambattle-totalPlayCount"
+            ]
+        }
+    },
+    "7e83cc54-5953-45fb-bee7-67b4d9d30f9a": {
+        "activationTime": 1467039600,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "er blevet tildelt under Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "wurden im Spotlight erzielt.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "have been scored during Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "se han conseguido en Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "on annettu Spotlightin aikana.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "ont été remportées au cours des Spotlights.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "sono state ottenute durante lo Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "をSpotlightで獲得した",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "Spotlight에서 위 점수를 획득했습니다.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "zijn gescoord tijdens Spotlight",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "har blitt tildelt poeng under rampelyset",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "marcaram pontos durante o Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "— результат в Spotlight.",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "har samlats under Spotlight",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "已经在 Spotlight 期间得分",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_during_spotlight_logo/222a361be30439ae81fed1d8d07bef7f.png",
+                "text": "已經在 Spotlight 期間得分",
+                "title": "[var:spotlight-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 13606,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2017",
+            "PCJD2017",
+            "XoneJD2017"
+        ],
+        "textLocId": 13510,
+        "themeType": "spotlight",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "spotlight-totalStars"
+            ]
+        }
+    },
+    "916d9f77-09fe-4441-adf0-1bdec69f1e7b": {
+        "activationTime": 1467043200,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "er blevet tildelt i spiltypen World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "wurden auf dem World Dance Floor erzielt.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "have been scored on the World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "se han conseguido en la World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "on annettu World Dance Floorilla.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "ont été remportées sur le World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "sono state ottenute sul World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "をWorld Dance Floorで獲得した",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "World Dance Floor에서 이 점수를 획득했습니다.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "zijn gescoord op de World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "har blit tildelt poeng på World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "marcaram pontos na World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "— результат на World Dance Floor.",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "har samlats på World Dance Floor",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "已经在世界舞池得分",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Scored_WDF_jd17_logo/76a73532231d5dc81ebe6ecc21b4adf8.png",
+                "text": "已經在世界舞池得分",
+                "title": "[var:global-totalStars] [icon:STAR]"
+            }
+        },
+        "locId": 13611,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2017",
+            "PCJD2017",
+            "XoneJD2017"
+        ],
+        "textLocId": 13517,
+        "themeType": "global",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "global-totalStars"
+            ]
+        }
+    },
+    "a287c67c-8a13-42ed-84ff-51b3e878da69": {
+        "activationTime": 1467358200,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har besejret flest bosser i denne uge!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "de": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "hat in dieser Woche die meisten Bosse besiegt!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "en": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has beaten the most bosses this week!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "es": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "es quien ha vencido a más jefes esta semana.",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "fi": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "on päihittänyt eniten pomoja tällä viikolla!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "fr": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "a vaincu le plus de boss cette semaine !",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "it": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "ha battuto il maggior numero di boss questa settimana!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "ja": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "has beaten the most Bosses this week!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "ko": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "이번 주에 가장 많은 보스를 물리쳤습니다!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "nl": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "heeft deze week de meeste bazen verslagen!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "no": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har beseiret flest bosser denne uken!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "foi quem venceu mais Chefes essa semana!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "ru": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "побеждает больше всех боссов на этой неделе!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "sv": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "har besegrat flest bossar den här veckan!",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "在本周打败最多魔王！",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://ubistatic-a.akamaihd.net/0060/uat/newsfeed/m_1500468052.png",
+                "text": "在本週打敗最多魔王！",
+                "title": "[var:boss-currentWeekMostBossesBeatenPlayer]"
+            }
+        },
+        "locId": 13602,
+        "pool": "Priority2_Stats",
+        "textLocId": 13506,
+        "themeType": "boss",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "boss-currentWeekMostBossesBeatenPlayer"
+            ]
+        }
+    },
+    "b9a50d18-4d82-403c-aaa5-59ea4c6bd34d": {
+        "activationTime": 1603501200,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "endTime": 1603504800,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gør dig klar til en ny turnering!",
+                "title": "Den sidste dans"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Mach dich bereit für einen neuen Wettkampf!",
+                "title": "Der letzte Tanz"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Get ready for a new tournament!",
+                "title": "The Last Dance"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "¡Prepárate para un nuevo Torneo!",
+                "title": "El último baile"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Valmistaudu uuteen turnaukseen!",
+                "title": "Viimeinen tanssi"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prépare-toi pour un nouveau Tournoi !",
+                "title": "Une dernière danse"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Preparatevi per un nuovo torneo!",
+                "title": "L'ultimo ballo"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "新しいトーナメントがまもなく開催！",
+                "title": "ラストダンス"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "새로운 토너먼트가 곧 펼쳐집니다!",
+                "title": "마지막 춤"
+            },
+            "nb": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Gjør deg klar til en ny turnering!",
+                "title": "Den siste dansen"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Bereid je voor op een nieuw toernooi!",
+                "title": "De laatste dans"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Prepare-se para um novo torneio!",
+                "title": "A Última Dança"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Приготовьтесь к новому турниру!",
+                "title": "Последний танец"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "Ladda upp inför en ny turnering!",
+                "title": "Den sista dansen"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "准备好迎接全新锦标赛！",
+                "title": "最后之舞"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily_Cup/b5073a945943be8ca7dc1df0b7b8c9c1.png",
+                "text": "準備好迎接全新錦標賽！",
+                "title": "最後之舞"
+            }
+        },
+        "locId": 20002810,
+        "pool": "Priority1_CountDown",
+        "rooms": [
+            "MainJD2020",
+            "XoneJD2020"
+        ],
+        "textLocId": 15585,
+        "type": "manual"
+    },
+    "c0732845-f326-406a-8944-a805e142945b": {
+        "activationTime": 1499266800,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "er det maksimale antal stjerner, der kan tildeles ved sangafstemning.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "ist die maximale Anzahl während einer Song-Abstimmung erzielter Sterne.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "is the max number of stars scored during a song vote.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "es el máximo de estrellas logradas en la votación de una canción.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "on suurin biisiäänestyksen aikana saatu määrä tähtiä.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "est le nombre maximal d’étoiles remportées au cours d’un vote de chanson.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "è il numero massimo di stelle ottenute in una votazione.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "が、曲の投票期間中に最大数のスターを獲得した",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "노래 투표에서 이상의 별을 최대로 획득했습니다.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "is het maximum aantal gescoorde sterren tijdens het stemmen op een nummer",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "no": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "er det maksimale antallet stjerner tildet på en sang-avstemning",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "é o número máximo de estrelas durante uma votação da música.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "максимальное число звезд, полученных при голосовании за песню.",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "är högsta antalet stjärnor man får under en låtomröstning",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "是票选歌曲期间获得的最高星数",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/Song_vote_logo/7b22dc6fb6862eb45b5b8bca65ecb9e8.png",
+                "text": "是票選歌曲期間獲得的最高星數",
+                "title": "[var:vote-maxStarsMapStarCount] [icon:STAR]"
+            }
+        },
+        "locId": 14517,
+        "pool": "Priority2_Stats",
+        "rooms": [
+            "MainJD2017",
+            "MainJD2018",
+            "OnlyBoss",
+            "PCJD2017",
+            "XoneJD2017",
+            "XoneJD2018"
+        ],
+        "textLocId": 14518,
+        "themeType": "vote",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [],
+            "text": [],
+            "title": [
+                "vote-maxStarsMapStarCount"
+            ]
+        }
+    },
+    "cc9b7f11-7d54-459e-967f-3c905b30a088": {
+        "activationTime": 1467039600,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "er blevet slået [var:boss-boss2BeatenCount] gange.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "de": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "wurde [var:boss-boss2BeatenCount] Mal besiegt.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "en": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "has been beaten [var:boss-boss2BeatenCount] times.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "es": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "ha sido derrotado [var:boss-boss2BeatenCount] veces.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "fi": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "on päihitetty [var:boss-boss2BeatenCount] kertaa.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "fr": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "a été vaincu(e) [var:boss-boss2BeatenCount] fois.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "it": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "ha subito una sconfitta [var:boss-boss2BeatenCount] volte.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "ja": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "has been beaten [var:boss-boss2BeatenCount] times",
+                "title": "[var:boss-boss2Name]"
+            },
+            "ko": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "[var:boss-boss2BeatenCount]회 물리쳤습니다.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "nl": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "is [var:boss-boss2BeatenCount] keer verslagen",
+                "title": "[var:boss-boss2Name]"
+            },
+            "no": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "har blitt beseiret [var:boss-boss2BeatenCount] ganger",
+                "title": "[var:boss-boss2Name]"
+            },
+            "pt-br": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "foi vencido(a) [var:boss-boss2BeatenCount] vezes.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "ru": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "проигрывает [var:boss-boss2BeatenCount] р.",
+                "title": "[var:boss-boss2Name]"
+            },
+            "sv": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "har besegrats [var:boss-boss2BeatenCount] gånger",
+                "title": "[var:boss-boss2Name]"
+            },
+            "zh-cn": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "已经被打败 [var:boss-boss2BeatenCount] 次",
+                "title": "[var:boss-boss2Name]"
+            },
+            "zh-tw": {
+                "pictureUrl": "[var:boss-boss2PictureUrl]",
+                "text": "已經被打敗 [var:boss-boss2BeatenCount] 次",
+                "title": "[var:boss-boss2Name]"
+            }
+        },
+        "locId": 13503,
+        "pool": "Priority2_Stats",
+        "textLocId": 13600,
+        "themeType": "boss",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [
+                "boss-boss2PictureUrl"
+            ],
+            "text": [
+                "boss-boss2BeatenCount"
+            ],
+            "title": [
+                "boss-boss2Name"
+            ]
+        }
+    },
+    "d4d1e916-eeca-472c-b2d4-e3bc5715ef42": {
+        "activationTime": 1467050400,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "er blevet slået [var:boss-boss1BeatenCount] gange.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "de": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "wurde [var:boss-boss1BeatenCount] Mal besiegt.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "en": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "has been beaten [var:boss-boss1BeatenCount] times.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "es": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "ha sido derrotado [var:boss-boss1BeatenCount] veces.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "fi": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "on päihitetty [var:boss-boss1BeatenCount] kertaa.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "fr": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "a été vaincu(e) [var:boss-boss1BeatenCount] fois.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "it": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "ha subito una sconfitta [var:boss-boss1BeatenCount] volte.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "ja": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "has been beaten [var:boss-boss1BeatenCount] times",
+                "title": "[var:boss-boss1Name]"
+            },
+            "ko": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "[var:boss-boss1BeatenCount]회 물리쳤습니다.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "nl": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "is [var:boss-boss1BeatenCount] keer verslagen",
+                "title": "[var:boss-boss1Name]"
+            },
+            "no": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "har blitt beseiret [var:boss-boss1BeatenCount] ganger",
+                "title": "[var:boss-boss1Name]"
+            },
+            "pt-br": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "foi vencido(a) [var:boss-boss1BeatenCount] vezes.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "ru": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "проигрывает [var:boss-boss1BeatenCount] р.",
+                "title": "[var:boss-boss1Name]"
+            },
+            "sv": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "har besegrats [var:boss-boss1BeatenCount] gånger",
+                "title": "[var:boss-boss1Name]"
+            },
+            "zh-cn": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "已经被打败 [var:boss-boss1BeatenCount] 次",
+                "title": "[var:boss-boss1Name]"
+            },
+            "zh-tw": {
+                "pictureUrl": "[var:boss-boss1PictureUrl]",
+                "text": "已經被打敗 [var:boss-boss1BeatenCount] 次",
+                "title": "[var:boss-boss1Name]"
+            }
+        },
+        "locId": 13502,
+        "pool": "Priority2_Stats",
+        "textLocId": 13505,
+        "themeType": "boss",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [
+                "boss-boss1PictureUrl"
+            ],
+            "text": [
+                "boss-boss1BeatenCount"
+            ],
+            "title": [
+                "boss-boss1Name"
+            ]
+        }
+    },
+    "d8c4823f-d657-4188-b2f0-5261aaf9dd0e": {
+        "activationTime": 1602752400,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "endTime": 1604566800,
+        "languages": {
+            "da": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Ny boss-familie, kom og prøv den!",
+                "title": "Den sidste dans"
+            },
+            "de": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Neue Boss-Familie ist verfügbar - probier es aus!",
+                "title": "Der letzte Tanz"
+            },
+            "en": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "New Boss Family available, go try it!",
+                "title": "The Last Dance"
+            },
+            "es": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Nueva Superfamilia disponible. ¡A por ellos!",
+                "title": "El último baile"
+            },
+            "fi": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Uusi pomoperhe saatavilla – käy kokeilemassa!",
+                "title": "Viimeinen tanssi"
+            },
+            "fr": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Nouvelle famille de Boss disponible, fonce !",
+                "title": "Une dernière danse"
+            },
+            "it": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "È arrivata una nuova Famiglia boss! Andate a conoscerla!",
+                "title": "L'ultimo ballo"
+            },
+            "ja": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "新たにボスファミリーが登場、挑戦してみよう！",
+                "title": "ラストダンス"
+            },
+            "ko": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "새 보스 패밀리가 등장합니다. 대결해보세요!",
+                "title": "마지막 춤"
+            },
+            "nb": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Ny boss-familie tilgjengelig, prøv den nå!",
+                "title": "Den siste dansen"
+            },
+            "nl": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Er is een nieuwe groep bazen beschikbaar!",
+                "title": "De laatste dans"
+            },
+            "pt-br": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Nova família de chefes disponível. Experimente!",
+                "title": "A Última Dança"
+            },
+            "ru": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Появилась новая группа боссов, испытайте себя!",
+                "title": "Последний танец"
+            },
+            "sv": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "Det finns en ny bossfamilj att utmana!",
+                "title": "Den sista dansen"
+            },
+            "zh-cn": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "全新的魔王家庭已开放，快去试试吧！",
+                "title": "最后之舞"
+            },
+            "zh-tw": {
+                "pictureUrl": "https://jd-s3.akamaized.net/public/home/covers/BroadwayFamily/d6a57be7bae3598a8c8ea640dd3f8639.png",
+                "text": "全新的魔王家庭已開放，快去試試吧！",
+                "title": "最後之舞"
+            }
+        },
+        "locId": 20002810,
+        "pool": "Priority1_CountDown",
+        "rooms": [
+            "MainJD2020",
+            "XoneJD2020"
+        ],
+        "textLocId": 15586,
+        "type": "manual"
+    },
+    "fa86ca2e-6c6b-4f02-8eba-f7e2b9b52c84": {
+        "activationTime": 1467050400,
+        "active": true,
+        "defaultLanguage": "en",
+        "displayDuration": 3,
+        "languages": {
+            "da": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "er blevet slået [var:boss-boss3BeatenCount] gange.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "de": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "wurde [var:boss-boss3BeatenCount] Mal besiegt.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "en": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "has been beaten [var:boss-boss3BeatenCount] times.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "es": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "ha sido derrotado [var:boss-boss3BeatenCount] veces.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "fi": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "on päihitetty [var:boss-boss3BeatenCount] kertaa.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "fr": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "a été vaincu(e) [var:boss-boss3BeatenCount] fois.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "it": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "ha subito una sconfitta [var:boss-boss3BeatenCount] volte.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "ja": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "has been beaten [var:boss-boss3BeatenCount] times",
+                "title": "[var:boss-boss3Name]"
+            },
+            "ko": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "[var:boss-boss3BeatenCount]회 물리쳤습니다.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "nl": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "is [var:boss-boss3BeatenCount] keer verslagen",
+                "title": "[var:boss-boss3Name]"
+            },
+            "no": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "har blitt beseiret [var:boss-boss3BeatenCount] ganger",
+                "title": "[var:boss-boss3Name]"
+            },
+            "pt-br": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "foi vencido(a) [var:boss-boss3BeatenCount] vezes.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "ru": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "проигрывает [var:boss-boss3BeatenCount] р.",
+                "title": "[var:boss-boss3Name]"
+            },
+            "sv": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "har besegrats [var:boss-boss3BeatenCount] gånger",
+                "title": "[var:boss-boss3Name]"
+            },
+            "zh-cn": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "已经被打败 [var:boss-boss3BeatenCount] 次",
+                "title": "[var:boss-boss3Name]"
+            },
+            "zh-tw": {
+                "pictureUrl": "[var:boss-boss3PictureUrl]",
+                "text": "已經被打敗 [var:boss-boss3BeatenCount] 次",
+                "title": "[var:boss-boss3Name]"
+            }
+        },
+        "locId": 13504,
+        "pool": "Priority2_Stats",
+        "textLocId": 13601,
+        "themeType": "boss",
+        "type": "automatic",
+        "variables": {
+            "pictureUrl": [
+                "boss-boss3PictureUrl"
+            ],
+            "text": [
+                "boss-boss3BeatenCount"
+            ],
+            "title": [
+                "boss-boss3Name"
+            ]
+        }
+    }
+}

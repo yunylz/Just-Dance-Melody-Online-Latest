@@ -1,0 +1,105 @@
+/* ═══════════════════════════════════════════════════
+   Shared styles for Tutorial components
+   Imported by: Introduction.svelte, WhatIsHub.svelte, Compatibility.svelte
+   ═══════════════════════════════════════════════════ */
+
+/* ── Page header ──────────────────────────────────── */
+.page-header { margin-bottom: 1.75rem; }
+.page-title {
+	font-size: 2rem;
+	font-weight: 800;
+	background: linear-gradient(to right, #f9fafb, #e5e7eb);
+	-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+	background-clip: text;
+	margin: 0 0 0.5rem;
+	line-height: 1.2;
+}
+.page-desc {
+	color: #9ca3af;
+	font-size: 0.95rem;
+	line-height: 1.6;
+	margin: 0;
+}
+.page-desc strong { color: #e5e7eb; font-weight: 600; }
+
+/* ── Intro cards (Introduction & WhatIsHub) ───────── */
+.intro-card {
+	background: rgba(139,92,246,0.04);
+	border: 1px solid rgba(139,92,246,0.1);
+	border-radius: 0.75rem;
+	padding: 1.25rem 1.5rem;
+	margin-bottom: 1rem;
+	transition: all 0.25s ease;
+}
+.intro-card:hover {
+	background: rgba(139,92,246,0.07);
+	border-color: rgba(139,92,246,0.2);
+}
+.intro-heading {
+	font-size: 1.1rem;
+	font-weight: 700;
+	background: linear-gradient(to right, #f3f4f6, #e33cd7);
+	-webkit-background-clip: text; -webkit-text-fill-color: transparent;
+	background-clip: text;
+	margin: 0 0 0.6rem;
+}
+.intro-text {
+	color: #9ca3af;
+	font-size: 0.9rem;
+	line-height: 1.7;
+	margin: 0;
+}
+.intro-text strong { color: #e5e7eb; font-weight: 600; }
+
+/* ── Intro lists (Introduction & WhatIsHub) ───────── */
+.intro-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+.intro-list li {
+	color: #9ca3af;
+	font-size: 0.9rem;
+	line-height: 1.5;
+	padding-left: 1.25rem;
+	position: relative;
+}
+.intro-list li::before {
+	content: "→";
+	position: absolute;
+	left: 0;
+	color: #e33cd7;
+	font-weight: 700;
+}
+
+/* ── Navigation buttons (all pages) ───────────────── */
+.page-nav-row { display: flex; justify-content: space-between; margin-top: 2rem; }
+.next-btn, .back-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.45rem;
+	padding: 0.6rem 1.3rem;
+	border-radius: 0.6rem;
+	font-size: 0.85rem;
+	font-weight: 600;
+	cursor: pointer;
+	border: none;
+	transition: all 0.25s ease;
+}
+.next-btn {
+	color: #fff;
+}
+.next-btn:hover {
+	opacity: 0.9;
+	transform: translateY(-1px);
+	box-shadow: 0 4px 20px rgba(139,92,246,0.35);
+}
+.back-btn {
+	background: rgba(139,92,246,0.08);
+	border: 1px solid rgba(139,92,246,0.15);
+	color: #9ca3af;
+}
+.back-btn:hover { background: rgba(139,92,246,0.15); color: #e5e7eb; transform: translateY(-1px); }

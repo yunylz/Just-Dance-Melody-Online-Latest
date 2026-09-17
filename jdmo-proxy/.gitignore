@@ -1,0 +1,33 @@
+# Environment Variables
+.env
+!.env.example
+
+# Logs
+*.log
+logs/
+proxy.log
+
+# Databases & State
+*.db
+*.sqlite3
+proxy.db
+proxy.db-journal
+state.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

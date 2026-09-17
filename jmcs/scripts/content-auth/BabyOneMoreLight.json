@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/BabyOneMoreLight/BabyOneMoreLight.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/BabyOneMoreLight/BabyOneMoreLight.ogg/8f5e33be665e28695ad0f851022f7092.ogg",
+    "jmcs://jd-contents/BabyOneMoreLight/BabyOneMoreLight_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/BabyOneMoreLight/BabyOneMoreLight_ULTRA.hd.webm/9a0fb5150182107a67081b6fdcff0629.webm",
+    "jmcs://jd-contents/BabyOneMoreLight/BabyOneMoreLight_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/BabyOneMoreLight/BabyOneMoreLight_HIGH.hd.webm/028723e01d27881fed5eeaa5fa7d2516.webm",
+    "jmcs://jd-contents/BabyOneMoreLight/BabyOneMoreLight_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/BabyOneMoreLight/BabyOneMoreLight_MID.hd.webm/da4201aaa3e943e819df772bc3dddc92.webm",
+    "jmcs://jd-contents/BabyOneMoreLight/BabyOneMoreLight_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/BabyOneMoreLight/BabyOneMoreLight_LOW.hd.webm/4a14a45060f965d6c56935a17f1ecc45.webm"
+  }
+}

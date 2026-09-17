@@ -1,0 +1,683 @@
+{
+    "ChoConfig": {
+        "screenDurations": {
+            "tournament-lobby": {
+                "duration": 14
+            },
+            "tournament-presentation": {
+                "duration": 15
+            },
+            "tournament-recap": {
+                "duration": 45
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "JD21RegularTournament": 1
+                },
+                "type": "probability"
+            }
+        ]
+    },
+    "MainJD2017config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            }
+        ],
+        "screenDurations": {
+            "boss-intro": {
+                "duration": 15
+            },
+            "boss-lobby": {
+                "duration": 12
+            },
+            "boss-recap": {
+                "duration": 28
+            },
+            "spotlight-intro": {
+                "duration": 17
+            },
+            "spotlight-lobby": {
+                "duration": 12
+            },
+            "spotlight-recap": {
+                "duration": 23
+            },
+            "tournament-lobby": {
+                "duration": 12
+            },
+            "tournament-presentation": {
+                "duration": 10
+            },
+            "tournament-recap": {
+                "duration": 42
+            },
+            "vote": {
+                "voteComputeTimespan": 5,
+                "voteDuration": 22
+            },
+            "vote-lobby": {
+                "duration": 12
+            },
+            "vote-recap": {
+                "duration": 20
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "ArcherOfLove": 10,
+                    "CounselorGiraffus": 20,
+                    "CounselorGiraffus_1": 20,
+                    "CounselorGiraffus_2": 20,
+                    "FiggySnowRider": 20,
+                    "FiggySnowRider_1": 20,
+                    "GrumpyGhost": 20,
+                    "JackOPumpkin": 10,
+                    "JimiSeaHorse": 20,
+                    "JimiSeaHorse_1": 20,
+                    "KeytarCat": 10,
+                    "KingJumbo": 10,
+                    "KingJumbo_1": 10,
+                    "KingJumbo_2": 10,
+                    "LazerCat": 20,
+                    "Leek": 20,
+                    "Leek_1": 20,
+                    "LeopoldTheJester": 20,
+                    "LeopoldTheJester_1": 20,
+                    "LeopoldTheJester_2": 20,
+                    "MapVote": 149,
+                    "MrChiefClaws": 20,
+                    "MrChiefClaws_1": 20,
+                    "Muchacharacas": 20,
+                    "Muchacharacas_1": 20,
+                    "Muchachopeta": 20,
+                    "Muchachopeta_1": 20,
+                    "Muchachotarra": 10,
+                    "Muchachotarra_1": 10,
+                    "OctoDrum": 10,
+                    "OctoDrum_1": 10,
+                    "RandomSpotlight": 37,
+                    "RegularTournament": 50,
+                    "RocketCat": 20,
+                    "SnowMan": 20,
+                    "SnowMan_1": 20,
+                    "SuperSanta": 10,
+                    "SuperSanta_1": 10,
+                    "TheLovelyGift": 20,
+                    "TheRedQueen": 20,
+                    "Tomato": 10,
+                    "Tomato_1": 10,
+                    "Turnip": 20,
+                    "Turnip_1": 20,
+                    "TwoTeeth": 20,
+                    "VIPSpotlight": 12
+                },
+                "type": "probability"
+            },
+            {
+                "recurrance": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "theme": "WeeklyTournament",
+                "type": "recurring"
+            }
+        ]
+    },
+    "MainJD2018config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            }
+        ],
+        "lbFirstSeasonStartTime": 1508623200000,
+        "lbSeasonDuration": 1209600000,
+        "screenDurations": {
+            "boss-intro": {
+                "duration": 15
+            },
+            "boss-lobby": {
+                "duration": 12
+            },
+            "boss-recap": {
+                "duration": 32
+            },
+            "teambattle-intro": {
+                "duration": 15
+            },
+            "teambattle-lobby": {
+                "duration": 12
+            },
+            "teambattle-recap": {
+                "duration": 25
+            },
+            "tournament-lobby": {
+                "duration": 12
+            },
+            "tournament-presentation": {
+                "duration": 10
+            },
+            "tournament-recap": {
+                "duration": 42
+            },
+            "vote": {
+                "voteDuration": 22
+            },
+            "vote-lobby": {
+                "duration": 12
+            },
+            "vote-recap": {
+                "duration": 20
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "Arachna": 20,
+                    "Billy": 20,
+                    "BlueTyphoon": 20,
+                    "Boumbabox": 20,
+                    "Bushido": 10,
+                    "CaptainSharptooth": 10,
+                    "Chickpea": 20,
+                    "Deezy": 20,
+                    "Eagzio": 10,
+                    "Eagzio_1": 10,
+                    "Earthdog": 20,
+                    "Elpee": 10,
+                    "Esqueletta": 20,
+                    "FireRooster": 20,
+                    "Firestorm": 10,
+                    "Garylou": 10,
+                    "Iscream": 10,
+                    "Kawacake": 20,
+                    "KeytarCat": 10,
+                    "LazerCat": 20,
+                    "MapVote": 149,
+                    "McQuack": 20,
+                    "Monkeyking": 10,
+                    "MrMacaron": 20,
+                    "Peekhibou": 20,
+                    "Peekhibou_1": 20,
+                    "PeglegPorpoise": 20,
+                    "Polaris": 20,
+                    "Polaris_1": 20,
+                    "Pygmalion": 20,
+                    "Pygmalion_1": 20,
+                    "Rabback": 10,
+                    "RegularTournament": 50,
+                    "Reign": 20,
+                    "Reign_1": 20,
+                    "RocketCat": 20,
+                    "Shamisa": 20,
+                    "Shinobi": 20,
+                    "Taurus": 10,
+                    "TeamBattleX": 50,
+                    "TunaToes": 20,
+                    "WokeeTokee": 20,
+                    "WoodHorns": 20,
+                    "Yeti": 10,
+                    "Yeti_1": 10
+                },
+                "type": "probability"
+            },
+            {
+                "recurrance": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "theme": "WeeklyTournament",
+                "type": "recurring"
+            }
+        ]
+    },
+    "MainJD2019config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            }
+        ],
+        "lbFirstSeasonStartTime": 1538258400000,
+        "lbSeasonDuration": 1209600000,
+        "screenDurations": {
+            "boss-intro": {
+                "duration": 15
+            },
+            "boss-lobby": {
+                "duration": 12
+            },
+            "boss-recap": {
+                "duration": 32
+            },
+            "teambattle-intro": {
+                "duration": 15
+            },
+            "teambattle-lobby": {
+                "duration": 12
+            },
+            "teambattle-recap": {
+                "duration": 25
+            },
+            "tournament-lobby": {
+                "duration": 12
+            },
+            "tournament-presentation": {
+                "duration": 10
+            },
+            "tournament-recap": {
+                "duration": 42
+            },
+            "vote": {
+                "voteDuration": 22
+            },
+            "vote-lobby": {
+                "duration": 12
+            },
+            "vote-recap": {
+                "duration": 20
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "Arlecchino": 20,
+                    "BabaYaga": 20,
+                    "Battucada": 20,
+                    "BigSanta": 10,
+                    "BigSanta_1": 10,
+                    "Clint": 20,
+                    "CoachJD": 10,
+                    "CoachJD_1": 10,
+                    "Damona": 20,
+                    "Damona_1": 20,
+                    "Frankenstein": 10,
+                    "Gaya": 10,
+                    "Gaya_1": 10,
+                    "KeytarCat": 10,
+                    "LazerCat": 20,
+                    "MapVote": 149,
+                    "Martello": 10,
+                    "Martello_1": 10,
+                    "Minerva": 20,
+                    "Minerva_1": 20,
+                    "Monty": 20,
+                    "Nami": 20,
+                    "Nash": 20,
+                    "Nostresso": 20,
+                    "Nostresso_1": 20,
+                    "Oboy": 20,
+                    "Oboy_1": 20,
+                    "Ori": 10,
+                    "PandaFloat": 10,
+                    "PumpkinHead": 20,
+                    "RegularTournament": 50,
+                    "Rina": 20,
+                    "Rina_1": 20,
+                    "RocketCat": 20,
+                    "Selena": 10,
+                    "Sparkle": 20,
+                    "Sparkle_1": 20,
+                    "Stan": 20,
+                    "Sunny": 10,
+                    "TeamBattleX": 50,
+                    "Twinkle": 20,
+                    "Twinkle_1": 20,
+                    "Wilo": 20,
+                    "Yoggio": 20,
+                    "Yoggio_1": 20
+                },
+                "type": "probability"
+            },
+            {
+                "recurrance": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "theme": "WeeklyTournament",
+                "type": "recurring"
+            }
+        ]
+    },
+    "MainJD2020config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            }
+        ],
+        "lbFirstSeasonStartTime": 1571004000000,
+        "lbSeasonDuration": 1209600000,
+        "screenDurations": {
+            "boss-intro": {
+                "duration": 15
+            },
+            "boss-lobby": {
+                "duration": 12
+            },
+            "boss-recap": {
+                "duration": 32
+            },
+            "teambattle-intro": {
+                "duration": 15
+            },
+            "teambattle-lobby": {
+                "duration": 12
+            },
+            "teambattle-recap": {
+                "duration": 25
+            },
+            "tournament-lobby": {
+                "duration": 12
+            },
+            "tournament-presentation": {
+                "duration": 10
+            },
+            "tournament-recap": {
+                "duration": 42
+            },
+            "vote": {
+                "voteDuration": 22
+            },
+            "vote-lobby": {
+                "duration": 12
+            },
+            "vote-recap": {
+                "duration": 20
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "KeytarCat": 10,
+                    "LazerCat": 20,
+                    "MapVote": 149,
+                    "RegularTournament": 50,
+                    "RocketCat": 20,
+                    "TeamBattleX": 50
+                },
+                "type": "probability"
+            },
+            {
+                "recurrance": {
+                    "day": 0,
+                    "hour": 17,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "theme": "WeeklyTournament",
+                "type": "recurring"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1603436400000,
+                "type": "absolute"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1603472400000,
+                "type": "absolute"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1603504800000,
+                "type": "absolute"
+            }
+        ]
+    },
+    "MainJD2021config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 3600000,
+                "triggerTime": 1619602200000,
+                "type": "absolute"
+            }
+        ],
+        "lbFirstSeasonStartTime": 1603666800000,
+        "screenDurations": {
+            "tournament-lobby": {
+                "duration": 15
+            },
+            "tournament-presentation": {
+                "duration": 15
+            },
+            "tournament-recap": {
+                "duration": 45
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "JD21RegularTournament": 50
+                },
+                "type": "probability"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1607068800000,
+                "type": "absolute"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1607104800000,
+                "type": "absolute"
+            },
+            {
+                "theme": "EventTournament",
+                "triggerTime": 1607137200000,
+                "type": "absolute"
+            }
+        ]
+    },
+    "MainJD2022config": {
+        "happyHoursSchedule": [
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 6,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 1800000,
+                "recurrance": {
+                    "day": 0,
+                    "hour": 16,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            },
+            {
+                "duration": 5400000,
+                "recurrance": {
+                    "day": 1,
+                    "hour": 1,
+                    "minute": 0,
+                    "type": "weekly"
+                },
+                "type": "recurring"
+            }
+        ],
+        "lbFirstSeasonStartTime": 1621517400000,
+        "screenDurations": {
+            "tournament-lobby": {
+                "duration": 15
+            },
+            "tournament-presentation": {
+                "duration": 15
+            },
+            "tournament-recap": {
+                "duration": 45
+            }
+        },
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "JD21RegularTournament": 50
+                },
+                "type": "probability"
+            }
+        ]
+    },
+    "onlyboss": {
+        "themeSchedule": [
+            {
+                "probabilities": {
+                    "KeytarCat": 10,
+                    "LazerCat": 20,
+                    "RocketCat": 20
+                },
+                "type": "probability"
+            }
+        ]
+    }
+}

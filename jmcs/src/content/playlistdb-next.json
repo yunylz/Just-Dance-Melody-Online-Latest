@@ -1,0 +1,2534 @@
+{
+    "playlists": {
+        "051f3fb1-423e-4a7c-9c19-9291aaf1ecdf": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/nx/cover/306144cdf921d500d230e79a19036dca_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/nx/coverDetails/774c32beb5750a43bfaa47002d73c6d2_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/pc/cover/6ddec809143492502c28787d5c2ec664_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/pc/coverDetails/0b9b97ed312a27aa56015dc9671e7025_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/ps5/cover/48a3e17141c43e65c950e39a7407142d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/ps5/coverDetails/a1ccb85e735b544e80c2d1cbbf126385_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/xboxsx/cover/7f01176c217c0f81a7a30ca4f5ff786c_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/051f3fb1-423e-4a7c-9c19-9291aaf1ecdf/xboxsx/coverDetails/c2ec777535f6dff755ac6371f5f9e35e_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "f94f8520-7553-40d9-a117-83edfa18a482",
+                    "type": "map"
+                },
+                {
+                    "id": "fa10ad5b-55a2-4569-84de-f5a675019ea0",
+                    "type": "map"
+                },
+                {
+                    "id": "d5d6e57e-f388-4fde-b745-8fd87c28ef1a",
+                    "type": "map"
+                },
+                {
+                    "id": "1c602eb4-6ec2-4804-a55d-e4ab6fb2562b",
+                    "type": "map"
+                },
+                {
+                    "id": "f442c25c-0801-45f9-a57a-85558bf434ae",
+                    "type": "map"
+                },
+                {
+                    "id": "275db8d6-587c-4da0-adc8-4b7e8b4f672b",
+                    "type": "map"
+                },
+                {
+                    "id": "eebccff6-19d0-452b-83e2-d48b53b43031",
+                    "type": "map"
+                },
+                {
+                    "id": "df56ddc6-648c-4c93-b0b1-f8341c1f068a",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1167,
+            "localizedTitle": 1166,
+            "playlistName": "JD23Extreme",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "0b23f77a-5729-45ce-8ff3-650630e2ed95": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/nx/cover/5419d4559c41e38885d2c9e1655e4b27_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/nx/coverDetails/171b5f88d15cb0005242baab1b339b87_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/pc/cover/741b7864d293247391a6b69f1b5ce644_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/pc/coverDetails/1e47aeb0707cb598854901822fb6f4a4_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/ps5/cover/ed6aca6fbfe67430a327f526ee9e271d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/ps5/coverDetails/8ec2789a08648167bab20de3c7ed3cb1_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/xboxsx/cover/700db6d5f096abc1b144e565618e5bf7_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/0b23f77a-5729-45ce-8ff3-650630e2ed95/xboxsx/coverDetails/2b7205ce7b25b03bd1236c6d283bbbdc_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "e0312589-26fa-4c4f-a94a-9d2aee096a44",
+                    "type": "map"
+                },
+                {
+                    "id": "0018aad4-c3b3-4f10-8b3e-bc0564714697",
+                    "type": "map"
+                },
+                {
+                    "id": "f98e8266-9061-410d-8544-daf918b2081c",
+                    "type": "map"
+                },
+                {
+                    "id": "a559486f-c94a-4363-a6bd-66b6b4bd1715",
+                    "type": "map"
+                },
+                {
+                    "id": "2ed5c8a8-6fd7-4192-b9a6-f025d8512526",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1146,
+            "localizedTitle": 1145,
+            "playlistName": "KidsFave",
+            "tags": []
+        },
+        "100a2cb7-3c79-4f4f-971c-0e1a2f78b294": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/nx/cover/51dd71d1603b7bba7a1b8d8b33b0195e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/nx/coverDetails/6a57fbfb69d85750fde244ab23deb2aa_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/pc/cover/324e1c47928532759fda5a30931db839_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/pc/coverDetails/d4e5022480150c8f18f8e52c374282b1_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/ps5/cover/9609df6bb2eeb255321bddff5cc51779_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/ps5/coverDetails/fc3f32d7cb42199d97b0a1a2bfcf1645_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/xboxsx/cover/357cd980b9428e0e0676f6963accdc8f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/100a2cb7-3c79-4f4f-971c-0e1a2f78b294/xboxsx/coverDetails/2a2ac0a2b5846360d3a46a1d7bd4c146_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "listSource": "reco-for-you",
+            "localizedDescription": 1159,
+            "localizedTitle": 1158,
+            "playlistName": "RecoForYou",
+            "recommendedItemType": "map",
+            "tags": []
+        },
+        "19e2b21c-5ef2-4181-ac75-00b5bb7b6636": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/nx/cover/b54d51536c7b1a61b71b5045fc9c9437_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/nx/coverDetails/a56ad8e6be3e4daeca90fc832c8f92c6_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/pc/cover/1ad46ef1ccbf67d6153cec014300d009_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/pc/coverDetails/df7e978e03531094d2bd95cc9f0e412d_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/ps5/cover/678d28a45e872d772aba0377c14f6b57_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/ps5/coverDetails/ed07c3cfd403e10e7eef33c26f9f8801_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/xboxsx/cover/5b587f9eeee63a58e54501ad276391b4_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/19e2b21c-5ef2-4181-ac75-00b5bb7b6636/xboxsx/coverDetails/9a38f6eb2191bdf9cd21e49d20a72980_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "d2481597-f591-4d6c-9999-a458068abb7e",
+                    "type": "map"
+                },
+                {
+                    "id": "3994d1c4-ac89-4380-8bc8-cd50a1777742",
+                    "type": "map"
+                },
+                {
+                    "id": "8f31628c-265c-4064-8142-0f56a70745a6",
+                    "type": "map"
+                },
+                {
+                    "id": "81b072a5-58a8-4dbe-ae6d-691b96f4163f",
+                    "type": "map"
+                },
+                {
+                    "id": "c2149896-ebc0-4beb-b1af-039dda41d6e4",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5062,
+            "localizedTitle": 5061,
+            "playlistName": "Live_Season2_Showdown",
+            "tags": []
+        },
+        "332ae15f-f488-41c1-bc2c-92ee5bd4f7bb": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/nx/cover/eebee2c813550547c3814ae807286712_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/nx/coverDetails/427cb3a141f90aba7dcda0c3528b1883_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/pc/cover/7d5db482cf94405626e04b8fc8d4cc0d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/pc/coverDetails/66f7a730cdc64856e1d3260023b4573b_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/ps5/cover/f105f6a2c05cc065813ae35ef4fc67b9_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/ps5/coverDetails/e5533f7bef317b92b3a33e76fc4b3c89_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/xboxsx/cover/fdf4c5f23d56251a2e101914fd3d28b5_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/332ae15f-f488-41c1-bc2c-92ee5bd4f7bb/xboxsx/coverDetails/57172423bbf5bb0272ce1249dc34970e_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "5df71fa5-36f4-4cdc-b50b-efc282f8cdd7",
+                    "type": "map"
+                },
+                {
+                    "id": "09bf2b24-bb17-4a0d-874e-66d28f992215",
+                    "type": "map"
+                },
+                {
+                    "id": "cde28808-1c3b-4259-8609-7e83dd460861",
+                    "type": "map"
+                },
+                {
+                    "id": "5ca43845-fa4d-4618-b046-854701cae4ed",
+                    "type": "map"
+                },
+                {
+                    "id": "84741cd3-f814-4af6-9a55-a10e7f6e3131",
+                    "type": "map"
+                },
+                {
+                    "id": "eebccff6-19d0-452b-83e2-d48b53b43031",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1663,
+            "localizedTitle": 1662,
+            "playlistName": "JD23Workout",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "36f0b05a-58c2-437a-9b5c-c5d489b8aa8d": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/nx/cover/d73bc14ddbb4331a57b072e9dd305b10_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/nx/coverDetails/b09e10e0e641940a28b6f41b6455d67f_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/pc/cover/9d89173ba30a0c56fa994fa3090da068_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/pc/coverDetails/f61cab9ae284e35f59c1368b856ec463_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/ps5/cover/9e382c596081881c6acaae9b91ffa4bf_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/ps5/coverDetails/503664bae2e488bed565e91a66ba919a_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/xboxsx/cover/a1030ddd4e3d08446ac46faa0685d563_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/36f0b05a-58c2-437a-9b5c-c5d489b8aa8d/xboxsx/coverDetails/ad4d9751c2880b6e0141f6c4441d1c90_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "1eb6c730-0045-4b74-93d7-22f5eceac264",
+                    "type": "map"
+                },
+                {
+                    "id": "c1101af8-02ad-43a6-adea-652abba87531",
+                    "type": "map"
+                },
+                {
+                    "id": "52aff0db-493f-420c-b01b-f753e1b5df0b",
+                    "type": "map"
+                },
+                {
+                    "id": "8f39a4aa-d486-4cbc-ba00-a988db99eea4",
+                    "type": "map"
+                },
+                {
+                    "id": "621d8ccb-f688-4c8b-8b3e-7f89cc8f573b",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1657,
+            "localizedTitle": 1656,
+            "playlistName": "JD23Kpop",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "38f719b3-8b07-4fc2-ae3b-f313888c02b7": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/nx/cover/54961ecb97d8d5bb3b75566c36e2412b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/nx/coverDetails/7bba6850bbd3937bbf35781e85ea8a4d_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/pc/cover/90568eaf8571bdf209b9cb4dc20c28cd_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/pc/coverDetails/3ad718d16a292a3676064f2f85eb0773_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/ps5/cover/cd023cc49f1ec4e2a4be1b7437a96d4d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/ps5/coverDetails/27a262c55544d79674bd9015af44f5ed_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/xboxsx/cover/d2f36253ec1c33bfecb7e56098aebc4e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/38f719b3-8b07-4fc2-ae3b-f313888c02b7/xboxsx/coverDetails/90c0a8690ef432095622af647e62af08_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "fe60da9b-4539-4956-ae2f-c0adbcddc4c6",
+                    "type": "map"
+                },
+                {
+                    "id": "5df71fa5-36f4-4cdc-b50b-efc282f8cdd7",
+                    "type": "map"
+                },
+                {
+                    "id": "2838256b-dbf1-4ab4-acbc-38da95788602",
+                    "type": "map"
+                },
+                {
+                    "id": "43b42e0d-7fe0-428a-b164-70c3d0cba1e9",
+                    "type": "map"
+                },
+                {
+                    "id": "0611ea22-ca21-4524-a02a-16fd900afc53",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1153,
+            "localizedTitle": 1152,
+            "playlistName": "15MnWorkout",
+            "tags": []
+        },
+        "40abc0e7-4f69-4133-b5c6-de9e74d60434": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/nx/cover/8f2c508fb699854c7d02e4f8e30e6e94_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/nx/coverDetails/ad5bd06b4a678987cfb0ab2d71e38968_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/pc/cover/bb03b7bdb5b28a38f5c423477dbe359b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/pc/coverDetails/bdf5dbc6b9debc5af74456c55da80884_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/ps5/cover/8f074ec9bd91d5e9f389ad80f8c6c619_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/ps5/coverDetails/cd958ac3a814c7b527241313fb7b9b77_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/xboxsx/cover/d7d86a1633ec45c1ede6228e909b2321_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/40abc0e7-4f69-4133-b5c6-de9e74d60434/xboxsx/coverDetails/c43cef52e074fb4ef32545a13963fdee_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "64394a8a-294e-4bea-a236-ce5715ef5cca",
+                    "type": "map"
+                },
+                {
+                    "id": "5dbb9170-512c-4e7d-85bd-927f55785386",
+                    "type": "map"
+                },
+                {
+                    "id": "fbf5f4f3-8718-4268-8602-90620d024b5f",
+                    "type": "map"
+                },
+                {
+                    "id": "ce8cba72-a6dc-49d3-ab04-b764ef0122e6",
+                    "type": "map"
+                },
+                {
+                    "id": "8206220c-759e-4006-82fb-56c11780d9cb",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5166,
+            "localizedTitle": 5165,
+            "playlistName": "JD24Explore",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "4fcf9c27-d764-4ef7-bc29-0acfa83e6347": {
+            "assets": {
+                "android": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist1/android/cover/77e247cb8a13f95c27dec00e916e067a_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist1/android/coverDetails/ff51522935d1fb47cde19b308cd892fb_en.bundle"
+                        }
+                    }
+                },
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/nx/cover/5d104d597fd2b2a11f70c66928518cb8_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/nx/coverDetails/4d2aa40dc8e021517e5b4a5d2c263afc_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/pc/cover/1e808f3811cfdeb0db6943981a0d25a8_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/pc/coverDetails/da044b0083bb30b33b6589bfe6edbd76_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/ps5/cover/f4e1f3595bd6a41f71798812d153ef56_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/ps5/coverDetails/b5c4b30235d0ad8a5ff6bbe48b4230d0_en.bundle"
+                        }
+                    }
+                },
+                "stadia": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/stadia/cover/e9400a8f90eac756168d5167f524a37d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/stadia/coverDetails/0026d99964d67006b2cd398bc9511a17_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/xboxsx/cover/bdeccbfe62581f6e7876604c07d493dd_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/4fcf9c27-d764-4ef7-bc29-0acfa83e6347/xboxsx/coverDetails/e45e6c75cfd3de5f24abf82ff084bf7a_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "a025a981-7c5d-4ad6-bd7e-5c73897d3dcf",
+                    "type": "map"
+                },
+                {
+                    "id": "df74f045-89e0-4fd8-9d9e-96a6c3d5794a",
+                    "type": "map"
+                },
+                {
+                    "id": "ec7ae00a-2ee8-4f07-88d2-0d7669daf1ff",
+                    "type": "map"
+                },
+                {
+                    "id": "a231e52e-9dca-445f-b133-c9c336f630c5",
+                    "type": "map"
+                },
+                {
+                    "id": "0d515b0f-5040-47b2-b729-5f4c0c51c3af",
+                    "type": "map"
+                },
+                {
+                    "id": "cde28808-1c3b-4259-8609-7e83dd460861",
+                    "type": "map"
+                },
+                {
+                    "id": "d5d6e57e-f388-4fde-b745-8fd87c28ef1a",
+                    "type": "map"
+                },
+                {
+                    "id": "eebccff6-19d0-452b-83e2-d48b53b43031",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1136,
+            "localizedTitle": 760,
+            "offers": [],
+            "playlistName": "FromEasyToExtreme",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "543ecffd-5226-4d7c-a341-a4822a708547": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/nx/cover/021084180cf2cbdf05288e7da054b637_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/nx/coverDetails/5d20d5b721b1416f6260d8ff7245c549_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/pc/cover/25badab1c8aee7949238cb5a439b3f1c_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/pc/coverDetails/bb5fb208d5aff6f9bf9c7cd770217b16_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/ps5/cover/7a70b110f9aef3e9b5eb3c210f42a57a_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/ps5/coverDetails/7530eb8819820180059339b43cb93b90_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/xboxsx/cover/5d9b0cb54aec6a3cd32d7b111b2c8f5a_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/543ecffd-5226-4d7c-a341-a4822a708547/xboxsx/coverDetails/239fdd05c09382f67451d5565db438da_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "f732fc07-8e50-443b-913e-77bf16be0c28",
+                    "type": "map"
+                },
+                {
+                    "id": "fd615782-970a-44f1-b05f-04d92e25d1fc",
+                    "type": "map"
+                },
+                {
+                    "id": "a295deac-a21e-47bd-bff9-4c8fe64cc1d6",
+                    "type": "map"
+                },
+                {
+                    "id": "39a8bf1d-bf8a-4abc-8946-e9890e5d145f",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5186,
+            "localizedTitle": 5185,
+            "playlistName": "Friends",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "57e741b7-66cc-4588-851d-54837c3b22eb": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/nx/cover/4e3583026149ccdf8c1c80b1b2079660_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/nx/coverDetails/aad5030f575fff431dbbd8b0da4d8614_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/pc/cover/b4478614b630fc0d553cd4563ceea003_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/pc/coverDetails/a7c4a4679b8b40b0d664d8cd1483c2fb_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/ps5/cover/8ed339bb34ad289e6a650a95b518f635_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/ps5/coverDetails/b57849d2f05c8a20f1fe430f79f5b29e_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/xboxsx/cover/15d2801736d7ab0209b471449519405f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/57e741b7-66cc-4588-851d-54837c3b22eb/xboxsx/coverDetails/5a09d07393dbd73f3d9d4a911eefe408_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "531d9276-df69-42ab-ad4e-cd0c30a2c015",
+                    "type": "map"
+                },
+                {
+                    "id": "37729813-ef7c-4126-b1a1-cb08ca02948f",
+                    "type": "map"
+                },
+                {
+                    "id": "918db6f2-7ad1-4b7d-8926-08cf115ac97c",
+                    "type": "map"
+                },
+                {
+                    "id": "d3f86e68-1212-46a6-b1bc-5d337366a422",
+                    "type": "map"
+                },
+                {
+                    "id": "af1f0aa0-005c-4c84-9fc2-64ad8dff65d4",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 4777,
+            "localizedTitle": 4776,
+            "playlistName": "Live_Season1_LoverCoaster",
+            "tags": []
+        },
+        "5922a323-a7f3-4b70-873c-82c39d75a5a6": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/nx/cover/2edeffda6a7526d880f4272305891e8b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/nx/coverDetails/4373636f038facff226e5d85cb547122_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/pc/cover/7bc34826b1fff3fa41a4a03b3e7f691a_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/pc/coverDetails/d5fae1aa1feb945212132fe4dd4709d2_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/ps5/cover/3c62c6f62a77508b0eb589ab4eb78181_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/ps5/coverDetails/0ae84b831e1e34a9de3555ceb81ca470_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/xboxsx/cover/b1c2462126e35c49b0ca245133de4692_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5922a323-a7f3-4b70-873c-82c39d75a5a6/xboxsx/coverDetails/73ff07bff6e2d43a56d56d2110d51e1e_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "27222e41-98f5-4e1a-8d09-648e97d37d5e",
+                    "type": "map"
+                },
+                {
+                    "id": "99d4799e-b949-4852-95ed-b2d615aa9402",
+                    "type": "map"
+                },
+                {
+                    "id": "f442c25c-0801-45f9-a57a-85558bf434ae",
+                    "type": "map"
+                },
+                {
+                    "id": "8dfcfaa6-c429-4093-a525-868934889f0e",
+                    "type": "map"
+                },
+                {
+                    "id": "d5d6e57e-f388-4fde-b745-8fd87c28ef1a",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1142,
+            "localizedTitle": 1141,
+            "playlistName": "SensualSounds",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/nx/cover/d4074174e17e219179b6a16b734721c0_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/nx/coverDetails/5f4daf724c65fe4964069626dc7648d4_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/pc/cover/ae65d12f25105723f015760ab8c23157_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/pc/coverDetails/e1ad83c2b2eeef5a50bf36b378e9718f_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/ps5/cover/4091c601e0da558fe898d07e95d79387_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/ps5/coverDetails/53444cd4e476a5722a5c4492fd6ff828_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/xboxsx/cover/2d457deea654bff562406b4014956dde_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/5b2a3a9d-63b7-4a0b-ae0d-405cd37c42ae/xboxsx/coverDetails/9f2381f5ee380730d7f5ec06b489d214_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "b286d99f-8419-498c-8a5c-1608e6333c6a",
+                    "type": "map"
+                },
+                {
+                    "id": "a45d3da6-c86c-45d9-ba40-7963ae96dfa4",
+                    "type": "map"
+                },
+                {
+                    "id": "e6a14cbf-417b-4874-be2d-12e749b58058",
+                    "type": "map"
+                },
+                {
+                    "id": "11e61a1f-68f8-4bdd-a11b-b0d653efab83",
+                    "type": "map"
+                },
+                {
+                    "id": "52aff0db-493f-420c-b01b-f753e1b5df0b",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1165,
+            "localizedTitle": 1164,
+            "playlistName": "NewHere",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "61e7f246-938b-494c-8389-facf73098d45": {
+            "assets": {
+                "android": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist2/android/cover/cd2040c9649e975c5ac20a509a32f623_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist2/android/coverDetails/1ed8c83264d3573e26b52808703fb380_en.bundle"
+                        }
+                    }
+                },
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/nx/cover/bde5ef814ea54b7bd95ced28411ac5e5_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/nx/coverDetails/3abf49aaa35235c335169adcebdc53de_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/pc/cover/337ec875dd1a5d6062c355ab2adb6439_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/pc/coverDetails/1e6c5cf40c1649d4ad37f545af9b2f5b_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/ps5/cover/972524fec55b3a6c47ee214f0748e765_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/ps5/coverDetails/26e2296ba57a0d1634f38b4ffd3eb85d_en.bundle"
+                        }
+                    }
+                },
+                "stadia": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/stadia/cover/856f8e1fcc18500880d0013adb410f28_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/stadia/coverDetails/f5df856cadf4e370863a5f44c88949f6_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/xboxsx/cover/10696241829de04791ec8d1d7f582560_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/61e7f246-938b-494c-8389-facf73098d45/xboxsx/coverDetails/f9faf6f9eff45f6a7c473b3a6c48ce78_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "54aa7f4a-70c9-4c72-9e7a-ad164db547f8",
+                    "type": "map"
+                },
+                {
+                    "id": "998b2cd2-02ff-4c73-8aac-54065aebee36",
+                    "type": "map"
+                },
+                {
+                    "id": "b286d99f-8419-498c-8a5c-1608e6333c6a",
+                    "type": "map"
+                },
+                {
+                    "id": "39e0e6a5-9f4f-4d84-a597-f23622101fbd",
+                    "type": "map"
+                },
+                {
+                    "id": "d13cc3b2-1fba-4c0c-a493-b81d3eec18d3",
+                    "type": "map"
+                },
+                {
+                    "id": "2e049871-0698-4526-94bc-76da05d12bad",
+                    "type": "map"
+                },
+                {
+                    "id": "0f7e7dea-d470-4c20-a934-8318b1fb2a21",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1135,
+            "localizedTitle": 761,
+            "offers": [],
+            "playlistName": "GirlPowerJD23",
+            "tags": []
+        },
+        "680f2e22-fd7f-416a-ac4e-b7919627ce6c": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/nx/cover/b14c94893424466be59f6383cd759950_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/nx/coverDetails/84b9d7e2f8d3b76a664e85e9b0d27d4f_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/pc/cover/012f24855165a81b6fca3ae24592cfff_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/pc/coverDetails/71872b5c10dd57bd31394afd2c59148b_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/ps5/cover/ce6a37c082387ed7ed27cd12f4a8b605_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/ps5/coverDetails/b0658756ddac4f798faae7c4691f2e16_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/xboxsx/cover/2ceae02392ed2d9f2b4ac161867ccc9d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/680f2e22-fd7f-416a-ac4e-b7919627ce6c/xboxsx/coverDetails/5787c7e63b9b32b326045dbb05ff7a5b_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "287450b8-1fa0-4b5b-8717-fac45e601c54",
+                    "type": "map"
+                },
+                {
+                    "id": "99d4799e-b949-4852-95ed-b2d615aa9402",
+                    "type": "map"
+                },
+                {
+                    "id": "0d515b0f-5040-47b2-b729-5f4c0c51c3af",
+                    "type": "map"
+                },
+                {
+                    "id": "eda99f2f-7701-476b-a6b4-0ba4d81bb5fa",
+                    "type": "map"
+                },
+                {
+                    "id": "34cd71fc-6f42-4c64-8faf-a95a6a549a90",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1659,
+            "localizedTitle": 1658,
+            "playlistName": "OnTheRise",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "6d644bb7-d49d-4ee8-b867-5c8f6898f815": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/nx/cover/5c0c621d8a8be02a4c17b12252b5098b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/nx/coverDetails/ede090e3a8b49a20f5c85b67dacf7b68_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/pc/cover/63b37f7cc77dc9c6263e73af303db3bc_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/pc/coverDetails/e353ac9246b7b2401974fca9ec001ce6_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/ps5/cover/fa1285f291fa95f6adfb4d7189639381_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/ps5/coverDetails/8fa4221fea5fd6f1376b0c16fee01d7c_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/xboxsx/cover/25a0a2719dba207c4345e75e178e66f1_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6d644bb7-d49d-4ee8-b867-5c8f6898f815/xboxsx/coverDetails/e1ed80ecafe0bab79a4377a78899e65b_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "cc9fe80b-a158-43fb-8a3a-5fba6ff837cc",
+                    "type": "map"
+                },
+                {
+                    "id": "cde28808-1c3b-4259-8609-7e83dd460861",
+                    "type": "map"
+                },
+                {
+                    "id": "18134457-8db8-4fde-9d55-17b63448c7b0",
+                    "type": "map"
+                },
+                {
+                    "id": "c9ecd9c7-d3e7-43c8-8a52-e110b0f114dd",
+                    "type": "map"
+                },
+                {
+                    "id": "7fb0a8ae-045f-4ef0-9ae5-34e62d0f6c14",
+                    "type": "map"
+                },
+                {
+                    "id": "361c5777-e24b-4851-9a73-1f06d032eb44",
+                    "type": "map"
+                },
+                {
+                    "id": "2ef0c0a6-b13b-467b-922b-839c931474c2",
+                    "type": "map"
+                },
+                {
+                    "id": "d2435352-e548-4c7a-8f91-2c475942caa4",
+                    "type": "map"
+                },
+                {
+                    "id": "e7d97d3e-c446-4c16-8d8c-6378ad6efaf4",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1151,
+            "localizedTitle": 30,
+            "playlistName": "30MnWorkout",
+            "tags": []
+        },
+        "6ebc8c78-bdc2-428d-8df7-4474d1e8183c": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/nx/cover/9e202eaa23ad5f5c330687a24bc2bdce_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/nx/coverDetails/83cafed1fe232208deedf4658c70e27c_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/pc/cover/5bdb9082b892cb4fa7d46f5ffc8a7328_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/pc/coverDetails/f58d08b6201dd47c60a39a164645d7c5_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/ps5/cover/f60dd53fc5305c30dcec9b018aee3ec8_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/ps5/coverDetails/55fc82dad039c3112468e4a1a9e1c229_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/xboxsx/cover/35a2b76061ed81145b1b7e0915b30cd2_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/6ebc8c78-bdc2-428d-8df7-4474d1e8183c/xboxsx/coverDetails/cc748947ef8f528d4c167e172a3d5ecb_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "78d1c627-d449-4f25-b847-c71dd42b3624",
+                    "type": "map"
+                },
+                {
+                    "id": "08039fdb-dd63-4a06-aea5-c275be25d9f6",
+                    "type": "map"
+                },
+                {
+                    "id": "eda99f2f-7701-476b-a6b4-0ba4d81bb5fa",
+                    "type": "map"
+                },
+                {
+                    "id": "2674d3f9-d01c-4214-bf9f-daa9b498e5fa",
+                    "type": "map"
+                },
+                {
+                    "id": "84741cd3-f814-4af6-9a55-a10e7f6e3131",
+                    "type": "map"
+                },
+                {
+                    "id": "df56ddc6-648c-4c93-b0b1-f8341c1f068a",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1148,
+            "localizedTitle": 1147,
+            "playlistName": "TactileTunes",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "75af8e92-92e6-40be-9383-79b9b8a149c9": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/nx/cover/b79214bb8c61a983ec651eda1b004223_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/nx/coverDetails/fd1e2f1b06b3950b3ecab61cbebe4f6f_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/pc/cover/58b594a2dbbc051c437482a8d8500c10_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/pc/coverDetails/d55be9dc4e1da800041892ad8a99c84c_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/ps5/cover/6689d6f78e765830bb15943404171a29_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/ps5/coverDetails/f6954e4de99de47a28c37599945c460f_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/xboxsx/cover/aeb837478d1fac93f4a21f83145e8e06_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/75af8e92-92e6-40be-9383-79b9b8a149c9/xboxsx/coverDetails/fd052f4b05a8dac219d49f95018c05f3_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "92baa074-ae0d-4186-bd45-f592cbbee33f",
+                    "type": "map"
+                },
+                {
+                    "id": "59829ce8-99ca-49b9-9c34-b2fe056ae0c4",
+                    "type": "map"
+                },
+                {
+                    "id": "eb5cee7a-0ced-4396-830f-850f5605eb2e",
+                    "type": "map"
+                },
+                {
+                    "id": "51cf9b4f-cf79-447b-8c69-040e56d331d4",
+                    "type": "map"
+                },
+                {
+                    "id": "eda99f2f-7701-476b-a6b4-0ba4d81bb5fa",
+                    "type": "map"
+                },
+                {
+                    "id": "361c5777-e24b-4851-9a73-1f06d032eb44",
+                    "type": "map"
+                },
+                {
+                    "id": "df56ddc6-648c-4c93-b0b1-f8341c1f068a",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1655,
+            "localizedTitle": 1654,
+            "playlistName": "PartyNight",
+            "tags": []
+        },
+        "9237600e-aa4a-455a-a252-c63d51115a2d": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/nx/cover/2deb443b8bf08b032ddb91c212181ba6_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/nx/coverDetails/f2e12704d7bbac0e9fe7c903340b39ce_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/pc/cover/876f22a5cb4f1e3a8700ce3ae86f0b43_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/pc/coverDetails/641ae594cd06081af7fae7c6b2c52556_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/ps5/cover/bb1cb6736470d10fd7aef2078b13cd17_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/ps5/coverDetails/fc0bb61d06ad034e72b4af6ba0937af2_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/xboxsx/cover/429166c4f7c102ddaf50ef024be9943e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/9237600e-aa4a-455a-a252-c63d51115a2d/xboxsx/coverDetails/e7746351c8b2d90fbcaf58ccb274d56b_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "1d6d36ae-1c10-46b5-a451-246d514a9899",
+                    "type": "map"
+                },
+                {
+                    "id": "e19ff82e-07b1-44ad-b58c-b6fc32c19bfd",
+                    "type": "map"
+                },
+                {
+                    "id": "d0b2e9c9-48c8-4512-a999-46cc49d09dbc",
+                    "type": "map"
+                },
+                {
+                    "id": "1849b539-9741-4a07-81f4-a9c702d5c989",
+                    "type": "map"
+                },
+                {
+                    "id": "b0cdb347-e510-450f-8faf-6038f272d9dc",
+                    "type": "map"
+                },
+                {
+                    "id": "e19abb8e-df05-4b3a-bd78-b8b37ef282ee",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5454,
+            "localizedTitle": 5453,
+            "playlistName": "Live_Season3_SunLovers",
+            "tags": []
+        },
+        "a1b2da1d-efbf-4f86-bb3b-429de3714812": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/nx/cover/1032c2a1d829283cca271eedeaa52460_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/nx/coverDetails/614b8a72534656a0b91cb848cc3a9ca0_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/pc/cover/c805b48c3555a68b79e4833f97f63731_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/pc/coverDetails/efda6794f070be948b983c2fa77ced21_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/ps5/cover/40a6fc34f8dc9b00cba95fd1b86bccc9_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/ps5/coverDetails/5e3372c6a98cde9cf681870e01a50428_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/xboxsx/cover/6ff97309c43997db1069a0e752dd1dc8_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a1b2da1d-efbf-4f86-bb3b-429de3714812/xboxsx/coverDetails/a7e912042a0b448556cdfbcf5d4bce02_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "listSource": "last-played",
+            "localizedDescription": 1161,
+            "localizedTitle": 1160,
+            "playlistName": "LastSession",
+            "recommendedItemType": "map",
+            "tags": []
+        },
+        "a2463438-2269-498b-9422-ec18452125e7": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/nx/cover/fc07fe10db1028dc27046fd64295abd1_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/nx/coverDetails/bff4866fe0706db2c9f60002165688ce_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/pc/cover/2d36dee35c6a57f18fd62a22470a8458_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/pc/coverDetails/70ad25133fccbbc9b36f2a7cbcd118e9_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/ps5/cover/2313141d79e69fd084c537a3f16770f2_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/ps5/coverDetails/46f647efa918e014d2d2be459b5a4946_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/xboxsx/cover/b668cc4bb23ec16e3e8c095f4788be58_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a2463438-2269-498b-9422-ec18452125e7/xboxsx/coverDetails/00934c01d861681115e2ddd55526e989_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "85d1f576-51fa-4052-83a6-c60f09e259a2",
+                    "type": "map"
+                },
+                {
+                    "id": "479f618b-ef81-436b-b783-5db754284678",
+                    "type": "map"
+                },
+                {
+                    "id": "9cf9f55d-1cf1-4cf4-a905-11a4effc4185",
+                    "type": "map"
+                },
+                {
+                    "id": "c32ba84e-917c-4efd-a974-7498e9ac64ce",
+                    "type": "map"
+                },
+                {
+                    "id": "39a8bf1d-bf8a-4abc-8946-e9890e5d145f",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5168,
+            "localizedTitle": 5167,
+            "playlistName": "JD24Rise",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "a4b87234-a736-41e8-9c1c-d9d7bbfc0652": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/nx/cover/9e08519f3b6667b1d178c188908b6e34_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/nx/coverDetails/c90808e0190d376126f80d1ce30f9407_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/pc/cover/059e8a30ef8e3fd1ff06c8bab967c369_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/pc/coverDetails/3c0edd6fa1c4780d25b265239d8e34de_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/ps5/cover/63827ae6a251460dc8fcb9ebd1d581d4_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/ps5/coverDetails/7d426bfc32a5cd2c82d89faee30223c9_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/xboxsx/cover/e7f243f02d4dae0a834a1f4a595ae989_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/a4b87234-a736-41e8-9c1c-d9d7bbfc0652/xboxsx/coverDetails/28769c1b36eb6b9e380c0fe1b67aa003_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "e47f0d1e-fdbe-4276-8c16-c78fbcb76845",
+                    "type": "map"
+                },
+                {
+                    "id": "ada10f10-3ac6-494b-84af-e384b7b47bc2",
+                    "type": "map"
+                },
+                {
+                    "id": "481924a7-492f-4312-99d4-1d1602e7cffe",
+                    "type": "map"
+                },
+                {
+                    "id": "98877403-1578-4fe5-a350-9e964679c795",
+                    "type": "map"
+                },
+                {
+                    "id": "8d0eaa7f-a147-43c1-a637-1f3c3b6feadf",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1140,
+            "localizedTitle": 1139,
+            "playlistName": "CosyCouple",
+            "tags": []
+        },
+        "b1724ab1-8fed-4c28-b99d-0fde1cf1cc48": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/nx/cover/ce19d28c09cfabea81b89be204b87448_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/nx/coverDetails/dfe6727c8bf27a6b35f9b3eb7cf6ced5_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/pc/cover/4a6b1b0119729c5b5ade08076b338983_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/pc/coverDetails/6ffc211f77fe2249b40481e52b7f5733_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/ps5/cover/530d5c1d229e7fa86459a91c43b712ae_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/ps5/coverDetails/b8284df7c3afcd59e865e33b67c78485_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/xboxsx/cover/3411a1ba6cdde3397c00475c42ae15ea_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b1724ab1-8fed-4c28-b99d-0fde1cf1cc48/xboxsx/coverDetails/e0758c90e0e731bbbb9bf13c58efa346_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "a6d5faef-59fc-404a-8299-a863c1a08bdd",
+                    "type": "map"
+                },
+                {
+                    "id": "23db4965-28a9-4de5-9579-8da32e821367",
+                    "type": "map"
+                },
+                {
+                    "id": "4ce1fa3c-f71a-4ae3-b153-166772273d06",
+                    "type": "map"
+                },
+                {
+                    "id": "d315360e-5362-41b2-8171-17b288b411d1",
+                    "type": "map"
+                },
+                {
+                    "id": "738c18c6-88eb-4a5b-9812-a4cc70833d48",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5180,
+            "localizedTitle": 5179,
+            "playlistName": "Crescendo",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "b4f4c3fc-818b-40a9-80c0-108e836b8005": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/nx/cover/e0eff8293987b5481804028470ca9154_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/nx/coverDetails/afdd8fffa8fb806157cf8836645b7eea_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/pc/cover/5524f0fc58a8dd084147b0a6c9e49041_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/pc/coverDetails/223879a4a90bd21b0168e21ae26239f2_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/ps5/cover/8e725f0e201c8da5be8d2e1b4f2a5452_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/ps5/coverDetails/a26d57c336572140935aa687c9087538_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/xboxsx/cover/dc18a2926ec2b88bab04d6090b8a7e77_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b4f4c3fc-818b-40a9-80c0-108e836b8005/xboxsx/coverDetails/ec7779d3f9e55c6e7477d83c09098e51_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "05581238-16ac-411a-a3b3-12980fe7012c",
+                    "type": "map"
+                },
+                {
+                    "id": "5dbb9170-512c-4e7d-85bd-927f55785386",
+                    "type": "map"
+                },
+                {
+                    "id": "fbf5f4f3-8718-4268-8602-90620d024b5f",
+                    "type": "map"
+                },
+                {
+                    "id": "7bd1f129-5350-42b3-92bf-dbfe85583ef9",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5184,
+            "localizedTitle": 5183,
+            "playlistName": "Oldies",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "b7a29ad5-e57c-4ce2-9739-1c42474ee876": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/nx/cover/853dc325de7613fc90b0496bf057eeca_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/nx/coverDetails/230588b7b1a53fc6b3f458438473a3ec_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/pc/cover/65a2eb7e089540dfc4664780ed13e89a_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/pc/coverDetails/aaa30ea32aebdb3085ec7d360abec19f_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/ps5/cover/107a72fc348a1f8fb7f7f293dcdef6f4_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/ps5/coverDetails/b2503793fae1d29b874cea546c072e67_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/xboxsx/cover/eb4e791f708b3c795a5b6bcea7a2bd5d_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b7a29ad5-e57c-4ce2-9739-1c42474ee876/xboxsx/coverDetails/48f41caa71832a23ec963dfff554d99b_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "a295deac-a21e-47bd-bff9-4c8fe64cc1d6",
+                    "type": "map"
+                },
+                {
+                    "id": "7bd1f129-5350-42b3-92bf-dbfe85583ef9",
+                    "type": "map"
+                },
+                {
+                    "id": "f36ead26-125e-4c20-8855-3773aba98e79",
+                    "type": "map"
+                },
+                {
+                    "id": "a6d5faef-59fc-404a-8299-a863c1a08bdd",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5172,
+            "localizedTitle": 5171,
+            "playlistName": "JD24Party",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "b96a4cd0-43c9-4575-b4ef-de4d39c3edd3": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/nx/cover/85ed0600098b538180e0530e7f7425a5_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/nx/coverDetails/0481de9a93566222da3ab0fe6b9d04b8_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/pc/cover/2ee774683a5eb6fe3e8637995cb0682e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/pc/coverDetails/20cb3af405e7e2cceefa4390e4d2b59f_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/ps5/cover/3a995ae80ca43c7dec53c2634fe0a00f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/ps5/coverDetails/b3c4d66c2eac22bfa2ed544a9b5bd43d_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/xboxsx/cover/a9d3cdcc167ce17ab7aa50ec9f41428e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/b96a4cd0-43c9-4575-b4ef-de4d39c3edd3/xboxsx/coverDetails/d606ba2f41debed9f2c3c36183d30d0b_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "c211c8e2-e611-42ff-9e99-2ecb942aa731",
+                    "type": "map"
+                },
+                {
+                    "id": "23996ee1-7975-40c7-9214-6f661ab8fb38",
+                    "type": "map"
+                },
+                {
+                    "id": "68e306e7-98b5-41ee-9317-3c915ce4165e",
+                    "type": "map"
+                },
+                {
+                    "id": "2e52b24f-65b4-499b-87c9-27a460705ff3",
+                    "type": "map"
+                },
+                {
+                    "id": "fc5f0e74-9cfc-4b69-b56d-cae5149ef28e",
+                    "type": "map"
+                },
+                {
+                    "id": "b34be788-de2b-4654-af76-d61bae3c99be",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1631,
+            "localizedTitle": 1630,
+            "playlistName": "Disney",
+            "tags": []
+        },
+        "c435f338-b694-4d78-b892-95424884fd41": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/nx/cover/7e228f54ad82a50fdb1d73e2876e7cef_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/nx/coverDetails/c030366789c1c853f6e3d8f5860740dd_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/pc/cover/7ef3049a2244c34cece8ef638e0338f0_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/pc/coverDetails/787ccf9e40d6e2615f6c9bb6ac7c4253_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/ps5/cover/5ab730f6ae924907e822c22dd96673a6_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/ps5/coverDetails/e8c856c8e29cbb18c528753fe98cf237_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/xboxsx/cover/e230eeef90970a8f7c89772faf454c8f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c435f338-b694-4d78-b892-95424884fd41/xboxsx/coverDetails/702328748d65ea6ef84e0977aeca2b5c_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "e1b28024-d93b-485f-a8f8-9e656c66c1be",
+                    "type": "map"
+                },
+                {
+                    "id": "2c8720f6-01ee-4969-a95e-3add0311bd42",
+                    "type": "map"
+                },
+                {
+                    "id": "e19abb8e-df05-4b3a-bd78-b8b37ef282ee",
+                    "type": "map"
+                },
+                {
+                    "id": "2674d3f9-d01c-4214-bf9f-daa9b498e5fa",
+                    "type": "map"
+                },
+                {
+                    "id": "78d1c627-d449-4f25-b847-c71dd42b3624",
+                    "type": "map"
+                },
+                {
+                    "id": "621d8ccb-f688-4c8b-8b3e-7f89cc8f573b",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1661,
+            "localizedTitle": 1660,
+            "playlistName": "JD23Party",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "c4cdeeee-da41-4193-aa5c-f83dc5c6c57b": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/nx/cover/d8cc355bfeab2e2679bd1cdcb78599e1_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/nx/coverDetails/a00067049d6800d6b504eb420dcca631_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/pc/cover/3fc2824737e97993dd614b72a5c9c742_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/pc/coverDetails/e80ae0d35409dcf9b20ec2997a758216_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/ps5/cover/f0e81a4fff690cebd16e0da7bd72f0eb_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/ps5/coverDetails/d26522e16167920b828783b98a7cbc7a_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/xboxsx/cover/bc1683504b5885a9bacd14a569c8fd34_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/c4cdeeee-da41-4193-aa5c-f83dc5c6c57b/xboxsx/coverDetails/58aea8524eea493a8aed560769d7acb7_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "6a606ccf-8724-4951-9531-6b4dfbaf4e05",
+                    "type": "map"
+                },
+                {
+                    "id": "50ce2fdf-6889-4710-9380-d22f31f12776",
+                    "type": "map"
+                },
+                {
+                    "id": "2f6d3337-9d4c-4b25-b5c8-df8d03158501",
+                    "type": "map"
+                },
+                {
+                    "id": "85d1f576-51fa-4052-83a6-c60f09e259a2",
+                    "type": "map"
+                },
+                {
+                    "id": "17d58086-187e-4375-b5a3-7abc30242ff6",
+                    "type": "map"
+                },
+                {
+                    "id": "dc1ba237-33e6-45de-a6bb-9bee4a9bad96",
+                    "type": "map"
+                },
+                {
+                    "id": "f732fc07-8e50-443b-913e-77bf16be0c28",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5164,
+            "localizedTitle": 5163,
+            "playlistName": "JD24Story",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "cd7ba207-8ed3-42d9-bc72-3f1c62165db3": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/nx/cover/76d7ca26dbe5c245e24ba1ca67358baf_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/nx/coverDetails/4887cc61d5411bb91fe3703059b461a7_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/pc/cover/58cee0aa9c2b557659570f4500570046_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/pc/coverDetails/2a1aea695d28305c1fa0819d668eb9a9_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/ps5/cover/a917d0bc6a08e633e6bcd727ae4ead98_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/ps5/coverDetails/015d213c485bf5abf4476a7260c0099e_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/xboxsx/cover/45bda73d3ac16c6e6e6b9282e7bc7ab3_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cd7ba207-8ed3-42d9-bc72-3f1c62165db3/xboxsx/coverDetails/e0d6e46c24abb259b367b77ed2773b5e_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "18b051c6-b3e9-42a8-b378-86bb0020dc37",
+                    "type": "map"
+                },
+                {
+                    "id": "eb5cee7a-0ced-4396-830f-850f5605eb2e",
+                    "type": "map"
+                },
+                {
+                    "id": "7a6ff0cd-53e5-4eb9-a2ac-c8261f6fe0c0",
+                    "type": "map"
+                },
+                {
+                    "id": "df74f045-89e0-4fd8-9d9e-96a6c3d5794a",
+                    "type": "map"
+                },
+                {
+                    "id": "8dfcfaa6-c429-4093-a525-868934889f0e",
+                    "type": "map"
+                },
+                {
+                    "id": "04ad357d-d568-4b7f-930c-38e5984e20ed",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1163,
+            "localizedTitle": 1162,
+            "playlistName": "SassItUp",
+            "tags": []
+        },
+        "cf47d5cc-bc1a-405e-be22-2f6785dbf1f1": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/nx/cover/d8d53115fd905180eb9518c97e141405_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/nx/coverDetails/45ff7028f9064400d08324a7df146c5d_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/pc/cover/7987d52805ee0d0f074032619dad80b8_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/pc/coverDetails/2fa7124090e7bb867740f5f126981bb2_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/ps5/cover/292f25a3b6681b5068e9974c55e0d659_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/ps5/coverDetails/7b9d51f0b8c2432e05ca36571bfd5618_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/xboxsx/cover/897ebb490028e4a649ccb8977dfb1730_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/cf47d5cc-bc1a-405e-be22-2f6785dbf1f1/xboxsx/coverDetails/84af15f37507b75fc170e076e5e51b4f_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "6a72e47d-b7e7-482d-9bec-5f9d3feadec3",
+                    "type": "map"
+                },
+                {
+                    "id": "8f39a4aa-d486-4cbc-ba00-a988db99eea4",
+                    "type": "map"
+                },
+                {
+                    "id": "a025a981-7c5d-4ad6-bd7e-5c73897d3dcf",
+                    "type": "map"
+                },
+                {
+                    "id": "de4840cf-c1bf-442e-b8af-23d3ae0f93d1",
+                    "type": "map"
+                },
+                {
+                    "id": "7a6ff0cd-53e5-4eb9-a2ac-c8261f6fe0c0",
+                    "type": "map"
+                },
+                {
+                    "id": "1c602eb4-6ec2-4804-a55d-e4ab6fb2562b",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1665,
+            "localizedTitle": 1664,
+            "playlistName": "JD23Shine",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "d2abc59a-3ea7-43fb-951d-3c8e1cc49e02": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/nx/cover/4ae52d6923d541586728036f2600a21f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/nx/coverDetails/3f82f66ef3a104e67285af8bdee830da_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/pc/cover/05a859d1fed175b71ba503f3b3d16d73_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/pc/coverDetails/5de243bd66d8a69686518a9087087cba_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/ps5/cover/01f09c4e786390b85c3f4c020059aba7_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/ps5/coverDetails/c3782288b610804570aaa4949b3af097_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/xboxsx/cover/24fe0eba094640ccb2839fe39dd7db96_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d2abc59a-3ea7-43fb-951d-3c8e1cc49e02/xboxsx/coverDetails/54eab4503cadfeaec43102d7701f12bc_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "listSource": "reco-top-world",
+            "localizedDescription": 1157,
+            "localizedTitle": 1156,
+            "playlistName": "TopWorld",
+            "recommendedItemType": "map",
+            "tags": []
+        },
+        "d440b7c2-3def-42a3-a8ff-003e61495ae9": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/nx/cover/01b7f375d10692737f0fbbd1256431f0_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/nx/coverDetails/cf5fa9beaa2d3dce6937218840dcb818_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/pc/cover/c08fd757c0b7f24f225e3c85c04d5847_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/pc/coverDetails/bee59de3c9a27bd3abed904808e3d76d_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/ps5/cover/7e0bdd90a60b58ca2233f70b38c75d1c_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/ps5/coverDetails/ff02efb3c9d2740c6273a352a0f42afe_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/xboxsx/cover/1c5e13b11d90357482153c2b98e012f3_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/d440b7c2-3def-42a3-a8ff-003e61495ae9/xboxsx/coverDetails/01466aaf9e5790d84eac2c783fbf147d_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "304a4540-7f8c-425f-82b6-7a702618b6d5",
+                    "type": "map"
+                },
+                {
+                    "id": "03b17666-59f1-4475-9ad5-eed0b7dc9973",
+                    "type": "map"
+                },
+                {
+                    "id": "21362a0a-8a5f-4cad-86b4-0f09418971ff",
+                    "type": "map"
+                },
+                {
+                    "id": "2ef0c0a6-b13b-467b-922b-839c931474c2",
+                    "type": "map"
+                },
+                {
+                    "id": "0ec9b1ce-9dd9-4fd7-848f-86a9830b7653",
+                    "type": "map"
+                },
+                {
+                    "id": "f94f8520-7553-40d9-a117-83edfa18a482",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1179,
+            "localizedTitle": 1178,
+            "playlistName": "Invincible",
+            "tags": []
+        },
+        "e487e024-1716-4c1b-a04a-11f95be123d7": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/nx/cover/580103f67c116060a6eb01cfb93621e3_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/nx/coverDetails/fb662ae9a9bf0bbc5c6125045ea28e88_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/pc/cover/baa13915bfec78dbd8c6cecb909f2352_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/pc/coverDetails/f501073c7cd182dc7ebe1ba242dd67bb_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/ps5/cover/5655eaa5c123cdaab2588f50c66584f1_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/ps5/coverDetails/9a548c4e19f40174d25ce817dd3e713d_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/xboxsx/cover/da8142c6c6202ef78d4e5b60af5d4311_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/e487e024-1716-4c1b-a04a-11f95be123d7/xboxsx/coverDetails/312d8cbd674082a9c2e5209b7d6e3fc7_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "2f6d3337-9d4c-4b25-b5c8-df8d03158501",
+                    "type": "map"
+                },
+                {
+                    "id": "edcef48f-657e-4cd0-8614-2832979a5469",
+                    "type": "map"
+                },
+                {
+                    "id": "06567a49-9413-4208-8366-ab442ac408e3",
+                    "type": "map"
+                },
+                {
+                    "id": "a8b60c7b-c2c1-4117-bf3c-eeb6d2ef2898",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5174,
+            "localizedTitle": 5173,
+            "playlistName": "JD24Workout",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "f89002f3-6f87-4ade-95f9-b26a869b8092": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/nx/cover/edf169d5f8f731b5670ca123ce0d74c6_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/nx/coverDetails/bd9b68fe0d6ae2fe1153f32acdc402be_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/pc/cover/39aee8f7c156f2f59500d9ab32d617ee_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/pc/coverDetails/be7f34f8eb33471812c24b3bcc686569_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/ps5/cover/9c8820db974742cc2a7e557103587baa_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/ps5/coverDetails/973a92fa0e234556bd61e0c20300a1af_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/xboxsx/cover/1891f317ff139242af29c3355cc8188f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f89002f3-6f87-4ade-95f9-b26a869b8092/xboxsx/coverDetails/449d5433b20cbb0b74651d0deabe2216_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "d1c9dff3-edf5-494a-960c-0aaeaeea571a",
+                    "type": "map"
+                },
+                {
+                    "id": "fd615782-970a-44f1-b05f-04d92e25d1fc",
+                    "type": "map"
+                },
+                {
+                    "id": "e9b9a29d-e754-4f68-8151-d242280ba76d",
+                    "type": "map"
+                },
+                {
+                    "id": "05581238-16ac-411a-a3b3-12980fe7012c",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5176,
+            "localizedTitle": 5175,
+            "playlistName": "JD24Easy",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "f8fab0ee-4db3-4058-9f5e-57ae168a6517": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/nx/cover/1511904c17771c0555b1cec5138cd2f1_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/nx/coverDetails/5fda4382f415931011633d4c0afd957d_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/pc/cover/f531dc3e9a3fda6ac9a5c704d4611960_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/pc/coverDetails/bb58f49a4ac1a8a4ddac1660c2345ff9_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/ps5/cover/28974a0a4789214858e6384fa2fffe8f_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/ps5/coverDetails/4132df5705f87543238bda2f98b3ceec_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/xboxsx/cover/5118719dd32632cf323cf915274895e6_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/f8fab0ee-4db3-4058-9f5e-57ae168a6517/xboxsx/coverDetails/a924879882307bc2dee6924820afb96a_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "126c5d54-d3ff-4df8-ab02-ccce3f4720ca",
+                    "type": "map"
+                },
+                {
+                    "id": "ad1e4dcf-85be-4b30-bc12-dbe06a2c13da",
+                    "type": "map"
+                },
+                {
+                    "id": "52e439ba-6af2-46d3-88c1-0f5f8fd12f14",
+                    "type": "map"
+                },
+                {
+                    "id": "17d58086-187e-4375-b5a3-7abc30242ff6",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 5170,
+            "localizedTitle": 5169,
+            "playlistName": "JD24Shine",
+            "tags": [
+                "0c9e077f-4199-4717-adb2-80f452a0bfce"
+            ]
+        },
+        "fdb6317a-c4e1-4326-88e3-fb1969b80a0b": {
+            "assets": {
+                "android": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist3/android/cover/6f061380b3344aa7912929809e000b32_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/playlist3/android/coverDetails/a52f3dce69df2a5b891221fe8dec7086_en.bundle"
+                        }
+                    }
+                },
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/nx/cover/76cc0416798daffc2c57e7b7b6586bfd_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/nx/coverDetails/e5604b491c5bd8f106ad1378bd60381a_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/pc/cover/e069065f1d2093a01127a2a7f6749223_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/pc/coverDetails/949b2fb99bd88c95687a6766d971e1de_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/ps5/cover/b9a222872b8d42e488fe9e40be24ef6b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/ps5/coverDetails/af7e3423d737498f60e015e9d8499e56_en.bundle"
+                        }
+                    }
+                },
+                "stadia": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/stadia/cover/3de07a4bd23d490df62daae726c44533_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/stadia/coverDetails/4df2a5f8db560305d1b79f3a9f93db5c_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/xboxsx/cover/9c055cfd4508f09f2ff6c85354a64fe3_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fdb6317a-c4e1-4326-88e3-fb1969b80a0b/xboxsx/coverDetails/c2f33b7cd07e8c29bacc8a7118230570_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "7462344f-f2ae-4041-9936-fbd1361356c2",
+                    "type": "map"
+                },
+                {
+                    "id": "d13cc3b2-1fba-4c0c-a493-b81d3eec18d3",
+                    "type": "map"
+                },
+                {
+                    "id": "a231e52e-9dca-445f-b133-c9c336f630c5",
+                    "type": "map"
+                },
+                {
+                    "id": "11e61a1f-68f8-4bdd-a11b-b0d653efab83",
+                    "type": "map"
+                },
+                {
+                    "id": "b286d99f-8419-498c-8a5c-1608e6333c6a",
+                    "type": "map"
+                },
+                {
+                    "id": "8dfcfaa6-c429-4093-a525-868934889f0e",
+                    "type": "map"
+                },
+                {
+                    "id": "880489a0-eb6c-4c06-99c8-a897f8f70d56",
+                    "type": "map"
+                },
+                {
+                    "id": "27222e41-98f5-4e1a-8d09-648e97d37d5e",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1668,
+            "localizedTitle": 759,
+            "offers": [],
+            "playlistName": "DiscoverJD23",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        },
+        "fe6684e4-0486-4b2a-8b64-48c130b93de1": {
+            "assets": {
+                "nx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/nx/cover/842bcd6cd49c27da873448354391eacd_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/nx/coverDetails/a8ce2ae2d52fb4ff9dc93dda11b39cbd_en.bundle"
+                        }
+                    }
+                },
+                "pc": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/pc/cover/f4960486ef5c86f1076b12590e59806e_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/pc/coverDetails/cca27b1dde6623822636d7b21b4a4618_en.bundle"
+                        }
+                    }
+                },
+                "ps5": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/ps5/cover/13b50e538fd39d286d853590b10fc9bd_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/ps5/coverDetails/9e70a2d648ff41b7badbe3e9b31cdc6a_en.bundle"
+                        }
+                    }
+                },
+                "xboxsx": {
+                    "v0": {
+                        "en": {
+                            "cover": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/xboxsx/cover/bb9c43c0c68b5a1a2513eec7e7c6293b_en.bundle",
+                            "coverDetails": "https://jd-s3.cdn.ubi.com/public/jdnext/playlists/fe6684e4-0486-4b2a-8b64-48c130b93de1/xboxsx/coverDetails/787c79ab704cfde1be85add0f7f8721c_en.bundle"
+                        }
+                    }
+                }
+            },
+            "defaultLanguage": "en",
+            "hidden": false,
+            "itemList": [
+                {
+                    "id": "7462344f-f2ae-4041-9936-fbd1361356c2",
+                    "type": "map"
+                },
+                {
+                    "id": "080dd82d-df95-4da1-a564-39be209d296a",
+                    "type": "map"
+                },
+                {
+                    "id": "5df71fa5-36f4-4cdc-b50b-efc282f8cdd7",
+                    "type": "map"
+                },
+                {
+                    "id": "287450b8-1fa0-4b5b-8717-fac45e601c54",
+                    "type": "map"
+                },
+                {
+                    "id": "6a72e47d-b7e7-482d-9bec-5f9d3feadec3",
+                    "type": "map"
+                },
+                {
+                    "id": "5ca43845-fa4d-4618-b046-854701cae4ed",
+                    "type": "map"
+                },
+                {
+                    "id": "1772be08-3608-48dc-996c-b42b08ad382f",
+                    "type": "map"
+                }
+            ],
+            "listSource": "editorial",
+            "localizedDescription": 1620,
+            "localizedTitle": 1244,
+            "playlistName": "EnterDanceverses",
+            "tags": [
+                "bcf1628d-5913-42fd-b08d-3670c266e805"
+            ]
+        }
+    },
+    "showcasePlaylists": []
+}

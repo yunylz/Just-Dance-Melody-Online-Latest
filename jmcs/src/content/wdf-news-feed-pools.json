@@ -1,0 +1,18 @@
+{
+    "Priority1_CountDown": {
+        "newsCount": 8,
+        "position": 0
+    },
+    "Priority2_Stats": {
+        "newsCount": 7,
+        "position": 1
+    },
+    "Priority3_Tips": {
+        "newsCount": 2,
+        "position": 2
+    },
+    "Test": {
+        "newsCount": 0,
+        "position": 3
+    }
+}

@@ -1,0 +1,2499 @@
+{
+    "052d27e0-fc24-435e-af37-641d11b8525a": {
+        "comVideoId": "052d27e0-fc24-435e-af37-641d11b8525a",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/052d27e0-fc24-435e-af37-641d11b8525a/en/autodance.mp4/4549ae5cb79e1897fc583a14bdb719c6.mp4",
+                        "versions": [
+                            1500350561789
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/052d27e0-fc24-435e-af37-641d11b8525a/en/autodance.webm/5f93637c984b9dca426920221cec69b3.webm",
+                        "versions": [
+                            1500350559887
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/052d27e0-fc24-435e-af37-641d11b8525a/en/autodance_t0_m1.jpg/e1c55e34d5b9b4727822dd53798e6e73.jpg",
+                        "versions": [
+                            1500350565789
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/052d27e0-fc24-435e-af37-641d11b8525a/en/autodance_t0_m2.jpg/e1c55e34d5b9b4727822dd53798e6e73.jpg",
+                        "versions": [
+                            1500350563908
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song \"Wake Me Up Before You Go-Go\" by Wham! As featured in The Emoji Movie!",
+                "title": "New July Songs\t"
+            }
+        }
+    },
+    "0be3ba1c-2f8e-4cfb-a95f-c30c69739a81": {
+        "comVideoId": "0be3ba1c-2f8e-4cfb-a95f-c30c69739a81",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-07-25T07:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance.mp4/0afb53bbf557b7cdf282f9219a9577ff.mp4"
+                    },
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance.webm/5b0f1eb7e13e745833e9c6ce3a6db835.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance_t0_m1.jpg/fb0f92284d393bdf6772acbf1a36c577.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/0be3ba1c-2f8e-4cfb-a95f-c30c69739a81/en/autodance_t0_m2.jpg/fb0f92284d393bdf6772acbf1a36c577.jpg"
+                    }
+                },
+                "description": "Check out our favorite Crazy Costumes Autodances!",
+                "title": "Top Autodances: Crazy Costumes Edition"
+            }
+        }
+    },
+    "119b5a19-5120-46f8-a97c-278b46dd9c68": {
+        "comVideoId": "119b5a19-5120-46f8-a97c-278b46dd9c68",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-29T15:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/119b5a19-5120-46f8-a97c-278b46dd9c68/en/autodance.webm/c3ec390bdbe3b0301f21e2aaf4be34cf.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/119b5a19-5120-46f8-a97c-278b46dd9c68/en/autodance_t0_m1.jpg/d2d1ff19cb4a5eb3b81b8eab9c9fcb30.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/119b5a19-5120-46f8-a97c-278b46dd9c68/en/autodance_t0_m2.jpg/d2d1ff19cb4a5eb3b81b8eab9c9fcb30.jpg"
+                    }
+                },
+                "description": "UbiMouss challenges you to send your craziest selfie and get a chance to win an exclusive Selfie Stick! ",
+                "title": "Just Dance Selfie Challenge!"
+            }
+        }
+    },
+    "14553292-1e54-4296-a449-63814152eb28": {
+        "comVideoId": "14553292-1e54-4296-a449-63814152eb28",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-08-10T10:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance.mp4/9a1d20098bd04dfafa3f6e22d3c229ab.mp4",
+                        "versions": [
+                            1500654149216,
+                            1502353726667
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance.webm/d371e6bdc0bfd611085b964cfde899d3.webm",
+                        "versions": [
+                            1500654146235,
+                            1502353723489
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance_t0_m1.jpg/3b7914b0009220c914574eab32250c0e.jpg",
+                        "versions": [
+                            1500654153501
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/14553292-1e54-4296-a449-63814152eb28/en/autodance_t0_m2.jpg/3b7914b0009220c914574eab32250c0e.jpg",
+                        "versions": [
+                            1500654152431
+                        ]
+                    }
+                },
+                "description": "We’re back with another Dance Lesson. Learn the choreo from fan-favorite Bailar!",
+                "title": "Dance Lesson: Bailar by Deorro ft. Elvis Crespo"
+            }
+        }
+    },
+    "16a426bb-86bd-4001-ba7f-f51b6ab176b5": {
+        "comVideoId": "16a426bb-86bd-4001-ba7f-f51b6ab176b5",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-04-28T09:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2017",
+                        "jdcompanion"
+                    ],
+                    "platform": [
+                        "ps4",
+                        "x1",
+                        "pc",
+                        "android",
+                        "ios"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance.mp4/081b416a97b40084056a7cb35db7ebc5.mp4",
+                        "versions": [
+                            1493372143798
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance.webm/ebfe16573886d065771b8eedb2ddf607.webm",
+                        "versions": [
+                            1493372140998,
+                            1493374858687
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance_t0_m1.jpg/5209eb9311c0a782e02300f003640148.jpg",
+                        "versions": [
+                            1493372148840,
+                            1493390459342
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/16a426bb-86bd-4001-ba7f-f51b6ab176b5/en/autodance_t0_m2.jpg/5209eb9311c0a782e02300f003640148.jpg",
+                        "versions": [
+                            1493372147159,
+                            1493390458208
+                        ]
+                    }
+                },
+                "description": "Set the dancefloor on fire by learning this \nhot routine from the Scream & Shout map.",
+                "title": "Just Dance Class: Scream & Shout"
+            }
+        }
+    },
+    "19f9091e-018a-4eb4-81a0-f8b8e34f7ac6": {
+        "comVideoId": "19f9091e-018a-4eb4-81a0-f8b8e34f7ac6",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-18T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/19f9091e-018a-4eb4-81a0-f8b8e34f7ac6/en/autodance.webm/cb32bcafd5289feffac16275375c9356.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/19f9091e-018a-4eb4-81a0-f8b8e34f7ac6/en/autodance_t0_m1.jpg/645fb6d428cdfca15e6ca4fa7144b8ff.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/19f9091e-018a-4eb4-81a0-f8b8e34f7ac6/en/autodance_t0_m2.jpg/645fb6d428cdfca15e6ca4fa7144b8ff.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: New Year’s Edition"
+            }
+        }
+    },
+    "1fc659e3-01b5-4631-b7ec-66f7366acef7": {
+        "comVideoId": "1fc659e3-01b5-4631-b7ec-66f7366acef7",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/1fc659e3-01b5-4631-b7ec-66f7366acef7/en/autodance.mp4/71503b2bbe00fd5dd97742a68b692a2b.mp4",
+                        "versions": [
+                            1488794857238
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/1fc659e3-01b5-4631-b7ec-66f7366acef7/en/autodance.webm/a429f0ada6e711f1027e3c78be22b3c3.webm",
+                        "versions": [
+                            1488794854907
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/1fc659e3-01b5-4631-b7ec-66f7366acef7/en/autodance_t0_m1.jpg/46c3c52a4daf1570a43f232bfff59b2f.jpg",
+                        "versions": [
+                            1488794861292,
+                            1488795523602,
+                            1488796108385
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/1fc659e3-01b5-4631-b7ec-66f7366acef7/en/autodance_t0_m2.jpg/46c3c52a4daf1570a43f232bfff59b2f.jpg",
+                        "versions": [
+                            1488794860226
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “Me Too” by  Meghan Trainor!\nPlus awesome new content!",
+                "title": "New February Songs"
+            }
+        }
+    },
+    "2cca3a27-ba98-40c5-bae1-379333367f38": {
+        "comVideoId": "2cca3a27-ba98-40c5-bae1-379333367f38",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/2cca3a27-ba98-40c5-bae1-379333367f38/en/autodance.mp4/79d49665db556ad5a8d24e4f2e162b03.mp4",
+                        "versions": [
+                            1491311423124
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/2cca3a27-ba98-40c5-bae1-379333367f38/en/autodance.webm/910d5c5bd9319ec6c840400fbd6870eb.webm",
+                        "versions": [
+                            1491311419985
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/2cca3a27-ba98-40c5-bae1-379333367f38/en/autodance_t0_m1.jpg/7128176b9271b9f0fac67910a9b406c6.jpg",
+                        "versions": [
+                            1491311426921
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/2cca3a27-ba98-40c5-bae1-379333367f38/en/autodance_t0_m2.jpg/7128176b9271b9f0fac67910a9b406c6.jpg",
+                        "versions": [
+                            1491311425598
+                        ]
+                    }
+                },
+                "description": "UbiMouss interviews the winner of this year’s Just Dance World Cup!",
+                "title": "Just Dance World Cup Final Report"
+            }
+        }
+    },
+    "36c16cca-baf9-47d2-9609-08ac2282c89e": {
+        "comVideoId": "36c16cca-baf9-47d2-9609-08ac2282c89e",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-06-08T04:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ],
+                    "platform": [
+                        "nx",
+                        "wiiu",
+                        "ps4",
+                        "x1",
+                        "pc",
+                        "android",
+                        "ios"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance.mp4/68d003d3e396022af57065f1fdfe4cd3.mp4",
+                        "versions": [
+                            1496898729205
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance.webm/0b908ef2c20d441f9c27dd384831ec67.webm",
+                        "versions": [
+                            1496898727109,
+                            1496901278337,
+                            1496912509616
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance_t0_m1.jpg/9e2d8fbeef9cb6ee0e263338c2dacf69.jpg",
+                        "versions": [
+                            1496898738235,
+                            1496901542507,
+                            1496902016081
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/36c16cca-baf9-47d2-9609-08ac2282c89e/en/autodance_t0_m2.jpg/9e2d8fbeef9cb6ee0e263338c2dacf69.jpg",
+                        "versions": [
+                            1496898736509,
+                            1496901541400,
+                            1496902014891
+                        ]
+                    }
+                },
+                "description": "Take a sneak peak at what hot songs you'll find in Just Dance 2018!",
+                "title": "Just Dance 2018 Song List"
+            }
+        }
+    },
+    "3858fd5e-cd90-41ec-8666-801bf63f5ee7": {
+        "comVideoId": "3858fd5e-cd90-41ec-8666-801bf63f5ee7",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-09-20T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3858fd5e-cd90-41ec-8666-801bf63f5ee7/en/autodance.webm/5db2c683e89d5fd132d7c02f4f0638bc.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3858fd5e-cd90-41ec-8666-801bf63f5ee7/en/autodance_t0_m1.jpg/fd95c76808d5c7650aadab52b1d24e2c.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3858fd5e-cd90-41ec-8666-801bf63f5ee7/en/autodance_t0_m2.jpg/fd95c76808d5c7650aadab52b1d24e2c.jpg"
+                    }
+                },
+                "description": "Learn the moves from the Just Dance choreographers themselves in this\nspecial video series!",
+                "title": "Just Dance Class – Chiwawa"
+            }
+        }
+    },
+    "3c7d704d-2f53-47c2-bd32-5bbdb71893a1": {
+        "comVideoId": "3c7d704d-2f53-47c2-bd32-5bbdb71893a1",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3c7d704d-2f53-47c2-bd32-5bbdb71893a1/en/autodance.webm/dfcf8222d17c9d31b2d4dc4bc0b2c5f2.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3c7d704d-2f53-47c2-bd32-5bbdb71893a1/en/autodance_t0_m1.jpg/3bf5f30dc40540bf557b695257ca3c90.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/3c7d704d-2f53-47c2-bd32-5bbdb71893a1/en/autodance_t0_m2.jpg/3bf5f30dc40540bf557b695257ca3c90.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: April Edition"
+            }
+        }
+    },
+    "413b4341-d69f-44b7-8f50-9d47f81327ed": {
+        "comVideoId": "413b4341-d69f-44b7-8f50-9d47f81327ed",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/413b4341-d69f-44b7-8f50-9d47f81327ed/en/autodance.webm/09ca0092ec4e75b451e772fbc22eaafd.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/413b4341-d69f-44b7-8f50-9d47f81327ed/en/autodance_t0_m1.jpg/bc43381490f23fbf51a8f11abbbffabd.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/413b4341-d69f-44b7-8f50-9d47f81327ed/en/autodance_t0_m2.jpg/bc43381490f23fbf51a8f11abbbffabd.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Hold My Hand” \nby Jess Glynne!\nPlus awesome new content!",
+                "title": "New May Songs"
+            }
+        }
+    },
+    "43965808-705c-461c-962f-a59050df4068": {
+        "comVideoId": "43965808-705c-461c-962f-a59050df4068",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/43965808-705c-461c-962f-a59050df4068/en/autodance.webm/f9ec320ce0ae741518d45f6ac5e03be6.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/43965808-705c-461c-962f-a59050df4068/en/autodance_t0_m1.jpg/78a052ee6c3fa12b18b05241472fc66e.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/43965808-705c-461c-962f-a59050df4068/en/autodance_t0_m2.jpg/78a052ee6c3fa12b18b05241472fc66e.jpg"
+                    }
+                },
+                "description": "Just Dance superfan TexBlock takes us to Berlin!",
+                "title": "Festival of Happiness in Berlin"
+            }
+        }
+    },
+    "497fea03-8a6e-491f-868f-24249923bae8": {
+        "comVideoId": "497fea03-8a6e-491f-868f-24249923bae8",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-26T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/497fea03-8a6e-491f-868f-24249923bae8/en/autodance.webm/e0433e52371e8c0d5af29aac32ed24ac.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/497fea03-8a6e-491f-868f-24249923bae8/en/autodance_t0_m1.jpg/e0ffdd92b51c6a34c295f991bb2aa538.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/497fea03-8a6e-491f-868f-24249923bae8/en/autodance_t0_m2.jpg/e0ffdd92b51c6a34c295f991bb2aa538.jpg"
+                    }
+                },
+                "description": "Australian dancer Jayden Rodrigues goes on a Just Dance journey!",
+                "title": "Just Dance 2016 'Mashup' by Jayden Rodrigues"
+            }
+        }
+    },
+    "4c05909c-54cc-4395-9e05-6ae24c232609": {
+        "comVideoId": "4c05909c-54cc-4395-9e05-6ae24c232609",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-06-12T06:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "da": {
+                "description": "Let’s take a moment to appreciate our fathers with this special Top Autodance!"
+            },
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance.mp4/3cfc153fee4c0fb4c8f80771e90859a7.mp4",
+                        "versions": [
+                            1497259334194,
+                            1497428636222,
+                            1497436119852,
+                            1497521948015,
+                            1497528437965
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance.webm/a86e8511d0661b2478f0b1ef11e370ea.webm",
+                        "versions": [
+                            1497259326086,
+                            1497342003962,
+                            1497344679214,
+                            1497346755392
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance_t0_m1.jpg/b9acf3dc674a63786f2a97df0230b1a8.jpg",
+                        "versions": [
+                            1497259338270,
+                            1497262157398
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4c05909c-54cc-4395-9e05-6ae24c232609/en/autodance_t0_m2.jpg/b9acf3dc674a63786f2a97df0230b1a8.jpg",
+                        "versions": [
+                            1497259336253,
+                            1497262156222
+                        ]
+                    }
+                },
+                "description": "Let’s take a moment to appreciate our fathers with this special Top Autodance!",
+                "title": "Top Autodance: Fathers Edition"
+            }
+        }
+    },
+    "4d0fd29e-1a85-41bf-92ac-6a759fe98df3": {
+        "comVideoId": "4d0fd29e-1a85-41bf-92ac-6a759fe98df3",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-04-10T13:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance.mp4/9c4ce78e05bfd550c5cd5c02a76c90bf.mp4",
+                        "versions": [
+                            1491830684467
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance.webm/b63502b4792cf562555eec48cc613ead.webm",
+                        "versions": [
+                            1491830656804
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance_t0_m1.jpg/93e241156a3ffa476d3467e582626597.jpg",
+                        "versions": [
+                            1491830719378,
+                            1491924728231
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4d0fd29e-1a85-41bf-92ac-6a759fe98df3/en/autodance_t0_m2.jpg/93e241156a3ffa476d3467e582626597.jpg",
+                        "versions": [
+                            1491830704834,
+                            1491924725966
+                        ]
+                    }
+                },
+                "description": "UbiMouss presents four types of Just Dancers! Do you recognize yourself in any of them?",
+                "title": "Just Dance Minute - What Kind of Just Dancer Are You?"
+            }
+        }
+    },
+    "4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f": {
+        "comVideoId": "4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-08-08T04:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance.mp4/1e21158a528a6c3aa7f3a854b666a697.mp4",
+                        "versions": [
+                            1500354276036
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance.webm/164ee856b99326b8d4f885c1899fb1d8.webm",
+                        "versions": [
+                            1500354273928
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance_t0_m1.jpg/bc532b3abc8b52925cb416bcf03a36f9.jpg",
+                        "versions": [
+                            1500354279235
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4e92b3dc-3b4d-4759-bd01-6bdd8b50e82f/en/autodance_t0_m2.jpg/bc532b3abc8b52925cb416bcf03a36f9.jpg",
+                        "versions": [
+                            1500354277957
+                        ]
+                    }
+                },
+                "description": "Join fan Avery Price as she takes us through her Just Dance journey.",
+                "title": "A Just Dance Story: Avery"
+            }
+        }
+    },
+    "4fab891f-2133-481c-b6ff-53665dc5d989": {
+        "comVideoId": "4fab891f-2133-481c-b6ff-53665dc5d989",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4fab891f-2133-481c-b6ff-53665dc5d989/en/autodance.mp4/e4404ff6955a468a665d4364b35960bb.mp4"
+                    },
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4fab891f-2133-481c-b6ff-53665dc5d989/en/autodance.webm/4feb3b162503ba84e7cdc84306a403cd.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4fab891f-2133-481c-b6ff-53665dc5d989/en/autodance_t0_m1.jpg/36f884c3e4d0b9f493b11ea2bcf746f9.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/4fab891f-2133-481c-b6ff-53665dc5d989/en/autodance_t0_m2.jpg/36f884c3e4d0b9f493b11ea2bcf746f9.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “Don't Worry” by  Madcon ft. Ray Dalton!\nPlus awesome new content!",
+                "title": "New January Songs"
+            }
+        }
+    },
+    "53faa482-c11a-4dfa-8b8a-3ac0a58c5907": {
+        "comVideoId": "53faa482-c11a-4dfa-8b8a-3ac0a58c5907",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/53faa482-c11a-4dfa-8b8a-3ac0a58c5907/en/autodance.mp4/43f0ecf42dd2755dcbdc442e451115d4.mp4"
+                    },
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/53faa482-c11a-4dfa-8b8a-3ac0a58c5907/en/autodance.webm/984dee603c1435c779279c16a68af5dc.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/53faa482-c11a-4dfa-8b8a-3ac0a58c5907/en/autodance_t0_m1.jpg/88996560529f163f64cc986210346da2.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/53faa482-c11a-4dfa-8b8a-3ac0a58c5907/en/autodance_t0_m2.jpg/5a890bbc910bc26158275eae6647a947.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song \"The Greatest\" by Sia !\nPlus awesome new content for the kids ! ",
+                "title": "New November Songs"
+            }
+        }
+    },
+    "553824ab-0994-4e9a-b735-11a140d62af9": {
+        "comVideoId": "553824ab-0994-4e9a-b735-11a140d62af9",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/553824ab-0994-4e9a-b735-11a140d62af9/en/autodance.mp4/e73210b463e17196fbde8ff2d8ce25a4.mp4",
+                        "versions": [
+                            1490261448745,
+                            1490347452938
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/553824ab-0994-4e9a-b735-11a140d62af9/en/autodance.webm/87ce10e566628a54ed91e2b6f15631ed.webm",
+                        "versions": [
+                            1490261431880,
+                            1490347451166
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/553824ab-0994-4e9a-b735-11a140d62af9/en/autodance_t0_m1.jpg/9ed4af69494e3233f2009ffcf38a9170.jpg",
+                        "versions": [
+                            1490261460944
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/553824ab-0994-4e9a-b735-11a140d62af9/en/autodance_t0_m2.jpg/9ed4af69494e3233f2009ffcf38a9170.jpg",
+                        "versions": [
+                            1490261459423
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “HandClap” by  Fitz and the Tantrums!\nPlus awesome new content!",
+                "title": "New March Songs"
+            }
+        }
+    },
+    "6997477d-ff90-41ce-a8b8-917797e4b45e": {
+        "comVideoId": "6997477d-ff90-41ce-a8b8-917797e4b45e",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-28T15:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6997477d-ff90-41ce-a8b8-917797e4b45e/en/autodance.webm/4f59d535df859d71169518e536949412.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6997477d-ff90-41ce-a8b8-917797e4b45e/en/autodance_t0_m1.jpg/195da4ce8b631b208389e8f094be74b2.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6997477d-ff90-41ce-a8b8-917797e4b45e/en/autodance_t0_m2.jpg/195da4ce8b631b208389e8f094be74b2.jpg"
+                    }
+                },
+                "description": "Ever wondered how the amazing Just Dance costumes are created?",
+                "title": "Behind the Scenes of Just Dance 2016: Costumes"
+            }
+        }
+    },
+    "6aca1991-3866-4b55-93f6-aee808ee8d5b": {
+        "comVideoId": "6aca1991-3866-4b55-93f6-aee808ee8d5b",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6aca1991-3866-4b55-93f6-aee808ee8d5b/en/autodance.mp4/8f038d3d2ff001e1baf20b82ee06b5bf.mp4"
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6aca1991-3866-4b55-93f6-aee808ee8d5b/en/autodance.webm/fcf9329fd7516610633cfde8a17ce195.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6aca1991-3866-4b55-93f6-aee808ee8d5b/en/autodance_t0_m1.jpg/86f78ca32b1fdd69c3179c64ab76f7ad.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/6aca1991-3866-4b55-93f6-aee808ee8d5b/en/autodance_t0_m2.jpg/86f78ca32b1fdd69c3179c64ab76f7ad.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “Juju” by  Zay Hilfigerrr and Zayion McCall!\nPlus awesome new content!",
+                "title": "New December Songs"
+            }
+        }
+    },
+    "76956af8-8fb7-4e2b-96b9-70d8c3e21aa4": {
+        "comVideoId": "76956af8-8fb7-4e2b-96b9-70d8c3e21aa4",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-11-28T13:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/76956af8-8fb7-4e2b-96b9-70d8c3e21aa4/en/autodance.mp4/bbbfd1b7ba6574be056e0df341b5988b.mp4"
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/76956af8-8fb7-4e2b-96b9-70d8c3e21aa4/en/autodance.webm/739ea0bc323a59107103996439aa308e.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/76956af8-8fb7-4e2b-96b9-70d8c3e21aa4/en/autodance_t0_m1.jpg/f1ce34a3969fd57e49eb6ebfb3c87f8d.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/76956af8-8fb7-4e2b-96b9-70d8c3e21aa4/en/autodance_t0_m2.jpg/f1ce34a3969fd57e49eb6ebfb3c87f8d.jpg"
+                    }
+                },
+                "description": "Learn the moves from the Just Dance choreographers themselves in this\nspecial video series!",
+                "title": "Just Dance Class - Drop The Mambo"
+            }
+        }
+    },
+    "7959b666-b91f-407d-9599-9d816caf50be": {
+        "comVideoId": "7959b666-b91f-407d-9599-9d816caf50be",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7959b666-b91f-407d-9599-9d816caf50be/en/autodance.webm/ccec670bb2bae7a93d95af8411407fe6.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7959b666-b91f-407d-9599-9d816caf50be/en/autodance_t0_m1.jpg/7f31b91d5c2ddae622437dbda0cbcdd9.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7959b666-b91f-407d-9599-9d816caf50be/en/autodance_t0_m2.jpg/7f31b91d5c2ddae622437dbda0cbcdd9.jpg"
+                    }
+                },
+                "description": "Introducing Just Dance 2017 – more fun and easier to play than ever.",
+                "title": "Just Dance 2017 Trailer: Announcement - Official"
+            }
+        }
+    },
+    "7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed": {
+        "comVideoId": "7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-03-07T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance.mp4/a41dccbe86972f1493efa12134c60968.mp4",
+                        "versions": [
+                            1488896695903,
+                            1488905386625,
+                            1488907424567,
+                            1488908363463,
+                            1489073577149
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance.webm/7162e2a1eeaeba01c1ec9fd559bc1674.webm",
+                        "versions": [
+                            1488896693536,
+                            1488905383863,
+                            1488907422003
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance_t0_m1.jpg/beebf25082130217873103cb3c147316.jpg",
+                        "versions": [
+                            1488896699277,
+                            1488905392424,
+                            1488907429966,
+                            1489076336753
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7a1367bf-e8d6-42f6-be2d-e27c4e0e72ed/en/autodance_t0_m2.jpg/beebf25082130217873103cb3c147316.jpg",
+                        "versions": [
+                            1488896698231,
+                            1488905390318,
+                            1488907427389,
+                            1489076334679
+                        ]
+                    }
+                },
+                "description": "Just Dance Ambassador UbiMouss gives a shoutout to the best Just Dance 2017 cosplays so far!",
+                "subtitles": "1\n00:00:06,230 --> 00:00:07,470\nHey Just Dancers !\n\n2\n00:00:07,470 --> 00:00:10,360\nI’m UbiMouss and this is Just Dance Minute !\n\n3\n00:00:10,360 --> 00:00:12,250\nOh, that?\n\n4\n00:00:12,250 --> 00:00:15,600\nThis is just something that I picked out of\nmy wardrobe\n\n5\n00:00:15,600 --> 00:00:21,240\nBecause yeah: a special Just Dance Minute\ndeserves a special outfit…\n\n6\n00:00:21,240 --> 00:00:26,410\nJust Dance 2017 has been out for less than\na month but I am already proclaiming that\n\n7\n00:00:26,410 --> 00:00:27,410\nwe’ve had the\n\n8\n00:00:27,410 --> 00:00:28,410\nBEST.\n\n9\n00:00:28,410 --> 00:00:29,410\nCOSPLAYS.\n\n10\n00:00:29,410 --> 00:00:30,410\nEVER.\n\n11\n00:00:30,410 --> 00:00:33,670\nYou guys have been so creative in the last\nmonths that I felt the need to give a huge\n\n12\n00:00:33,670 --> 00:00:39,570\nshoutout to all of you great cosplayers who\nare making so many amazing Just Dance 2017\n\n13\n00:00:39,570 --> 00:00:40,570\ncostumes.\n\n14\n00:00:40,570 --> 00:00:45,149\nFirst one: Luis from Brazil, who I think was\nthe first one to share photos of the making\n\n15\n00:00:45,149 --> 00:00:49,199\nof his costume for one of the coaches of Lean\nOn last July.\n\n16\n00:00:49,199 --> 00:00:51,430\nSo bravo to him!\n\n17\n00:00:51,430 --> 00:00:57,620\nThen comes a new Just Dancer in the family:\nJakov Petrowsky from France with the same\n\n18\n00:00:57,620 --> 00:00:58,899\ncoach of Lean On.\n\n19\n00:00:58,899 --> 00:01:01,129\nYeah this coach is pretty cool.\n\n20\n00:01:01,129 --> 00:01:06,800\nHe spent a lot of time working on the hair\ntoo and for that deserves a 10/10.\n\n21\n00:01:06,800 --> 00:01:11,830\nNext up: Melissa Salvatore from Russia, who\nalready blew our minds last year with her\n\n22\n00:01:11,830 --> 00:01:13,380\ncosplay of Albatraoz.\n\n23\n00:01:13,380 --> 00:01:19,500\nShe’s back this year with her cosplay of\nWorth It, and hopefully this is not the last\n\n24\n00:01:19,500 --> 00:01:20,500\none!\n\n25\n00:01:20,500 --> 00:01:24,380\nAnother Worth It cosplay but from Nijishoujo\nfrom New-York this time.\n\n26\n00:01:24,380 --> 00:01:29,770\nAn amazing rendition of the costume, that\nshe have been dancing with during her streams\n\n27\n00:01:29,770 --> 00:01:30,770\non Twitch.\n\n28\n00:01:30,770 --> 00:01:33,940\nYou can follow her: link in the description.\n\n29\n00:01:33,940 --> 00:01:39,320\nShe also created her own version of the “Run\nThe Night” coach and we just love it.\n\n30\n00:01:39,320 --> 00:01:44,990\nAnd last but not least today: Nikita from\nRussia, and his own version of the “Don’t\n\n31\n00:01:44,990 --> 00:01:46,700\nStop Me Now” coach.\n\n32\n00:01:46,700 --> 00:01:49,610\nAlmost identical to the in-game version.\n\n33\n00:01:49,610 --> 00:01:54,200\nMany thanks to all of you guys for these amazing\ncreations and keep sharing those with us!\n\n34\n00:01:54,200 --> 00:01:57,550\nIt’ll be my pleasure to send goodies to\nthe best ones.\n\n35\n00:01:57,550 --> 00:02:01,590\nThis Just Dance Minute is over so see you\nsoon and until then: Just Dance!\n\n",
+                "title": "Just Dance Minute - Just Dance 2017 Cosplays"
+            }
+        }
+    },
+    "7b81e417-f2e4-46d1-981a-998aec8b5ffc": {
+        "comVideoId": "7b81e417-f2e4-46d1-981a-998aec8b5ffc",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7b81e417-f2e4-46d1-981a-998aec8b5ffc/en/autodance.webm/1cbb80e6550a6c34570180d3d2cc7771.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7b81e417-f2e4-46d1-981a-998aec8b5ffc/en/autodance_t0_m1.jpg/f915173253d964f2a8ae216cb50ab7e3.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7b81e417-f2e4-46d1-981a-998aec8b5ffc/en/autodance_t0_m2.jpg/f915173253d964f2a8ae216cb50ab7e3.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Taste The Feeling” \nby Avicii vs. Conrad Sewell!\nPlus awesome new content!",
+                "title": "New March Songs"
+            }
+        }
+    },
+    "7d1590ae-4ec3-4d07-a9e5-fce772f6dc8d": {
+        "comVideoId": "7d1590ae-4ec3-4d07-a9e5-fce772f6dc8d",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7d1590ae-4ec3-4d07-a9e5-fce772f6dc8d/en/autodance.webm/36ab50644a2bd41a6786750a5ffa2d97.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7d1590ae-4ec3-4d07-a9e5-fce772f6dc8d/en/autodance_t0_m1.jpg/3652de3e116bacfcef1ec7d05b3ef1d0.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7d1590ae-4ec3-4d07-a9e5-fce772f6dc8d/en/autodance_t0_m2.jpg/3652de3e116bacfcef1ec7d05b3ef1d0.jpg"
+                    }
+                },
+                "description": "Superstar Jason Derulo loves Just Dance, too!",
+                "title": "Just Dance Spotlight: Jason Derulo"
+            }
+        }
+    },
+    "7f2edd75-c045-44e4-82cb-e6db16d716e1": {
+        "comVideoId": "7f2edd75-c045-44e4-82cb-e6db16d716e1",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7f2edd75-c045-44e4-82cb-e6db16d716e1/en/autodance.webm/c9511e84a7b4c9f5a881232f03643141.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7f2edd75-c045-44e4-82cb-e6db16d716e1/en/autodance_t0_m1.jpg/d876ecdfa720e1fa6c12004c30620992.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/7f2edd75-c045-44e4-82cb-e6db16d716e1/en/autodance_t0_m2.jpg/d876ecdfa720e1fa6c12004c30620992.jpg"
+                    }
+                },
+                "description": "Don't stop dancing with our new songs!",
+                "title": "New June Songs"
+            }
+        }
+    },
+    "81dda57f-c372-4827-8663-04820e74e241": {
+        "comVideoId": "81dda57f-c372-4827-8663-04820e74e241",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/81dda57f-c372-4827-8663-04820e74e241/en/autodance.mp4/8222066cd7152ad8844ff1f2210453d8.mp4",
+                        "versions": [
+                            1497615902382
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/81dda57f-c372-4827-8663-04820e74e241/en/autodance.webm/64ddfbc3e74cc83bedbaee9ef5d04990.webm",
+                        "versions": [
+                            1497615900526
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/81dda57f-c372-4827-8663-04820e74e241/en/autodance_t0_m1.jpg/42cadd1f360c2924cf998daab9bf60e2.jpg",
+                        "versions": [
+                            1497615905687,
+                            1497846098290,
+                            1497846506898
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/81dda57f-c372-4827-8663-04820e74e241/en/autodance_t0_m2.jpg/42cadd1f360c2924cf998daab9bf60e2.jpg",
+                        "versions": [
+                            1497615904379,
+                            1497846097010,
+                            1497846505822
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “How Deep Is Your Love” by Calvin Harris and Disciples.",
+                "title": "New June Songs"
+            }
+        }
+    },
+    "82e6f1b0-be86-4749-b124-ab05bfca409e": {
+        "comVideoId": "82e6f1b0-be86-4749-b124-ab05bfca409e",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/82e6f1b0-be86-4749-b124-ab05bfca409e/en/autodance.webm/b27b93ff6111228c9ced400f9ddd2f98.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/82e6f1b0-be86-4749-b124-ab05bfca409e/en/autodance_t0_m1.jpg/f239810aa3692e33c97a1e16b0bd1621.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/82e6f1b0-be86-4749-b124-ab05bfca409e/en/autodance_t0_m2.jpg/f239810aa3692e33c97a1e16b0bd1621.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Better When I’m Dancin’” \nby Meghan Trainor!\nPlus awesome new content!\n",
+                "title": "New November Songs"
+            }
+        }
+    },
+    "834f5e24-ecf7-4fbc-85a6-5fc7c963d2b1": {
+        "comVideoId": "834f5e24-ecf7-4fbc-85a6-5fc7c963d2b1",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/834f5e24-ecf7-4fbc-85a6-5fc7c963d2b1/en/autodance.webm/603a5de5a541b45cfed6c4497b2bf024.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/834f5e24-ecf7-4fbc-85a6-5fc7c963d2b1/en/autodance_t0_m1.jpg/1b3612b4238e6864899f0c9124fc4ca6.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/834f5e24-ecf7-4fbc-85a6-5fc7c963d2b1/en/autodance_t0_m2.jpg/1b3612b4238e6864899f0c9124fc4ca6.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: June Edition"
+            }
+        }
+    },
+    "859672f0-8b21-4f12-b0ba-61a3d1643ba9": {
+        "comVideoId": "859672f0-8b21-4f12-b0ba-61a3d1643ba9",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-07-04T08:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance.mp4/34a10131afa9db0d2f8fd71e749c33cb.mp4",
+                        "versions": [
+                            1499165714207
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance.webm/88a5c6112ba51937a8864f6553bc53e9.webm",
+                        "versions": [
+                            1499165711855
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance_t0_m1.jpg/44ef18b126726d2b2e5eacedae6d95e3.jpg",
+                        "versions": [
+                            1499165717497,
+                            1499250333670
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/859672f0-8b21-4f12-b0ba-61a3d1643ba9/en/autodance_t0_m2.jpg/44ef18b126726d2b2e5eacedae6d95e3.jpg",
+                        "versions": [
+                            1499165716408,
+                            1499250332448
+                        ]
+                    }
+                },
+                "description": "Kids take the spotlight in this Autodance!",
+                "title": "Top Autodance: Kids Edition"
+            }
+        }
+    },
+    "85acd8fe-3bdd-4086-a6c2-6909467d0caf": {
+        "comVideoId": "85acd8fe-3bdd-4086-a6c2-6909467d0caf",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/85acd8fe-3bdd-4086-a6c2-6909467d0caf/en/autodance.webm/d77c93b53f535e367350bb5110e12cc3.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/85acd8fe-3bdd-4086-a6c2-6909467d0caf/en/autodance_t0_m1.jpg/db7865f4201632245077e5f9448ba198.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/85acd8fe-3bdd-4086-a6c2-6909467d0caf/en/autodance_t0_m2.jpg/db7865f4201632245077e5f9448ba198.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Get Ugly” \nby Jason Derulo!\nPlus awesome new content!",
+                "title": "New February Songs"
+            }
+        }
+    },
+    "8f13c5d2-1854-4352-b55b-9db3f8099b4f": {
+        "comVideoId": "8f13c5d2-1854-4352-b55b-9db3f8099b4f",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/8f13c5d2-1854-4352-b55b-9db3f8099b4f/en/autodance.mp4/ab7cabcf43f5e0f7094b9ad1ebdc1f68.mp4",
+                        "versions": [
+                            1494511416463
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/8f13c5d2-1854-4352-b55b-9db3f8099b4f/en/autodance.webm/07327309eda4ffe1a115d70e3b70e9ea.webm",
+                        "versions": [
+                            1494511414589
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/8f13c5d2-1854-4352-b55b-9db3f8099b4f/en/autodance_t0_m1.jpg/83db7bccdab17bef810f616ce07b6979.jpg",
+                        "versions": [
+                            1494511419728,
+                            1494593670983
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/8f13c5d2-1854-4352-b55b-9db3f8099b4f/en/autodance_t0_m2.jpg/83db7bccdab17bef810f616ce07b6979.jpg",
+                        "versions": [
+                            1494511418464,
+                            1494593669835
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “Ain't My Fault” by  Zara Larsson!\nPlus awesome new content!",
+                "title": "New May Songs"
+            }
+        }
+    },
+    "9375624c-1013-40e2-8ca7-7bd9eba44462": {
+        "comVideoId": "9375624c-1013-40e2-8ca7-7bd9eba44462",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-09-14T08:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance.mp4/00e73c5ec1eb99ae3c269d7acb9de386.mp4"
+                    },
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance.webm/5639aabbdfedded83ef9b9cb47c6d5cb.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance_t0_m1.jpg/702daef5dacb6da7377c2cb02c93ca25.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9375624c-1013-40e2-8ca7-7bd9eba44462/en/autodance_t0_m2.jpg/702daef5dacb6da7377c2cb02c93ca25.jpg"
+                    }
+                },
+                "description": "Check out our favorite Super Hero Autodances!",
+                "title": "Top Autodances: Super Hero Edition"
+            }
+        }
+    },
+    "9b6f23e5-975c-4ac2-96c6-24daddb8bc12": {
+        "comVideoId": "9b6f23e5-975c-4ac2-96c6-24daddb8bc12",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9b6f23e5-975c-4ac2-96c6-24daddb8bc12/en/autodance.mp4/972a7d77525a89df132135b07d9e771b.mp4",
+                        "versions": [
+                            1500641387959
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9b6f23e5-975c-4ac2-96c6-24daddb8bc12/en/autodance.webm/cba7829ad079b45ca86ac07a68c487cb.webm",
+                        "versions": [
+                            1500641384833
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9b6f23e5-975c-4ac2-96c6-24daddb8bc12/en/autodance_t0_m1.jpg/4e914d59405a1f189f67971f1b5d7a8a.jpg",
+                        "versions": [
+                            1500641391260
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9b6f23e5-975c-4ac2-96c6-24daddb8bc12/en/autodance_t0_m2.jpg/4e914d59405a1f189f67971f1b5d7a8a.jpg",
+                        "versions": [
+                            1500641390174
+                        ]
+                    }
+                },
+                "description": "Just Dance was back at E3 to get the party started!\nIn case you weren't there or simply want to re-live the moment, check out this wrap-up video!\n",
+                "title": "Just Dance 2018 at E3"
+            }
+        }
+    },
+    "9e7196bf-2b38-4371-b2be-60b6f8864089": {
+        "comVideoId": "9e7196bf-2b38-4371-b2be-60b6f8864089",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-06-28T09:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance.mp4/8f4c955fac45b8f974c280d1b698b564.mp4",
+                        "versions": [
+                            1492698298048
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance.webm/14d6febdb8d9194db241bb3509233689.webm",
+                        "versions": [
+                            1492698294790
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance_t0_m1.jpg/90d7ebef47ebba70c8ca139b0e5afef5.jpg",
+                        "versions": [
+                            1492698303641
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e7196bf-2b38-4371-b2be-60b6f8864089/en/autodance_t0_m2.jpg/90d7ebef47ebba70c8ca139b0e5afef5.jpg",
+                        "versions": [
+                            1492698300363
+                        ]
+                    }
+                },
+                "description": "Find out what it takes to make it into Just Dance 2017.It’s time for the video shoots they have been rehearsing for!",
+                "title": "Making of a Dancer #4 – Video Shoots [US]"
+            }
+        }
+    },
+    "9e8f90f9-e0b3-464c-9618-0dbfbded093b": {
+        "comVideoId": "9e8f90f9-e0b3-464c-9618-0dbfbded093b",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e8f90f9-e0b3-464c-9618-0dbfbded093b/en/autodance.webm/bb53ddf65826fe09c61e086394c0b6e3.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e8f90f9-e0b3-464c-9618-0dbfbded093b/en/autodance_t0_m1.jpg/77406525d1483cb04abc555078f42ba3.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/9e8f90f9-e0b3-464c-9618-0dbfbded093b/en/autodance_t0_m2.jpg/77406525d1483cb04abc555078f42ba3.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Shut Up And Dance” \nby Walk The Moon!\nPlus awesome new content!",
+                "title": "New January Songs"
+            }
+        }
+    },
+    "a469cb40-21e5-43f0-902d-b9c59cb4969b": {
+        "comVideoId": "a469cb40-21e5-43f0-902d-b9c59cb4969b",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-05-26T12:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a469cb40-21e5-43f0-902d-b9c59cb4969b/en/autodance.webm/c62e8a11d0ccc2aecb9872d79ea586d5.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a469cb40-21e5-43f0-902d-b9c59cb4969b/en/autodance_t0_m1.jpg/375a1b5d20fc9d2386cb9a74e241243e.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a469cb40-21e5-43f0-902d-b9c59cb4969b/en/autodance_t0_m2.jpg/375a1b5d20fc9d2386cb9a74e241243e.jpg"
+                    }
+                },
+                "description": "Learn the moves from the Just Dance choreographers themselves in this\nspecial video series!",
+                "title": "Just Dance Class - Rabiosa"
+            }
+        }
+    },
+    "a5237c02-ef95-4d09-b026-ffb432b4e362": {
+        "comVideoId": "a5237c02-ef95-4d09-b026-ffb432b4e362",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-05-10T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance.mp4/b8a4b0d100e79cc4650021efd7445887.mp4",
+                        "versions": [
+                            1491316724063
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance.webm/9874d120713c88bb9fca0a4f192e1779.webm",
+                        "versions": [
+                            1491316720871
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance_t0_m1.jpg/b1dcb3c44287ea6c2bd24e8c69a02173.jpg",
+                        "versions": [
+                            1491316727219
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a5237c02-ef95-4d09-b026-ffb432b4e362/en/autodance_t0_m2.jpg/b1dcb3c44287ea6c2bd24e8c69a02173.jpg",
+                        "versions": [
+                            1491316725927
+                        ]
+                    }
+                },
+                "description": "Find out what it takes to make it into Just Dance. This time in callbacks, the dancers \nhave to show off their skills with \nsome choreography of their own.",
+                "title": "Making of a Dancer #2 – Callbacks [US]"
+            }
+        }
+    },
+    "a6a09b7a-a92a-4fa4-97c7-db250da3e8a9": {
+        "comVideoId": "a6a09b7a-a92a-4fa4-97c7-db250da3e8a9",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a6a09b7a-a92a-4fa4-97c7-db250da3e8a9/en/autodance.mp4/b45bf15f8dcefa5e8e37bb74bfd8fe83.mp4",
+                        "versions": [
+                            1492088441130
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a6a09b7a-a92a-4fa4-97c7-db250da3e8a9/en/autodance.webm/26c4f0ddfc3a44077e2f0fb5a56559b8.webm",
+                        "versions": [
+                            1492087856657
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a6a09b7a-a92a-4fa4-97c7-db250da3e8a9/en/autodance_t0_m1.jpg/40c6ccf809eae52c745bb0ecd7b96fa1.jpg",
+                        "versions": [
+                            1492087866626,
+                            1492159230629
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a6a09b7a-a92a-4fa4-97c7-db250da3e8a9/en/autodance_t0_m2.jpg/40c6ccf809eae52c745bb0ecd7b96fa1.jpg",
+                        "versions": [
+                            1492087861645,
+                            1492159229079
+                        ]
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive \nsong “Don't Let Me Down” by  The Chainsmokers ft. Daya!\nPlus awesome new content!",
+                "title": "New April Songs"
+            }
+        }
+    },
+    "a716a2c4-cdc3-4ad6-89ed-ea0dc98b8a80": {
+        "comVideoId": "a716a2c4-cdc3-4ad6-89ed-ea0dc98b8a80",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a716a2c4-cdc3-4ad6-89ed-ea0dc98b8a80/en/autodance.webm/9f049fce408bdb46cb4c8f17eb4156ab.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a716a2c4-cdc3-4ad6-89ed-ea0dc98b8a80/en/autodance_t0_m1.jpg/6f0fd36fadf0b0a0a72e330003c87693.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/a716a2c4-cdc3-4ad6-89ed-ea0dc98b8a80/en/autodance_t0_m2.jpg/6f0fd36fadf0b0a0a72e330003c87693.jpg"
+                    }
+                },
+                "description": "Your in-game TV channel with all the best Just Dance videos!",
+                "title": "Welcome To JDTV ! "
+            }
+        }
+    },
+    "abf7ee06-ec31-43a5-b52e-9e5f9f399f30": {
+        "comVideoId": "abf7ee06-ec31-43a5-b52e-9e5f9f399f30",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2015-12-23T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/abf7ee06-ec31-43a5-b52e-9e5f9f399f30/en/autodance.webm/e8ac22ba09fc3a134483f25a52a2a557.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/abf7ee06-ec31-43a5-b52e-9e5f9f399f30/en/autodance_t0_m1.jpg/6a8870f83565c1f019fa5eb1c0360f46.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/abf7ee06-ec31-43a5-b52e-9e5f9f399f30/en/autodance_t0_m2.jpg/6a8870f83565c1f019fa5eb1c0360f46.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: Holiday Edition"
+            }
+        }
+    },
+    "b1dd8050-16a0-406b-a6b2-4074065d5387": {
+        "comVideoId": "b1dd8050-16a0-406b-a6b2-4074065d5387",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-04-04T13:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance.mp4/4134a8f2a7e1926e54f307e12de1763f.mp4",
+                        "versions": [
+                            1489414739124,
+                            1490370578635,
+                            1491237014126
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance.webm/188bae44385288164157e8d179164d2b.webm",
+                        "versions": [
+                            1489414735415,
+                            1490370576123,
+                            1491236962087
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance_t0_m1.jpg/01f7ec3fca9373362608843a1aed1804.jpg",
+                        "versions": [
+                            1489414743547
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b1dd8050-16a0-406b-a6b2-4074065d5387/en/autodance_t0_m2.jpg/01f7ec3fca9373362608843a1aed1804.jpg",
+                        "versions": [
+                            1489414741867
+                        ]
+                    }
+                },
+                "description": "See what it takes to be in the game and hear what the judges have to say. Stay tuned for more episodes as we follow their journeys through callbacks and rehearsals.",
+                "subtitles": "\n\n",
+                "title": "Making of a Dancer #1 – Casting Calls [US]"
+            }
+        }
+    },
+    "b5340f74-248e-4471-b485-bc816a724b62": {
+        "comVideoId": "b5340f74-248e-4471-b485-bc816a724b62",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-05-10T15:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance.mp4/d6ab84bc8b509e3f24274702ed0887e1.mp4",
+                        "versions": [
+                            1491316991349
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance.webm/8b70d8115ec1b86c79e24bc46e164dbf.webm",
+                        "versions": [
+                            1491316987340
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance_t0_m1.jpg/5e522c3e65b39243f681b4847dd4545c.jpg",
+                        "versions": [
+                            1491316994826
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b5340f74-248e-4471-b485-bc816a724b62/en/autodance_t0_m2.jpg/5e522c3e65b39243f681b4847dd4545c.jpg",
+                        "versions": [
+                            1491316993408
+                        ]
+                    }
+                },
+                "description": "Find out what it takes to make it into Just Dance 2017. The dancers practice during video rehearsals and talk about their experiences.",
+                "title": "Making of a Dancer #3 – Video Rehearsals [US]"
+            }
+        }
+    },
+    "b8c0e230-864d-453b-aaa2-52e3a5a6b45d": {
+        "comVideoId": "b8c0e230-864d-453b-aaa2-52e3a5a6b45d",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b8c0e230-864d-453b-aaa2-52e3a5a6b45d/en/autodance.webm/f6e6fba11c9a34c218187252c0a53b23.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b8c0e230-864d-453b-aaa2-52e3a5a6b45d/en/autodance_t0_m1.jpg/3e24d2321b3d85765aa165f66a720220.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/b8c0e230-864d-453b-aaa2-52e3a5a6b45d/en/autodance_t0_m2.jpg/3e24d2321b3d85765aa165f66a720220.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: March Edition"
+            }
+        }
+    },
+    "bc79d5b8-8b57-4002-ba6d-50c242eff2cf": {
+        "comVideoId": "bc79d5b8-8b57-4002-ba6d-50c242eff2cf",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-05-22T02:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance.mp4/b5d0662f01daad23e5709f7bbb9e79f1.mp4",
+                        "versions": [
+                            1495198118156
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance.webm/c9c8f6b9ea746a2067faba5cd90359cd.webm",
+                        "versions": [
+                            1495198113464
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance_t0_m1.jpg/82b746ad8250828803059a72996968dd.jpg",
+                        "versions": [
+                            1495198122866
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/bc79d5b8-8b57-4002-ba6d-50c242eff2cf/en/autodance_t0_m2.jpg/1c74d51f00068d279aab526fe26e7c7d.jpg",
+                        "versions": [
+                            1495198121622
+                        ]
+                    }
+                },
+                "description": "Some of our favorite autodances featuring your pets!",
+                "title": "Top Autodances: Pets Edition"
+            }
+        }
+    },
+    "c6bda871-a532-487e-ad4e-54ddef73bdc3": {
+        "comVideoId": "c6bda871-a532-487e-ad4e-54ddef73bdc3",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-26T14:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/c6bda871-a532-487e-ad4e-54ddef73bdc3/en/autodance.webm/176acbb8c347e009a845cfdda368031b.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/c6bda871-a532-487e-ad4e-54ddef73bdc3/en/autodance_t0_m1.jpg/f150391bf86abc8367dab0e3b6ac7924.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/c6bda871-a532-487e-ad4e-54ddef73bdc3/en/autodance_t0_m2.jpg/f150391bf86abc8367dab0e3b6ac7924.jpg"
+                    }
+                },
+                "description": "Just Dance coaches come to life at the EB Expo in Australia!",
+                "title": "Just Dance 2016 at the EB Expo"
+            }
+        }
+    },
+    "ce8e0fb1-06a6-4502-8f2b-a95672652a6a": {
+        "comVideoId": "ce8e0fb1-06a6-4502-8f2b-a95672652a6a",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/ce8e0fb1-06a6-4502-8f2b-a95672652a6a/en/autodance.webm/4261697421a972144dcf6ac05349818d.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/ce8e0fb1-06a6-4502-8f2b-a95672652a6a/en/autodance_t0_m1.jpg/3aa130277862bdb79df66f6b643ac527.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/ce8e0fb1-06a6-4502-8f2b-a95672652a6a/en/autodance_t0_m2.jpg/3aa130277862bdb79df66f6b643ac527.jpg"
+                    }
+                },
+                "description": "Discover the Just Dance Unlimited exclusive song “Am I Wrong” \nby Nico & Vinz!\nPlus awesome new content!",
+                "title": "New April Songs"
+            }
+        }
+    },
+    "cfe51538-9864-4e0d-9978-d32d7d5ab2fd": {
+        "comVideoId": "cfe51538-9864-4e0d-9978-d32d7d5ab2fd",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-04-09T12:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/cfe51538-9864-4e0d-9978-d32d7d5ab2fd/en/autodance.webm/cc483d48063c39aca93949802e3ec7b0.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/cfe51538-9864-4e0d-9978-d32d7d5ab2fd/en/autodance_t0_m1.jpg/ae4f5b96c83d7356eaed8ce36ece2939.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/cfe51538-9864-4e0d-9978-d32d7d5ab2fd/en/autodance_t0_m2.jpg/ae4f5b96c83d7356eaed8ce36ece2939.jpg"
+                    }
+                },
+                "description": "Learn the moves from the Just Dance choreographers themselves in this \nspecial video series!",
+                "title": "Just Dance Class - Hangover (BaBaBa)"
+            }
+        }
+    },
+    "dd4f54eb-ffc9-447f-a2ed-c77daec9fe13": {
+        "comVideoId": "dd4f54eb-ffc9-447f-a2ed-c77daec9fe13",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-06-28T09:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance.mp4/1e8b6421c982893447693af6c8a2b94d.mp4",
+                        "versions": [
+                            1492698548253
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance.webm/3d1884202f2db9c4f6cbc444c5d97914.webm",
+                        "versions": [
+                            1492698544908
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance_t0_m1.jpg/04d124c363731561792830df42c0c07b.jpg",
+                        "versions": [
+                            1492698551557
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/dd4f54eb-ffc9-447f-a2ed-c77daec9fe13/en/autodance_t0_m2.jpg/04d124c363731561792830df42c0c07b.jpg",
+                        "versions": [
+                            1492698550389
+                        ]
+                    }
+                },
+                "description": "The dancers watch the final results of their hard work in this last episode of Making of a Dancer.\n",
+                "title": "Making of a Dancer #5 – Real Life to Gameplay [US]"
+            }
+        }
+    },
+    "df33233d-ffe5-4719-9d9f-668b38b4e856": {
+        "comVideoId": "df33233d-ffe5-4719-9d9f-668b38b4e856",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-08-01T11:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/df33233d-ffe5-4719-9d9f-668b38b4e856/en/autodance.webm/3742a18e7d2c0a790acdc00b8ddc4b31.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/df33233d-ffe5-4719-9d9f-668b38b4e856/en/autodance_t0_m1.jpg/10dc9668f12f8aa5188d5ea530ad5da9.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/df33233d-ffe5-4719-9d9f-668b38b4e856/en/autodance_t0_m2.jpg/10dc9668f12f8aa5188d5ea530ad5da9.jpg"
+                    }
+                },
+                "description": "Learn the moves from the Just Dance choreographers themselves in this\nspecial video series!",
+                "title": "Just Dance Class - Stuck On A Feeling"
+            }
+        }
+    },
+    "e9d9b190-ae99-44a4-81b6-cc11d0432166": {
+        "comVideoId": "e9d9b190-ae99-44a4-81b6-cc11d0432166",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/e9d9b190-ae99-44a4-81b6-cc11d0432166/en/autodance.webm/54c2d30b4cc32b2cb7ab6fece50c139c.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/e9d9b190-ae99-44a4-81b6-cc11d0432166/en/autodance_t0_m1.jpg/77ae41581ee196f434cdc56c4ba7219e.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/e9d9b190-ae99-44a4-81b6-cc11d0432166/en/autodance_t0_m2.jpg/77ae41581ee196f434cdc56c4ba7219e.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: May Edition"
+            }
+        }
+    },
+    "eceb5823-449d-4ede-8df2-5059b4639e1b": {
+        "comVideoId": "eceb5823-449d-4ede-8df2-5059b4639e1b",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2017-06-28T12:30:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016",
+                        "jd2017",
+                        "jdcompanion"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance.mp4/974f346bec4339e0209393cc4afb1971.mp4",
+                        "versions": [
+                            1497616227016
+                        ]
+                    },
+                    "autodance.webm": {
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance.webm/2c5d610450458d4c1faefa5202d4f622.webm",
+                        "versions": [
+                            1497616224580
+                        ]
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance_t0_m1.jpg/bbf51c305d46d6d8db127477986a5973.jpg",
+                        "versions": [
+                            1497616230414,
+                            1497868509372,
+                            1498553179084,
+                            1498641932002
+                        ]
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eceb5823-449d-4ede-8df2-5059b4639e1b/en/autodance_t0_m2.jpg/bbf51c305d46d6d8db127477986a5973.jpg",
+                        "versions": [
+                            1497616229272,
+                            1497868508089,
+                            1498553178034,
+                            1498641930753
+                        ]
+                    }
+                },
+                "description": "Join fan Manu Rodriguez as he takes\nus through his Just Dance journey.",
+                "title": "A Just Dance Story: Manu"
+            }
+        }
+    },
+    "eddc0ea0-c176-4096-9507-30b63815cd82": {
+        "comVideoId": "eddc0ea0-c176-4096-9507-30b63815cd82",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-02-25T13:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eddc0ea0-c176-4096-9507-30b63815cd82/en/autodance.webm/3a2af310de0153ca70412dd8f38ecef8.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eddc0ea0-c176-4096-9507-30b63815cd82/en/autodance_t0_m1.jpg/f63c88435e66ac46bb97fdfd4f8f3692.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/eddc0ea0-c176-4096-9507-30b63815cd82/en/autodance_t0_m2.jpg/f63c88435e66ac46bb97fdfd4f8f3692.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month!",
+                "title": "Top Autodances: Valentine's Day Edition"
+            }
+        }
+    },
+    "f5d1b31c-23ce-4277-82bd-c7946048febf": {
+        "comVideoId": "f5d1b31c-23ce-4277-82bd-c7946048febf",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-28T17:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f5d1b31c-23ce-4277-82bd-c7946048febf/en/autodance.webm/8021b7575e771d86305dbd25c0014c78.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f5d1b31c-23ce-4277-82bd-c7946048febf/en/autodance_t0_m1.jpg/6bcd27cebae1d32e373401818461b6fa.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f5d1b31c-23ce-4277-82bd-c7946048febf/en/autodance_t0_m2.jpg/6bcd27cebae1d32e373401818461b6fa.jpg"
+                    }
+                },
+                "description": "Come and meet the dancers that make the magic happen!",
+                "title": "Behind the Scenes of Just Dance 2016: Choreos"
+            }
+        }
+    },
+    "f9032e3e-848e-4647-9184-5506bf5b724f": {
+        "comVideoId": "f9032e3e-848e-4647-9184-5506bf5b724f",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9032e3e-848e-4647-9184-5506bf5b724f/en/autodance.webm/4e88151addcfe1617e07283f281313e5.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9032e3e-848e-4647-9184-5506bf5b724f/en/autodance_t0_m1.jpg/186d119786bef3ec33b183a8b0e7c90f.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9032e3e-848e-4647-9184-5506bf5b724f/en/autodance_t0_m2.jpg/186d119786bef3ec33b183a8b0e7c90f.jpg"
+                    }
+                },
+                "description": "Check out our favorite Autodances from the past month! ",
+                "title": "Top Autodances: August Edition"
+            }
+        }
+    },
+    "f9dcaae6-f5bd-48dc-adea-242f124a577d": {
+        "comVideoId": "f9dcaae6-f5bd-48dc-adea-242f124a577d",
+        "defaultLanguage": "en",
+        "filters": [],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.mp4": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/mp4",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9dcaae6-f5bd-48dc-adea-242f124a577d/en/autodance.mp4/59c4553bfa811d29ff25ed80bcfc6934.mp4"
+                    },
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9dcaae6-f5bd-48dc-adea-242f124a577d/en/autodance.webm/6bdfd291178a50ee1d464e1648b1f7d8.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9dcaae6-f5bd-48dc-adea-242f124a577d/en/autodance_t0_m1.jpg/2f877d479e4c36c980fb22ee3d123013.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/f9dcaae6-f5bd-48dc-adea-242f124a577d/en/autodance_t0_m2.jpg/2f877d479e4c36c980fb22ee3d123013.jpg"
+                    }
+                },
+                "description": "The Just Dance World Cup is back! \nEach year you train hard, now it's time to step into the spotlight!\n",
+                "title": "Just Dance 2017 | Official World Cup 2016 Trailer"
+            }
+        }
+    },
+    "fcfc81a3-8fba-4364-acdf-949432b0a7b0": {
+        "comVideoId": "fcfc81a3-8fba-4364-acdf-949432b0a7b0",
+        "defaultLanguage": "en",
+        "filters": [
+            [
+                {
+                    "__class": "JD_CarouselTimeFilter",
+                    "start": "2016-01-28T13:00:00"
+                },
+                {
+                    "__class": "JD_CarouselSkuFilter",
+                    "gameVersion": [
+                        "jd2016"
+                    ]
+                }
+            ]
+        ],
+        "languages": {
+            "en": {
+                "content": {
+                    "autodance.webm": {
+                        "__class": "UGCContent",
+                        "mimetype": "video/webm",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/fcfc81a3-8fba-4364-acdf-949432b0a7b0/en/autodance.webm/5afff0ab39350e2ed9d23da5d1d6448e.webm"
+                    },
+                    "autodance_t0_m1.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/fcfc81a3-8fba-4364-acdf-949432b0a7b0/en/autodance_t0_m1.jpg/ae4fb0933ee7f945046ccbf903791f04.jpg"
+                    },
+                    "autodance_t0_m2.jpg": {
+                        "__class": "UGCContent",
+                        "mimetype": "image/jpeg",
+                        "url": "https://jd-s3.akamaized.net/public/com-videos/fcfc81a3-8fba-4364-acdf-949432b0a7b0/en/autodance_t0_m2.jpg/ae4fb0933ee7f945046ccbf903791f04.jpg"
+                    }
+                },
+                "description": "Meet the artists that work behind the scenes to bring the game to life!",
+                "title": "Behind the Scenes of Just Dance 2016: Creations"
+            }
+        }
+    }
+}

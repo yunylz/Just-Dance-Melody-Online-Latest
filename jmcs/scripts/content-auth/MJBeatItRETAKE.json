@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/MJBeatItRETAKE/MJBeatItRETAKE.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/MJBeatItRETAKE/MJBeatItRETAKE.ogg/355c093f3e7f403b873f52eb19d8a523.ogg",
+    "jmcs://jd-contents/MJBeatItRETAKE/MJBeatItRETAKE_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJBeatItRETAKE/MJBeatItRETAKE_ULTRA.hd.webm/82ff7844f08dc922ae83aa0ea8e1fa9f.webm",
+    "jmcs://jd-contents/MJBeatItRETAKE/MJBeatItRETAKE_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJBeatItRETAKE/MJBeatItRETAKE_HIGH.hd.webm/de802041753d89bd2c8ef266335593ed.webm",
+    "jmcs://jd-contents/MJBeatItRETAKE/MJBeatItRETAKE_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJBeatItRETAKE/MJBeatItRETAKE_MID.hd.webm/095db1284833f478c619a8b755f9360f.webm",
+    "jmcs://jd-contents/MJBeatItRETAKE/MJBeatItRETAKE_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJBeatItRETAKE/MJBeatItRETAKE_LOW.hd.webm/de059c98fca92315d242a3dc85ee81aa.webm"
+  }
+}

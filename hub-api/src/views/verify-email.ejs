@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #1e3a8a, #7e22ce);
+        }
+        table {
+            width: 100%;
+            height: 100vh;
+        }
+        .container {
+            background-color: rgba(17, 24, 39, 0.95);
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            max-width: 600px;
+            margin: 20px auto;
+        }
+        h2 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #ffffff;
+            margin: 0 0 16px;
+            text-align: center;
+        }
+        p {
+            font-size: 16px;
+            color: #d1d5db;
+            line-height: 1.6;
+            margin: 0 0 24px;
+            text-align: center;
+        }
+        .status-message {
+            font-size: 16px;
+            margin: 0;
+            text-align: center;
+        }
+        .success {
+            color: #34d399;
+        }
+        .warning {
+            color: #fbbf24;
+        }
+        .error {
+            color: #f87171;
+        }
+        .info {
+            color: #60a5fa;
+        }
+        svg {
+            transition: transform 0.3s ease;
+        }
+        svg:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center" valign="middle">
+                <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="container">
+                    <tr>
+                        <td align="center">
+
+                            <!-- Title -->
+                            <h2>JDMO Hub</h2>
+
+                            <!-- Message -->
+                            <p><%= message %></p>
+
+                            <!-- Status -->
+                            <% if (success) { %>
+                                <p class="status-message success">✅ Verification successful! You can now log in.</p>
+                            <% } else if (errorCode === 'TOKEN_EXPIRED') { %>
+                                <p class="status-message warning">⚠️ This verification link has expired. Please request a new one.</p>
+                            <% } else if (errorCode === 'USER_NOT_FOUND') { %>
+                                <p class="status-message error">❌ We couldn’t find your account. Please check your email or register again.</p>
+                            <% } else if (errorCode === 'ALREADY_VERIFIED') { %>
+                                <p class="status-message info">ℹ️ Your email is already verified. You can log in.</p>
+                            <% } else { %>
+                                <p class="status-message error">❌ Verification failed. Please try again or request a new link.</p>
+                            <% } %>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

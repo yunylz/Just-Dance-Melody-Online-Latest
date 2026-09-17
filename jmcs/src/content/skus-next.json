@@ -1,0 +1,74 @@
+{
+    "jdnext-android-all": {
+        "appId": "9a22c1f6-1037-4ab6-a536-7cffc3ee4c9c",
+        "gameVersion": "jdnext",
+        "platform": "android",
+        "region": "all",
+        "spaceId": "6f572bfc-282c-45d6-b1cf-0573e1083c06"
+    },
+    "jdnext-ggp-all": {
+        "appId": "af15c2d1-dc85-4625-b8dd-ae59be5ae848",
+        "gameVersion": "jdnext",
+        "platform": "ggp",
+        "region": "all",
+        "spaceId": "7b9cccfd-1cbc-4460-b3d1-c25d8bd74334"
+    },
+    "jdnext-ios-all": {
+        "appId": "c6256319-e667-4398-9e7e-f2ddab3b733c",
+        "gameVersion": "jdnext",
+        "platform": "ios",
+        "region": "all",
+        "spaceId": "423228a9-6647-4497-b03c-a0d6503068f4"
+    },
+    "jdnext-nx-all": {
+        "appId": "77b6223b-eb41-4ccd-833c-c7b16537fde3",
+        "gameVersion": "jdnext",
+        "platform": "nx",
+        "region": "all",
+        "spaceId": "df67242d-9616-4652-9f40-fbcfde99b3c6"
+    },
+    "jdnext-pc-all": {
+        "appId": "44d0f41c-a21e-4c40-b469-63ab25330268",
+        "devOnly": true,
+        "gameVersion": "jdnext",
+        "platform": "pc",
+        "region": "all",
+        "spaceId": "b257f588-7695-4380-b02a-3b1794ddce7e"
+    },
+    "jdnext-xboxsx-all": {
+        "appId": "fa1b9656-0990-44f0-a371-4b59b884c995",
+        "gameVersion": "jdnext",
+        "platform": "xboxsx",
+        "region": "all",
+        "spaceId": "1979bc4e-d290-477b-915a-97c51b820ec2"
+    },
+    "jdnext-ps5-scee": {
+        "appId": "a92e073a-b30d-49b1-98b8-2ddd705a43da",
+        "gameVersion": "jdnext",
+        "platform": "ps5",
+        "region": "scee",
+        "spaceId": "7e87907a-edb8-4df5-aa9f-76bb7ac41b03"
+    },
+    "jdnext-ps5-scea": {
+        "appId": "a92e073a-b30d-49b1-98b8-2ddd705a43da",
+        "gameVersion": "jdnext",
+        "platform": "ps5",
+        "region": "scea",
+        "spaceId": "7e87907a-edb8-4df5-aa9f-76bb7ac41b03"
+    },
+    "jdnext-ps5-scej": {
+        "appId": "a92e073a-b30d-49b1-98b8-2ddd705a43da",
+        "gameVersion": "jdnext",
+        "platform": "ps5",
+        "region": "scej",
+        "spaceId": "7e87907a-edb8-4df5-aa9f-76bb7ac41b03"
+    },
+    "jdnext-stadia-all": {
+        "appId": "af15c2d1-dc85-4625-b8dd-ae59be5ae848",
+        "gameVersion": "jdnext",
+        "platform": "stadia",
+        "region": "all",
+        "spaceId": "7b9cccfd-1cbc-4460-b3d1-c25d8bd74334"
+    },
+    "tools-teabox": {}
+}

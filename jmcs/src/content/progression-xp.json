@@ -1,0 +1,10 @@
+{
+    "missed": 0,
+    "okay": 4,
+    "good": 6,
+    "super": 7,
+    "perfect": 8,
+    "gold": 20,
+    "movesXPMultiplier": 1,
+    "seasonXPMultiplier": 1
+}

@@ -1,0 +1,108 @@
+/**
+ * Game constants
+ */
+
+const ChallengeMatch = {
+    CreateChallenge: {
+        wait_after_share: 5
+    }
+};
+
+const Friends = {
+    FriendListService: {
+        refresh_interval: 120
+    },
+    FriendsPresence: {
+        max_msg: 6,
+        refresh_time: 121
+    },
+    FriendsUGC: {
+        max_msg: 5,
+        refresh_time: 120
+    }
+};
+
+const Home = {
+    Fetch: {
+        during_session_tiles_count: 1,
+        new_session_tiles_count: 3,
+        played_maps_count: 2
+    }
+};
+
+const JDVersion = {
+    Override: {} // it's added by constant-provider library
+};
+
+const Quest = {
+    minimumScore: {
+        value: 1000
+    },
+    questOverride: {
+        value: []
+    },
+    sessionCountUntilDiscoveryKill: {
+        value: 4
+    },
+    sessionCountUntilFirstDiscoveryKill: {
+        value: 2
+    },
+    sessionCountUntilQuestKill: {
+        value: 10
+    }
+};
+
+const Subscription_Service = {
+    ECTokenFetch: {
+        retry_count: 3,
+        retry_interval: 598
+    },
+    ServerRefresh: {
+        refresh_interval: 600,
+        retry_interval: 60,
+        retry_interval_s2s: 600
+    }
+};
+
+const Unlockables = {
+    AAAMap: {
+        LockAAAMap2: 1,
+        considerLocking: 1,
+        map1: 1,
+        map2: "Thumbs"
+    }
+};
+
+const WDF = {
+    Recap: {
+        recap_retry_interval: 2
+    },
+    UpdateScore: {
+        update_failure_allowance: 10,
+        update_score_interval: 5
+    }
+};
+
+const UGC = {
+    PENDING_CONFIRMATION_DURATION: 24 * 60 * 60, // 24 hours in seconds
+};
+
+const Wall = {
+    FriendsWall: {
+        max_msg: 7,
+        refresh_time: 122
+    }
+};
+
+export default {
+    ChallengeMatch,
+    Friends,
+    Home,
+    JDVersion,
+    Quest,
+    Subscription_Service,
+    UGC,
+    Unlockables,
+    WDF,
+    Wall
+}

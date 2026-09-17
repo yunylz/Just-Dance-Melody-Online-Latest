@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DanceParty Proxy Admin</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <div class="logo">
+            <div class="logo-icon"></div>
+            <h2>DanceParty</h2>
+        </div>
+        <nav>
+            <a href="#" class="nav-item active" data-tab="dashboard">Dashboard</a>
+            <a href="#" class="nav-item" data-tab="hosts">Hosts</a>
+            <a href="#" class="nav-item" data-tab="logs">Live Logs</a>
+            <a href="#" class="nav-item" data-tab="tests">Test Suite</a>
+        </nav>
+        <div class="server-status">
+            <div class="status-indicator active"></div>
+            <span>Proxy Running</span>
+        </div>
+    </div>
+
+    <main class="content">
+        <!-- Dashboard Tab -->
+        <section id="dashboard" class="tab-content active">
+            <header>
+                <h1>Overview</h1>
+                <p>Real-time metrics and connections</p>
+            </header>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Active Users</h3>
+                    <div class="value" id="stat-users">0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Active Connections</h3>
+                    <div class="value" id="stat-connections">0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Requests (24h)</h3>
+                    <div class="value" id="stat-requests">0</div>
+                </div>
+                <div class="stat-card">
+                    <h3>Total Requests</h3>
+                    <div class="value" id="stat-total">0</div>
+                </div>
+            </div>
+
+            <div class="lists-grid">
+                <div class="list-card">
+                    <h3>Authenticated Users</h3>
+                    <ul id="users-list" class="styled-list">
+                        <li class="empty">No users</li>
+                    </ul>
+                </div>
+                <div class="list-card">
+                    <h3>Active Connections</h3>
+                    <ul id="connections-list" class="styled-list">
+                        <li class="empty">No connections</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Hosts Tab -->
+        <section id="hosts" class="tab-content">
+            <header>
+                <h1>Host Management</h1>
+                <p>Manage dynamically forwarded domains</p>
+            </header>
+
+            <div class="card">
+                <form id="add-host-form">
+                    <input type="text" id="host-domain" placeholder="Domain (e.g., api.pretendo.cc)" required>
+                    <input type="text" id="host-target" value="harbour" placeholder="Target (harbour)" required>
+                    <input type="text" id="host-desc" placeholder="Description (optional)">
+                    <button type="submit" class="btn-primary">Add Host</button>
+                </form>
+                
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Domain</th>
+                            <th>Target</th>
+                            <th>Description</th>
+                            <th>Status</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="hosts-table-body">
+                        <!-- Populated by JS -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Logs Tab -->
+        <section id="logs" class="tab-content">
+            <header>
+                <h1>Live Proxy Logs</h1>
+                <div class="header-actions">
+                    <button class="btn-secondary" id="clear-logs">Clear View</button>
+                </div>
+            </header>
+            
+            <div class="log-container">
+                <pre id="log-output"></pre>
+            </div>
+        </section>
+
+        <!-- Tests Tab -->
+        <section id="tests" class="tab-content">
+            <header>
+                <h1>Test Suite</h1>
+                <p>Run automated proxy integration tests</p>
+            </header>
+
+            <div class="card">
+                <form id="run-test-form">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label>Proxy URL</label>
+                            <input type="text" id="test-proxy" value="http://127.0.0.1:3128" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Hub URL</label>
+                            <input type="text" id="test-hub" value="http://127.0.0.1:3000" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Proxy Secret</label>
+                            <input type="password" id="test-secret" placeholder="x-proxy-secret" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Valid Username</label>
+                            <input type="text" id="test-user" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Valid Password</label>
+                            <input type="password" id="test-pass" required>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-primary" id="btn-run-tests">Run Tests</button>
+                </form>
+                
+                <div class="test-results-container" style="display:none;" id="test-results-wrapper">
+                    <h3>Results</h3>
+                    <pre id="test-output"></pre>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="/assets/app.js?v=4"></script>
+</body>
+</html>

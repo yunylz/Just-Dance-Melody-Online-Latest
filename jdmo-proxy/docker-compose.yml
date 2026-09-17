@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  danceparty-proxy:
+    build: .
+    container_name: danceparty-proxy
+    ports:
+      - "4080:4080"  # Proxy traffic port
+      - "8080:8375"  # Admin panel web UI
+    volumes:
+      - ./logs:/app/logs
+      - ./proxy.db:/app/proxy.db  # Persist the sqlite database
+      - ./.env:/app/.env:ro  # Mount .env as read-only
+    environment:
+      # You can override .env variables here if needed
+      - PORT=3128
+      # - HRBR_DOMAIN=hrbr.ryuatelier.org
+      # - PRETENDO_DOMAIN=account.pretendo.cc
+    restart: unless-stopped
+    networks:
+      - proxy-network
+
+networks:
+  proxy-network:
+    driver: bridge

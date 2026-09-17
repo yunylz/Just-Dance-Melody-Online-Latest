@@ -1,0 +1,63 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capability for the main window (local dev + remote production URL)",
+  "windows": ["main"],
+  "remote": {
+    "urls": [
+      "https://c0llydoll.dev/*",
+      "http://localhost:5173/*"
+    ]
+  },
+  "permissions": [
+    "core:default",
+    "core:event:default",
+    "opener:default",
+    "deep-link:default",
+    "dialog:default",
+    "updater:default",
+    "process:default",
+    {
+      "identifier": "http:default",
+      "allow": [{ "url": "https://*" }]
+    },
+    {
+      "identifier": "fs:read-all",
+      "allow": [
+        { "path": "$HOME/.jdmo-launcher/**" },
+        { "path": "$HOME/**" },
+        { "path": "$APPDATA/**" },
+        { "path": "$DOWNLOAD/**" },
+        { "path": "$DESKTOP/**" },
+        { "path": "$DOCUMENT/**" },
+        { "path": "**" }
+      ]
+    },
+    {
+      "identifier": "fs:write-all",
+      "allow": [
+        { "path": "$HOME/.jdmo-launcher/**" },
+        { "path": "$HOME/**" },
+        { "path": "$APPDATA/**" },
+        { "path": "$DOWNLOAD/**" },
+        { "path": "$DESKTOP/**" },
+        { "path": "$DOCUMENT/**" },
+        { "path": "**" }
+      ]
+    },
+    {
+      "identifier": "shell:allow-execute",
+      "allow": [
+        { "name": "wine", "cmd": "wine", "args": true },
+        { "name": "run-jd2017", "cmd": "$HOME/.jdmo-launcher/games/jd2017/JD2017.exe", "args": true }
+      ]
+    },
+    {
+      "identifier": "shell:allow-spawn",
+      "allow": [
+        { "name": "wine", "cmd": "wine", "args": true },
+        { "name": "run-jd2017", "cmd": "$HOME/.jdmo-launcher/games/jd2017/JD2017.exe", "args": true }
+      ]
+    }
+  ]
+}

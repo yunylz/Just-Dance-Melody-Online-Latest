@@ -1,0 +1,94 @@
+{
+    "quests": [
+        {
+            "id": "1",
+            "title": "ABBA",
+            "locked": 0,
+            "playlist": [
+                "ABBAAsGoodAsNew",
+                "ABBAIfItWasnt",
+                "ABBASOS"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/ABBA_quest_cover_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/abba/quest_logo.tga.ckd"
+            }
+        },
+        {
+            "id": "2",
+            "title": "Ariana Grande",
+            "locked": 0,
+            "playlist": [
+                "YesAnd",
+                "IntoYou",
+                "ThankUNext"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/ariana_quest_logo_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/ariana/quest_logo.tga.ckd"
+            }
+        },
+        {
+            "id": "3",
+            "title": "douls favs<3",
+            "locked": 0,
+            "playlist": [
+                "PadamALT",
+                "TalkTalkRemixMU",
+                "Imya505"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/douls_quest_cover_01.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/quest_cover_01.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/douls/quest_logo_01.tga.ckd"
+            }
+        },
+        {
+            "id": "4",
+            "title": "Mashup",
+            "locked": 0,
+            "playlist": [
+                "JunoMU",
+                "Cum",
+                "SweetestPie"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/mashup_quest_logo.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/mashup/quest_logo.tga.ckd"
+            }
+        },
+        {
+            "id": "5",
+            "title": "Pop Icons",
+            "locked": 0,
+            "playlist": [
+                "PokerFace",
+                "Toxic",
+                "VogueALT"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/pop_quest_cover.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/pop/quest_logo.tga.ckd"
+            }
+        },
+        {
+            "id": "6",
+            "title": "Panda",
+            "locked": 0,
+            "playlist": [
+                "JDCAdorationToHappinessDuo",
+                "TimberDLC",
+                "IGotAFeeling"
+            ],
+            "assetUrls": {
+                "phoneImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/panda_quest_cover.png",
+                "coverImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/quest_cover.tga.ckd",
+                "logoImageURL": "https://jdmo-cdn.c0llydoll.com/public/quests/panda/quest_logo.tga.ckd"
+            }
+        }
+    ]
+}

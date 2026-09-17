@@ -1,0 +1,1500 @@
+{
+    "Arachna": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Arachna",
+        "bossName": "Arachna",
+        "familyName": "FamilyJD18Halloween",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "ArcherOfLove": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 5,
+        "bossFullName": "ArcherOfLove",
+        "bossName": "ArcherOfLove",
+        "familyName": "FamilyJD17Valentine",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Arlecchino": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 3,
+        "bossFullName": "Arlecchino",
+        "bossName": "Arlecchino",
+        "familyName": "FamilyJD19Carnival",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "BOOMBOX": {
+        "activeFrom": 1595428200000,
+        "activeTill": 1600612200000,
+        "bossDifficulty": 4,
+        "bossFullName": "BOOMBOX",
+        "bossName": "BOOMBOX",
+        "familyName": "FamilyJD20WaveParty",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "BabaYaga": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 4,
+        "bossFullName": "BabaYaga",
+        "bossName": "BabaYaga",
+        "familyName": "FamilyJD19Halloween",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Battucada": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 4,
+        "bossFullName": "Battucada",
+        "bossName": "Battucada",
+        "familyName": "FamilyJD19Carnival",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "BigSanta": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 5,
+        "bossFullName": "BigSanta",
+        "bossName": "BigSanta",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "BigSanta_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 5,
+        "bossFullName": "BigSanta",
+        "bossName": "BigSanta",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Billy": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 4,
+        "bossFullName": "Billy",
+        "bossName": "Billy",
+        "familyName": "FamilyJD18Farm",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "BlueTyphoon": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 4,
+        "bossFullName": "BlueTyphoon",
+        "bossName": "BlueTyphoon",
+        "familyName": "FamilyJD18Dragon",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Boumbabox": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Boumbabox",
+        "bossName": "Boumbabox",
+        "familyName": "FamilyJD18GhettoBlaster",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Bushido": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 5,
+        "bossFullName": "Bushido",
+        "bossName": "Bushido",
+        "familyName": "FamilyJD18ForHonor",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "CaptainSharptooth": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 5,
+        "bossFullName": "CaptainSharptooth",
+        "bossName": "CaptainSharptooth",
+        "familyName": "FamilyJD18Sea",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Chickpea": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 3,
+        "bossFullName": "Chickpea",
+        "bossName": "Chickpea",
+        "familyName": "FamilyJD18Farm",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Chita": {
+        "activeFrom": 1602716460000,
+        "activeTill": 1607900460000,
+        "bossDifficulty": 3,
+        "bossFullName": "Chita",
+        "bossName": "Chita",
+        "familyName": "FamilyJD20Broadway",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Clint": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 3,
+        "bossFullName": "Clint",
+        "bossName": "Clint",
+        "familyName": "FamilyJD19Celebration",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "CoachJD": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 5,
+        "bossFullName": "CoachJD",
+        "bossName": "CoachJD",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "CoachJD_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 5,
+        "bossFullName": "CoachJD",
+        "bossName": "CoachJD",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "CounselorGiraffus": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 4,
+        "bossFullName": "CounselorGiraffus",
+        "bossName": "CounselorGiraffus",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "CounselorGiraffus_1": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 4,
+        "bossFullName": "CounselorGiraffus",
+        "bossName": "CounselorGiraffus",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "CounselorGiraffus_2": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 4,
+        "bossFullName": "CounselorGiraffus",
+        "bossName": "CounselorGiraffus",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "CrashGuy": {
+        "activeFrom": 1579095420000,
+        "activeTill": 1584279420000,
+        "bossDifficulty": 4,
+        "bossFullName": "CrashGuy",
+        "bossName": "CrashGuy",
+        "familyName": "FamilyJD20Steep",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Curtie": {
+        "activeFrom": 1599687900000,
+        "activeTill": 1604871900000,
+        "bossDifficulty": 4,
+        "bossFullName": "Curtie",
+        "bossName": "Curtie",
+        "familyName": "FamilyJD20ShowtimeParty",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Damona": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 4,
+        "bossFullName": "Damona",
+        "bossName": "Damona",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Damona_1": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Damona",
+        "bossName": "Damona",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Deerman": {
+        "activeFrom": 1583934900000,
+        "activeTill": 1589118900000,
+        "bossDifficulty": 4,
+        "bossFullName": "Deerman",
+        "bossName": "Deerman",
+        "familyName": "FamilyJD20HeroParty",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Deezy": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 4,
+        "bossFullName": "Deezy",
+        "bossName": "Deezy",
+        "familyName": "FamilyJD18Duck",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Eagzio": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 5,
+        "bossFullName": "Eagzio",
+        "bossName": "Eagzio",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Eagzio_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Eagzio",
+        "bossName": "Eagzio",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Earthdog": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Earthdog",
+        "bossName": "Earthdog",
+        "familyName": "FamilyJD18ChineseNewYear",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Elpee": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Elpee",
+        "bossName": "Elpee",
+        "familyName": "FamilyJD18GhettoBlaster",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Esqueletta": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Esqueletta",
+        "bossName": "Esqueletta",
+        "familyName": "FamilyJD18Halloween",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "EventTournament": {
+        "playlistLength": 5,
+        "selectionRule": {
+            "__class": "CategoryRule",
+            "act": "ui_carousel",
+            "isc": "grp_row",
+            "requests": [
+                {
+                    "__class": "JD_CarouselItemRequestDesc",
+                    "itemList": "EventTournament",
+                    "uuid": "3d5b04c9-352e-4025-b33a-aab2b4fb4f30"
+                }
+            ],
+            "title": "EventTournament"
+        },
+        "tournamentLogo": "https://jd-s3.akamaized.net/public/wdf/tournament/Weekly_tournament_cup/ab650172269653950e23d5a73240aa41.png",
+        "tournamentType": "ESWC",
+        "type": "tournament"
+    },
+    "FURY": {
+        "activeFrom": 1595428200000,
+        "activeTill": 1600612200000,
+        "bossDifficulty": 5,
+        "bossFullName": "FURY",
+        "bossName": "FURY",
+        "familyName": "FamilyJD20WaveParty",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "FiggySnowRider": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 3,
+        "bossFullName": "FiggySnowRider",
+        "bossName": "FiggySnowRider",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "FiggySnowRider_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 3,
+        "bossFullName": "FiggySnowRider",
+        "bossName": "FiggySnowRider",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "FireRooster": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 4,
+        "bossFullName": "FireRooster",
+        "bossName": "FireRooster",
+        "familyName": "FamilyJD18ChineseNewYear",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Firestorm": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 5,
+        "bossFullName": "Firestorm",
+        "bossName": "Firestorm",
+        "familyName": "FamilyJD18Dragon",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Frankenstein": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Frankenstein",
+        "bossName": "Frankenstein",
+        "familyName": "FamilyJD19Halloween",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "GAMEBO": {
+        "activeFrom": 1596631680000,
+        "activeTill": 1601815680000,
+        "bossDifficulty": 4,
+        "bossFullName": "GAMEBO",
+        "bossName": "GAMEBO",
+        "familyName": "FamilyJD20WaveGala",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Garylou": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Garylou",
+        "bossName": "Garylou",
+        "familyName": "FamilyJD18Halloween",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Gaya": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 5,
+        "bossFullName": "Gaya",
+        "bossName": "Gaya",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Gaya_1": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Gaya",
+        "bossName": "Gaya",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "George": {
+        "activeFrom": 1602716460000,
+        "activeTill": 1607900460000,
+        "bossDifficulty": 4,
+        "bossFullName": "George",
+        "bossName": "George",
+        "familyName": "FamilyJD20Broadway",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "GrumpyGhost": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 4,
+        "bossFullName": "GrumpyGhost",
+        "bossName": "GrumpyGhost",
+        "familyName": "FamilyJD17Halloween",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Hippos": {
+        "activeFrom": 1589292600000,
+        "activeTill": 1594476600000,
+        "bossDifficulty": 3,
+        "bossFullName": "Hippos",
+        "bossName": "Hippos",
+        "familyName": "FamilyJD20HeroGala",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Iscream": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 5,
+        "bossFullName": "Iscream",
+        "bossName": "Iscream",
+        "familyName": "FamilyJD18Gourmandise",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "JD21RegularTournament": {
+        "playlistLength": 3,
+        "tournamentLogo": "https://jd-s3.akamaized.net/public/wdf/tournament/Regular_tournament_cup/cac26efe4af312c63b0496ad542ea290.png",
+        "tournamentType": "default",
+        "type": "tournament"
+    },
+    "JackOPumpkin": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 5,
+        "bossFullName": "JackOPumpkin",
+        "bossName": "JackOPumpkin",
+        "familyName": "FamilyJD17Halloween",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "JimiSeaHorse": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 4,
+        "bossFullName": "JimiSeaHorse",
+        "bossName": "JimiSeaHorse",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "JimiSeaHorse_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 4,
+        "bossFullName": "JimiSeaHorse",
+        "bossName": "JimiSeaHorse",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Kawacake": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 4,
+        "bossFullName": "Kawacake",
+        "bossName": "Kawacake",
+        "familyName": "FamilyJD18Gourmandise",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "KeytarCat": {
+        "activeFrom": 1262300400000,
+        "activeTill": 1267484400000,
+        "bossDifficulty": 5,
+        "bossFullName": "KeytarCat",
+        "bossName": "KeytarCat",
+        "familyName": "FamilyJDXXSpaceCats",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "KingJumbo": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 5,
+        "bossFullName": "KingJumbo",
+        "bossName": "KingJumbo",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "KingJumbo_1": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 5,
+        "bossFullName": "KingJumbo",
+        "bossName": "KingJumbo",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "KingJumbo_2": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 5,
+        "bossFullName": "KingJumbo",
+        "bossName": "KingJumbo",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Kong": {
+        "activeFrom": 1583934900000,
+        "activeTill": 1589118900000,
+        "bossDifficulty": 3,
+        "bossFullName": "Kong",
+        "bossName": "Kong",
+        "familyName": "FamilyJD20HeroParty",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "LazerCat": {
+        "activeFrom": 1262300400000,
+        "activeTill": 1267484400000,
+        "bossDifficulty": 3,
+        "bossFullName": "LazerCat",
+        "bossName": "LazerCat",
+        "familyName": "FamilyJDXXSpaceCats",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Leek": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 3,
+        "bossFullName": "Leek",
+        "bossName": "Leek",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Leek_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Leek",
+        "bossName": "Leek",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "LeopoldTheJester": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 3,
+        "bossFullName": "LeopoldTheJester",
+        "bossName": "LeopoldTheJester",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "LeopoldTheJester_1": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 3,
+        "bossFullName": "LeopoldTheJester",
+        "bossName": "LeopoldTheJester",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "LeopoldTheJester_2": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 3,
+        "bossFullName": "LeopoldTheJester",
+        "bossName": "LeopoldTheJester",
+        "familyName": "FamilyJD17Jungle",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "MapVote": {
+        "type": "vote"
+    },
+    "Marquee": {
+        "activeFrom": 1599687900000,
+        "activeTill": 1604871900000,
+        "bossDifficulty": 3,
+        "bossFullName": "Marquee",
+        "bossName": "Marquee",
+        "familyName": "FamilyJD20ShowtimeParty",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Martello": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Martello",
+        "bossName": "Martello",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Martello_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Martello",
+        "bossName": "Martello",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "McQuack": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 3,
+        "bossFullName": "McQuack",
+        "bossName": "McQuack",
+        "familyName": "FamilyJD18Duck",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Micky": {
+        "activeFrom": 1599687900000,
+        "activeTill": 1604871900000,
+        "bossDifficulty": 5,
+        "bossFullName": "Micky",
+        "bossName": "Micky",
+        "familyName": "FamilyJD20ShowtimeParty",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Minerva": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 3,
+        "bossFullName": "Minerva",
+        "bossName": "Minerva",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Minerva_1": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Minerva",
+        "bossName": "Minerva",
+        "familyName": "FamilyJD19EarthCare",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Monkeyking": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Monkeyking",
+        "bossName": "Monkeyking",
+        "familyName": "FamilyJD18ChineseNewYear",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Monty": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 4,
+        "bossFullName": "Monty",
+        "bossName": "Monty",
+        "familyName": "FamilyJD19Celebration",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "MrChiefClaws": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 3,
+        "bossFullName": "MrChiefClaws",
+        "bossName": "MrChiefClaws",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "MrChiefClaws_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 3,
+        "bossFullName": "MrChiefClaws",
+        "bossName": "MrChiefClaws",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "MrMacaron": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 3,
+        "bossFullName": "MrMacaron",
+        "bossName": "MrMacaron",
+        "familyName": "FamilyJD18Gourmandise",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Muchacharacas": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 3,
+        "bossFullName": "Muchacharacas",
+        "bossName": "Muchacharacas",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Muchacharacas_1": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 3,
+        "bossFullName": "Muchacharacas",
+        "bossName": "Muchacharacas",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Muchachopeta": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 4,
+        "bossFullName": "Muchachopeta",
+        "bossName": "Muchachopeta",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Muchachopeta_1": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 4,
+        "bossFullName": "Muchachopeta",
+        "bossName": "Muchachopeta",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Muchachotarra": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 5,
+        "bossFullName": "Muchachotarra",
+        "bossName": "Muchachotarra",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Muchachotarra_1": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 5,
+        "bossFullName": "Muchachotarra",
+        "bossName": "Muchachotarra",
+        "familyName": "FamilyJD17Pepper",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "NEO": {
+        "activeFrom": 1595428200000,
+        "activeTill": 1600612200000,
+        "bossDifficulty": 3,
+        "bossFullName": "NEO",
+        "bossName": "NEO",
+        "familyName": "FamilyJD20WaveParty",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Nami": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 3,
+        "bossFullName": "Nami",
+        "bossName": "Nami",
+        "familyName": "FamilyJD19SummerVibes",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Nash": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 4,
+        "bossFullName": "Nash",
+        "bossName": "Nash",
+        "familyName": "FamilyJD19GraduationCelebration",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Nostresso": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 3,
+        "bossFullName": "Nostresso",
+        "bossName": "Nostresso",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Nostresso_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Nostresso",
+        "bossName": "Nostresso",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Oboy": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Oboy",
+        "bossName": "Oboy",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Oboy_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Oboy",
+        "bossName": "Oboy",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "OctoDrum": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 5,
+        "bossFullName": "OctoDrum",
+        "bossName": "OctoDrum",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "OctoDrum_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 5,
+        "bossFullName": "OctoDrum",
+        "bossName": "OctoDrum",
+        "familyName": "FamilyJD17SeaWorld",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Ori": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 5,
+        "bossFullName": "Ori",
+        "bossName": "Ori",
+        "familyName": "FamilyJD19Celebration",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "POLARO": {
+        "activeFrom": 1596631680000,
+        "activeTill": 1601815680000,
+        "bossDifficulty": 3,
+        "bossFullName": "POLARO",
+        "bossName": "POLARO",
+        "familyName": "FamilyJD20WaveGala",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "PandaFloat": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 5,
+        "bossFullName": "PandaFloat",
+        "bossName": "PandaFloat",
+        "familyName": "FamilyJD19Carnival",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Peekhibou": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 4,
+        "bossFullName": "Peekhibou",
+        "bossName": "Peekhibou",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Peekhibou_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Peekhibou",
+        "bossName": "Peekhibou",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "PeglegPorpoise": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 4,
+        "bossFullName": "PeglegPorpoise",
+        "bossName": "PeglegPorpoise",
+        "familyName": "FamilyJD18Sea",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Polaris": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Polaris",
+        "bossName": "Polaris",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Polaris_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 3,
+        "bossFullName": "Polaris",
+        "bossName": "Polaris",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "PumpkinHead": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 3,
+        "bossFullName": "PumpkinHead",
+        "bossName": "PumpkinHead",
+        "familyName": "FamilyJD19Halloween",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Pygmalion": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 3,
+        "bossFullName": "Pygmalion",
+        "bossName": "Pygmalion",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Pygmalion_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Pygmalion",
+        "bossName": "Pygmalion",
+        "familyName": "FamilyJD18Assassins",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Rabback": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 5,
+        "bossFullName": "Rabback",
+        "bossName": "Rabback",
+        "familyName": "FamilyJD18Duck",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "RandomSpotlight": {
+        "spotlightType": "randomConnected",
+        "type": "spotlight"
+    },
+    "RedLion": {
+        "activeFrom": 1589292600000,
+        "activeTill": 1594476600000,
+        "bossDifficulty": 5,
+        "bossFullName": "RedLion",
+        "bossName": "RedLion",
+        "familyName": "FamilyJD20HeroGala",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "RegularTournament": {
+        "playlistLength": 3,
+        "skinIdBronze": 50,
+        "skinIdGold": 48,
+        "skinIdSilver": 49,
+        "tournamentLogo": "https://jd-s3.akamaized.net/public/wdf/tournament/Regular_tournament_cup/c3236d5d336c2cb59f8d72d4aec6c3fd.png",
+        "tournamentType": "default",
+        "type": "tournament"
+    },
+    "Reign": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Reign",
+        "bossName": "Reign",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Reign_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 4,
+        "bossFullName": "Reign",
+        "bossName": "Reign",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Rina": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Rina",
+        "bossName": "Rina",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Rina_1": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Rina",
+        "bossName": "Rina",
+        "familyName": "FamilyJD19Battle",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "RocketCat": {
+        "activeFrom": 1262300400000,
+        "activeTill": 1267484400000,
+        "bossDifficulty": 4,
+        "bossFullName": "RocketCat",
+        "bossName": "RocketCat",
+        "familyName": "FamilyJDXXSpaceCats",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Roxie": {
+        "activeFrom": 1602716460000,
+        "activeTill": 1607900460000,
+        "bossDifficulty": 5,
+        "bossFullName": "Roxie",
+        "bossName": "Roxie",
+        "familyName": "FamilyJD20Broadway",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "STEREO": {
+        "activeFrom": 1596631680000,
+        "activeTill": 1601815680000,
+        "bossDifficulty": 5,
+        "bossFullName": "STEREO",
+        "bossName": "STEREO",
+        "familyName": "FamilyJD20WaveGala",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Santa": {
+        "activeFrom": 1576075140000,
+        "activeTill": 1581259140000,
+        "bossDifficulty": 5,
+        "bossFullName": "Santa",
+        "bossName": "Santa",
+        "familyName": "FamilyJD20Winter",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Selena": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 5,
+        "bossFullName": "Selena",
+        "bossName": "Selena",
+        "familyName": "FamilyJD19GraduationCelebration",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Shamisa": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 4,
+        "bossFullName": "Shamisa",
+        "bossName": "Shamisa",
+        "familyName": "FamilyJD18ForHonor",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Shinobi": {
+        "activeFrom": 1583020800000,
+        "activeTill": 1585692000000,
+        "bossDifficulty": 3,
+        "bossFullName": "Shinobi",
+        "bossName": "Shinobi",
+        "familyName": "FamilyJD18ForHonor",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "SnowMan": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 4,
+        "bossFullName": "SnowMan",
+        "bossName": "SnowMan",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "SnowMan_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 4,
+        "bossFullName": "SnowMan",
+        "bossName": "SnowMan",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Sparkle": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 3,
+        "bossFullName": "Sparkle",
+        "bossName": "Sparkle",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Sparkle2": {
+        "activeFrom": 1576075140000,
+        "activeTill": 1581259140000,
+        "bossDifficulty": 4,
+        "bossFullName": "Sparkle2",
+        "bossName": "Sparkle2",
+        "familyName": "FamilyJD20Winter",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Sparkle_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 3,
+        "bossFullName": "Sparkle",
+        "bossName": "Sparkle",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Stan": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 3,
+        "bossFullName": "Stan",
+        "bossName": "Stan",
+        "familyName": "FamilyJD19GraduationCelebration",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Sunny": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 5,
+        "bossFullName": "Sunny",
+        "bossName": "Sunny",
+        "familyName": "FamilyJD19SummerVibes",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "SuperPanda": {
+        "activeFrom": 1583934900000,
+        "activeTill": 1589118900000,
+        "bossDifficulty": 5,
+        "bossFullName": "SuperPanda",
+        "bossName": "SuperPanda",
+        "familyName": "FamilyJD20HeroParty",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "SuperSanta": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 5,
+        "bossFullName": "SuperSanta",
+        "bossName": "SuperSanta",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "SuperSanta_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 5,
+        "bossFullName": "SuperSanta",
+        "bossName": "SuperSanta",
+        "familyName": "FamilyJD17Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "T-rex": {
+        "activeFrom": 1579095420000,
+        "activeTill": 1584279420000,
+        "bossDifficulty": 5,
+        "bossFullName": "T-rex",
+        "bossName": "T-rex",
+        "familyName": "FamilyJD20Steep",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Taurus": {
+        "activeFrom": 1585695600000,
+        "activeTill": 1588284000000,
+        "bossDifficulty": 5,
+        "bossFullName": "Taurus",
+        "bossName": "Taurus",
+        "familyName": "FamilyJD18Farm",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "TeamBattleX": {
+        "teamLocIds": [
+            14554,
+            14555
+        ],
+        "type": "teambattle"
+    },
+    "TheGiraffa": {
+        "activeFrom": 1589292600000,
+        "activeTill": 1594476600000,
+        "bossDifficulty": 4,
+        "bossFullName": "TheGiraffa",
+        "bossName": "TheGiraffa",
+        "familyName": "FamilyJD20HeroGala",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "TheLovelyGift": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 3,
+        "bossFullName": "TheLovelyGift",
+        "bossName": "TheLovelyGift",
+        "familyName": "FamilyJD17Valentine",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "TheRedQueen": {
+        "activeFrom": 1580515200000,
+        "activeTill": 1583017200000,
+        "bossDifficulty": 4,
+        "bossFullName": "TheRedQueen",
+        "bossName": "TheRedQueen",
+        "familyName": "FamilyJD17Valentine",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Tomato": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 5,
+        "bossFullName": "Tomato",
+        "bossName": "Tomato",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Tomato_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Tomato",
+        "bossName": "Tomato",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "TunaToes": {
+        "activeFrom": 1596236400000,
+        "activeTill": 1598911200000,
+        "bossDifficulty": 3,
+        "bossFullName": "TunaToes",
+        "bossName": "TunaToes",
+        "familyName": "FamilyJD18Sea",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Turnip": {
+        "activeFrom": 1588287600000,
+        "activeTill": 1590962400000,
+        "bossDifficulty": 4,
+        "bossFullName": "Turnip",
+        "bossName": "Turnip",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Turnip_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Turnip",
+        "bossName": "Turnip",
+        "familyName": "FamilyJD17Vegetables",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Twinkle": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Twinkle",
+        "bossName": "Twinkle",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Twinkle2": {
+        "activeFrom": 1576075140000,
+        "activeTill": 1581259140000,
+        "bossDifficulty": 3,
+        "bossFullName": "Twinkle2",
+        "bossName": "Twinkle2",
+        "familyName": "FamilyJD20Winter",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Twinkle_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 4,
+        "bossFullName": "Twinkle",
+        "bossName": "Twinkle",
+        "familyName": "FamilyJD19Christmas",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "TwoTeeth": {
+        "activeFrom": 1604188800000,
+        "activeTill": 1606777200000,
+        "bossDifficulty": 3,
+        "bossFullName": "TwoTeeth",
+        "bossName": "TwoTeeth",
+        "familyName": "FamilyJD17Halloween",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "VIPSpotlight": {
+        "spotlightType": "jdu",
+        "type": "spotlight"
+    },
+    "WeeklyTournament": {
+        "playlistLength": 8,
+        "tournamentLogo": "https://jd-s3.akamaized.net/public/wdf/tournament/Weekly_tournament_cup/6f77723f79a517002dda5e5b4098ac8c.png",
+        "tournamentType": "weekly",
+        "type": "tournament"
+    },
+    "WhiteYeti": {
+        "activeFrom": 1579095420000,
+        "activeTill": 1584279420000,
+        "bossDifficulty": 3,
+        "bossFullName": "WhiteYeti",
+        "bossName": "WhiteYeti",
+        "familyName": "FamilyJD20Steep",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Wilo": {
+        "activeFrom": 1590966000000,
+        "activeTill": 1593554400000,
+        "bossDifficulty": 4,
+        "bossFullName": "Wilo",
+        "bossName": "Wilo",
+        "familyName": "FamilyJD19SummerVibes",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "WokeeTokee": {
+        "activeFrom": 1601506800000,
+        "activeTill": 1604185200000,
+        "bossDifficulty": 3,
+        "bossFullName": "WokeeTokee",
+        "bossName": "WokeeTokee",
+        "familyName": "FamilyJD18GhettoBlaster",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "WoodHorns": {
+        "activeFrom": 1593558000000,
+        "activeTill": 1596232800000,
+        "bossDifficulty": 3,
+        "bossFullName": "WoodHorns",
+        "bossName": "WoodHorns",
+        "familyName": "FamilyJD18Dragon",
+        "playlistLength": 1,
+        "type": "boss"
+    },
+    "Yeti": {
+        "activeFrom": 1575158400000,
+        "activeTill": 1577833200000,
+        "bossDifficulty": 5,
+        "bossFullName": "Yeti",
+        "bossName": "Yeti",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Yeti_1": {
+        "activeFrom": 1606780800000,
+        "activeTill": 1611964800000,
+        "bossDifficulty": 5,
+        "bossFullName": "Yeti",
+        "bossName": "Yeti",
+        "familyName": "FamilyJD18Christmas",
+        "playlistLength": 3,
+        "type": "boss"
+    },
+    "Yoggio": {
+        "activeFrom": 1577836800000,
+        "activeTill": 1580511600000,
+        "bossDifficulty": 4,
+        "bossFullName": "Yoggio",
+        "bossName": "Yoggio",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 2,
+        "type": "boss"
+    },
+    "Yoggio_1": {
+        "activeFrom": 1598914800000,
+        "activeTill": 1601503200000,
+        "bossDifficulty": 4,
+        "bossFullName": "Yoggio",
+        "bossName": "Yoggio",
+        "familyName": "FamilyJD19BackInShape",
+        "playlistLength": 2,
+        "type": "boss"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "ANZ Local": [
+        "AU",
+        "CC",
+        "CK",
+        "FM",
+        "FJ",
+        "GU",
+        "MH",
+        "NZ",
+        "NF",
+        "MP",
+        "PG",
+        "TO",
+        "VU"
+    ],
+    "Denmark Local": [
+        "DK",
+        "FO",
+        "GL"
+    ],
+    "FRA DOM-TOM": [
+        "DM",
+        "FR",
+        "GF",
+        "PF",
+        "TF",
+        "GP",
+        "MQ",
+        "YT",
+        "NC",
+        "RE",
+        "WF"
+    ],
+    "Finland Local": [
+        "AX",
+        "FI"
+    ],
+    "France Local": [
+        "AD",
+        "BE",
+        "DM",
+        "FR",
+        "GF",
+        "PF",
+        "GP",
+        "MQ",
+        "YT",
+        "MC",
+        "NC",
+        "RE",
+        "BL",
+        "MF",
+        "PM",
+        "CH",
+        "WF"
+    ],
+    "Germany Local": [
+        "AT",
+        "DE",
+        "CH"
+    ],
+    "Italy Local": [
+        "IT",
+        "SM",
+        "VA"
+    ],
+    "Korea Local": [
+        "KP",
+        "KR"
+    ],
+    "MENA Local": [
+        "DZ",
+        "BH",
+        "EG",
+        "IQ",
+        "JO",
+        "KW",
+        "LB",
+        "LY",
+        "MA",
+        "OM",
+        "PS",
+        "QA",
+        "SA",
+        "SY",
+        "TN",
+        "AE",
+        "YE"
+    ],
+    "NORDICS Local": [
+        "AX",
+        "DK",
+        "FO",
+        "FI",
+        "GL",
+        "IS",
+        "NO",
+        "SE"
+    ],
+    "Netherlands Local": [
+        "AW",
+        "BE",
+        "CW",
+        "LU",
+        "NL",
+        "SX"
+    ],
+    "Russia Local": [
+        "AM",
+        "AZ",
+        "BY",
+        "GE",
+        "KZ",
+        "KG",
+        "MD",
+        "RU",
+        "TJ",
+        "TM",
+        "UA",
+        "UZ"
+    ],
+    "SE Asia Local": [
+        "BN",
+        "KH",
+        "TL",
+        "HK",
+        "ID",
+        "LA",
+        "MO",
+        "MY",
+        "MM",
+        "PH",
+        "SG",
+        "TW",
+        "TH",
+        "VN"
+    ],
+    "Switzerland Local": [
+        "LI",
+        "CH"
+    ],
+    "UK Local": [
+        "AI",
+        "BM",
+        "VG",
+        "KY",
+        "FK",
+        "GI",
+        "GG",
+        "IE",
+        "IM",
+        "JE",
+        "TC",
+        "GB"
+    ],
+    "USA Local": [
+        "GU",
+        "MP",
+        "VI",
+        "US"
+    ]
+}

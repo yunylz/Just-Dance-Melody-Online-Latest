@@ -1,0 +1,3439 @@
+{
+    "1001Nights": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "FancyALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CheapThrillsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IstanbulQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkLike"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Dharma"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LeanOnALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Leila"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BewareOf"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JaiHo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KattiKalandal"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "80s": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Acceptable"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TakeOnMe"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HoldingOut"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TheFinalCountdown"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "FunkyTown"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CantTakeMyEyes"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DontStopMe"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BoysBoys"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CrazyLittle"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Footloose"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Anthology": {
+        "__class": "SongItemList",
+        "actionListName": "_None",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_0",
+                "mapName": "HotNCold"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_1",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_2",
+                "mapName": "CaliforniaGurls"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_3",
+                "mapName": "YouReTheFirst"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_4",
+                "mapName": "Starships"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_5",
+                "mapName": "BuiltForThis"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_6",
+                "mapName": "Chiwawa"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_7",
+                "mapName": "LeanOn"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_8",
+                "mapName": "SwishSwish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "anthology_planet_item_9",
+                "mapName": "Bang2019"
+            }
+        ],
+        "upsellActionListName": "_None"
+    },
+    "BeastlyBeats": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DaddyCool"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AThousandDances"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Animals"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IstanbulQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IGotAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gigolo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Chiwawa"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CopaCabana"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DogsOut"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "EmotionsInMotion": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LoveYouLike"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HowDeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CrazyLittle"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "INeedYourLoveDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gigolo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TheWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatIsLove"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CantHurryLove"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "YoureTheOne"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "EventTournament": {
+        "__class": "SongItemList",
+        "actionListName": "KatyPerryPartyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "FeelSpecial"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KillThisLove"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Bang2019"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gentleman"
+            }
+        ],
+        "upsellActionListName": "_None"
+    },
+    "FarEast": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Chiwawa"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "SayonaraRetake"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LoveWard"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DaddyALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GentlemanSWT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Oishii"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PoPiPo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BubblePop"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IntoYou"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "HotMoves": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LastChristmas"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IWillSurviveOSC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MakeItJingle"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KIDSJingleBells"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BollywoodXmas"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "YouReTheFirst"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Xmas"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "InternationalDanceDay-jd2016-PartyCoop": {
+        "__class": "SongItemList",
+        "actionListName": "partyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell_coop"
+    },
+    "InternationalDanceDay-jd2016-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "InternationalDanceDay-jd2016-Sweat": {
+        "__class": "SongItemList",
+        "actionListName": "sweatMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell"
+    },
+    "InternationalDanceDay-jd2017-PartyCoop": {
+        "__class": "SongItemList",
+        "actionListName": "partyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell_coop"
+    },
+    "InternationalDanceDay-jd2017-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "InternationalDanceDay-jd2017-Sweat": {
+        "__class": "SongItemList",
+        "actionListName": "sweatMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WalkThisWay"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Gibberish"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Moskau"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GotMeDancing"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "StarshipsALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Mambo5"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ILikeItLike"
+            }
+        ],
+        "upsellActionListName": "upsell"
+    },
+    "InternationalDanceDay-jd2018-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AllYouGotta"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Juju"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "FancyALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Footloose"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HitTheRoadALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rabiosa"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "September"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "JD18_Passport_Playlist": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Andy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Sun"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Error"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Natoo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Imya505"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Bonbon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Ulibayssia"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DragosteaDinTei"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IndiaWaale"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Bang"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "KatyPerry-jd2016-PartyCoop": {
+        "__class": "SongItemList",
+        "actionListName": "partyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ThisIsHow"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Birthday"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PartOfMeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IKissed"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CaliforniaGurls"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KiloPapaDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Firework"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WakingUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TeenageDream"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HotNCold"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ET"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ThisIsHowALT"
+            }
+        ],
+        "upsellActionListName": "upsell_coop"
+    },
+    "KatyPerry-jd2016-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ThisIsHow"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Birthday"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PartOfMeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IKissed"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CaliforniaGurls"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KiloPapaDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Firework"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WakingUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TeenageDream"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HotNCold"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ET"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ThisIsHowALT"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2018": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MagicHalloweenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FearlessPirateKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FunkyRobotKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HappyFarmKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PixieLandKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakaWakaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FootlooseKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BeepBeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MissAmazingKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "DaddyCool"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Barbie"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2018_JDU": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "CopaCabana"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Ghostbusters"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "IstanbulQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KungFu"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AThousandDances"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "RobotRock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HalloweenQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "UnderTheSea"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakeMeUpALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "DogsOut"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "YMCA"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSPirateYouShallBe"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSAccidentallyInLove"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSABC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSDayO"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSFiveLittleMonkeys"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSFraggleRock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSHickoryDickoryDock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSILikeToMoveIt"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSWorkingOnTheRailroad"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSIfYoureHappy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSJingleBells"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSMaryHadALittleLamb"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSTheLionSleepsTonight"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSWeGoWellTogether"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSWheelsOnTheBus"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2019": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "GhostKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "JurassicKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MerryChristmasKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MonstersAcademyKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "NinjaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SaintPatrickKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SpaceGirlKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "TheExplorerKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PocoLoco"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Sugar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MiMiMi"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WaterMe"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Barbie"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2019_JDU": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BeepBeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "ColaSongALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "CopaCabana"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Ghostbusters"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "IGotAFeelingALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "IstanbulQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KungFu"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LastChristmas"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "UnderTheSea"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakeMeUpALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSILikeToMoveIt"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSIfYoureHappy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "KIDSTheLionSleepsTonight"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MissAmazingKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FearlessPirateKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FootlooseKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FunkyRobotKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HappyFarmKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MagicHalloweenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PixieLandKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakaWakaKids"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2020": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Lullaby"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BabyShark"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FreezeKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BirthdayKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AdventurerKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "ChefKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WizardKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SchoolyardKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MedievalKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BandmasterKids"
+            }
+        ],
+        "upsellActionListName": "kidsMap"
+    },
+    "Kids_JD2020_JDU": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MissAmazingKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BeepBeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "JurassicKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SpaceGirlKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "GhostKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FunkyRobotKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Ghostbusters"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HappyFarmKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "IGotAFeelingALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SaintPatrickKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MerryChristmasKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MagicHalloweenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "NinjaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PocoLoco"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakaWakaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WaterMe"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2021": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BalletKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "CarpetKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FiremenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SpyKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Kuliki"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "EcoloKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BadAssPrincessKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "ChasmonauteKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BubblesKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FriendInMe"
+            }
+        ],
+        "upsellActionListName": "kidsMap"
+    },
+    "Kids_JD2021_JDU": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BabyShark"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BirthdayKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "ChefKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FreezeKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SchoolyardKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Lullaby"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MerryChristmasKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "NinjaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PocoLoco"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BeepBeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MagicHalloweenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HappyFarmKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "WakaWakaKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FunkyRobotKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MissAmazingKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PrinceAli"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Kids_JD2022": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AdventurerKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BalletKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "ChefKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FearlessPirateKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FiremenKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FunkyRobotKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MedievalKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "MonstersAcademyKids"
+            }
+        ],
+        "upsellActionListName": "kidsMap"
+    },
+    "Kids_JD2022_JDU": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Kuliki"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "FriendInMe"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BadAssPrincessKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "CarpetKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "EcoloKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Lullaby"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "SpyKids"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "BabyShark"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PocoLoco"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "Blue"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover",
+                "mapName": "AngryBirds"
+            }
+        ],
+        "upsellActionListName": "_None"
+    },
+    "NightAtTheMovies": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HowFar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Footloose"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WakeMeUpALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WhatAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HalloweenQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KIDSTheLionSleepsTonight"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "YoureTheOne"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GhostbustersSWT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "UnderTheSea"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "NonStopKids": {
+        "__class": "SongItemList",
+        "actionListName": "NonStop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "kids_grp_cover_shuffle",
+                "shuffle": true
+            }
+        ]
+    },
+    "NonStopParty": {
+        "__class": "SongItemList",
+        "actionListName": "NonStop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "actionListName": null,
+                "isc": "grp_shuffle",
+                "shuffle": true
+            }
+        ]
+    },
+    "Recommended-jd2016-PartyCoop": {
+        "__class": "SongItemList",
+        "actionListName": "partyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Animals"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Albatraoz"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Happy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IGotAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HeyMama"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LevanPolkka"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            }
+        ],
+        "upsellActionListName": "upsell_coop"
+    },
+    "Recommended-jd2016-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Animals"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Albatraoz"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Happy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IGotAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HeyMama"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LevanPolkka"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Recommended-jd2016-Sweat": {
+        "__class": "SongItemList",
+        "actionListName": "sweatMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Animals"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Albatraoz"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Happy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IGotAFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HeyMama"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LevanPolkka"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            }
+        ],
+        "upsellActionListName": "upsell"
+    },
+    "Recommended-jd2017-PartyCoop": {
+        "__class": "SongItemList",
+        "actionListName": "partyMapCoop",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "RedMangoose"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GetUgly"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KetchupSong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CheapThrills"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Daddy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PartyRock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DynamiteQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Oishii"
+            }
+        ],
+        "upsellActionListName": "upsell_coop"
+    },
+    "Recommended-jd2017-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "RedMangoose"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GetUgly"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KetchupSong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CheapThrills"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Daddy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PartyRock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DynamiteQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Oishii"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "Recommended-jd2017-Sweat": {
+        "__class": "SongItemList",
+        "actionListName": "sweatMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "RedMangoose"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GetUgly"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "NaeNae"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "KetchupSong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CheapThrills"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Daddy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PartyRock"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "DynamiteQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Oishii"
+            }
+        ],
+        "upsellActionListName": "upsell"
+    },
+    "Recommended-jd2018-PartyRival": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Thumbs"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MakeItJingle"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Happy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WilliamTell"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rockabye"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AintMy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GoodFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BeepBeep"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AutomatonALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetsGroove"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Bailar"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Dharma"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BreakFreeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AnotherOne"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Sorry"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Chiwawa"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TumBum"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PoPiPo"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "SunSandSea": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "TumBum"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "WakaWaka"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GetAround"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Hangover"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ElectroMambo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Chantaje"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Despacito"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CakeByTheOceanALT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Samba"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "SomethinStupid"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PoundTheAlarm"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "TestsCho": {
+        "__class": "SongItemList",
+        "actionListName": "_None",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LevelUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Funk"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BlackMam"
+            }
+        ],
+        "upsellActionListName": "_None"
+    },
+    "ThrillsAndChills": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Ghostbusters"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GhostInTheKeys"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HalloweenQUAT"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MonsterMash"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Maneater"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ProfesseurDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LimaGolf1"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Superstition"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "IWillSurvive"
+            }
+        ],
+        "upsellActionListName": "upsell_rival"
+    },
+    "UpsellVideos": {
+        "__class": "SongItemList",
+        "actionListName": "partyMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "HoldMyHand"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AmIWrong"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GetUgly"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "ShutUp"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BetterWhen"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cheerleader"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GangnamStyleDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Happy"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BeautyAndABeatDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "SexyAndIKnowItDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BlurredLines"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Starships"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "JustDance"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "GoodFeeling"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Rasputin"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "MovesLikeDLC"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "BuiltForThis"
+            }
+        ],
+        "upsellActionListName": "upsell"
+    },
+    "UpsellVideosKids": {
+        "__class": "SongItemList",
+        "actionListName": "kidsMap",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "LetItGo"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "AngryBirds"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "PrinceAli"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Cmon"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "Ghostbusters"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "UnderTheSea"
+            },
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "grp_cover",
+                "mapName": "CopaCabana"
+            }
+        ],
+        "upsellActionListName": "kidsMap"
+    },
+    "teaser_ftue": {
+        "__class": "SongItemList",
+        "actionListName": "teaser_ftue",
+        "list": [
+            {
+                "__class": "SongItem",
+                "act": "ui_component_base",
+                "isc": "teaser_item"
+            }
+        ]
+    }
+}

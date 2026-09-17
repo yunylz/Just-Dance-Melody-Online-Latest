@@ -1,0 +1,30 @@
+{
+  "baseUrl": "https://public-ubiservices.ubi.com",
+  "headers": {
+    "Authorization": "Ubi_v1 t=...",
+    "Ubi-AppId": "...",
+    "Ubi-SessionId": "..."
+  },
+  "appIds": [
+    "UUID-1",
+    "UUID-2"
+  ],
+  "profileId": "me",
+  "import": {
+    "apps": true,
+    "spaces": true,
+    "entities": true,
+    "events": true,
+    "populations": true,
+    "actions": true,
+    "rewards": true,
+    "parameters": true,
+    "eventsDefinitions": true
+  },
+  "options": {
+    "skipExistingApps": true,
+    "skipExistingSpaces": true,
+    "skipExistingEntities": true,
+    "skipExistingParameters": true
+  }
+}

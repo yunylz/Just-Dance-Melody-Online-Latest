@@ -1,0 +1,9 @@
+Hello,
+
+Your "{{consoleName}}" with the identifier "{{profileIdentifier}}" was unlinked from your account by our team.
+
+Reason: {{reason}}
+
+If you think this is a mistake and you would like to appeal this unlink process, please contact us at hello@c0llydoll.dev and prove that you have the ownership of the profile in the attachments.
+
+- RyuAtelier Team

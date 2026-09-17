@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Just Dance 2014",
+    "cover": "/assets/games/jd2014.jpg",
+    "supportedConsoles": {
+      "Wii": true,
+      "WiiU": false,
+      "PS3": false,
+      "PS4": false,
+      "X360": false,
+      "XONE": false
+    },
+    "features": {
+      "World Dance Floor": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      },
+      "Leaderboards": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      },
+      "Tournaments": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      },
+      "Shop": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      },
+      "Online Challengers": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      },
+      "JD Wall": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": false,
+        "PS4": false,
+        "X360": false,
+        "XONE": false
+      }
+    }
+  },
+  {
+    "name": "Just Dance 2015",
+    "cover": "/assets/games/jd2015.jpg",
+    "supportedConsoles": {
+      "Wii": true,
+      "WiiU": true,
+      "PS3": true,
+      "PS4": false,
+      "X360": true,
+      "XONE": false
+    },
+    "features": {
+      "World Dance Floor": {
+        "Wii": true,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Leaderboards": {
+        "Wii": true,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Tournaments": {
+        "Wii": false,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Shop": {
+        "Wii": true,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Online Challengers": {
+        "Wii": true,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "JD Wall": {
+        "Wii": true,
+        "WiiU": true,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      }
+    }
+  },
+  {
+    "name": "Just Dance 2016",
+    "cover": "/assets/games/jd2016.jpg",
+    "supportedConsoles": {
+      "Wii": true,
+      "WiiU": false,
+      "PS3": true,
+      "PS4": false,
+      "X360": true,
+      "XONE": false
+    },
+    "features": {
+      "World Dance Floor": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Leaderboards": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Tournaments": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Shop": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Online Challengers": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "JD Wall": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      }
+    }
+  },
+  {
+    "name": "Just Dance 2017",
+    "cover": "/assets/games/jd2017.jpg",
+    "supportedConsoles": {
+      "Wii": true,
+      "WiiU": false,
+      "PS3": true,
+      "PS4": false,
+      "X360": true,
+      "XONE": false
+    },
+    "features": {
+      "World Dance Floor": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Leaderboards": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Tournaments": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Shop": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Online Challengers": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "JD Wall": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      }
+    }
+  },
+  {
+    "name": "Just Dance 2018",
+    "cover": "/assets/games/jd2018.jpg",
+    "supportedConsoles": {
+      "Wii": true,
+      "WiiU": false,
+      "PS3": true,
+      "PS4": false,
+      "X360": true,
+      "XONE": false
+    },
+    "features": {
+      "World Dance Floor": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Leaderboards": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Tournaments": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Shop": {
+        "Wii": false,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "Online Challengers": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      },
+      "JD Wall": {
+        "Wii": true,
+        "WiiU": false,
+        "PS3": true,
+        "PS4": false,
+        "X360": true,
+        "XONE": false
+      }
+    }
+  }
+]

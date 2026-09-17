@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/MillionTimesBetter/MillionTimesBetter.ogg/5a684b6cb770f93f95398e25299b25e4.ogg",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MillionTimesBetter/MillionTimesBetter_HIGH.hd.webm/72a6da9f4f767d4718aa878feff11872.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MillionTimesBetter/MillionTimesBetter_LOW.hd.webm/ab17f09996a1735e6e1e55d6f7eaa1c9.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MillionTimesBetter/MillionTimesBetter_MID.hd.webm/699a34510454bdfa20774106f33ef2b2.webm",
+    "jmcs://jd-contents/MillionTimesBetter/MillionTimesBetter_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MillionTimesBetter/MillionTimesBetter_ULTRA.hd.webm/d9a590bb6a31597d22ca8c9268d26953.webm"
+  }
+}

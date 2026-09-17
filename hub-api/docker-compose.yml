@@ -1,0 +1,15 @@
+services:
+  hub-api:
+    build: .
+    container_name: hub-api
+    ports:
+      - "127.0.0.1:${PORT:-8455}:8455"
+    environment:
+      - MONGODB_URI=${MONGODB_URI}
+    restart: unless-stopped
+    networks:
+      - coolify
+
+networks:
+  coolify:
+    external: true

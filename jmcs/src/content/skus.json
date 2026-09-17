@@ -1,0 +1,540 @@
+{
+    "default": {
+        "jd2016-ps4-scea": {
+            "appId": "cd0fcaad-e5e0-4996-a13a-5922362ced7a",
+            "gameVersion": "jd2016",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "07e0f404-d897-4e22-a98e-e20aa7ef5c1c"
+        },
+        "jd2016-ps4-scee": {
+            "appId": "cd0fcaad-e5e0-4996-a13a-5922362ced7a",
+            "gameVersion": "jd2016",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "07e0f404-d897-4e22-a98e-e20aa7ef5c1c"
+        },
+        "jd2016-wiiu-noa": {
+            "appId": "3696a38b-1edd-4e7b-bbb7-855f15a25408",
+            "gameVersion": "jd2016",
+            "platform": "wiiu",
+            "region": "noa",
+            "spaceId": "17599f67-8a3b-407d-ac5e-7dfdd66d5194"
+        },
+        "jd2016-wiiu-noe": {
+            "appId": "3696a38b-1edd-4e7b-bbb7-855f15a25408",
+            "gameVersion": "jd2016",
+            "platform": "wiiu",
+            "region": "noe",
+            "spaceId": "17599f67-8a3b-407d-ac5e-7dfdd66d5194"
+        },
+        "jd2016-xone-emea": {
+            "appId": "2714264f-9d54-4810-845f-3f5c2135f965",
+            "gameVersion": "jd2016",
+            "platform": "x1",
+            "region": "emea",
+            "spaceId": "04ed0716-b067-4e11-a643-6b596242de55"
+        },
+        "jd2016-xone-ncsa": {
+            "appId": "2714264f-9d54-4810-845f-3f5c2135f965",
+            "gameVersion": "jd2016",
+            "platform": "x1",
+            "region": "ncsa",
+            "spaceId": "04ed0716-b067-4e11-a643-6b596242de55"
+        },
+        "jd2017-nx-all": {
+            "appId": "613fe1a7-86c6-4fa7-bfb3-230e92ae29d3",
+            "gameVersion": "jd2017",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "0415144b-ed4c-4098-a50d-5ba36d7d8466"
+        },
+        "jd2017-pc-ww": {
+            "appId": "341789d4-b41f-4f40-ac79-e2bc4c94ead4",
+            "gameVersion": "jd2017",
+            "platform": "pc",
+            "region": "ww",
+            "spaceId": "f1ae5b84-db7c-481e-9867-861cf1852dc8"
+        },
+        "jd2017-ps4-scea": {
+            "appId": "d03d28dd-4706-4808-ba6d-13f43ba62a11",
+            "gameVersion": "jd2017",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "56151e14-8ba6-4baf-ba5b-cbd75bff1dcb"
+        },
+        "jd2017-ps4-scee": {
+            "appId": "d03d28dd-4706-4808-ba6d-13f43ba62a11",
+            "gameVersion": "jd2017",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "56151e14-8ba6-4baf-ba5b-cbd75bff1dcb"
+        },
+        "jd2017-wiiu-noa": {
+            "appId": "81cf5bb0-e037-4374-b38d-106bd21307fa",
+            "gameVersion": "jd2017",
+            "platform": "wiiu",
+            "region": "noa",
+            "spaceId": "96f82187-4d45-4544-9718-0cde2f8d5ccb"
+        },
+        "jd2017-wiiu-noe": {
+            "appId": "81cf5bb0-e037-4374-b38d-106bd21307fa",
+            "gameVersion": "jd2017",
+            "platform": "wiiu",
+            "region": "noe",
+            "spaceId": "96f82187-4d45-4544-9718-0cde2f8d5ccb"
+        },
+        "jd2017-xone-emea": {
+            "appId": "155d58d0-94ae-4de2-b8f9-64ed5f299545",
+            "gameVersion": "jd2017",
+            "platform": "x1",
+            "region": "emea",
+            "spaceId": "b7ef9d86-2a78-4aab-97c0-d027560e4373"
+        },
+        "jd2017-xone-ncsa": {
+            "appId": "155d58d0-94ae-4de2-b8f9-64ed5f299545",
+            "gameVersion": "jd2017",
+            "platform": "x1",
+            "region": "ncsa",
+            "spaceId": "b7ef9d86-2a78-4aab-97c0-d027560e4373"
+        },
+        "jd2018-nx-all": {
+            "appId": "853badc5-e5b8-47a9-be06-630a1071701c",
+            "gameVersion": "jd2018",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "cdf9d0d7-8e4d-4afa-8268-c25ad42c579b"
+        },
+        "jd2018-ps4-scea": {
+            "appId": "338f2a70-2587-44ee-a64b-5dbe112fb043",
+            "gameVersion": "jd2018",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e"
+        },
+        "jd2018-ps4-scee": {
+            "appId": "338f2a70-2587-44ee-a64b-5dbe112fb043",
+            "gameVersion": "jd2018",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "16246b37-d8f2-43b4-a5ba-f07c2ed5a88e"
+        },
+        "jd2018-wiiu-noa": {
+            "appId": "f8c1989f-ea92-4567-b43d-436de74b2c5d",
+            "gameVersion": "jd2018",
+            "platform": "wiiu",
+            "region": "noa",
+            "spaceId": "807358a9-c9e5-4d5b-be84-e5e7b98d0421"
+        },
+        "jd2018-wiiu-noe": {
+            "appId": "f8c1989f-ea92-4567-b43d-436de74b2c5d",
+            "gameVersion": "jd2018",
+            "platform": "wiiu",
+            "region": "noe",
+            "spaceId": "807358a9-c9e5-4d5b-be84-e5e7b98d0421"
+        },
+        "jd2018-xone-emea": {
+            "appId": "ccfda907-9767-4ae5-895c-6204e7a39cbd",
+            "gameVersion": "jd2018",
+            "platform": "x1",
+            "region": "emea",
+            "spaceId": "947bcde1-c49f-4017-b073-458ecb7cefef"
+        },
+        "jd2018-xone-ncsa": {
+            "appId": "ccfda907-9767-4ae5-895c-6204e7a39cbd",
+            "gameVersion": "jd2018",
+            "platform": "x1",
+            "region": "ncsa",
+            "spaceId": "947bcde1-c49f-4017-b073-458ecb7cefef"
+        },
+        "jd2019-demo-nx-all": {
+            "appId": "cbd09488-7ada-44ad-9707-a826722fd173",
+            "gameVersion": "jd2019-demo",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "a26a738a-7e2d-4e4e-a8cb-31ec26d71dea"
+        },
+        "jd2019-demo-ps4-scea": {
+            "appId": "298ed6b1-38fa-4bc1-a1cd-2e1d40cd5bf7",
+            "gameVersion": "jd2019-demo",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "9183efd9-c5c6-4fc7-99f1-23c7b00493d5"
+        },
+        "jd2019-demo-ps4-scee": {
+            "appId": "298ed6b1-38fa-4bc1-a1cd-2e1d40cd5bf7",
+            "gameVersion": "jd2019-demo",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "9183efd9-c5c6-4fc7-99f1-23c7b00493d5"
+        },
+        "jd2019-demo-wiiu-noa": {
+            "appId": "9e4914b4-edff-4a62-afb6-be8660ef16fc",
+            "gameVersion": "jd2019-demo",
+            "platform": "wiiu",
+            "region": "noa",
+            "spaceId": "a374d410-62ba-4283-9534-1f6e87e313b1"
+        },
+        "jd2019-demo-wiiu-noe": {
+            "appId": "9e4914b4-edff-4a62-afb6-be8660ef16fc",
+            "gameVersion": "jd2019-demo",
+            "platform": "wiiu",
+            "region": "noe",
+            "spaceId": "a374d410-62ba-4283-9534-1f6e87e313b1"
+        },
+        "jd2019-demo-xone-all": {
+            "appId": "86dc7cf8-338d-47a5-b2f0-0d6d09039b90",
+            "gameVersion": "jd2019-demo",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "b1e6b771-1893-43e2-a444-d140b0c8e040"
+        },
+        "jd2019-nx-all": {
+            "appId": "848e9f13-07c1-41ae-baef-57bb9f4ac899",
+            "gameVersion": "jd2019",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "e92e485b-893e-4dd1-a55d-13d2696fcc38"
+        },
+        "jd2019-ps4-scea": {
+            "appId": "46f44bb2-76f0-450b-8114-280e8b12b013",
+            "gameVersion": "jd2019",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "9c029e8a-f03a-4743-a924-790dfd23e839"
+        },
+        "jd2019-ps4-scee": {
+            "appId": "46f44bb2-76f0-450b-8114-280e8b12b013",
+            "gameVersion": "jd2019",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "9c029e8a-f03a-4743-a924-790dfd23e839"
+        },
+        "jd2019-wiiu-noa": {
+            "appId": "3b4009a1-66cb-410d-9799-3041835d8e1b",
+            "gameVersion": "jd2019",
+            "platform": "wiiu",
+            "region": "noa",
+            "spaceId": "ef680ba3-e1ae-4fb5-b434-ab448f1c3210"
+        },
+        "jd2019-wiiu-noe": {
+            "appId": "3b4009a1-66cb-410d-9799-3041835d8e1b",
+            "gameVersion": "jd2019",
+            "platform": "wiiu",
+            "region": "noe",
+            "spaceId": "ef680ba3-e1ae-4fb5-b434-ab448f1c3210"
+        },
+        "jd2019-xone-all": {
+            "appId": "f64e368b-88c7-49e7-bc57-f3cfee43d70f",
+            "gameVersion": "jd2019",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "97758012-ec0d-4d96-9d84-391f758e7179"
+        },
+        "jd2020-demo-nx-all": {
+            "appId": "ae231a4b-8991-476b-89f9-3955fa77a7eb",
+            "gameVersion": "jd2020-demo",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "0950d9b1-340f-4522-8a0b-41289af96017"
+        },
+        "jd2020-demo-ps4-scea": {
+            "appId": "635d07a6-2841-4bd0-ba81-f9cd90564c7d",
+            "gameVersion": "jd2020-demo",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "b49d3466-c46c-4015-ab43-d37484ceabd3"
+        },
+        "jd2020-demo-ps4-scee": {
+            "appId": "635d07a6-2841-4bd0-ba81-f9cd90564c7d",
+            "gameVersion": "jd2020-demo",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "b49d3466-c46c-4015-ab43-d37484ceabd3"
+        },
+        "jd2020-demo-xone-all": {
+            "appId": "02729454-f6c2-4cb6-bc8e-c9f46c1385c8",
+            "gameVersion": "jd2020-demo",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "998c2bd7-df25-4cbb-9ba8-e387a2561330"
+        },
+        "jd2020-ggp-all": {
+            "appId": "dcdad3dc-4124-4c74-9e1a-8fa35a6c9489",
+            "gameVersion": "jd2020",
+            "platform": "ggp",
+            "region": "all",
+            "spaceId": "5eea2646-e275-4a22-8e96-3c0a20a5b33b"
+        },
+        "jd2020-nx-all": {
+            "appId": "b9363005-413a-436d-a75c-99c2d7a5d0de",
+            "gameVersion": "jd2020",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "d2aa3e85-8340-462c-bd13-3a88dcfe6a67"
+        },
+        "jd2020-ps4-scea": {
+            "appId": "71a93f8c-7b00-47ca-a2de-7dbf8de5a5d3",
+            "gameVersion": "jd2020",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "cccb8e2e-646d-446f-a70e-f99f59defcd4"
+        },
+        "jd2020-ps4-scee": {
+            "appId": "71a93f8c-7b00-47ca-a2de-7dbf8de5a5d3",
+            "gameVersion": "jd2020",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "cccb8e2e-646d-446f-a70e-f99f59defcd4"
+        },
+        "jd2020-xone-all": {
+            "appId": "7df3c817-cde1-4bf9-9b37-ceb9d06c4b96",
+            "gameVersion": "jd2020",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "37a67b61-a586-49ea-97f6-0bd1ec05283e"
+        },
+        "jd2021-demo-nx-all": {
+            "appId": "9fd83e22-3aa7-4e22-b6a4-b743be9d5ed6",
+            "gameVersion": "jd2021-demo",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "85042f60-4980-4fbb-ba84-53604b32fbb4"
+        },
+        "jd2021-demo-ps4-scea": {
+            "appId": "2b3b2ad4-909d-479e-951c-e1186190c09d",
+            "gameVersion": "jd2021-demo",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "ac9e1021-7777-4408-ad6f-fd87f68e5390"
+        },
+        "jd2021-demo-ps4-scee": {
+            "appId": "2b3b2ad4-909d-479e-951c-e1186190c09d",
+            "gameVersion": "jd2021-demo",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "ac9e1021-7777-4408-ad6f-fd87f68e5390"
+        },
+        "jd2021-demo-xone-all": {
+            "appId": "ca5b6a7d-fc3a-4e0c-a21a-d2d89521aaf1",
+            "gameVersion": "jd2021-demo",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "aab57bb0-76e1-46a2-aa7a-025d374dfb5c"
+        },
+        "jd2021-ggp-all": {
+            "appId": "984a17fd-1da1-4f16-97ff-98d56a6c7147",
+            "gameVersion": "jd2021",
+            "platform": "ggp",
+            "region": "all",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-nx-all": {
+            "appId": "778c0fff-db09-4c65-bcf0-84a40170c1d2",
+            "gameVersion": "jd2021",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-ps4-scea": {
+            "appId": "63475868-1e27-45c2-95c4-cfc58c951016",
+            "gameVersion": "jd2021",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-ps4-scee": {
+            "appId": "63475868-1e27-45c2-95c4-cfc58c951016",
+            "gameVersion": "jd2021",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-ps5-scea": {
+            "appId": "76570aa8-9ce4-43b3-b226-bcf654b5d9a8",
+            "gameVersion": "jd2021",
+            "platform": "ps5",
+            "region": "scea",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-ps5-scee": {
+            "appId": "76570aa8-9ce4-43b3-b226-bcf654b5d9a8",
+            "gameVersion": "jd2021",
+            "platform": "ps5",
+            "region": "scee",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-xboxsx-all": {
+            "appId": "8375910d-7f13-441b-98db-b4065b043ae5",
+            "gameVersion": "jd2021",
+            "platform": "xboxsx",
+            "region": "all",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2021-xone-all": {
+            "appId": "f78cbbdb-72eb-47f4-af54-91618c1eecd0",
+            "gameVersion": "jd2021",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "59f82720-778f-427a-a0bd-e81cb112c044"
+        },
+        "jd2022-ggp-all": {
+            "appId": "92f0314a-a84a-441d-a335-683a1a52e058",
+            "gameVersion": "jd2022",
+            "platform": "ggp",
+            "region": "all",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-nx-all": {
+            "appId": "34ad0f04-b141-4793-bdd4-985a9175e70d",
+            "gameVersion": "jd2022",
+            "platform": "nx",
+            "region": "all",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-ps4-scea": {
+            "appId": "6e8a0cf3-c60e-44da-984c-7f8d7e1f4157",
+            "gameVersion": "jd2022",
+            "platform": "ps4",
+            "region": "scea",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-ps4-scee": {
+            "appId": "6e8a0cf3-c60e-44da-984c-7f8d7e1f4157",
+            "gameVersion": "jd2022",
+            "platform": "ps4",
+            "region": "scee",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-ps5-scea": {
+            "appId": "812a8fa1-e45a-4734-835e-6359ab86df8b",
+            "gameVersion": "jd2022",
+            "platform": "ps5",
+            "region": "scea",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-ps5-scee": {
+            "appId": "812a8fa1-e45a-4734-835e-6359ab86df8b",
+            "gameVersion": "jd2022",
+            "platform": "ps5",
+            "region": "scee",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-xboxsx-all": {
+            "appId": "6fc1c284-c2a6-4eed-9da8-c49769506fa0",
+            "gameVersion": "jd2022",
+            "platform": "xboxsx",
+            "region": "all",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jd2022-xone-all": {
+            "appId": "594d5ecc-0c64-441b-b129-42ceafb22c81",
+            "gameVersion": "jd2022",
+            "platform": "x1",
+            "region": "all",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        },
+        "jdcompanion-android": {
+            "appId": "210da0fb-d6a5-4ed1-9808-01e86f0de7fb",
+            "gameVersion": "jdcompanion",
+            "platform": "android",
+            "region": "mobile"
+        },
+        "jdcompanion-ios": {
+            "appId": "ed08150d-86ae-4957-80c0-d3ee8ba1a50c",
+            "gameVersion": "jdcompanion",
+            "platform": "ios",
+            "region": "mobile"
+        },
+        "tools-teabox": {}
+    },
+    "dev": {
+        "jd2016-pc-all": {
+            "appId": "3d4a8d63-e473-4c70-a24d-6cf36cfc1eae",
+            "devOnly": true,
+            "gameVersion": "jd2016",
+            "platform": "pc",
+            "region": "all"
+        },
+        "jd2017-pc-all": {
+            "appId": "341789d4-b41f-4f40-ac79-e2bc4c94ead4",
+            "devOnly": true,
+            "gameVersion": "jd2017",
+            "platform": "pc",
+            "region": "all"
+        },
+        "jd2018-event-fp": {
+            "appId": "853badc5-e5b8-47a9-be06-630a1071701c",
+            "devOnly": true,
+            "gameVersion": "jd2018",
+            "platform": "nx",
+            "region": "all"
+        },
+        "jd2018-pc-all": {
+            "appId": "740a6dc8-7d7a-4fbe-be2c-aa5d8c65c5e8",
+            "devOnly": true,
+            "gameVersion": "jd2018",
+            "platform": "pc",
+            "region": "all",
+            "spaceId": "13b9ffa4-c16a-431e-9209-7a3d5ad32c9d"
+        },
+        "jd2019-pc-all": {
+            "appId": "f52352a5-e2df-4f3a-bdc2-eecdce19dcf1",
+            "devOnly": true,
+            "gameVersion": "jd2019",
+            "platform": "pc",
+            "region": "all",
+            "spaceId": "02a96184-5380-460b-ac5e-9dd14abf9e94"
+        },
+        "jd2020-pc-all": {
+            "appId": "c9ef2a8d-f882-4e53-a46f-d726b1bd3079",
+            "devOnly": true,
+            "gameVersion": "jd2020",
+            "platform": "pc",
+            "region": "all",
+            "spaceId": "8fdfc40a-b306-4837-bbb5-640052952604"
+        },
+        "jd2021-pc-all": {
+            "appId": "c8cfd4b7-91b0-446b-8e3b-7edfa393c946",
+            "devOnly": true,
+            "gameVersion": "jd2021",
+            "platform": "pc",
+            "region": "all",
+            "spaceId": "d85e86e5-f68b-4cf4-a8ba-ce420765e7ee"
+        },
+        "jd2022-pc-all": {
+            "appId": "3cf68bce-982d-49a1-9cca-486c21192f2b",
+            "devOnly": true,
+            "gameVersion": "jd2022",
+            "platform": "pc",
+            "region": "all",
+            "spaceId": "041c03fa-1735-4ea7-b5fc-c16546d092ca"
+        }
+    },
+    "unit-test": {
+        "jd2017-dreamcast": {
+            "appId": "000",
+            "gameVersion": "jd2017",
+            "platform": "dreamcast",
+            "region": "none"
+        },
+        "jd2018-dreamcast": {
+            "appId": "000",
+            "gameVersion": "jd2018",
+            "platform": "dreamcast",
+            "region": "none"
+        },
+        "jd3333-dreamcast": {
+            "appId": "000",
+            "gameVersion": "jd3333",
+            "platform": "dreamcast",
+            "region": "none"
+        },
+        "jd3333-snes": {
+            "appId": "0000",
+            "gameVersion": "jd3333",
+            "platform": "snes",
+            "region": "none"
+        }
+    }
+}

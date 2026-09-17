@@ -1,0 +1,5884 @@
+{
+    "1": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15022,
+        "StringLocIDFemale": null,
+        "StringPlaceholder": "The Rookie",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "2": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15027,
+        "StringPlaceholder": "The Just Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "3": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15023,
+        "StringPlaceholder": "The Regular",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "4": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15024,
+        "StringPlaceholder": "The Boogie-Man",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "5": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15025,
+        "StringPlaceholder": "The Rock'n'roller",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "6": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15026,
+        "StringPlaceholder": "The Body Popper",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14977,
+                "MinimumValue": 1,
+                "ObjectiveType": 51,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "7": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15147,
+        "StringPlaceholder": "The JD Family Member",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14982,
+                "MinimumValue": 1,
+                "ObjectiveType": 50,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "8": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14961,
+        "StringPlaceholder": "The Stylish Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14675,
+                "MinimumValue": 1,
+                "ObjectiveType": 36,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "9": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14972,
+        "StringPlaceholder": "The Eager Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14669,
+                "MinimumValue": 1,
+                "ObjectiveType": 45,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "10": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14686,
+        "StringPlaceholder": "The Binge Watcher",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14671,
+                "MinimumValue": 1,
+                "ObjectiveType": 47,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "11": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14973,
+        "StringPlaceholder": "The Fanboy",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14073,
+                "MinimumValue": 1,
+                "ObjectiveType": 34,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "12": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14974,
+        "StringPlaceholder": "The Tireless Fan",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14967,
+                "MinimumValue": 5,
+                "ObjectiveType": 41,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "13": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14971,
+        "StringPlaceholder": "The Sweatster",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14673,
+                "MinimumValue": 1,
+                "ObjectiveType": 42,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "14": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14935,
+        "StringPlaceholder": "The Jock",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14895,
+                "MinimumValue": 5,
+                "__class": "JD_ObjectiveDesc_SweatSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "15": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14936,
+        "StringPlaceholder": "The Gym Rat",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14895,
+                "MinimumValue": 27,
+                "__class": "JD_ObjectiveDesc_SweatSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "16": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14937,
+        "StringPlaceholder": "The Athlete",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14895,
+                "MinimumValue": 53,
+                "__class": "JD_ObjectiveDesc_SweatSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "17": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14938,
+        "StringPlaceholder": "The Olympian",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14895,
+                "MinimumValue": 100,
+                "__class": "JD_ObjectiveDesc_SweatSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "18": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14939,
+        "StringPlaceholder": "The Calorie Killer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14895,
+                "MinimumValue": 300,
+                "__class": "JD_ObjectiveDesc_SweatSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "19": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14968,
+        "StringPlaceholder": "The Festive Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14962,
+                "MinimumValue": 1,
+                "ObjectiveType": 31,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "20": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14969,
+        "StringPlaceholder": "The Clubber",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14963,
+                "MinimumValue": 5,
+                "ObjectiveType": 31,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "21": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14970,
+        "StringPlaceholder": "The Party Animal",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14963,
+                "MinimumValue": 10,
+                "ObjectiveType": 31,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "22": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15297,
+        "StringPlaceholder": "The Curator",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14672,
+                "MinimumValue": 1,
+                "ObjectiveType": 56,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "23": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14696,
+        "StringPlaceholder": "The Globetrotter",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14979,
+                "MinimumValue": 100,
+                "ObjectiveType": 57,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "24": {
+        "DifficultyColor": 0,
+        "StringLocID": 14873,
+        "StringPlaceholder": "The Shopaholic",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14879,
+                "MinimumValue": 10,
+                "ObjectiveType": 37,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "25": {
+        "DifficultyColor": 1,
+        "StringLocID": 14874,
+        "StringPlaceholder": "The Splurger",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14879,
+                "MinimumValue": 50,
+                "ObjectiveType": 37,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "26": {
+        "DifficultyColor": 2,
+        "StringLocID": 14875,
+        "StringPlaceholder": "The Gambler",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14879,
+                "MinimumValue": 100,
+                "ObjectiveType": 37,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "27": {
+        "DifficultyColor": 3,
+        "StringLocID": 14876,
+        "StringPlaceholder": "The High Roller",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14879,
+                "MinimumValue": 150,
+                "ObjectiveType": 37,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "28": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14877,
+        "StringPlaceholder": "The Collector",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14880,
+                "MinimumValue": 215,
+                "ObjectiveType": 37,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "29": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14956,
+        "StringPlaceholder": "The Sleuth",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14955,
+                "MinimumValue": 5,
+                "ObjectiveType": 32,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "30": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14957,
+        "StringPlaceholder": "The Private Eye",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14955,
+                "MinimumValue": 10,
+                "ObjectiveType": 32,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "31": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14958,
+        "StringPlaceholder": "The Detective",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14955,
+                "MinimumValue": 20,
+                "ObjectiveType": 32,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "32": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14930,
+        "StringPlaceholder": "The Rising Newcomer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14929,
+                "MinimumValue": 5,
+                "ObjectiveType": 12,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "33": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14931,
+        "StringPlaceholder": "The Apprentice",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14929,
+                "MinimumValue": 27,
+                "ObjectiveType": 12,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "34": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14932,
+        "StringPlaceholder": "The Expert",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14929,
+                "MinimumValue": 53,
+                "ObjectiveType": 12,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "35": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14933,
+        "StringPlaceholder": "The Dance Master",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14929,
+                "MinimumValue": 100,
+                "ObjectiveType": 12,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "36": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14934,
+        "StringPlaceholder": "The Legendary Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14929,
+                "MinimumValue": 300,
+                "ObjectiveType": 12,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "37": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14940,
+        "StringPlaceholder": "The Soloist",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14896,
+                "MinimumValue": 10,
+                "ObjectiveType": 13,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "38": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14941,
+        "StringPlaceholder": "The Duo",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14897,
+                "MinimumValue": 10,
+                "ObjectiveType": 14,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "39": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14942,
+        "StringPlaceholder": "The Trio",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14898,
+                "MinimumValue": 10,
+                "ObjectiveType": 15,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "40": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14943,
+        "StringPlaceholder": "The Quartet",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14899,
+                "MinimumValue": 10,
+                "ObjectiveType": 16,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "41": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14948,
+        "StringPlaceholder": "The Live Performer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14901,
+                "MinimumValue": 10,
+                "__class": "JD_ObjectiveDesc_WDFSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "42": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14949,
+        "StringPlaceholder": "The Renowned Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14901,
+                "MinimumValue": 50,
+                "__class": "JD_ObjectiveDesc_WDFSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "43": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14950,
+        "StringPlaceholder": "The Influencer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14901,
+                "MinimumValue": 100,
+                "__class": "JD_ObjectiveDesc_WDFSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "44": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14951,
+        "StringPlaceholder": "The Socializer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14901,
+                "MinimumValue": 300,
+                "__class": "JD_ObjectiveDesc_WDFSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "45": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14881,
+        "StringPlaceholder": "The Super Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14884,
+                "MinimumValue": 1000,
+                "ObjectiveType": 7,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "46": {
+        "DifficultyColor": 2,
+        "StringLocID": 14882,
+        "StringPlaceholder": "The Super Boy",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14884,
+                "MinimumValue": 2000,
+                "ObjectiveType": 7,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "47": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15004,
+        "StringPlaceholder": "The Perfectionist",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15002,
+                "MinimumValue": 1500,
+                "ObjectiveType": 55,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "48": {
+        "DifficultyColor": 3,
+        "StringLocID": 14685,
+        "StringPlaceholder": "The Golden Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14887,
+                "MinimumValue": 500,
+                "ObjectiveType": 6,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "49": {
+        "DifficultyColor": 4,
+        "StringLocID": 14886,
+        "StringPlaceholder": "The Golden Boy",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14887,
+                "MinimumValue": 1000,
+                "ObjectiveType": 6,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "50": {
+        "DifficultyColor": 0,
+        "StringLocID": 14889,
+        "StringPlaceholder": "The Moonstone",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14893,
+                "MinimumValue": 10,
+                "ObjectiveType": 17,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "51": {
+        "DifficultyColor": 1,
+        "StringLocID": 14888,
+        "StringPlaceholder": "The Emerald",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14893,
+                "MinimumValue": 27,
+                "ObjectiveType": 17,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "52": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14890,
+        "StringPlaceholder": "The Sapphire",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14893,
+                "MinimumValue": 53,
+                "ObjectiveType": 17,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "53": {
+        "DifficultyColor": 3,
+        "StringLocID": 14891,
+        "StringPlaceholder": "The Amethyst",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14893,
+                "MinimumValue": 100,
+                "ObjectiveType": 17,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "54": {
+        "DifficultyColor": 4,
+        "StringLocID": 14892,
+        "StringPlaceholder": "The Gold Standard",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14893,
+                "MinimumValue": 300,
+                "ObjectiveType": 17,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "55": {
+        "DifficultyColor": 0,
+        "StringLocID": 14905,
+        "StringPlaceholder": "The Shooting Star",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14903,
+                "MinimumValue": 50,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "56": {
+        "DifficultyColor": 1,
+        "StringLocID": 14906,
+        "StringPlaceholder": "The Blazing Star",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14903,
+                "MinimumValue": 100,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "57": {
+        "DifficultyColor": 2,
+        "StringLocID": 14907,
+        "StringPlaceholder": "The Nova",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14903,
+                "MinimumValue": 250,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "58": {
+        "DifficultyColor": 3,
+        "StringLocID": 14908,
+        "StringPlaceholder": "The Supernova",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14903,
+                "MinimumValue": 500,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "59": {
+        "DifficultyColor": 4,
+        "StringLocID": 14909,
+        "StringPlaceholder": "The Pulsar",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14903,
+                "MinimumValue": 1000,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "60": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14952,
+        "StringPlaceholder": "The Unbeatable",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14902,
+                "MinimumValue": 250,
+                "__class": "JD_ObjectiveDesc_GatherStarsWDF"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "61": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14953,
+        "StringPlaceholder": "The Unrivaled",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14902,
+                "MinimumValue": 500,
+                "__class": "JD_ObjectiveDesc_GatherStarsWDF"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "62": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14954,
+        "StringPlaceholder": "The God of the Dance Floor",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14902,
+                "MinimumValue": 1000,
+                "__class": "JD_ObjectiveDesc_GatherStarsWDF"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "63": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14924,
+        "StringPlaceholder": "The Nomad",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14894,
+                "MinStarToReach": 3,
+                "MinimumValue": 5,
+                "__class": "JD_ObjectiveDesc_MinStarsReachedSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "64": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14925,
+        "StringPlaceholder": "The Explorer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14894,
+                "MinStarToReach": 3,
+                "MinimumValue": 27,
+                "__class": "JD_ObjectiveDesc_MinStarsReachedSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "65": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14926,
+        "StringPlaceholder": "The Adventurer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14894,
+                "MinStarToReach": 3,
+                "MinimumValue": 53,
+                "__class": "JD_ObjectiveDesc_MinStarsReachedSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "66": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14927,
+        "StringPlaceholder": "The Spelunker",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14894,
+                "MinStarToReach": 3,
+                "MinimumValue": 100,
+                "__class": "JD_ObjectiveDesc_MinStarsReachedSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "67": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14928,
+        "StringPlaceholder": "The Archaeologist",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14894,
+                "MinStarToReach": 3,
+                "MinimumValue": 300,
+                "__class": "JD_ObjectiveDesc_MinStarsReachedSongCount"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "68": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14975,
+        "StringPlaceholder": "The Club Member",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14676,
+                "MinimumValue": 1,
+                "ObjectiveType": 39,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "69": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15204,
+        "StringPlaceholder": "The Eagle Bearer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15066,
+                "MinimumValue": 1,
+                "ObjectiveType": 48,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "70": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15257,
+        "StringPlaceholder": "The Greek Hero",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15066,
+                "MinimumValue": 1,
+                "ObjectiveType": 48,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "71": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15258,
+        "StringPlaceholder": "The Pilot",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15066,
+                "MinimumValue": 1,
+                "ObjectiveType": 48,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "72": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15259,
+        "StringPlaceholder": "The Hacker",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15066,
+                "MinimumValue": 1,
+                "ObjectiveType": 48,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "73": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15260,
+        "StringPlaceholder": "The Artist",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15066,
+                "MinimumValue": 1,
+                "ObjectiveType": 48,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "74": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15261,
+        "StringPlaceholder": "The Rocket",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15067,
+                "MinimumValue": 1,
+                "ObjectiveType": 49,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "75": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15262,
+        "StringPlaceholder": "The Nerd",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15067,
+                "MinimumValue": 1,
+                "ObjectiveType": 49,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "76": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15263,
+        "StringPlaceholder": "The Tempest",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15067,
+                "MinimumValue": 1,
+                "ObjectiveType": 49,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "77": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15264,
+        "StringPlaceholder": "The Lord",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15067,
+                "MinimumValue": 1,
+                "ObjectiveType": 49,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "78": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15265,
+        "StringPlaceholder": "The Bodyguard",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15067,
+                "MinimumValue": 1,
+                "ObjectiveType": 49,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "79": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15021,
+        "StringPlaceholder": "The Contender",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15123,
+                "MinimumValue": 1,
+                "ObjectiveType": 53,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "80": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15020,
+        "StringPlaceholder": "The Underdog",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15016,
+                "MinimumValue": 3,
+                "__class": "JD_ObjectiveDesc_ClassicTournamentRank"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "81": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 14683,
+        "StringPlaceholder": "The Challenger",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15015,
+                "MinimumValue": 2,
+                "__class": "JD_ObjectiveDesc_ClassicTournamentRank"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "82": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 15019,
+        "StringPlaceholder": "The Champion",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15014,
+                "MinimumValue": 1,
+                "__class": "JD_ObjectiveDesc_ClassicTournamentRank"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "83": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 15005,
+        "StringPlaceholder": "The Prodigy",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 15003,
+                "MinimumValue": 1500,
+                "ObjectiveType": 55,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "84": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14921,
+        "StringPlaceholder": "The Elite Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14910,
+                "MinimumValue": 250,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "85": {
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14922,
+        "StringPlaceholder": "The First-Class Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14910,
+                "MinimumValue": 500,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "86": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14923,
+        "StringPlaceholder": "The Ultimate Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14910,
+                "MinimumValue": 1000,
+                "ObjectiveType": 0,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "87": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14944,
+        "StringPlaceholder": "The Lone Dancer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14916,
+                "MinimumValue": 10,
+                "ObjectiveType": 13,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "88": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14945,
+        "StringPlaceholder": "The Gemini",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14917,
+                "MinimumValue": 10,
+                "ObjectiveType": 14,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "89": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14946,
+        "StringPlaceholder": "The Musketeer",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14918,
+                "MinimumValue": 10,
+                "ObjectiveType": 15,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "90": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 1,
+        "StringLocID": 14947,
+        "StringPlaceholder": "The Four Directions",
+        "UnlockObjectives": {
+            "jd2019": {
+                "Description": 14919,
+                "MinimumValue": 10,
+                "ObjectiveType": 16,
+                "__class": "JD_ObjectiveDesc"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "92": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000248,
+        "StringLocIDFemale": 20000567,
+        "StringPlaceholder": "Bubble tea lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "93": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000249,
+        "StringLocIDFemale": 20000568,
+        "StringPlaceholder": "Cats team",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "94": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000250,
+        "StringLocIDFemale": 20000569,
+        "StringPlaceholder": "Dogs team",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "95": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000251,
+        "StringLocIDFemale": 20000570,
+        "StringPlaceholder": "Bling bling",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "96": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000252,
+        "StringLocIDFemale": 20000571,
+        "StringPlaceholder": "Magical Girl",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "97": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000253,
+        "StringLocIDFemale": 20000572,
+        "StringPlaceholder": "Morning person",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "98": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000254,
+        "StringLocIDFemale": 20000573,
+        "StringPlaceholder": "Night owl",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "99": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000255,
+        "StringLocIDFemale": 20000574,
+        "StringPlaceholder": "Partying all night",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "100": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000256,
+        "StringLocIDFemale": 20000575,
+        "StringPlaceholder": "I dance to score",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "101": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000257,
+        "StringLocIDFemale": 20000576,
+        "StringPlaceholder": "Don't watch me dancing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "102": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000258,
+        "StringLocIDFemale": 20000577,
+        "StringPlaceholder": "Cinnamon bun",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "103": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000259,
+        "StringLocIDFemale": 20000578,
+        "StringPlaceholder": "Raising Alpacas",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "104": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000260,
+        "StringLocIDFemale": 20000579,
+        "StringPlaceholder": "Happy little thing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "105": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000261,
+        "StringLocIDFemale": 20000580,
+        "StringPlaceholder": "Work Work Work",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "106": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000262,
+        "StringLocIDFemale": 20000581,
+        "StringPlaceholder": "Streaming dancing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "107": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000263,
+        "StringLocIDFemale": 20000582,
+        "StringPlaceholder": "Nap, dance, repeat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "108": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000264,
+        "StringLocIDFemale": 20000583,
+        "StringPlaceholder": "Boom Box",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "109": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000265,
+        "StringLocIDFemale": 20000584,
+        "StringPlaceholder": "Stars collector",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "110": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000266,
+        "StringLocIDFemale": 20000585,
+        "StringPlaceholder": "Macha is my life",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "111": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000267,
+        "StringLocIDFemale": 20000586,
+        "StringPlaceholder": "My pillow is my best friend",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "112": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000268,
+        "StringLocIDFemale": 20000587,
+        "StringPlaceholder": "Sea creature",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "113": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000269,
+        "StringLocIDFemale": 20000588,
+        "StringPlaceholder": "Glitter eater",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "114": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000270,
+        "StringLocIDFemale": 20000589,
+        "StringPlaceholder": "Wearing flip flops",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "115": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000271,
+        "StringLocIDFemale": 20000590,
+        "StringPlaceholder": "Two Left feet",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "116": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000272,
+        "StringLocIDFemale": 20000591,
+        "StringPlaceholder": "Made to dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "117": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000273,
+        "StringLocIDFemale": 20000592,
+        "StringPlaceholder": "Sorry not sorry",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "118": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000274,
+        "StringLocIDFemale": 20000593,
+        "StringPlaceholder": "Badass ",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "119": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000275,
+        "StringLocIDFemale": 20000594,
+        "StringPlaceholder": "Party Animal",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "120": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000276,
+        "StringLocIDFemale": 20000595,
+        "StringPlaceholder": "Fancy socks lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "121": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000277,
+        "StringLocIDFemale": 20000596,
+        "StringPlaceholder": "YOLO",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "122": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000278,
+        "StringLocIDFemale": 20000597,
+        "StringPlaceholder": "Game night > party night",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "123": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000279,
+        "StringLocIDFemale": 20000598,
+        "StringPlaceholder": "Avocado Toast",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "124": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000280,
+        "StringLocIDFemale": 20000599,
+        "StringPlaceholder": "People Person",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "125": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000281,
+        "StringLocIDFemale": 20000600,
+        "StringPlaceholder": "Dance in the street",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "126": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000282,
+        "StringLocIDFemale": 20000601,
+        "StringPlaceholder": "Fancy Introvert",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "127": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000283,
+        "StringLocIDFemale": 20000602,
+        "StringPlaceholder": "Fresh Extrovert",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "128": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000284,
+        "StringLocIDFemale": 20000603,
+        "StringPlaceholder": "Dance Machine",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "129": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000285,
+        "StringLocIDFemale": 20000604,
+        "StringPlaceholder": "Plant collector",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "130": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000286,
+        "StringLocIDFemale": 20000605,
+        "StringPlaceholder": "Badass Reindeer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "131": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000287,
+        "StringLocIDFemale": 20000606,
+        "StringPlaceholder": "Pumpkin Master",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "132": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000288,
+        "StringLocIDFemale": 20000607,
+        "StringPlaceholder": "Dinosaurs fan",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "133": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000289,
+        "StringLocIDFemale": 20000608,
+        "StringPlaceholder": "Emo Unicorn",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "134": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000290,
+        "StringLocIDFemale": 20000609,
+        "StringPlaceholder": "Goodies goodies!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "135": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000291,
+        "StringLocIDFemale": 20000610,
+        "StringPlaceholder": "Geek is the new cool",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "136": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000292,
+        "StringLocIDFemale": 20000611,
+        "StringPlaceholder": "Don't call me girl",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "137": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000293,
+        "StringLocIDFemale": 20000612,
+        "StringPlaceholder": "Tattoo lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "138": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000294,
+        "StringLocIDFemale": 20000613,
+        "StringPlaceholder": "Fluo cupcake",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "139": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000295,
+        "StringLocIDFemale": 20000614,
+        "StringPlaceholder": "Girl Gang",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "140": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000296,
+        "StringLocIDFemale": 20000615,
+        "StringPlaceholder": "They see me rolling",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "141": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000297,
+        "StringLocIDFemale": 20000616,
+        "StringPlaceholder": "Otter Forever",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "142": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000298,
+        "StringLocIDFemale": 20000617,
+        "StringPlaceholder": "This is my surprised face",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "143": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000299,
+        "StringLocIDFemale": 20000618,
+        "StringPlaceholder": "Rainbow tears",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "144": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000300,
+        "StringLocIDFemale": 20000619,
+        "StringPlaceholder": "Funky stegausorus",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "145": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000301,
+        "StringLocIDFemale": 20000620,
+        "StringPlaceholder": "Sashimi enthusiast",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "146": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000302,
+        "StringLocIDFemale": 20000621,
+        "StringPlaceholder": "Oddly specific",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "147": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000303,
+        "StringLocIDFemale": 20000622,
+        "StringPlaceholder": "Keep calm and Just Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "148": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000304,
+        "StringLocIDFemale": 20000623,
+        "StringPlaceholder": "Gold moves no feelings",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "149": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000305,
+        "StringLocIDFemale": 20000624,
+        "StringPlaceholder": "Panda is bae",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "150": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000306,
+        "StringLocIDFemale": 20000625,
+        "StringPlaceholder": ":)",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "151": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000307,
+        "StringLocIDFemale": 20000626,
+        "StringPlaceholder": "Llamazing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "152": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000308,
+        "StringLocIDFemale": 20000627,
+        "StringPlaceholder": "Breakfast for dinner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "153": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000309,
+        "StringLocIDFemale": 20000628,
+        "StringPlaceholder": "Chicken and waffles",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "154": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000310,
+        "StringLocIDFemale": 20000629,
+        "StringPlaceholder": "I'm nice",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "155": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000311,
+        "StringLocIDFemale": 20000630,
+        "StringPlaceholder": "Goddess",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "156": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000312,
+        "StringLocIDFemale": 20000631,
+        "StringPlaceholder": "Candy lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "157": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000313,
+        "StringLocIDFemale": 20000632,
+        "StringPlaceholder": "Superhero ",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "158": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000314,
+        "StringLocIDFemale": 20000633,
+        "StringPlaceholder": "Neon Legion",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "159": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000315,
+        "StringLocIDFemale": 20000634,
+        "StringPlaceholder": "Prom queen",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "160": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000316,
+        "StringLocIDFemale": 20000635,
+        "StringPlaceholder": "Mermaids do it better",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "161": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000317,
+        "StringLocIDFemale": 20000636,
+        "StringPlaceholder": "Ramen Lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "162": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000318,
+        "StringLocIDFemale": 20000637,
+        "StringPlaceholder": "Shiba forever",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "163": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000319,
+        "StringLocIDFemale": 20000638,
+        "StringPlaceholder": "Chaotic Fabulous",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "164": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000320,
+        "StringLocIDFemale": 20000639,
+        "StringPlaceholder": "It's Muffin Time",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "165": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000321,
+        "StringLocIDFemale": 20000640,
+        "StringPlaceholder": "Chubby Seal",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "166": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000322,
+        "StringLocIDFemale": 20000641,
+        "StringPlaceholder": "Red Panda",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "167": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000328,
+        "StringLocIDFemale": 20000642,
+        "StringPlaceholder": "Backpack kid",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "168": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000329,
+        "StringLocIDFemale": 20000643,
+        "StringPlaceholder": "Move it move it",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "169": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000330,
+        "StringLocIDFemale": 20000644,
+        "StringPlaceholder": "Old-fashioned",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "170": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000331,
+        "StringLocIDFemale": 20000645,
+        "StringPlaceholder": "Lost on the moon",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "171": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000332,
+        "StringLocIDFemale": 20000646,
+        "StringPlaceholder": "Breakfast Backflipper",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "172": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000333,
+        "StringLocIDFemale": 20000647,
+        "StringPlaceholder": "Tango Mumbo Jambo",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "173": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000334,
+        "StringLocIDFemale": 20000648,
+        "StringPlaceholder": "Dancer before it was cool",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "174": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000335,
+        "StringLocIDFemale": 20000649,
+        "StringPlaceholder": "Dream on!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "175": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000336,
+        "StringLocIDFemale": 20000650,
+        "StringPlaceholder": "Born to dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "176": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000337,
+        "StringLocIDFemale": 20000651,
+        "StringPlaceholder": "Salto ergo sum",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "177": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000338,
+        "StringLocIDFemale": 20000652,
+        "StringPlaceholder": "Workout addict",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "178": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000339,
+        "StringLocIDFemale": 20000653,
+        "StringPlaceholder": "K-pop only",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "179": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000340,
+        "StringLocIDFemale": 20000654,
+        "StringPlaceholder": "Disco Giraffe",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "180": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000341,
+        "StringLocIDFemale": 20000655,
+        "StringPlaceholder": "Bouncy Squirrel",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "181": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000342,
+        "StringLocIDFemale": 20000656,
+        "StringPlaceholder": "Swinging Mom",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "182": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000343,
+        "StringLocIDFemale": 20000657,
+        "StringPlaceholder": "Try Me",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "183": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000344,
+        "StringLocIDFemale": 20000658,
+        "StringPlaceholder": "Beat Maker",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "184": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000345,
+        "StringLocIDFemale": 20000659,
+        "StringPlaceholder": "Delete!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "185": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000346,
+        "StringLocIDFemale": 20000660,
+        "StringPlaceholder": "Polite Knight",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "186": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000347,
+        "StringLocIDFemale": 20000661,
+        "StringPlaceholder": "Modern Witch",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "187": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000348,
+        "StringLocIDFemale": 20000662,
+        "StringPlaceholder": "Shy Ghost",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "188": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000349,
+        "StringLocIDFemale": 20000663,
+        "StringPlaceholder": "Plaid shirt",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "189": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000350,
+        "StringLocIDFemale": 20000664,
+        "StringPlaceholder": "Coffee addict",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "190": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000351,
+        "StringLocIDFemale": 20000665,
+        "StringPlaceholder": "Cutie Pie",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "191": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000352,
+        "StringLocIDFemale": 20000666,
+        "StringPlaceholder": "Made of chocolate",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "192": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000362,
+        "StringLocIDFemale": 20000562,
+        "StringPlaceholder": "Aspiring Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "193": {
+        "DescriptionLocID": 20000373,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000218,
+        "StringLocIDFemale": 20000532,
+        "StringPlaceholder": "History Nerd",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompleteTheAllStarsMode"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "194": {
+        "DescriptionLocID": 20000374,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000219,
+        "StringLocIDFemale": 20000533,
+        "StringPlaceholder": "Try Harder",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_PlayAllJD2020ExtremeMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "195": {
+        "DescriptionLocID": 20000375,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000220,
+        "StringLocIDFemale": 20000534,
+        "StringPlaceholder": "Wise Old Dancer",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage1OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "196": {
+        "DescriptionLocID": 20000376,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000221,
+        "StringLocIDFemale": 20000535,
+        "StringPlaceholder": "Mirror Mirror",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage2OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "197": {
+        "DescriptionLocID": 20000377,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000222,
+        "StringLocIDFemale": 20000536,
+        "StringPlaceholder": "Dance Crew = Family",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage3OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "198": {
+        "DescriptionLocID": 20000378,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000223,
+        "StringLocIDFemale": 20000537,
+        "StringPlaceholder": "Out of Deodorant",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage4OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "199": {
+        "DescriptionLocID": 20000379,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000224,
+        "StringLocIDFemale": 20000538,
+        "StringPlaceholder": "Connected Crew",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage5OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "200": {
+        "DescriptionLocID": 20000380,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000225,
+        "StringLocIDFemale": 20000539,
+        "StringPlaceholder": "Dancing Millenial",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage6OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "201": {
+        "DescriptionLocID": 20000381,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000226,
+        "StringLocIDFemale": 20000540,
+        "StringPlaceholder": "Never Stop Dancing",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage7OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "202": {
+        "DescriptionLocID": 20000382,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000227,
+        "StringLocIDFemale": 20000541,
+        "StringPlaceholder": "Alien Defender",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage8OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "203": {
+        "DescriptionLocID": 20000383,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000228,
+        "StringLocIDFemale": 20000542,
+        "StringPlaceholder": "Young Dancer",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage9OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "204": {
+        "DescriptionLocID": 20000384,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000229,
+        "StringLocIDFemale": 20000543,
+        "StringPlaceholder": "Makeover Star",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage10OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "205": {
+        "DescriptionLocID": 20000385,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000230,
+        "StringLocIDFemale": 20000544,
+        "StringPlaceholder": "Happy Birthday Just Dance!",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_CompletePage11OfTheStickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "206": {
+        "DescriptionLocID": 20000386,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000231,
+        "StringLocIDFemale": 20000545,
+        "StringPlaceholder": "Ultimate Just Dancer",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_Collect300Stars"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "207": {
+        "DescriptionLocID": 20000387,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000232,
+        "StringLocIDFemale": 20000546,
+        "StringPlaceholder": "Undercover Robot",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToRobot-relatedSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "208": {
+        "DescriptionLocID": 20000388,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000233,
+        "StringLocIDFemale": 20000547,
+        "StringPlaceholder": "Country Girl",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToCountryside-relatedSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "209": {
+        "DescriptionLocID": 20000389,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000234,
+        "StringLocIDFemale": 20000548,
+        "StringPlaceholder": "Saturday Night",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToParty-relatedSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "210": {
+        "DescriptionLocID": 20000390,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000235,
+        "StringLocIDFemale": 20000549,
+        "StringPlaceholder": "Round of Appaws",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToAnimal-relatedSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "211": {
+        "DescriptionLocID": 20000391,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000236,
+        "StringLocIDFemale": 20000550,
+        "StringPlaceholder": "Show me your moves",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToAllDuetSongsFromJustDance2020"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "212": {
+        "DescriptionLocID": 20000392,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000237,
+        "StringLocIDFemale": 20000551,
+        "StringPlaceholder": "Time Traveler",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToHistory-relatedMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "213": {
+        "DescriptionLocID": 20000393,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000238,
+        "StringLocIDFemale": 20000552,
+        "StringPlaceholder": "Holidays Or Nothing",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToSummer-relatedMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "214": {
+        "DescriptionLocID": 20000394,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000239,
+        "StringLocIDFemale": 20000553,
+        "StringPlaceholder": "I Own This Town",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToUrban-relatedSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "215": {
+        "DescriptionLocID": 20000395,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000240,
+        "StringLocIDFemale": 20000554,
+        "StringPlaceholder": "Binge Dancer",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_Play_All_JD20_OriginalMaps_Once"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "216": {
+        "DescriptionLocID": 20000396,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000241,
+        "StringLocIDFemale": 20000555,
+        "StringPlaceholder": "Hidden Gem",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToAllAlternateVersionsFromJustDance2020"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "217": {
+        "DescriptionLocID": 20000397,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000242,
+        "StringLocIDFemale": 20000556,
+        "StringPlaceholder": "Vegetarian",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceToSongsWithVegetableCoaches"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "218": {
+        "DescriptionLocID": 20000398,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000243,
+        "StringLocIDFemale": 20000557,
+        "StringPlaceholder": "Freak Show",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceTo3SongsFeaturingMonstersAsDancers"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "219": {
+        "DescriptionLocID": 20000399,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000244,
+        "StringLocIDFemale": 20000558,
+        "StringPlaceholder": "Dance like a panda",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceTo3SongsFeaturingAPandaAsDancer"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "220": {
+        "DescriptionLocID": 20000400,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000245,
+        "StringLocIDFemale": 20000559,
+        "StringPlaceholder": "Captain Awesome",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceTo5SongsFeaturingSuperhoroesAsDancers"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "221": {
+        "DescriptionLocID": 20000401,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000246,
+        "StringLocIDFemale": 20000560,
+        "StringPlaceholder": "Nerds Dance Better",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceTo5SongsFeaturingGeeksAsDancers"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "222": {
+        "DescriptionLocID": 20000402,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000247,
+        "StringLocIDFemale": 20000561,
+        "StringPlaceholder": "Sentimental Dancer",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_DanceTo5RomanticSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "223": {
+        "DescriptionLocID": 20001992,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000358,
+        "StringLocIDFemale": 20000672,
+        "StringPlaceholder": "Problem Solver",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack1"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "224": {
+        "DescriptionLocID": 20001992,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000357,
+        "StringLocIDFemale": 20000671,
+        "StringPlaceholder": "Listen Here, Rabbits!",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack1"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "225": {
+        "DescriptionLocID": 20001992,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000359,
+        "StringLocIDFemale": 20000673,
+        "StringPlaceholder": "Adapt and Overcome",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack1"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "226": {
+        "DescriptionLocID": 20001992,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000360,
+        "StringLocIDFemale": 20000674,
+        "StringPlaceholder": "Welcome to Atlas",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack1"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "227": {
+        "DescriptionLocID": 20001993,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000356,
+        "StringLocIDFemale": 20000670,
+        "StringPlaceholder": "Try Again!",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack2"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "228": {
+        "DescriptionLocID": 20001993,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000354,
+        "StringLocIDFemale": 20000668,
+        "StringPlaceholder": "History Will Remember",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack2"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "229": {
+        "DescriptionLocID": 20001993,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000353,
+        "StringLocIDFemale": 20000667,
+        "StringPlaceholder": "When All Else Fails, We Rise!",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack2"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "230": {
+        "DescriptionLocID": 20001993,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000355,
+        "StringLocIDFemale": 20000669,
+        "StringPlaceholder": "I Never Give Up",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_UnlockUplayRewardAliasPack2"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "231": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000363,
+        "StringLocIDFemale": 20000563,
+        "StringPlaceholder": "Amazing Beginner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "232": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000364,
+        "StringLocIDFemale": 20000564,
+        "StringPlaceholder": "Cute Newbie",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "233": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000365,
+        "StringLocIDFemale": 20000565,
+        "StringPlaceholder": "Family of Dancers",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "234": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000366,
+        "StringLocIDFemale": 20000566,
+        "StringPlaceholder": "Step In!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "235": {
+        "DescriptionLocID": 20001928,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000921,
+        "StringLocIDFemale": 20001927,
+        "StringPlaceholder": "No Limit!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "236": {
+        "DescriptionLocID": 12729,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20000361,
+        "StringLocIDFemale": 20001975,
+        "StringPlaceholder": "Guess Who's Back",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "237": {
+        "DescriptionLocID": 20001978,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20001976,
+        "StringLocIDFemale": 20001977,
+        "StringPlaceholder": "Just Dance Fan",
+        "UnlockObjectives": {
+            "jd2020": {
+                "unlockObjectiveDescId": "Static_PlayAllSkuMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "238": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002302,
+        "StringLocIDFemale": 20002303,
+        "StringPlaceholder": "Future Star",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "239": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002312,
+        "StringLocIDFemale": 20002313,
+        "StringPlaceholder": "???",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "240": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002304,
+        "StringLocIDFemale": 20002305,
+        "StringPlaceholder": "Here I Come!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "241": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002306,
+        "StringLocIDFemale": 20002307,
+        "StringPlaceholder": "Promising Beginner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "243": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002308,
+        "StringLocIDFemale": 20002309,
+        "StringPlaceholder": "Ready to Win",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "244": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002310,
+        "StringLocIDFemale": 20002311,
+        "StringPlaceholder": "The New Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "245": {
+        "DescriptionLocID": 20001928,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002510,
+        "StringLocIDFemale": 20002511,
+        "StringPlaceholder": "Dance Is All I Need",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "246": {
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002294,
+        "StringLocIDFemale": 20002295,
+        "StringPlaceholder": "Remember Me",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayPreviousJustDance"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "247": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002538,
+        "StringLocIDFemale": 20002539,
+        "StringPlaceholder": "The Collector",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage1Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "248": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002516,
+        "StringLocIDFemale": 20002517,
+        "StringPlaceholder": "Bad Boy",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage2Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "249": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002534,
+        "StringLocIDFemale": 20002535,
+        "StringPlaceholder": "Sunday Brunch",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage3Of  JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "250": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002514,
+        "StringLocIDFemale": 20002515,
+        "StringPlaceholder": "A New Star Is Born",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage4OfThe JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "251": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002532,
+        "StringLocIDFemale": 20002533,
+        "StringPlaceholder": "Shaking My Hair",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage5Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "252": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002542,
+        "StringLocIDFemale": 20002543,
+        "StringPlaceholder": "Watch Me Shine",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage6Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "253": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002544,
+        "StringLocIDFemale": 20002545,
+        "StringPlaceholder": "You Can Do It",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage7Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "254": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002526,
+        "StringLocIDFemale": 20002527,
+        "StringPlaceholder": "No Doubt",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage8Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "255": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002530,
+        "StringLocIDFemale": 20002531,
+        "StringPlaceholder": "Out of Control Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage9Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "256": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002528,
+        "StringLocIDFemale": 20002529,
+        "StringPlaceholder": "Nobody Beats Me",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_CompletePage10Of JD21StickerAlbum"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "257": {
+        "DescriptionLocID": 20002701,
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002520,
+        "StringLocIDFemale": 20002521,
+        "StringPlaceholder": "Extreme Expert",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAll  JD2021ExtremeMaps (v3)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "258": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002540,
+        "StringLocIDFemale": 20002541,
+        "StringPlaceholder": "The Specialist",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAll JD2021AlternateMaps (v3)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "259": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002524,
+        "StringLocIDFemale": 20002525,
+        "StringPlaceholder": "Knows Every Dance",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAll  JD2021MainMaps (v3)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "260": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002518,
+        "StringLocIDFemale": 20002519,
+        "StringPlaceholder": "Dancing Among Stars",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Collect300Stars"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "261": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002522,
+        "StringLocIDFemale": 20002523,
+        "StringPlaceholder": "Just One More Dance…",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo5MapsIn Quickplay (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "262": {
+        "DescriptionLocID": 20002705,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002568,
+        "StringLocIDFemale": 20002569,
+        "StringPlaceholder": "The Athlete",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceToSports-relatedSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "263": {
+        "DescriptionLocID": 20002706,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002334,
+        "StringLocIDFemale": 20002335,
+        "StringPlaceholder": "Crazy Moves",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo4WackySongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "264": {
+        "DescriptionLocID": 20002707,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002352,
+        "StringLocIDFemale": 20002353,
+        "StringPlaceholder": "Dancing With My Family",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3FamilySongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "265": {
+        "DescriptionLocID": 20000389,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002674,
+        "StringLocIDFemale": 20002682,
+        "StringPlaceholder": "Party Creator",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceToParty-relatedSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "266": {
+        "DescriptionLocID": 20000393,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002560,
+        "StringLocIDFemale": 20002561,
+        "StringPlaceholder": "It’s Summer Time!",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceToSummer-relatedMaps (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "267": {
+        "DescriptionLocID": 20002708,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002392,
+        "StringLocIDFemale": 20002393,
+        "StringPlaceholder": "I Will Dance Later",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo2FuturisticSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "268": {
+        "DescriptionLocID": 20000390,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002546,
+        "StringLocIDFemale": 20002547,
+        "StringPlaceholder": "Animal Instinct",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo2Animal-relatedSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "269": {
+        "DescriptionLocID": 20000402,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002564,
+        "StringLocIDFemale": 20002565,
+        "StringPlaceholder": "Never Alone",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3RomanticSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "270": {
+        "DescriptionLocID": 20002709,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002354,
+        "StringLocIDFemale": 20002355,
+        "StringPlaceholder": "Dancing With My Friends",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceAll  JD21DuetSongs (v3)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "271": {
+        "DescriptionLocID": 20002710,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002548,
+        "StringLocIDFemale": 20002549,
+        "StringPlaceholder": "Dancing Cowboy",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo4  JDUCountrySongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "272": {
+        "DescriptionLocID": 20002711,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002570,
+        "StringLocIDFemale": 20002571,
+        "StringPlaceholder": "The Panda’s Friend",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3  JDUSongsWithThe Panda (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "273": {
+        "DescriptionLocID": 20002712,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002562,
+        "StringLocIDFemale": 20002563,
+        "StringPlaceholder": "Kpop Fanatic",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3  JDU KpopSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "274": {
+        "DescriptionLocID": 20002713,
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002314,
+        "StringLocIDFemale": 20002315,
+        "StringPlaceholder": "Ancient Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo5  JDUSongsRelatedToHistory (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "275": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002594,
+        "StringLocIDFemale": 20002595,
+        "StringPlaceholder": "Online Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play10MapsIn  WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "276": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002574,
+        "StringLocIDFemale": 20002575,
+        "StringPlaceholder": "Chill Panda",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play20MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "277": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002598,
+        "StringLocIDFemale": 20002599,
+        "StringPlaceholder": "Rookie Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play30MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "278": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002592,
+        "StringLocIDFemale": 20002593,
+        "StringPlaceholder": "Non-Stop Dancing",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play40MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "279": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002584,
+        "StringLocIDFemale": 20002585,
+        "StringPlaceholder": "Half a Star",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play50MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "280": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002580,
+        "StringLocIDFemale": 20002581,
+        "StringPlaceholder": "Fabulous Hippo",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo60MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "281": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002586,
+        "StringLocIDFemale": 20002587,
+        "StringPlaceholder": "Here to Show Off",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play70MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "282": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002582,
+        "StringLocIDFemale": 20002583,
+        "StringPlaceholder": "Fierce Deer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play80MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "283": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002596,
+        "StringLocIDFemale": 20002597,
+        "StringPlaceholder": "Partying All Night",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play90MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "284": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002576,
+        "StringLocIDFemale": 20002577,
+        "StringPlaceholder": "Danced a Hundred Times",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play100MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "285": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002578,
+        "StringLocIDFemale": 20002579,
+        "StringPlaceholder": "Dancing With the World",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play110MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "286": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002590,
+        "StringLocIDFemale": 20002591,
+        "StringPlaceholder": "Moves Maker",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play120MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "287": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002588,
+        "StringLocIDFemale": 20002589,
+        "StringPlaceholder": "I'm Gonna Be a Star!",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play130MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "288": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002600,
+        "StringLocIDFemale": 20002601,
+        "StringPlaceholder": "Tournament King",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play140MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "289": {
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002602,
+        "StringLocIDFemale": 20002603,
+        "StringPlaceholder": "World Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play150MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "290": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002316,
+        "StringLocIDFemale": 20002317,
+        "StringPlaceholder": "Baby Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "291": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002318,
+        "StringLocIDFemale": 20002319,
+        "StringPlaceholder": "Better Than You",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "292": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002320,
+        "StringLocIDFemale": 20002321,
+        "StringPlaceholder": "Bodybuilder",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "293": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002322,
+        "StringLocIDFemale": 20002323,
+        "StringPlaceholder": "Caffeine & Just Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "294": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002324,
+        "StringLocIDFemale": 20002325,
+        "StringPlaceholder": "Can’t Control My Feet",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "295": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002326,
+        "StringLocIDFemale": 20002327,
+        "StringPlaceholder": "Chilling in Winter",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "296": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002328,
+        "StringLocIDFemale": 20002329,
+        "StringPlaceholder": "Christmas Elf",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "297": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002330,
+        "StringLocIDFemale": 20002331,
+        "StringPlaceholder": "Cool Cool Cool",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "298": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002332,
+        "StringLocIDFemale": 20002333,
+        "StringPlaceholder": "Co-op Champion",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "299": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002336,
+        "StringLocIDFemale": 20002337,
+        "StringPlaceholder": "Dab",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "300": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002338,
+        "StringLocIDFemale": 20002339,
+        "StringPlaceholder": "Dancer’s Creed",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "301": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002340,
+        "StringLocIDFemale": 20002341,
+        "StringPlaceholder": "Dancing Before It Was Cool",
+        "UnlockObjectives": {},
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "302": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002342,
+        "StringLocIDFemale": 20002343,
+        "StringPlaceholder": "Dancing Dragon",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "303": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002344,
+        "StringLocIDFemale": 20002345,
+        "StringPlaceholder": "Dancing From Home",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "304": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002346,
+        "StringLocIDFemale": 20002347,
+        "StringPlaceholder": "Dancing in Space",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "305": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002348,
+        "StringLocIDFemale": 20002349,
+        "StringPlaceholder": "Dancing Racoon",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "306": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002350,
+        "StringLocIDFemale": 20002351,
+        "StringPlaceholder": "Dancing Right Now!",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "307": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002356,
+        "StringLocIDFemale": 20002357,
+        "StringPlaceholder": "Dancing Yogi",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "308": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002358,
+        "StringLocIDFemale": 20002359,
+        "StringPlaceholder": "Disco Nostalgic",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "309": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002360,
+        "StringLocIDFemale": 20002361,
+        "StringPlaceholder": "Discreet Expert",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "310": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002362,
+        "StringLocIDFemale": 20002363,
+        "StringPlaceholder": "Don’t Know What I’m Doing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "311": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002364,
+        "StringLocIDFemale": 20002365,
+        "StringPlaceholder": "Elegant Bun",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "312": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002366,
+        "StringLocIDFemale": 20002367,
+        "StringPlaceholder": "Extreme Breakdancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "313": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002368,
+        "StringLocIDFemale": 20002369,
+        "StringPlaceholder": "Fierce Flamingo",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "314": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002370,
+        "StringLocIDFemale": 20002371,
+        "StringPlaceholder": "Fox Enthousiast",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "315": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002372,
+        "StringLocIDFemale": 20002373,
+        "StringPlaceholder": "Free Soul",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "316": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002374,
+        "StringLocIDFemale": 20002375,
+        "StringPlaceholder": "Fruit Salad",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "317": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002376,
+        "StringLocIDFemale": 20002377,
+        "StringPlaceholder": "Gentle Giraffe",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "318": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002378,
+        "StringLocIDFemale": 20002379,
+        "StringPlaceholder": "God Is a Spoon",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "319": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002380,
+        "StringLocIDFemale": 20002381,
+        "StringPlaceholder": "Gotta Dance Them All",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "320": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002382,
+        "StringLocIDFemale": 20002383,
+        "StringPlaceholder": "Hello There",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "321": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002384,
+        "StringLocIDFemale": 20002385,
+        "StringPlaceholder": "Heroic Pineapple",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "322": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002386,
+        "StringLocIDFemale": 20002387,
+        "StringPlaceholder": "How Do I Play?",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "323": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002388,
+        "StringLocIDFemale": 20002389,
+        "StringPlaceholder": "Hungry Hamster",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "324": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002390,
+        "StringLocIDFemale": 20002391,
+        "StringPlaceholder": "I Don’t Follow the Coaches",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "325": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002482,
+        "StringLocIDFemale": 20002483,
+        "StringPlaceholder": "The Coaches Follow Me",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "326": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002396,
+        "StringLocIDFemale": 20002397,
+        "StringPlaceholder": "Just Found the Rythm",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "327": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002398,
+        "StringLocIDFemale": 20002399,
+        "StringPlaceholder": "Just Here for the Mojo",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "328": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002400,
+        "StringLocIDFemale": 20002401,
+        "StringPlaceholder": "Just Lost the Rythm",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "329": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002402,
+        "StringLocIDFemale": 20002403,
+        "StringPlaceholder": "Just Me",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "330": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002404,
+        "StringLocIDFemale": 20002405,
+        "StringPlaceholder": "Kimono Boy",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "331": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002406,
+        "StringLocIDFemale": 20002407,
+        "StringPlaceholder": "King of the Night",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "332": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002408,
+        "StringLocIDFemale": 20002409,
+        "StringPlaceholder": "Line Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "333": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002410,
+        "StringLocIDFemale": 20002411,
+        "StringPlaceholder": "Little Ballet Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "334": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002412,
+        "StringLocIDFemale": 20002413,
+        "StringPlaceholder": "Little Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "335": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002416,
+        "StringLocIDFemale": 20002417,
+        "StringPlaceholder": "Loading My Fabulousness…",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "336": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002418,
+        "StringLocIDFemale": 20002419,
+        "StringPlaceholder": "Lord of the Rythm",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "337": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002420,
+        "StringLocIDFemale": 20002421,
+        "StringPlaceholder": "Masked Citrus",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "338": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002422,
+        "StringLocIDFemale": 20002423,
+        "StringPlaceholder": "Master of Puppies",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "339": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002424,
+        "StringLocIDFemale": 20002425,
+        "StringPlaceholder": "Modern Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "340": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002426,
+        "StringLocIDFemale": 20002427,
+        "StringPlaceholder": "Muffin Maniac",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "341": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002428,
+        "StringLocIDFemale": 20002429,
+        "StringPlaceholder": "Need New Shoes",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "342": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002430,
+        "StringLocIDFemale": 20002431,
+        "StringPlaceholder": "Never Too Much Ketchup",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "343": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002432,
+        "StringLocIDFemale": 20002433,
+        "StringPlaceholder": "Next Best Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "344": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002434,
+        "StringLocIDFemale": 20002435,
+        "StringPlaceholder": "Ninju Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "345": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002436,
+        "StringLocIDFemale": 20002437,
+        "StringPlaceholder": "No Thoughts Just Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "346": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002438,
+        "StringLocIDFemale": 20002439,
+        "StringPlaceholder": "Onigiri Lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "347": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002440,
+        "StringLocIDFemale": 20002441,
+        "StringPlaceholder": "Peace and Pulse",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "348": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002442,
+        "StringLocIDFemale": 20002443,
+        "StringPlaceholder": "Potato Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "349": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002444,
+        "StringLocIDFemale": 20002445,
+        "StringPlaceholder": "Practically Perfect",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "350": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002446,
+        "StringLocIDFemale": 20002447,
+        "StringPlaceholder": "Pyjamas Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "351": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002448,
+        "StringLocIDFemale": 20002449,
+        "StringPlaceholder": "Reggaeton Aficionado",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "352": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002450,
+        "StringLocIDFemale": 20002451,
+        "StringPlaceholder": "Salsa Master",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "353": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002452,
+        "StringLocIDFemale": 20002453,
+        "StringPlaceholder": "Sassy King",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "354": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002454,
+        "StringLocIDFemale": 20002455,
+        "StringPlaceholder": "Short and Angry",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "355": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002456,
+        "StringLocIDFemale": 20002457,
+        "StringPlaceholder": "Shy Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "356": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002458,
+        "StringLocIDFemale": 20002459,
+        "StringPlaceholder": "Sings in the Shower",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "357": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002460,
+        "StringLocIDFemale": 20002461,
+        "StringPlaceholder": "Sleep Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "358": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002462,
+        "StringLocIDFemale": 20002463,
+        "StringPlaceholder": "Star in the Making",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "359": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002464,
+        "StringLocIDFemale": 20002465,
+        "StringPlaceholder": "Still Dancing",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "360": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002466,
+        "StringLocIDFemale": 20002467,
+        "StringPlaceholder": "Stylish Viking",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "361": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002468,
+        "StringLocIDFemale": 20002469,
+        "StringPlaceholder": "Such a Just Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "362": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002470,
+        "StringLocIDFemale": 20002471,
+        "StringPlaceholder": "Super Dad",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "363": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002472,
+        "StringLocIDFemale": 20002473,
+        "StringPlaceholder": "Sweating in Summer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "364": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002474,
+        "StringLocIDFemale": 20002475,
+        "StringPlaceholder": "Swing Enthousiast",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "365": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002476,
+        "StringLocIDFemale": 20002477,
+        "StringPlaceholder": "Tap Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "366": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002478,
+        "StringLocIDFemale": 20002479,
+        "StringPlaceholder": "Team Hoodie",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "367": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002480,
+        "StringLocIDFemale": 20002481,
+        "StringPlaceholder": "The Acrobat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "368": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002678,
+        "StringLocIDFemale": 20002686,
+        "StringPlaceholder": "The Fairest of Them All",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "369": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002484,
+        "StringLocIDFemale": 20002485,
+        "StringPlaceholder": "The Dreamer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "370": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002486,
+        "StringLocIDFemale": 20002487,
+        "StringPlaceholder": "The Humble Show-Off",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "371": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002488,
+        "StringLocIDFemale": 20002489,
+        "StringPlaceholder": "The Prettiest",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "372": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002490,
+        "StringLocIDFemale": 20002491,
+        "StringPlaceholder": "The Shiny One",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "373": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002492,
+        "StringLocIDFemale": 20002493,
+        "StringPlaceholder": "The Tourist",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "374": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002494,
+        "StringLocIDFemale": 20002495,
+        "StringPlaceholder": "This Is My Dancing Face",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "375": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002496,
+        "StringLocIDFemale": 20002497,
+        "StringPlaceholder": "To Dance or Not to Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "376": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002498,
+        "StringLocIDFemale": 20002499,
+        "StringPlaceholder": "Too Cool for You",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "377": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002500,
+        "StringLocIDFemale": 20002501,
+        "StringPlaceholder": "Too Sweet to Sweat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "378": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002502,
+        "StringLocIDFemale": 20002503,
+        "StringPlaceholder": "Top of the Crop",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "379": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002504,
+        "StringLocIDFemale": 20002505,
+        "StringPlaceholder": "Voguing Fan",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "380": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002506,
+        "StringLocIDFemale": 20002507,
+        "StringPlaceholder": "Wait Until I Get My Coffee",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "381": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002508,
+        "StringLocIDFemale": 20002509,
+        "StringPlaceholder": "Water Drinker",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "382": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002536,
+        "StringLocIDFemale": 20002537,
+        "StringPlaceholder": "Super Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "383": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002550,
+        "StringLocIDFemale": 20002551,
+        "StringPlaceholder": "Dancing With the Waves",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "384": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002552,
+        "StringLocIDFemale": 20002553,
+        "StringPlaceholder": "Don’t Stop Me",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "385": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002554,
+        "StringLocIDFemale": 20002555,
+        "StringPlaceholder": "Feeling Like a Star",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "386": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002556,
+        "StringLocIDFemale": 20002557,
+        "StringPlaceholder": "Flower Power",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "387": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002558,
+        "StringLocIDFemale": 20002559,
+        "StringPlaceholder": "Guess Who It Is",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "388": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002566,
+        "StringLocIDFemale": 20002567,
+        "StringPlaceholder": "Pink Gentleman",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "389": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002572,
+        "StringLocIDFemale": 20002573,
+        "StringPlaceholder": "Waiting for the Weekend",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "390": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002394,
+        "StringLocIDFemale": 20002395,
+        "StringPlaceholder": "Inconspicuous Pro",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "391": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002290,
+        "StringLocIDFemale": 20002291,
+        "StringPlaceholder": "Lazy Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "392": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002671,
+        "StringLocIDFemale": 20002679,
+        "StringPlaceholder": "Always Here for the Fun",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "393": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002672,
+        "StringLocIDFemale": 20002680,
+        "StringPlaceholder": "The Best Dancer Ever",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "394": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002673,
+        "StringLocIDFemale": 20002681,
+        "StringPlaceholder": "Nap Time",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "395": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002675,
+        "StringLocIDFemale": 20002683,
+        "StringPlaceholder": "Center of the World",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "396": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002676,
+        "StringLocIDFemale": 20002684,
+        "StringPlaceholder": "Zombie Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "397": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002677,
+        "StringLocIDFemale": 20002685,
+        "StringPlaceholder": "Philosophical Dancer",
+        "UnlockObjectives": {},
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "398": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002911,
+        "StringLocIDFemale": 20002912,
+        "StringPlaceholder": "CEO of Moves",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAllJD2022ExtremeMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "399": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002913,
+        "StringLocIDFemale": 20002914,
+        "StringPlaceholder": "Lord of the Dance",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAllJD2022AlternateMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "400": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": "20002910",
+        "StringLocIDFemale": "20002931",
+        "StringPlaceholder": "Ready to Start",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play10MapsIn  WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "401": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002932,
+        "StringLocIDFemale": 20002933,
+        "StringPlaceholder": "Bright Eyes",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play20MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "402": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003138,
+        "StringLocIDFemale": 20003139,
+        "StringPlaceholder": "Techno Viking",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play30MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "403": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002936,
+        "StringLocIDFemale": 20002937,
+        "StringPlaceholder": "Promising",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play40MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "404": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002938,
+        "StringLocIDFemale": 20002939,
+        "StringPlaceholder": "Revving Up",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play50MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "405": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002940,
+        "StringLocIDFemale": 20002942,
+        "StringPlaceholder": "Full Steam Ahead",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo60MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "406": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002943,
+        "StringLocIDFemale": 20002944,
+        "StringPlaceholder": "Keeping on Keeping on",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play70MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "407": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002945,
+        "StringLocIDFemale": 20002946,
+        "StringPlaceholder": "Coming Right Up",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play80MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "408": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002941,
+        "StringLocIDFemale": 20002905,
+        "StringPlaceholder": "Rising Star",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play90MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "409": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002906,
+        "StringLocIDFemale": 20002907,
+        "StringPlaceholder": "Dance Master",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play100MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "410": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002947,
+        "StringLocIDFemale": 20002948,
+        "StringPlaceholder": "Harbinger of Dancening",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play110MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "411": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002950,
+        "StringLocIDFemale": 20002949,
+        "StringPlaceholder": "Storm on the Dancefloor",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play120MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "412": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003291,
+        "StringLocIDFemale": 20003292,
+        "StringPlaceholder": "I Deserve a Cake",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play130MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "413": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003293,
+        "StringLocIDFemale": 20003294,
+        "StringPlaceholder": "Boogie Institution",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play140MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "414": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 5,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003099,
+        "StringLocIDFemale": 20003100,
+        "StringPlaceholder": "Cream of the Crop",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_Play150MapsIn WDF (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "415": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002921,
+        "StringLocIDFemale": 20002922,
+        "StringPlaceholder": "Finesse Incarnate",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayOnceSongsRelatedToSports"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "416": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002923,
+        "StringLocIDFemale": 20002924,
+        "StringPlaceholder": "The Beloved",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayOnceHappyFamilySongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "417": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002925,
+        "StringLocIDFemale": 20002926,
+        "StringPlaceholder": "Dancefloor Preacher",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayOncePartySongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "418": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002927,
+        "StringLocIDFemale": 20002928,
+        "StringPlaceholder": "Screaming into my pillow",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasMapChallenge9 (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "419": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002929,
+        "StringLocIDFemale": 20002930,
+        "StringPlaceholder": "Impossible Winner",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasMapChallenge10"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "420": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003005,
+        "StringLocIDFemale": 20003006,
+        "StringPlaceholder": "Getting there",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "421": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003007,
+        "StringLocIDFemale": 20003008,
+        "StringPlaceholder": "Disco Devotion",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "422": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003009,
+        "StringLocIDFemale": 20003010,
+        "StringPlaceholder": "Dance Oddity",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "423": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003011,
+        "StringLocIDFemale": 20003012,
+        "StringPlaceholder": "Greatest Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "424": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003013,
+        "StringLocIDFemale": 20003014,
+        "StringPlaceholder": "Bussing it",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "425": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003015,
+        "StringLocIDFemale": 20003016,
+        "StringPlaceholder": "In the house",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "426": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003017,
+        "StringLocIDFemale": 20003018,
+        "StringPlaceholder": "Fresh Moves Delivery",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "427": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003019,
+        "StringLocIDFemale": 20003020,
+        "StringPlaceholder": "Perfect execution",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "428": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003021,
+        "StringLocIDFemale": 20003022,
+        "StringPlaceholder": "Throwing it down",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "429": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003023,
+        "StringLocIDFemale": 20003024,
+        "StringPlaceholder": "Getting down",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "430": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003025,
+        "StringLocIDFemale": 20003026,
+        "StringPlaceholder": "Always on beat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "431": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003027,
+        "StringLocIDFemale": 20003028,
+        "StringPlaceholder": "Serving those moves",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "432": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003029,
+        "StringLocIDFemale": 20003030,
+        "StringPlaceholder": "Justifier",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "433": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003031,
+        "StringLocIDFemale": 20003032,
+        "StringPlaceholder": "Unstoppable",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "434": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003033,
+        "StringLocIDFemale": 20003034,
+        "StringPlaceholder": "Untouchable",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "435": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003035,
+        "StringLocIDFemale": 20003036,
+        "StringPlaceholder": "Here to kick it",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "436": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003037,
+        "StringLocIDFemale": 20003038,
+        "StringPlaceholder": "In the Zone",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "437": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003118,
+        "StringLocIDFemale": 20003119,
+        "StringPlaceholder": "Sparkling Moves",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "438": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003041,
+        "StringLocIDFemale": 20003042,
+        "StringPlaceholder": "Wanna Stop, Won't stop",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "439": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003044,
+        "StringLocIDFemale": 20003045,
+        "StringPlaceholder": "Dance Machine",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "440": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003046,
+        "StringLocIDFemale": 20003047,
+        "StringPlaceholder": "Foot Loose",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "441": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003048,
+        "StringLocIDFemale": 20003049,
+        "StringPlaceholder": "OP",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "442": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003050,
+        "StringLocIDFemale": 20003051,
+        "StringPlaceholder": "Giving it All",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "443": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003052,
+        "StringLocIDFemale": 20003053,
+        "StringPlaceholder": "Dance Face Engaged",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "444": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003054,
+        "StringLocIDFemale": 20003055,
+        "StringPlaceholder": "Swayer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "445": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003058,
+        "StringLocIDFemale": 20003059,
+        "StringPlaceholder": "Doing My Best",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "446": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003060,
+        "StringLocIDFemale": 20003061,
+        "StringPlaceholder": "Rising like a Fenyx",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "447": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003062,
+        "StringLocIDFemale": 20003066,
+        "StringPlaceholder": "About to Have a Blast",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "448": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003067,
+        "StringLocIDFemale": 20003068,
+        "StringPlaceholder": "Never breaks a sweat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "449": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003070,
+        "StringLocIDFemale": 20003071,
+        "StringPlaceholder": "Humblebrag King",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "450": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003072,
+        "StringLocIDFemale": 20003073,
+        "StringPlaceholder": "Fly Like a Dragon",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "451": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003075,
+        "StringLocIDFemale": 20003076,
+        "StringPlaceholder": "King of the mountain",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "452": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003077,
+        "StringLocIDFemale": 20003078,
+        "StringPlaceholder": "Dance Town Sheriff",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "453": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003079,
+        "StringLocIDFemale": 20003080,
+        "StringPlaceholder": "Duke of the Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "454": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003081,
+        "StringLocIDFemale": 20003082,
+        "StringPlaceholder": "The Adjusticator",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "455": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003130,
+        "StringLocIDFemale": 20003131,
+        "StringPlaceholder": "Dressed to Impress",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "456": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003132,
+        "StringLocIDFemale": 20003133,
+        "StringPlaceholder": "Beam Me Up",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "457": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003134,
+        "StringLocIDFemale": 20003135,
+        "StringPlaceholder": "Enters the competition",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "458": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003136,
+        "StringLocIDFemale": 20003137,
+        "StringPlaceholder": "Still Disco",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "459": {
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002934,
+        "StringLocIDFemale": 20002935,
+        "StringPlaceholder": "Aspiring Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "460": {
+        "DescriptionLocID": null,
+        "DifficultyColor": 0,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003091,
+        "StringLocIDFemale": 20003282,
+        "StringPlaceholder": "Lord of Time",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayPreviousJustDance"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "462": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003156,
+        "StringLocIDFemale": 20003157,
+        "StringPlaceholder": "Boogies like an Animal",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "463": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003158,
+        "StringLocIDFemale": 20003159,
+        "StringPlaceholder": "Jump to the Stars",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "464": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003160,
+        "StringLocIDFemale": 20003161,
+        "StringPlaceholder": "Galactic Hero",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "465": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003162,
+        "StringLocIDFemale": 20003163,
+        "StringPlaceholder": "Interstellar Traveler",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "466": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003164,
+        "StringLocIDFemale": 20003165,
+        "StringPlaceholder": "Faster than Light",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "467": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003166,
+        "StringLocIDFemale": 20003167,
+        "StringPlaceholder": "Voyager",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "468": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003168,
+        "StringLocIDFemale": 20003169,
+        "StringPlaceholder": "Deep Space Star",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "469": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003170,
+        "StringLocIDFemale": 20003171,
+        "StringPlaceholder": "Ghost of the Dancehall",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "470": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003172,
+        "StringLocIDFemale": 20003173,
+        "StringPlaceholder": "My Heart Beats",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "471": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003174,
+        "StringLocIDFemale": 20003175,
+        "StringPlaceholder": "Mozart of Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "472": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003176,
+        "StringLocIDFemale": 20003177,
+        "StringPlaceholder": "Disco Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "473": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003178,
+        "StringLocIDFemale": 20003179,
+        "StringPlaceholder": "Slip Into dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "474": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003180,
+        "StringLocIDFemale": 20003181,
+        "StringPlaceholder": "Lighting It Up",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "475": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003182,
+        "StringLocIDFemale": 20003183,
+        "StringPlaceholder": "Dream Flyer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "476": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003184,
+        "StringLocIDFemale": 20003185,
+        "StringPlaceholder": "Invisible Winner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "477": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003186,
+        "StringLocIDFemale": 20003187,
+        "StringPlaceholder": "Heroic Winner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "478": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003188,
+        "StringLocIDFemale": 20003189,
+        "StringPlaceholder": "Shy Lover",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "479": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003190,
+        "StringLocIDFemale": 20003191,
+        "StringPlaceholder": "Flower Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "480": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003192,
+        "StringLocIDFemale": 20003193,
+        "StringPlaceholder": "My Moves Don't Lie",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "481": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003194,
+        "StringLocIDFemale": 20003195,
+        "StringPlaceholder": "Super Power Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "482": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003196,
+        "StringLocIDFemale": 20003197,
+        "StringPlaceholder": "Dance Floor Crusher",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "483": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003198,
+        "StringLocIDFemale": 20003199,
+        "StringPlaceholder": "Dance Producer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "484": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003111,
+        "StringLocIDFemale": 20003112,
+        "StringPlaceholder": "OK, I'm Feeling It",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "485": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003202,
+        "StringLocIDFemale": 20003203,
+        "StringPlaceholder": "The Lonely Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "486": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003204,
+        "StringLocIDFemale": 20003205,
+        "StringPlaceholder": "Spooky Moves",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "487": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003206,
+        "StringLocIDFemale": 20003207,
+        "StringPlaceholder": "Shellfish Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "488": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003208,
+        "StringLocIDFemale": 20003209,
+        "StringPlaceholder": "Tiny Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "489": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003210,
+        "StringLocIDFemale": 20003211,
+        "StringPlaceholder": "Jolly Roger",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "490": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003212,
+        "StringLocIDFemale": 20003213,
+        "StringPlaceholder": "Water Rat",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "491": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003214,
+        "StringLocIDFemale": 20003215,
+        "StringPlaceholder": "Scurvy Scallywag",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "492": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003216,
+        "StringLocIDFemale": 20003217,
+        "StringPlaceholder": "Treasure Finder",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "493": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003218,
+        "StringLocIDFemale": 20003219,
+        "StringPlaceholder": "Cursed Captain",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "494": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003220,
+        "StringLocIDFemale": 20003221,
+        "StringPlaceholder": "Ace up my sleeve",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "495": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003222,
+        "StringLocIDFemale": 20003223,
+        "StringPlaceholder": "Joker",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "496": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003224,
+        "StringLocIDFemale": 20003225,
+        "StringPlaceholder": "Queen of Spades",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "497": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003226,
+        "StringLocIDFemale": 20003227,
+        "StringPlaceholder": "King of Diamonds",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "498": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003228,
+        "StringLocIDFemale": 20003229,
+        "StringPlaceholder": "Lucky day to play",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "499": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003230,
+        "StringLocIDFemale": 20003231,
+        "StringPlaceholder": "Winging It",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "500": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003232,
+        "StringLocIDFemale": 20003233,
+        "StringPlaceholder": "Experienced Explorer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "501": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003234,
+        "StringLocIDFemale": 20003235,
+        "StringPlaceholder": "Animal Whisperer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "502": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003236,
+        "StringLocIDFemale": 20003237,
+        "StringPlaceholder": "Hazelnut",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "504": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003240,
+        "StringLocIDFemale": 20003241,
+        "StringPlaceholder": "Mushroom cap",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "505": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003242,
+        "StringLocIDFemale": 20003243,
+        "StringPlaceholder": "Cheerful Forester",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "506": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003244,
+        "StringLocIDFemale": 20003245,
+        "StringPlaceholder": "Moves First",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "507": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003246,
+        "StringLocIDFemale": 20003247,
+        "StringPlaceholder": "Technomancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "508": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003248,
+        "StringLocIDFemale": 20003249,
+        "StringPlaceholder": "Cyberpunk Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "509": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003094,
+        "StringLocIDFemale": 20003093,
+        "StringPlaceholder": "Happy to be here",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "510": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003092,
+        "StringLocIDFemale": 20003113,
+        "StringPlaceholder": "Dancing it off",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "511": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003254,
+        "StringLocIDFemale": 20003255,
+        "StringPlaceholder": "Santa's little helper",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "512": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003256,
+        "StringLocIDFemale": 20003257,
+        "StringPlaceholder": "Dancing Bells",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "513": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003258,
+        "StringLocIDFemale": 20003259,
+        "StringPlaceholder": "Merry Dancer",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "514": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003260,
+        "StringLocIDFemale": 20003261,
+        "StringPlaceholder": "Scary Pumpkin",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "515": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003262,
+        "StringLocIDFemale": 20003263,
+        "StringPlaceholder": "Skeleton Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "516": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003264,
+        "StringLocIDFemale": 20003265,
+        "StringPlaceholder": "Probing the Dancefloor",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "517": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003266,
+        "StringLocIDFemale": 20003267,
+        "StringPlaceholder": "Large Soft Pillow",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "518": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003268,
+        "StringLocIDFemale": 20003269,
+        "StringPlaceholder": "Dancing Rabbit",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "519": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003270,
+        "StringLocIDFemale": 20003271,
+        "StringPlaceholder": "Sweet couple",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "520": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003272,
+        "StringLocIDFemale": 20003273,
+        "StringPlaceholder": "Cupid Dance",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "521": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003274,
+        "StringLocIDFemale": 20003275,
+        "StringPlaceholder": "Dancing Predator",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "522": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003276,
+        "StringLocIDFemale": 20003277,
+        "StringPlaceholder": "Master of the Seas",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "523": {
+        "DescriptionLocID": 14130,
+        "DifficultyColor": 3,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003278,
+        "StringLocIDFemale": 20003279,
+        "StringPlaceholder": "Fabulous",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Dynamic_RenewUnlimitedSubscription"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "524": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003280,
+        "StringLocIDFemale": 20003281,
+        "StringPlaceholder": "The Party Herald",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "525": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003140,
+        "StringLocIDFemale": 20003141,
+        "StringPlaceholder": "Winter's Envoy",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "526": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003142,
+        "StringLocIDFemale": 20003143,
+        "StringPlaceholder": "Torching My Boredom",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "527": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003144,
+        "StringLocIDFemale": 20003145,
+        "StringPlaceholder": "The Flawless Winner",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "528": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003146,
+        "StringLocIDFemale": 20003147,
+        "StringPlaceholder": "The Undaunted",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "529": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003148,
+        "StringLocIDFemale": 20003149,
+        "StringPlaceholder": "Adventuring Instructor",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "530": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003150,
+        "StringLocIDFemale": 20003151,
+        "StringPlaceholder": "Elder",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "531": {
+        "DescriptionLocID": 20000372,
+        "DifficultyColor": 2,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003152,
+        "StringLocIDFemale": 20003153,
+        "StringPlaceholder": "Cartoon Character",
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "532": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003285,
+        "StringLocIDFemale": 20003286,
+        "StringPlaceholder": "Tactical Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayOnceQuartetSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "533": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003287,
+        "StringLocIDFemale": 20003288,
+        "StringPlaceholder": "Interplanetary",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasMapChallenge12"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "534": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003289,
+        "StringLocIDFemale": 20003290,
+        "StringPlaceholder": "The Love Fool",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasPlayRomanticSongs"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "535": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003109,
+        "StringLocIDFemale": 20003110,
+        "StringPlaceholder": "Moves Inspector",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_PlayAllJD2022MainMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "536": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003299,
+        "StringLocIDFemale": 20003300,
+        "StringPlaceholder": "Down to Earth",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo4  JDUCountrySongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "537": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003301,
+        "StringLocIDFemale": 20003302,
+        "StringPlaceholder": "Panda Keeper",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3  JDUSongsWithThe Panda (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "538": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003303,
+        "StringLocIDFemale": 20003304,
+        "StringPlaceholder": "Jjang",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceTo3  JDU KpopSongs (v2)"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "539": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003305,
+        "StringLocIDFemale": 20003306,
+        "StringPlaceholder": "Archeologist",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_DanceToHistory-relatedMaps"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "540": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002917,
+        "StringLocIDFemale": 20002918,
+        "StringPlaceholder": "Heavy Duty Dancer",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasMapChallenge14"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "541": {
+        "DifficultyColor": 1,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20002919,
+        "StringLocIDFemale": 20002920,
+        "StringPlaceholder": "Alone Together",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasMapChallenge5"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    },
+    "542": {
+        "DifficultyColor": 4,
+        "RestrictedToUnlimitedSongs": 0,
+        "StringLocID": 20003283,
+        "StringLocIDFemale": 20003284,
+        "StringPlaceholder": "Intergalactic",
+        "UnlockObjectives": {
+            "jd2021": {
+                "unlockObjectiveDescId": "Static_AliasLongTermChallenge"
+            }
+        },
+        "__class": "JD_UnlockableAliasDescriptor"
+    }
+}

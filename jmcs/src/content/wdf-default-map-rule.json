@@ -1,0 +1,974 @@
+{
+    "AudioSync": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselItemRequestDesc",
+                "itemList": "AudioSync"
+            }
+        ],
+        "title": null
+    },
+    "Cho": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "mapName": "LevelUp",
+                "uuid": "1c756572-9116-4ad0-8754-4636c96005fe"
+            },
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "mapName": "Funk",
+                "uuid": "e00eacfd-cce5-41cb-95ea-0cf40f84a615"
+            },
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "mapName": "BlackMam",
+                "uuid": "514b4cc5-d13a-4e9b-81c9-de0c1a0186fe"
+            }
+        ],
+        "title": null
+    },
+    "EasyMainJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "e0ba4d27-ddb7-4edd-8ca9-15fa3bf43d06"
+            }
+        ],
+        "title": null
+    },
+    "EasyMainJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "9bb83649-3dd5-484e-91e6-525ac695b710"
+            }
+        ],
+        "title": null
+    },
+    "EasyXoneJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "24b416d9-6ed6-4eb4-872e-747d092e1c09"
+            }
+        ],
+        "title": null
+    },
+    "EasyXoneJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "0b1e7d36-d0a8-4c53-9256-9b456605b64e"
+            }
+        ],
+        "title": null
+    },
+    "FORSMRUTI": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "ForSmruti": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "HardMainJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "bf41c967-732b-4ca1-8d4b-eccce287d21e"
+            }
+        ],
+        "title": null
+    },
+    "HardMainJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Intense"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "0a76a0d2-faf6-4504-ba98-b8df9d7d755d"
+            }
+        ],
+        "title": null
+    },
+    "HardXoneJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "ad964902-2291-4cc5-9b99-d2f3ea85b268"
+            }
+        ],
+        "title": null
+    },
+    "HardXoneJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "ecf9f446-5c8b-4168-a2f3-5cfc6e906dfe"
+            }
+        ],
+        "title": null
+    },
+    "Jhakaas": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselItemRequestDesc",
+                "itemList": "AudioSync"
+            }
+        ],
+        "title": null
+    },
+    "MainJD2017": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids",
+                    "JDUKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "JustShine",
+                    "Mashup",
+                    "Partymaster",
+                    "DOUBLESCORING",
+                    "KidsOnly"
+                ],
+                "includedVersion": "jd2017",
+                "originalJDVersion": 2017,
+                "uuid": "009d6395-cb36-4212-af83-e29d93ad9147"
+            }
+        ],
+        "title": null
+    },
+    "MainJD2018": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "JDUKids",
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "DOUBLESCORING",
+                    "JustShine",
+                    "KidsOnly",
+                    "Mashup",
+                    "Partymaster"
+                ],
+                "includedVersion": "jd2018",
+                "originalJDVersion": 2018,
+                "uuid": "8bf210c7-f562-414c-910c-875844c0a9de"
+            }
+        ],
+        "title": null
+    },
+    "MainJD2019": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "JDUKids",
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "DOUBLESCORING",
+                    "JustShine",
+                    "KidsOnly",
+                    "Mashup",
+                    "Partymaster"
+                ],
+                "includedVersion": "jd2019",
+                "uuid": "08a7febb-595d-4110-ab2d-6b036adb82a9"
+            }
+        ],
+        "title": null
+    },
+    "MainJD2020": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "includedVersion": "jd2020",
+                "uuid": "aba8529d-6065-4e54-9ae7-11b941b7de93"
+            }
+        ],
+        "title": null
+    },
+    "MediumMainJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "8233e135-9c66-4f99-8a29-d81427de1af2"
+            }
+        ],
+        "title": null
+    },
+    "MediumMainJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "9bb83649-3dd5-484e-91e6-525ac695b710"
+            }
+        ],
+        "title": null
+    },
+    "MediumXoneJD2021": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "includedVersion": "jd2021",
+                "uuid": "a7944b10-c7e4-4779-8afc-8d7ac3a12a44"
+            }
+        ],
+        "title": null
+    },
+    "MediumXoneJD2022": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "excludedTags": [
+                    "Exclusive",
+                    "Extreme",
+                    "Intense",
+                    "Alternate"
+                ],
+                "originalJDVersion": 2022,
+                "uuid": "4ccb3eb7-6e05-4f30-b772-bcc6c029121f"
+            }
+        ],
+        "title": null
+    },
+    "NAGHH": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "OnlyBoss": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "partyMap",
+                "actionListNameUpsell": "_None",
+                "artist": "Las Ketchup",
+                "uuid": "c176132c-0ced-4df5-9bd8-035c7674cf29"
+            },
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "partyMap",
+                "actionListNameUpsell": "_None",
+                "artist": "Elvis Presley",
+                "uuid": "d63deb6e-ee56-4b34-8cea-3514292f3b78"
+            }
+        ],
+        "title": null
+    },
+    "PC": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "PCJD2017": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids",
+                    "JDUKids",
+                    "ExcludedFromWDF-PC"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "JustShine",
+                    "Mashup",
+                    "Partymaster",
+                    "DOUBLESCORING",
+                    "KidsOnly"
+                ],
+                "includedVersion": "jd2017",
+                "originalJDVersion": 2017,
+                "uuid": "dc2c43d6-abcc-4843-807e-59e539e5c609"
+            }
+        ],
+        "title": null
+    },
+    "PS4NoBots": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "SarangPS4": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "excludedTags": [
+                    "Mashup"
+                ],
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "SpecificX1DONTDELETE": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselItemRequestDesc",
+                "itemList": "KatyPerryPartyMapCoopFree"
+            }
+        ],
+        "title": null
+    },
+    "Sync": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselItemRequestDesc",
+                "itemList": "AudioSync"
+            }
+        ],
+        "title": null
+    },
+    "Test0927": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "originalJDVersion": 2019,
+                "uuid": "7f11bee6-9274-4f64-8e2c-9edac1e1df80"
+            }
+        ],
+        "title": null
+    },
+    "Test092722RENAME": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "includedTags": [
+                    "Alternate"
+                ],
+                "uuid": "a7540e07-9cab-447b-9dbe-e82f95f9c616"
+            }
+        ],
+        "title": null
+    },
+    "Test0928": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "originalJDVersion": 2019,
+                "uuid": "a0d7b3e0-fbc0-4596-a6ea-b7bb5fd91425"
+            }
+        ],
+        "title": null
+    },
+    "TestLaura": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "uuid": "f31b16e8-0cd1-4e76-beb5-6cc3d562058c"
+            }
+        ],
+        "title": null
+    },
+    "TestRoom20210927": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "originalJDVersion": 2019,
+                "uuid": "6289d5ab-1ff3-470f-aa0d-1c9ae3853a32"
+            }
+        ],
+        "title": null
+    },
+    "TestRoom20210927number4": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "mapName": "Americano",
+                "uuid": "4134f3cf-6251-4c70-a463-221f2f8db3d6"
+            }
+        ],
+        "title": null
+    },
+    "Testlaura": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "uuid": "fddce737-0e1c-4462-b217-841e944cfa49"
+            }
+        ],
+        "title": null
+    },
+    "WiiUJD2019": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "JDUKids",
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "DOUBLESCORING",
+                    "JustShine",
+                    "KidsOnly",
+                    "Mashup",
+                    "Partymaster"
+                ],
+                "includedVersion": "jd2019",
+                "uuid": "08a7febb-595d-4110-ab2d-6b036adb82a9"
+            }
+        ],
+        "title": null
+    },
+    "XoneJD2017": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids",
+                    "JDUKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "JustShine",
+                    "Mashup",
+                    "Partymaster",
+                    "DOUBLESCORING",
+                    "KidsOnly"
+                ],
+                "includedVersion": "jd2017",
+                "originalJDVersion": 2017,
+                "uuid": "70080d68-77b0-4d40-beb4-fa48d0ec6fbf"
+            }
+        ],
+        "title": null
+    },
+    "XoneJD2018": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "JDUKids",
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "DOUBLESCORING",
+                    "JustShine",
+                    "KidsOnly",
+                    "Mashup",
+                    "Partymaster"
+                ],
+                "includedVersion": "jd2018",
+                "originalJDVersion": 2018,
+                "uuid": "52dbc7cd-ab44-484c-94f6-c99a7b1deec9"
+            }
+        ],
+        "title": null
+    },
+    "XoneJD2019": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "JDUKids",
+                    "ExcludedFromWDF",
+                    "JDUKidsFromJDKids"
+                ],
+                "excludedTags": [
+                    "ChairTutorial",
+                    "CommunityMashup",
+                    "DOUBLESCORING",
+                    "JustShine",
+                    "KidsOnly",
+                    "Mashup",
+                    "Partymaster"
+                ],
+                "includedVersion": "jd2019",
+                "uuid": "d5016081-c5bc-4cc3-88b9-f03bbe3eb56a"
+            }
+        ],
+        "title": null
+    },
+    "XoneJD2020": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "_None",
+                "actionListNameUpsell": "_None",
+                "excludedCustomTags": [
+                    "ExcludedFromWDF"
+                ],
+                "includedVersion": "jd2020",
+                "uuid": "aba8529d-6065-4e54-9ae7-11b941b7de93"
+            }
+        ],
+        "title": null
+    },
+    "bosstournament": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "bossvote": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "jira11594": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "jira11811": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "main": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "onlyboss": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "onlyhh": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2015
+            }
+        ],
+        "title": null
+    },
+    "onlymapvote": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "onlyspotlight": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    },
+    "onlytournament": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "originalJDVersion": 2017,
+                "subscribed": false
+            }
+        ],
+        "title": null
+    },
+    "prod": {
+        "__class": "CategoryRule",
+        "act": "ui_carousel",
+        "isc": "grp_row",
+        "requests": [
+            {
+                "__class": "JD_CarouselMapRequestDesc",
+                "actionListName": "KatyPerryPartyMapCoop",
+                "order": "shuffle",
+                "originalJDVersion": 2017
+            }
+        ],
+        "title": null
+    }
+}

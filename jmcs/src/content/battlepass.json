@@ -1,0 +1,2335 @@
+{
+    "comment": "testing: setting a season again with real rewards",
+    "seasons": [
+        {
+            "applicabilityEndsAt": "2023-05-09T07:00:00.000Z",
+            "applicabilityStartsAt": "2023-02-27T00:01:00.000Z",
+            "bankingEndsAt": "2050-01-01T01:00:00.000Z",
+            "battlePassSeasonItemId": "5984f273-d7e6-4f0e-92cf-4abad60e662c",
+            "battlePassSeasonOfferId": "",
+            "currencyItemId": "",
+            "id": "80233221-36a9-4c81-8943-17d2a24c3abf",
+            "localizations": [],
+            "maximumSeasonRepetitions": 0,
+            "obj": {
+                "descriptionLocId": 4510,
+                "highlightedMaps": [],
+                "highlightedPlaylists": [
+                    "57e741b7-66cc-4588-851d-54837c3b22eb"
+                ],
+                "isInterrupted": false,
+                "seasonName": "Lover Coaster",
+                "teasingDescriptionLocId": 1000,
+                "viewBackgroundIncentiveLocId": 1000
+            },
+            "primaryStoreLinks": {},
+            "progressionItemId": "5984f273-d7e6-4f0e-92cf-4abad60e662d",
+            "progressionOfferId": "",
+            "revision": 163,
+            "tiers": [
+                {
+                    "customTierInterval": 100,
+                    "freeRewards": [],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 110,
+                    "freeRewards": [
+                        {
+                            "itemId": "1309748f-95f3-42e5-ac79-7c11863a6897",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 120,
+                    "freeRewards": [
+                        {
+                            "itemId": "b10b99f1-aace-43c7-9bdf-f357d31cf970",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 130,
+                    "freeRewards": [
+                        {
+                            "itemId": "afae686d-ac25-4bd0-9d86-e5c9e903580b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 140,
+                    "freeRewards": [
+                        {
+                            "itemId": "04d953fa-b047-4116-94bf-c202ec92e148",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 150,
+                    "freeRewards": [
+                        {
+                            "itemId": "9393d49b-96d0-4b6c-88d8-098d0fdaa1ac",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 160,
+                    "freeRewards": [
+                        {
+                            "itemId": "5da4bc94-6e71-41c6-a97a-98364aefa25c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 170,
+                    "freeRewards": [
+                        {
+                            "itemId": "609385b5-a291-4bed-97e4-f3c30806145c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 180,
+                    "freeRewards": [
+                        {
+                            "itemId": "f8fa736a-6781-43ae-860f-c192ebb6a4cf",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 200,
+                    "freeRewards": [
+                        {
+                            "itemId": "2d920c31-9056-404d-af3f-c2ab386a1d05",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 220,
+                    "freeRewards": [
+                        {
+                            "itemId": "f66bc841-1fb9-42ae-bfce-386ed764c3c8",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 240,
+                    "freeRewards": [
+                        {
+                            "itemId": "549c7f71-81ba-4f43-a02f-6324a7db4abd",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 260,
+                    "freeRewards": [
+                        {
+                            "itemId": "89720d84-7600-45d2-9df5-59d705bcae09",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 280,
+                    "freeRewards": [
+                        {
+                            "itemId": "455d40e8-0e1d-4b1b-b22a-37675da2f6a7",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 300,
+                    "freeRewards": [
+                        {
+                            "itemId": "686f0c77-972a-47fb-bb0f-9a7ad208c57e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 320,
+                    "freeRewards": [
+                        {
+                            "itemId": "3f7f0045-bd8f-41e9-b511-9057963ce2f6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 340,
+                    "freeRewards": [
+                        {
+                            "itemId": "1d2b350e-46d6-4389-88a9-36440e7d3fd5",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 360,
+                    "freeRewards": [
+                        {
+                            "itemId": "ab54d84a-7946-43a1-972f-96e14a461372",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 380,
+                    "freeRewards": [
+                        {
+                            "itemId": "19dba233-8998-44f8-8074-1890b7c02e8b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 410,
+                    "freeRewards": [
+                        {
+                            "itemId": "a59c6713-3ba8-4f08-a168-4deac6ae065d",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 440,
+                    "freeRewards": [
+                        {
+                            "itemId": "911c6377-afb8-4af8-b589-ccba07ebc5e4",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 470,
+                    "freeRewards": [
+                        {
+                            "itemId": "5fa1d8f0-f1c5-4c8f-9174-7e271b57cfa8",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 500,
+                    "freeRewards": [
+                        {
+                            "itemId": "3d6194af-19d8-4f5a-8387-2c794d180ed5",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 530,
+                    "freeRewards": [
+                        {
+                            "itemId": "b8619f61-2f19-4841-80b3-91e11bb72d11",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 560,
+                    "freeRewards": [
+                        {
+                            "itemId": "5cb85feb-747a-4aa0-9089-34eac7596cc6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 590,
+                    "freeRewards": [
+                        {
+                            "itemId": "8f31fff1-6969-444e-aa3a-2c4a729a0df1",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 620,
+                    "freeRewards": [
+                        {
+                            "itemId": "8e9efca2-255b-4d64-9129-30dcfe2180ed",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 650,
+                    "freeRewards": [
+                        {
+                            "itemId": "c03fcc8f-9cf0-48eb-b3dc-ae44f3414682",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 680,
+                    "freeRewards": [
+                        {
+                            "itemId": "f47f026b-91e1-490a-8d42-3be44628aba2",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 720,
+                    "freeRewards": [
+                        {
+                            "itemId": "d55f4276-7112-47cb-86e9-f1604467d19e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 760,
+                    "freeRewards": [
+                        {
+                            "itemId": "3605176d-59c4-4f9f-bac0-4d6767a6181c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 800,
+                    "freeRewards": [
+                        {
+                            "itemId": "fbe37c8c-4316-4a8b-8277-f6c308d55c8a",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 840,
+                    "freeRewards": [
+                        {
+                            "itemId": "971ab537-a963-4faf-ace7-acb3335c1b8c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 880,
+                    "freeRewards": [
+                        {
+                            "itemId": "d721b83c-42ac-4a5b-a66d-57564edfdedf",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 920,
+                    "freeRewards": [
+                        {
+                            "itemId": "6eea6cd5-67f3-4973-a896-ca4c614ceee4",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 960,
+                    "freeRewards": [
+                        {
+                            "itemId": "0305db5b-57db-4955-8eb6-b0e80493dbb6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1000,
+                    "freeRewards": [
+                        {
+                            "itemId": "71ba8621-c17f-40c5-9dfc-e3bf51fcda70",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1040,
+                    "freeRewards": [
+                        {
+                            "itemId": "643c6372-fcdd-4744-8606-b36af960558b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1080,
+                    "freeRewards": [
+                        {
+                            "itemId": "8c28ffdb-5b1e-4e34-9522-935c34995848",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1120,
+                    "freeRewards": [
+                        {
+                            "itemId": "ebbf8d8a-b1e2-4448-8983-6e7032c0c5be",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1150,
+                    "freeRewards": [
+                        {
+                            "itemId": "34acb9c8-ea06-4977-8e9d-b37aa9a99f89",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                }
+            ],
+            "tiersInterval": 1,
+            "visibilityEndsAt": "2050-01-01T01:00:00.000Z",
+            "visibilityStartsAt": "2023-02-27T00:01:00.000Z"
+        },
+        {
+            "applicabilityEndsAt": "2023-07-12T07:00:00.000Z",
+            "applicabilityStartsAt": "2023-05-09T08:00:00.000Z",
+            "bankingEndsAt": "2050-01-01T01:00:00.000Z",
+            "battlePassSeasonItemId": "aa7cc777-185e-4658-8be0-80547203295e",
+            "battlePassSeasonOfferId": "",
+            "currencyItemId": "",
+            "id": "1e1ad3e6-a272-4aba-bb16-13e349f68ddc",
+            "localizations": [],
+            "maximumSeasonRepetitions": 0,
+            "obj": {
+                "descriptionLocId": 4915,
+                "highlightedMaps": [],
+                "highlightedPlaylists": [
+                    "19e2b21c-5ef2-4181-ac75-00b5bb7b6636"
+                ],
+                "isInterrupted": false,
+                "seasonName": "Showdown",
+                "teasingDescriptionLocId": 4916,
+                "viewBackgroundIncentiveLocId": 4917
+            },
+            "primaryStoreLinks": {},
+            "progressionItemId": "330c1b87-5464-449b-a239-d0e5f8a95c43",
+            "progressionOfferId": "",
+            "revision": 55,
+            "tiers": [
+                {
+                    "customTierInterval": 100,
+                    "freeRewards": [],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 110,
+                    "freeRewards": [
+                        {
+                            "itemId": "5f7f0a65-dbba-4b07-8ddd-63b115b8c322",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 120,
+                    "freeRewards": [
+                        {
+                            "itemId": "a0d889a4-607a-43aa-9e05-04760afba3be",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 130,
+                    "freeRewards": [
+                        {
+                            "itemId": "e66f1ab7-0994-4cbe-8f43-1ebd763a8495",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 140,
+                    "freeRewards": [
+                        {
+                            "itemId": "dd3e38ad-315f-4f07-a765-795f222d36bc",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 150,
+                    "freeRewards": [
+                        {
+                            "itemId": "c4e42b34-fc59-4f1c-b9cb-703bdf362383",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 160,
+                    "freeRewards": [
+                        {
+                            "itemId": "69f625c8-fe62-45c5-9834-9eae2e4f541c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 170,
+                    "freeRewards": [
+                        {
+                            "itemId": "5fe7c8ff-ee83-468b-8203-9991b743c6a3",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 180,
+                    "freeRewards": [
+                        {
+                            "itemId": "f6da7ae3-d806-4d85-93fd-94297c0e23a1",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 200,
+                    "freeRewards": [
+                        {
+                            "itemId": "d83b09f0-e22d-409a-b383-9f29aea333be",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 220,
+                    "freeRewards": [
+                        {
+                            "itemId": "8880fa2f-1986-4731-b125-ea6d1424d405",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 240,
+                    "freeRewards": [
+                        {
+                            "itemId": "b0aa21cb-aae3-4ba3-898b-f0d09ad5add3",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 260,
+                    "freeRewards": [
+                        {
+                            "itemId": "32a517a3-2cc1-4f9c-ae87-7c51046f0b4d",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 280,
+                    "freeRewards": [
+                        {
+                            "itemId": "1f51c373-f4fe-444a-95d6-093348ba4836",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 300,
+                    "freeRewards": [
+                        {
+                            "itemId": "835d2293-5282-41d5-853d-bd6e5f7a920e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 320,
+                    "freeRewards": [
+                        {
+                            "itemId": "9dcc02c9-f5c3-4a15-bf05-33a00dd79506",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 340,
+                    "freeRewards": [
+                        {
+                            "itemId": "fdef2423-c331-4a98-9b09-f37b43b72330",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 360,
+                    "freeRewards": [
+                        {
+                            "itemId": "229ea021-c2f3-463e-bcaa-03fe87e38023",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 380,
+                    "freeRewards": [
+                        {
+                            "itemId": "592d4be3-7622-48b9-ae93-877233d62f94",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 410,
+                    "freeRewards": [
+                        {
+                            "itemId": "3c9deb92-faa6-49ff-89c1-aeaa678031dd",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 440,
+                    "freeRewards": [
+                        {
+                            "itemId": "abf2efce-06d6-4bda-b416-edf3394c7660",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 470,
+                    "freeRewards": [
+                        {
+                            "itemId": "6823769b-dbe4-463e-975e-fd294f154043",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 500,
+                    "freeRewards": [
+                        {
+                            "itemId": "089306cc-de2b-44b8-b21d-11078056a4dd",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 530,
+                    "freeRewards": [
+                        {
+                            "itemId": "4f5253ba-0973-4dda-b80e-4d945209843f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 560,
+                    "freeRewards": [
+                        {
+                            "itemId": "e2200bcd-f232-4d1a-a3b2-00864d6a71cb",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 590,
+                    "freeRewards": [
+                        {
+                            "itemId": "c279a1da-514a-4fcd-a3f7-897a58c10d61",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 620,
+                    "freeRewards": [
+                        {
+                            "itemId": "50727ef9-96ee-43b0-8eca-d6c4daf0f730",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 650,
+                    "freeRewards": [
+                        {
+                            "itemId": "d825c3a9-f888-469b-a9b9-f8859a3955a9",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 680,
+                    "freeRewards": [
+                        {
+                            "itemId": "8ff38237-4ce8-4c83-8764-c39eeb227a2f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 720,
+                    "freeRewards": [
+                        {
+                            "itemId": "11b61cf8-2cb1-4f4c-a6a1-67f4a36d2187",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 760,
+                    "freeRewards": [
+                        {
+                            "itemId": "57d422e1-f0da-4aeb-a9de-61a139d17a28",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 800,
+                    "freeRewards": [
+                        {
+                            "itemId": "dff03936-4e01-4d08-aee4-23a70517caed",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 840,
+                    "freeRewards": [
+                        {
+                            "itemId": "da5ead3d-e176-4d57-856b-26ca140139a4",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 880,
+                    "freeRewards": [
+                        {
+                            "itemId": "833f4d71-1806-4d10-bb2b-446bd3fa3d50",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 920,
+                    "freeRewards": [
+                        {
+                            "itemId": "e8b935af-b02a-4e0b-a447-9f8760dfdd96",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 960,
+                    "freeRewards": [
+                        {
+                            "itemId": "50b16cca-6aaf-4461-aed3-c60b331ecf4e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1000,
+                    "freeRewards": [
+                        {
+                            "itemId": "2728723c-6ca0-49c4-b38c-68415324904a",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1040,
+                    "freeRewards": [
+                        {
+                            "itemId": "3bccf4ce-53b6-49c5-993f-0f7a0e5fb214",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1080,
+                    "freeRewards": [
+                        {
+                            "itemId": "5d19ea77-bcf6-42e5-be04-9639ba253606",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1120,
+                    "freeRewards": [
+                        {
+                            "itemId": "c53f4ff0-4dde-4944-99c8-4b342ac0f7c2",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1150,
+                    "freeRewards": [
+                        {
+                            "itemId": "574e46a1-4bee-420c-bdb4-93358b693e1e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                }
+            ],
+            "tiersInterval": 1,
+            "visibilityEndsAt": "2050-01-01T01:00:00.000Z",
+            "visibilityStartsAt": "2023-05-09T08:00:00.000Z"
+        },
+        {
+            "applicabilityEndsAt": "2023-08-07T10:00:00.000Z",
+            "applicabilityStartsAt": "2023-07-20T08:00:00.000Z",
+            "bankingEndsAt": "2050-01-01T23:59:59.000Z",
+            "battlePassSeasonItemId": "c485e9f1-2320-4206-814c-8e0a165be0bb",
+            "battlePassSeasonOfferId": "",
+            "currencyItemId": "",
+            "id": "24dd3483-2e0c-49e4-8b78-f28168ad0d94",
+            "localizations": [],
+            "maximumSeasonRepetitions": 0,
+            "obj": {
+                "descriptionLocId": 5038,
+                "highlightedMaps": [
+                    "1d6d36ae-1c10-46b5-a451-246d514a9899",
+                    "b0cf39dc-febc-49e6-82f7-92632b2c6010",
+                    "945eaa2a-47b2-4740-a21c-d2d11dbc3393",
+                    "64f1f689-6736-476c-bee9-9d8217fd2589"
+                ],
+                "highlightedPlaylists": [
+                    "9237600e-aa4a-455a-a252-c63d51115a2d"
+                ],
+                "isInterrupted": false,
+                "seasonName": "Beach, Summer & Vampires",
+                "teasingDescriptionLocId": 5040,
+                "viewBackgroundIncentiveLocId": 5041
+            },
+            "primaryStoreLinks": {},
+            "progressionItemId": "3e238a95-fe12-4d64-8a29-689cafd9fb8a",
+            "progressionOfferId": "",
+            "revision": 8,
+            "tiers": [
+                {
+                    "customTierInterval": 100,
+                    "freeRewards": [],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 110,
+                    "freeRewards": [
+                        {
+                            "itemId": "1ec7885a-6d3b-431c-8213-11b772f78d51",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 120,
+                    "freeRewards": [
+                        {
+                            "itemId": "c1eda623-6b4b-4de2-8b36-96b98a3343bc",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 130,
+                    "freeRewards": [
+                        {
+                            "itemId": "9f23c34c-d505-4c5d-b0b9-697d672be253",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 140,
+                    "freeRewards": [
+                        {
+                            "itemId": "12312497-27f4-438f-8da3-08a499cae45b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 150,
+                    "freeRewards": [
+                        {
+                            "itemId": "6d1ea184-b637-4e70-b31d-8d0600011882",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 160,
+                    "freeRewards": [
+                        {
+                            "itemId": "fbe97d84-d871-44a9-aa9c-bd4eb5282804",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 170,
+                    "freeRewards": [
+                        {
+                            "itemId": "628dc37b-478b-4d93-9680-cd2e91f01d13",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 180,
+                    "freeRewards": [
+                        {
+                            "itemId": "ee9b4892-3caf-4be5-8fa3-ebd757a9e7e6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 200,
+                    "freeRewards": [
+                        {
+                            "itemId": "d5d29752-391a-4b0d-b35d-db2bff1a88fe",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 220,
+                    "freeRewards": [
+                        {
+                            "itemId": "29fcae52-13a2-4077-b810-c7978f4a9ca6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 240,
+                    "freeRewards": [
+                        {
+                            "itemId": "fd88792a-3c61-488d-8e18-cc436412787c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 260,
+                    "freeRewards": [
+                        {
+                            "itemId": "4b7571d7-0cf5-46cc-a88d-0d25fd0dc276",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 280,
+                    "freeRewards": [
+                        {
+                            "itemId": "8f67712b-64f1-4c7a-913e-ae1271a3fce3",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 300,
+                    "freeRewards": [
+                        {
+                            "itemId": "f29818ad-63e8-4641-bc05-1914d7407d4a",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 320,
+                    "freeRewards": [
+                        {
+                            "itemId": "a80ed29b-d060-410b-b327-e6f55f48a550",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 340,
+                    "freeRewards": [
+                        {
+                            "itemId": "3f5aab47-5507-4203-bf30-45ff9877b4c9",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 360,
+                    "freeRewards": [
+                        {
+                            "itemId": "6afb3d79-5ec8-4510-aabd-2756f3b835dc",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 380,
+                    "freeRewards": [
+                        {
+                            "itemId": "855f9895-6013-4379-be55-160fa5002227",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 410,
+                    "freeRewards": [
+                        {
+                            "itemId": "afa5eb06-d524-4a41-a8e7-d0652054728f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 440,
+                    "freeRewards": [
+                        {
+                            "itemId": "2bf8dbcb-0af2-4667-9572-9a9b1f635f29",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 470,
+                    "freeRewards": [
+                        {
+                            "itemId": "d2538ca0-5504-4aa7-8710-2168f09620c7",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 500,
+                    "freeRewards": [
+                        {
+                            "itemId": "3c6fb685-0a4c-436c-83a9-f90fd4fd80fe",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 530,
+                    "freeRewards": [
+                        {
+                            "itemId": "b6a0bdb5-0bf1-4f15-a72b-71927b169366",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 560,
+                    "freeRewards": [
+                        {
+                            "itemId": "f715f6e8-9d0a-4ca2-89c0-6314e3bcbe22",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 590,
+                    "freeRewards": [
+                        {
+                            "itemId": "e3408267-816a-43f0-a7fe-8f004f016d06",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 620,
+                    "freeRewards": [
+                        {
+                            "itemId": "266a1d37-9cb1-4c1c-a677-e2d58c93d1aa",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 650,
+                    "freeRewards": [
+                        {
+                            "itemId": "5d24dfcb-2bb4-468e-a7fa-45132323281f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 680,
+                    "freeRewards": [
+                        {
+                            "itemId": "abf03f0e-be01-4aec-814b-f48b8cdd916f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 720,
+                    "freeRewards": [
+                        {
+                            "itemId": "d586719c-ff3b-4706-8cb7-3e3bd27a0ca8",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 760,
+                    "freeRewards": [
+                        {
+                            "itemId": "2e6783ac-ed0d-4968-bfd9-207687d3887f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 800,
+                    "freeRewards": [
+                        {
+                            "itemId": "dd2a7efe-c695-4a5c-a9a3-2eb43f33c0d4",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 840,
+                    "freeRewards": [
+                        {
+                            "itemId": "c38e6ff2-f376-4137-bcd4-a921fde00367",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 880,
+                    "freeRewards": [
+                        {
+                            "itemId": "ec4e5789-635a-48dc-9ced-68ddd0279a22",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 920,
+                    "freeRewards": [
+                        {
+                            "itemId": "2b88272d-1c98-441a-9858-95859a6d86c9",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 960,
+                    "freeRewards": [
+                        {
+                            "itemId": "ae8c98b2-9e9e-44c8-bae2-67d46d8ea6e6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1000,
+                    "freeRewards": [
+                        {
+                            "itemId": "8d3b6e90-f9da-4e97-9cc1-35d098caf034",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1040,
+                    "freeRewards": [
+                        {
+                            "itemId": "70e67b89-ba6f-44ac-ab99-3ac5640e2321",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1080,
+                    "freeRewards": [
+                        {
+                            "itemId": "8790fce5-d4a5-44cf-961b-ab21052c3fe7",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1120,
+                    "freeRewards": [
+                        {
+                            "itemId": "f920ab04-e166-4662-92c0-044a62c9bd58",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 1150,
+                    "freeRewards": [
+                        {
+                            "itemId": "ba3635f0-fd39-4e34-bc92-e19a33a4218b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                }
+            ],
+            "tiersInterval": 1,
+            "visibilityEndsAt": "2050-01-01T23:59:59.000Z",
+            "visibilityStartsAt": "2023-07-12T11:00:00.000Z"
+        },
+        {
+            "applicabilityEndsAt": "2023-12-31T23:59:59.000Z",
+            "applicabilityStartsAt": "2023-08-08T11:00:00.000Z",
+            "bankingEndsAt": "2050-01-01T23:59:59.000Z",
+            "battlePassSeasonItemId": "9c2a9663-b7cc-48c5-890f-e52d1a036dd9",
+            "battlePassSeasonOfferId": "",
+            "currencyItemId": "",
+            "id": "3c4d4b8f-fdd5-42cd-9d2e-753f5e32962b",
+            "localizations": [],
+            "maximumSeasonRepetitions": 0,
+            "obj": {
+                "descriptionLocId": 5550,
+                "highlightedMaps": [],
+                "highlightedPlaylists": [],
+                "isInterrupted": false,
+                "seasonName": "2024 Edition Celebration",
+                "teasingDescriptionLocId": 300,
+                "viewBackgroundIncentiveLocId": 300
+            },
+            "primaryStoreLinks": {},
+            "progressionItemId": "0ddda338-3543-4e1d-998f-607544c46ae3",
+            "progressionOfferId": "",
+            "revision": 8,
+            "tiers": [
+                {
+                    "customTierInterval": 100,
+                    "freeRewards": [],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 105,
+                    "freeRewards": [
+                        {
+                            "itemId": "b88885fb-287f-4673-b64f-80fcf5408f23",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 110,
+                    "freeRewards": [
+                        {
+                            "itemId": "0570f1a7-ad7e-42c5-a850-f54dff1bf38b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 115,
+                    "freeRewards": [
+                        {
+                            "itemId": "d7b5a8e6-5669-4e49-8055-d5d207bd6510",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 120,
+                    "freeRewards": [
+                        {
+                            "itemId": "8d3d59ca-2b5a-4097-a8c4-2d0192d94901",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 125,
+                    "freeRewards": [
+                        {
+                            "itemId": "d6e8c4c1-70aa-4bd0-beac-117114744f5c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 130,
+                    "freeRewards": [
+                        {
+                            "itemId": "ebffd216-9f4a-4570-b634-d20146d237f8",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 135,
+                    "freeRewards": [
+                        {
+                            "itemId": "1af56f5f-ff19-4b32-bcda-6e2a51085ca0",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 140,
+                    "freeRewards": [
+                        {
+                            "itemId": "2554f48e-3b9e-46d9-9f89-8b66c50dc59e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 145,
+                    "freeRewards": [
+                        {
+                            "itemId": "533b8e6b-4e1e-4624-bec1-7f5d3bc2e5cf",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 160,
+                    "freeRewards": [
+                        {
+                            "itemId": "3a2ed9da-049c-450d-a0e3-34f5be6730f4",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 175,
+                    "freeRewards": [
+                        {
+                            "itemId": "e8ae17b7-a5cd-4a41-9327-62dc4d62b82f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 190,
+                    "freeRewards": [
+                        {
+                            "itemId": "adc014c2-0450-4a44-9f06-0f71f1fd0fe6",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 205,
+                    "freeRewards": [
+                        {
+                            "itemId": "6b11a3c4-2029-4e86-a5cf-7e27e8185b79",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 220,
+                    "freeRewards": [
+                        {
+                            "itemId": "99712844-d58c-4464-bb4d-af68e8e4d811",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 235,
+                    "freeRewards": [
+                        {
+                            "itemId": "a046a797-7c77-4682-af66-6746be08b33f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 250,
+                    "freeRewards": [
+                        {
+                            "itemId": "6a689f4a-7d42-4be0-9ca6-4b05b5a22dd2",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 265,
+                    "freeRewards": [
+                        {
+                            "itemId": "14999b06-fcce-4885-a1f3-8cdd34bf17b5",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 280,
+                    "freeRewards": [
+                        {
+                            "itemId": "d2b7be5c-bf6f-4678-bd7c-a5782b5ab40e",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 295,
+                    "freeRewards": [
+                        {
+                            "itemId": "da2b3335-3fd4-4620-8587-2ff70e49621f",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 340,
+                    "freeRewards": [
+                        {
+                            "itemId": "65926694-1ccd-4315-b7b0-ecdee8a1fc34",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 385,
+                    "freeRewards": [
+                        {
+                            "itemId": "362fd94b-d818-47e3-90c8-325626740aa2",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 430,
+                    "freeRewards": [
+                        {
+                            "itemId": "c401a101-bc69-4ae7-b132-df7a2fa1a97c",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 475,
+                    "freeRewards": [
+                        {
+                            "itemId": "17b07f52-d29b-4c9a-8b60-e54e7748e9ba",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 520,
+                    "freeRewards": [
+                        {
+                            "itemId": "7bebb5bd-e6e8-4fcf-a9d9-8f513e4bb08d",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                },
+                {
+                    "customTierInterval": 565,
+                    "freeRewards": [
+                        {
+                            "itemId": "a4d8cfda-1333-414e-a2ef-95fa796a2c6b",
+                            "localizations": [],
+                            "obj": {},
+                            "quantity": 1,
+                            "rarityColorCode": ""
+                        }
+                    ],
+                    "maximumTierRepetitions": 0,
+                    "obj": {},
+                    "premiumRewards": []
+                }
+            ],
+            "tiersInterval": 1,
+            "visibilityEndsAt": "2050-01-01T23:59:59.000Z",
+            "visibilityStartsAt": "2023-08-08T11:00:00.000Z"
+        }
+    ]
+}

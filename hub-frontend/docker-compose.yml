@@ -1,0 +1,19 @@
+services:
+  hub-frontend:
+    build:
+      context: .
+      args:
+        - VITE_HUB_API_URL=${VITE_HUB_API_URL:-http://localhost:8455}
+        - VITE_HUB_FQDN=${VITE_HUB_FQDN:-dnceprty.co}
+    container_name: hub-frontend
+    ports:
+      - "${PORT:-5173}:5173"
+    environment:
+      - PORT=5173
+    restart: unless-stopped
+    networks:
+      - coolify
+
+networks:
+  coolify:
+    external: true

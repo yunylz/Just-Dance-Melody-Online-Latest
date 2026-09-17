@@ -1,0 +1,4359 @@
+{
+    "365": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "1999": {
+        "releaseDate": "2020-01-30T00:00:00",
+        "tags": []
+    },
+    "10000Lucht": {
+        "releaseDate": "2019-11-05T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "24K": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "24KALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "7Rings": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "7RingsALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "8BitRetake": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "ABBADancingQueen": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAFernando": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAGimmeGimme": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAHoneyHoney": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAKnowingMe": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBALayAllYourLove": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAMammaMia": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAMoneyMoney": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBASOS": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBASuperTrooper": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBATakeAChance": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBATheWinner": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAVoulezVous": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-07-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ABBAWaterloo": {
+        "bannerTheme": "abba_2017",
+        "releaseDate": "2018-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ALaFolie": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AThousandDances": {
+        "releaseDate": "2015-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKids"
+        ]
+    },
+    "AboutThatBass": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "AboutThatBassALT": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "AboutThatBassCMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AboutThatBassMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AboutThatBassPM": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AboutThatBassSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Acceptable": {
+        "releaseDate": "2016-06-23T00:00:00",
+        "tags": []
+    },
+    "Adeyyo": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "AdoreYou": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "AdventurerKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AintMy": {
+        "releaseDate": "2017-05-30T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "Unlimited2017"
+        ]
+    },
+    "Airplanes": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": []
+    },
+    "Albatraoz": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": []
+    },
+    "AlbatraozCMU": {
+        "releaseDate": "2016-05-26T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AlbatraozMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Alexandrie": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "AllAboutUs": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "AllTheGoodGirls": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "AllYouGotta": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "NoArtist"
+        ]
+    },
+    "AllYouGottaVIP": {
+        "releaseDate": "2017-11-28T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AlwaysLookOn": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "AmIWrong": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": []
+    },
+    "AmericanGirlDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Americano": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "AmericanoFAN": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Amore": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Andy": {
+        "releaseDate": "2017-10-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "AngryBirds": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "JDUKids"
+        ]
+    },
+    "AngryBirdsMU": {
+        "releaseDate": "2016-05-03T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Animals": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "AnimalsALT": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "AnimalsALTCMU": {
+        "releaseDate": "2016-06-30T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AnimalsMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "AnotherOne": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "AnotherOneALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Apache": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": []
+    },
+    "Aquarius": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Automaton": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "AutomatonALT": {
+        "tags": []
+    },
+    "AutomatonALTRetake": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "BabyGirl": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BabyOneMoreQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BabyShark": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "BadAssPrincessKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BadBoy": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "BadGuy": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "BadGuyALT": {
+        "releaseDate": "2019-11-05T00:00:00",
+        "tags": []
+    },
+    "BadLiar": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "BadRomance": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Baiana": {
+        "tags": []
+    },
+    "Bailando1997": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Bailar": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "LatinCorner"
+        ]
+    },
+    "BailarCMU": {
+        "releaseDate": "2017-03-30T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BalMasque": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Balance": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BalletKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BandmasterKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Bang": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "Bang2019": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Bang2019ALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Bang2019VIP": {
+        "releaseDate": "2018-11-22T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Bangarang": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "BangarangALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Barbie": {
+        "releaseDate": "2017-01-26T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "BarbieGirl": {
+        "releaseDate": "2019-03-14T00:00:00",
+        "tags": []
+    },
+    "BarbraStreisand": {
+        "releaseDate": "2020-07-23T00:00:00",
+        "tags": []
+    },
+    "BassaSababa": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "BeautyAndABeatDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BeepBeep": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "Believer": {
+        "tags": []
+    },
+    "BestSongEver": {
+        "releaseDate": "2021-03-18T00:00:00",
+        "tags": []
+    },
+    "BetterWhen": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "BewareOf": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Bicicleta": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "BigGirl": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Birthday": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "BirthdayKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BlackMam": {
+        "tags": []
+    },
+    "BlackMamALT": {
+        "tags": []
+    },
+    "BlackMamba": {
+        "releaseDate": "2018-01-18T00:00:00",
+        "tags": []
+    },
+    "BlackWidow": {
+        "releaseDate": "2021-04-22T00:00:00",
+        "tags": []
+    },
+    "Blame": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "BlameMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BlindingLights": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "BlindingLightsALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "BlowYourMind": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Blue": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "BlurredLines": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BlurredLinesALTDLC": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "BollywoodXmas": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Bonbon": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "BoogieWonderQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BoomClapDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "BoomDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "Boombayah": {
+        "tags": []
+    },
+    "BoombayahALT": {
+        "tags": []
+    },
+    "BornThisWay": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "BornThisWayALT": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": []
+    },
+    "BornThisWayALTPM": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BornThisWayMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BornThisWaySHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BornToBeWild": {
+        "releaseDate": "2021-01-14T00:00:00",
+        "tags": []
+    },
+    "BossWitch": {
+        "tags": []
+    },
+    "BoyYouCan": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Boys": {
+        "releaseDate": "2019-10-31T00:00:00",
+        "tags": []
+    },
+    "BoysALT": {
+        "releaseDate": "2020-05-28T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "BoysBoys": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": []
+    },
+    "BoysBoysMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BreakFreeDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "BreakFreeDLCCMU": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Bremen": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "BrokenHeart": {
+        "releaseDate": "2019-08-22T00:00:00",
+        "tags": []
+    },
+    "BubblePop": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "BubblePopALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "BubblesKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "BuildAB": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "BuiltForThis": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "BumBumTamTam": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "BumBumTamTamALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Burn": {
+        "releaseDate": "2021-01-28T00:00:00",
+        "tags": []
+    },
+    "Buscando": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "BuscandoALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Buttons": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "ButtonsALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "CaPlane": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "CakeByTheOcean": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "CakeByTheOceanALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "CakeByTheOceanVIP": {
+        "releaseDate": "2016-11-14T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "CaliforniaGurls": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "Calypso": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "CalypsoFAN": {
+        "releaseDate": "2021-04-06T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "CanCan": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "CantFeelMyFace": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "CantGetEnoughDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "CantHurryLove": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "CantTakeMyEyes": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "CantTakeMyEyesALT": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": []
+    },
+    "CantTouchThis": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Carmen": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "CarpetKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Chacarron": {
+        "tags": []
+    },
+    "Chandelier": {
+        "tags": []
+    },
+    "ChandelierALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Chantaje": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "ChantajeALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "ChasmonauteKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "CheapThrills": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "CheapThrillsALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "CheapThrillsCMU": {
+        "releaseDate": "2017-06-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "CheapThrillsMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Cheerleader": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "ChefKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ChickenPayback": {
+        "releaseDate": "2020-09-10T00:00:00",
+        "tags": []
+    },
+    "China": {
+        "tags": []
+    },
+    "ChinaALT": {
+        "tags": []
+    },
+    "Chiwawa": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "ChiwawaMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Circus": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "CircusALT": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "CircusMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Cmon": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "JDUKids"
+        ]
+    },
+    "ColaSong": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "ColaSongALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "ComeBackHome": {
+        "releaseDate": "2021-04-29T00:00:00",
+        "tags": [
+            "Exclusive",
+            "ExcluJD21_Quickplay "
+        ]
+    },
+    "ConAltura": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "ConCalma": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Coolos": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": []
+    },
+    "CopaCabana": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "JDUKids"
+        ]
+    },
+    "CopaCabanaMU": {
+        "releaseDate": "2016-07-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Copperhead": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "CosmicGirl": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Cotton": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "Cottonmouth": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Crayon": {
+        "releaseDate": "2020-08-06T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "CrazyLittle": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Criminal": {
+        "releaseDate": "2019-03-21T00:00:00",
+        "tags": []
+    },
+    "CrucifiedQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "CryingBlood": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": []
+    },
+    "DDUDU": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Daddy": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF-PC",
+            "HallOfFame"
+        ]
+    },
+    "DaddyALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "DaddyCool": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "DaddyMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "DameTu": {
+        "releaseDate": "2018-07-26T00:00:00",
+        "tags": []
+    },
+    "DanceMonkey": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "DancingQueen": {
+        "releaseDate": "2018-08-23T00:00:00",
+        "tags": []
+    },
+    "DansVanDeFarao": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Danse": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "DarkHorse": {
+        "releaseDate": "2020-10-29T00:00:00",
+        "tags": []
+    },
+    "Despacito": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "DespacitoALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "Dharma": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "DharmaALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "DibbyDibby": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "DieYoungDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Diggin": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Diggy": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "DjaDja": {
+        "releaseDate": "2019-11-05T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "DoCarnaval": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "DogsOut": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKids"
+        ]
+    },
+    "Domino": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "DoneForMe": {
+        "releaseDate": "2018-12-20T00:00:00",
+        "tags": []
+    },
+    "DontCall": {
+        "releaseDate": "2020-01-23T00:00:00",
+        "tags": []
+    },
+    "DontKnowMe": {
+        "releaseDate": "2019-10-24T00:00:00",
+        "tags": []
+    },
+    "DontLet": {
+        "releaseDate": "2017-04-20T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "DontStart": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "DontStartALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "DontStopMe": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "DontStopMeALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "DontStopMeCMU": {
+        "releaseDate": "2017-07-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "DontWorry": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "DontWorryMadcon": {
+        "releaseDate": "2017-01-26T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "Unlimited2017"
+        ]
+    },
+    "DontYouWorryDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "DragosteaDinTei": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "DynamiteQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "EQUIS": {
+        "releaseDate": "2020-05-21T00:00:00",
+        "tags": []
+    },
+    "ET": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "EcoloKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ElTiki": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "ElTikiALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "ElectroMambo": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "LatinCorner"
+        ]
+    },
+    "ElectroMamboMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ElectroTribalDLC": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Error": {
+        "releaseDate": "2017-11-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Everybody": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "EyeOfTheTiger": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "EzDoDanceRetake": {
+        "releaseDate": "2020-05-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Fame": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Familiar": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Fancy": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "FancyALT": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "FancyMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "FancyTwice": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "FearlessPirateKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "FeelIt": {
+        "releaseDate": "2018-01-25T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "FeelLikeDancing": {
+        "releaseDate": "2020-10-22T00:00:00",
+        "tags": []
+    },
+    "FeelSoRight": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "FeelSpecial": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "FeelSpecialALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "FindYou": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "FindYourMove": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "Sweat"
+        ]
+    },
+    "FineChina": {
+        "releaseDate": "2019-07-04T00:00:00",
+        "tags": []
+    },
+    "FineChinaALT": {
+        "releaseDate": "2019-07-11T00:00:00",
+        "tags": []
+    },
+    "Finesse": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "FinesseALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Fire": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "FireOnTheDancefloor": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "FiremenKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Firework": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "FitButYouKnow": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Flash": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "FlashPose": {
+        "tags": []
+    },
+    "Footloose": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "FootlooseKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Footwork": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "ForgetYou": {
+        "releaseDate": "2020-05-28T00:00:00",
+        "tags": []
+    },
+    "FreedFromDesire": {
+        "tags": []
+    },
+    "FreezeKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "FriendInMe": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Fun": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "FunMU": {
+        "releaseDate": "2016-06-02T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Funk": {
+        "tags": []
+    },
+    "FunkyRobotKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "FunkyTown": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Futebol": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GangnamStyleDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "Gentleman": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "GentlemanSWT": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "Georgia": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "GetAround": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "GetBusy": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GetGetDown": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "GetUgly": {
+        "releaseDate": "2016-02-26T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "GhostInTheKeys": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "GhostInTheKeysMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GhostKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Ghostbusters": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "JDUKids"
+        ]
+    },
+    "GhostbustersSWT": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "Gibberish": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "GiddyOnUp": {
+        "releaseDate": "2020-07-30T00:00:00",
+        "tags": []
+    },
+    "Gigolo": {
+        "releaseDate": "2017-01-30T18:29:41",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GimmeGimme": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GimmeGimmeOSC": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": []
+    },
+    "GirlLikeMe": {
+        "tags": []
+    },
+    "GirlLikeMeALT": {
+        "tags": []
+    },
+    "Girlfriend": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "GirlsJustWant": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": []
+    },
+    "GirlsLike": {
+        "releaseDate": "2021-01-28T00:00:00",
+        "tags": []
+    },
+    "GlamorousCusto": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "GodIsAWoman": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "GodIsAWomanALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "GoldDust": {
+        "releaseDate": "2020-01-16T00:00:00",
+        "tags": []
+    },
+    "Good4U": {
+        "tags": []
+    },
+    "GoodFeeling": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "GoodFeelingALT": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "GotMeDancing": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "GotThat": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Groove": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "HabibiYaeni": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "HabibiYaeniALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "HalaBel": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "HalloweenQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKids"
+        ]
+    },
+    "HandClap": {
+        "releaseDate": "2017-03-23T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "HandClapFAN": {
+        "releaseDate": "2017-08-31T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Hangover": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": []
+    },
+    "HangoverMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "HappierThanEver": {
+        "tags": []
+    },
+    "Happy": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "HappyALT": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": []
+    },
+    "HappyFarmKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Havana": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "HavanaALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "HeadAndHeart": {
+        "releaseDate": "2021-07-15T00:00:00",
+        "tags": []
+    },
+    "HeartOfGlass": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Heartbeat": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "HeatSeeker": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "HeavyCross": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HeyMama": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "HeyMamaALT": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "HeyMamaSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "HeyYa": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HighHopes": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Hips": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "HipsALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "HipsMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "HipsVIP": {
+        "releaseDate": "2016-11-24T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "HitEmUp": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HitTheLights": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HitTheRoad": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "HitTheRoadALT": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "HoldMyHand": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": []
+    },
+    "HoldingOut": {
+        "releaseDate": "2016-06-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "Holiday": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": []
+    },
+    "HotNCold": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HotStep": {
+        "releaseDate": "2020-01-30T00:00:00",
+        "tags": []
+    },
+    "HotStuff": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "HowDeep": {
+        "releaseDate": "2017-06-22T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "HowFar": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Human": {
+        "tags": []
+    },
+    "HungarianDance": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Hype": {
+        "releaseDate": "2020-07-23T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "IAmTheBest": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "IAmTheBestALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "IDidItAgainQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "IDontCare": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "IFeelItComing": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "IFeelLove": {
+        "releaseDate": "2016-06-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "IGotAFeeling": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "IGotAFeelingALT": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "IGotAFeelingCMU": {
+        "releaseDate": "2016-03-10T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "IGotAFeelingMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "IGotAFeelingSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "IKissed": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "IKissedOSC": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": []
+    },
+    "IKissedSWT": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "Sweat"
+        ]
+    },
+    "ILikeIt": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "ILikeItLike": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "LatinCorner"
+        ]
+    },
+    "ILoveRock": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "INeedYourLoveDLC": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": []
+    },
+    "IWantYouBack": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "IWasMadeQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "IWillSurvive": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "IWillSurviveOSC": {
+        "releaseDate": "2016-07-21T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Idealistic": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "ImOuttaLove": {
+        "tags": []
+    },
+    "ImStillStanding": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Imya505": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "InTheNavy": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Instruction": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "IntoYou": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "IntoYouCMU": {
+        "releaseDate": "2017-08-24T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Intoxicated": {
+        "releaseDate": "2021-07-22T00:00:00",
+        "tags": [
+            "Exclusive",
+            "ExcluJD21_Quickplay "
+        ]
+    },
+    "IstanbulQUAT": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKids"
+        ]
+    },
+    "ItsRainingMen": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": []
+    },
+    "ItsYou": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "ItsYouSWT": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "Sweat"
+        ]
+    },
+    "ItsyBitsyRetake": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "JaiHo": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "JailHouse": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "JailHouseALT": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": []
+    },
+    "JamboMambo": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "LatinCorner"
+        ]
+    },
+    "Jerusalema": {
+        "tags": []
+    },
+    "JohnCena": {
+        "releaseDate": "2021-07-29T00:00:00",
+        "tags": [
+            "ExcluJD21_Quickplay ",
+            "Exclusive"
+        ]
+    },
+    "JohnW": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "JohnWALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "Joone": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Jopping": {
+        "tags": []
+    },
+    "JoppingALT": {
+        "tags": []
+    },
+    "Judas": {
+        "tags": []
+    },
+    "Juice": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "JuiceALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "JuiceVIP": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Juju": {
+        "releaseDate": "2016-12-21T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "Jump": {
+        "releaseDate": "2021-09-16T00:00:00",
+        "tags": []
+    },
+    "JumpGA": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": []
+    },
+    "JumpMaLa": {
+        "releaseDate": "2019-07-04T00:00:00",
+        "tags": []
+    },
+    "JungleBoogie": {
+        "releaseDate": "2020-10-15T00:00:00",
+        "tags": []
+    },
+    "JuntoATi": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "JurassicKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "JustAnIllusion": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "JustDance": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "JustDanceOSC": {
+        "releaseDate": "2016-08-25T00:00:00",
+        "tags": []
+    },
+    "JustDanceSWTDLC": {
+        "releaseDate": "2016-07-21T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "Sweat"
+        ]
+    },
+    "JustMaxBL": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "KDance": {
+        "releaseDate": "2020-11-24T00:00:00",
+        "tags": [
+            "Exclusive",
+            "ExcluJD21_Quickplay "
+        ]
+    },
+    "KIDSABC": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSAccidentallyInLove": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-04-26T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSDayO": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-03-02T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSFiveLittleMonkeys": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-02-01T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSFraggleRock": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-08-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSHickoryDickoryDock": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSILikeToMoveIt": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSIfYoureHappy": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-06-28T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSJingleBells": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSMaryHadALittleLamb": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSPirateYouShallBe": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSTheLionSleepsTonight": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSWeGoWellTogether": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2017-11-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSWheelsOnTheBus": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-05-31T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KIDSWorkingOnTheRailroad": {
+        "bannerTheme": "kids3",
+        "releaseDate": "2018-07-26T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKidsFromJDKids"
+        ]
+    },
+    "KaboomPow": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "KaraokeForeverCHN": {
+        "releaseDate": "2019-02-05T00:00:00",
+        "tags": []
+    },
+    "KattiKalandal": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "KeepInTouch": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "KeepOn": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "KetchupSong": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "KickIt": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "KickItALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "KillThisLove": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "KillThisLoveALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "KiloPapaDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "KissingStrangers": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "KissingStrangersALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Koi": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Kuliki": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "KungFu": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "JDUKids"
+        ]
+    },
+    "KungFunk": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "HallOfFame"
+        ]
+    },
+    "Kurio": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LaRespuesta": {
+        "releaseDate": "2020-07-30T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "Lacrimosa": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "LastChristmas": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "LeFreak": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": []
+    },
+    "LeanOn": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "LeanOnALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "LeanOnMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LegSongCHN": {
+        "releaseDate": "2019-02-05T00:00:00",
+        "tags": []
+    },
+    "Leila": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "LetItGo": {
+        "releaseDate": "2015-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "JDUKids"
+        ]
+    },
+    "LetItGoDLC": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "LetsGroove": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "LetsGrooveMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LevanPolkka": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "LevanPolkkaCMU": {
+        "releaseDate": "2016-04-28T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LevanPolkkaMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LevelUp": {
+        "tags": []
+    },
+    "LevelUpVIP": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Levitating": {
+        "releaseDate": "2021-10-21T00:00:00",
+        "tags": []
+    },
+    "LevitatingALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Lights": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "LightsMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LightsSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LikeIWould": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "LimaGolf1": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "LittleParty": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "LittlePartyALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "LittleSwing": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "Lollipop": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "LoveBoat": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "LoveIsAll": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "LoveStory": {
+        "tags": []
+    },
+    "LoveWard": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "LoveYouLike": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "Luftballons": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Lullaby": {
+        "releaseDate": "2019-11-22T00:00:00",
+        "tags": []
+    },
+    "Lump": {
+        "releaseDate": "2019-10-31T00:00:00",
+        "tags": []
+    },
+    "Lush": {
+        "releaseDate": "2019-03-14T00:00:00",
+        "tags": []
+    },
+    "MaItu": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Macarena": {
+        "releaseDate": "2017-04-13T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "Mad": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "MadLove": {
+        "tags": []
+    },
+    "MadLoveALT": {
+        "tags": []
+    },
+    "Magenta": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "MagicHalloweenKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "MainGirlDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "MakeItJingle": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "MakeMeFeel": {
+        "releaseDate": "2018-10-30T00:00:00",
+        "tags": []
+    },
+    "MamaMia": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Mamasita": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Mambo5": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "Maneater": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": []
+    },
+    "MarioNX": {
+        "releaseDate": "2017-10-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "MasQueNada": {
+        "releaseDate": "2020-08-06T00:00:00",
+        "tags": []
+    },
+    "MasterBlaster": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Mayores": {
+        "releaseDate": "2019-11-07T00:00:00",
+        "tags": []
+    },
+    "MeToo": {
+        "releaseDate": "2017-02-23T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "Unlimited2017"
+        ]
+    },
+    "Medicina": {
+        "releaseDate": "2019-03-07T00:00:00",
+        "tags": []
+    },
+    "MedicinaALT": {
+        "releaseDate": "2019-06-27T00:00:00",
+        "tags": []
+    },
+    "MedievalKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "MerryChristmasKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "MiGente": {
+        "releaseDate": "2018-02-22T00:00:00",
+        "tags": []
+    },
+    "MiMiMi": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "MiMiMiALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "MightyReal": {
+        "tags": []
+    },
+    "MiloscW": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "MissAmazingKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Misunderstood": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Monster": {
+        "releaseDate": "2021-04-15T00:00:00",
+        "tags": [
+            "Exclusive",
+            "ExcluJD21_Quickplay "
+        ]
+    },
+    "MonsterMash": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "MonstersAcademyKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Mood": {
+        "tags": []
+    },
+    "MoodALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Moskau": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "MoveYourFeet": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": []
+    },
+    "MovesLikeDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "MrBlueSky": {
+        "tags": []
+    },
+    "MrSaxobeat": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "MugsyBaloney": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "NaeNae": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "NaeNaeALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "NailsHips": {
+        "tags": []
+    },
+    "NailsHipsJD": {
+        "tags": []
+    },
+    "Narco": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Natoo": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "NaughtyGirl": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "NaughtyGirlALT": {
+        "releaseDate": "2018-04-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "HallOfFame"
+        ]
+    },
+    "NeverCanSay": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "NeverGonna": {
+        "releaseDate": "2020-03-19T00:00:00",
+        "tags": []
+    },
+    "NewFace": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "NewReality": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "NewRealityVIP": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "NewRules": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "NewRulesALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "NewWorld": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "NewWorldALT": {
+        "releaseDate": "2020-07-09T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "NineAfternoon": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "NinjaKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "NoControl": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "NoControlMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "NoLie": {
+        "releaseDate": "2018-09-20T00:00:00",
+        "tags": []
+    },
+    "NoLimit": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "NoTearsLeft": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "NotYourOrdinary": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "OMG": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "OMGALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Oath": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": []
+    },
+    "ObsessionRetake": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "OhNo": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Oishii": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "OishiiVIP": {
+        "releaseDate": "2016-11-24T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "OldTownRoad": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "OldTownRoadALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "OnMyMind": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": []
+    },
+    "OnNePortePas": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "OnaTanczyDlaMnie": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "OneKiss": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "OneWayDLC": {
+        "releaseDate": "2016-03-23T00:00:00",
+        "tags": []
+    },
+    "OnlyYou": {
+        "releaseDate": "2021-01-21T00:00:00",
+        "tags": []
+    },
+    "OtherSide": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "OtherSideSZA": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "PacMan": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "PacaDance": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Panini": {
+        "releaseDate": "2019-12-19T00:00:00",
+        "tags": []
+    },
+    "PartOfMeDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "PartyRock": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "PataPata": {
+        "releaseDate": "2021-05-04T00:00:00",
+        "tags": []
+    },
+    "Peanut": {
+        "releaseDate": "2019-07-11T00:00:00",
+        "tags": []
+    },
+    "PixieLandKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "PoPiPo": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "PocoLoco": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Policeman": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "PopStars": {
+        "tags": []
+    },
+    "Potato": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "PoundTheAlarm": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "PoundTheAlarmALTDLC": {
+        "releaseDate": "2016-05-19T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "PrimaDonna": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "PrinceAli": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "JDUKids"
+        ]
+    },
+    "Princess": {
+        "tags": []
+    },
+    "Problem": {
+        "releaseDate": "2021-04-15T00:00:00",
+        "tags": []
+    },
+    "ProfesseurDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Promiscuous": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": []
+    },
+    "ProudMary": {
+        "releaseDate": "2019-10-24T00:00:00",
+        "tags": []
+    },
+    "PumpIt": {
+        "releaseDate": "2021-04-29T00:00:00",
+        "tags": []
+    },
+    "PumpUp": {
+        "releaseDate": "2020-05-21T00:00:00",
+        "tags": []
+    },
+    "QueTirePaLante": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Rabiosa": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": [
+            "LatinCorner"
+        ]
+    },
+    "RabiosaALT": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "RabiosaMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Radical": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "RadicalALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "RadicalMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "RainOnMe": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "RainOverMe": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "RainOverMeALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Rare": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "RareALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Rasputin": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "RaveIn": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "RedMangoose": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "Rhythm": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "RiskyBusiness": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "RiverSide": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "RobotRock": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "HallOfFame",
+            "JDUKids"
+        ]
+    },
+    "RockNRoll": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "RockNRollDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "RockYourBody": {
+        "tags": []
+    },
+    "Rockabye": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Rockafeller": {
+        "releaseDate": "2019-03-21T00:00:00",
+        "tags": []
+    },
+    "RunTheNight": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "Runaway": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "SafeAndSound": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SaintPatrick": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": []
+    },
+    "SaintPatrickKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "SaintPatrickMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2016-04-06T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Samba": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "SambaDeJaneiro": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "SambaDeJaneiroALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "SangriaWine": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "Satellite": {
+        "releaseDate": "2020-01-23T00:00:00",
+        "tags": []
+    },
+    "SaveYourTears": {
+        "tags": []
+    },
+    "Sax": {
+        "releaseDate": "2018-04-19T00:00:00",
+        "tags": []
+    },
+    "SaySo": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "SayonaraRetake": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "SchoolyardKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ScreamNShout": {
+        "releaseDate": "2019-05-29T00:00:00",
+        "tags": []
+    },
+    "ScreamNShoutALT": {
+        "releaseDate": "2019-06-27T00:00:00",
+        "tags": []
+    },
+    "ScreamNShoutMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Senorita": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "September": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "SeptemberALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "SeptemberMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SexyAndIKnowItDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "Sweat"
+        ]
+    },
+    "Shaky": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "ShapeOfYou": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "ShutUp": {
+        "releaseDate": "2016-01-20T00:00:00",
+        "tags": []
+    },
+    "Siargo": {
+        "tags": []
+    },
+    "SideTo": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "SideToALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "Sidewinder": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "NoArtist"
+        ]
+    },
+    "SingleLadies": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "SingleLadiesCMU": {
+        "releaseDate": "2016-12-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Sirtaki": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": []
+    },
+    "Skibidi": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "SlumberParty": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "SmalltownBoy": {
+        "tags": []
+    },
+    "SomethinStupid": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Sorbet": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Sorry": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "SorryALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "Extreme"
+        ]
+    },
+    "SoulBossaNova": {
+        "releaseDate": "2019-11-07T00:00:00",
+        "tags": []
+    },
+    "SoulSearch": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SoyYo": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "SoyYoALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "SpaceGirlKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "SpectronizerQUAT": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "HallOfFame"
+        ]
+    },
+    "SpinMeRound": {
+        "releaseDate": "2018-06-07T00:00:00",
+        "tags": []
+    },
+    "Spinning": {
+        "releaseDate": "2019-11-05T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SpyKids": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "StadiumFlow": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "StadiumFlowFAN": {
+        "releaseDate": "2016-06-09T00:00:00",
+        "tags": []
+    },
+    "StadiumFlowMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Stargate": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": []
+    },
+    "Starships": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "StarshipsALT": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": []
+    },
+    "StepByStep": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "StopDropAndRoll": {
+        "tags": []
+    },
+    "StopMovin": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "StuckOnAFeeling": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "StuckOnAFeelingMU": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "StupidLove": {
+        "releaseDate": "2021-01-21T00:00:00",
+        "tags": []
+    },
+    "SuaCara": {
+        "tags": []
+    },
+    "SuaCaraALT": {
+        "tags": []
+    },
+    "Sucker": {
+        "releaseDate": "2020-01-16T00:00:00",
+        "tags": []
+    },
+    "Sugar": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "SugarDance": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "Summer": {
+        "releaseDate": "2016-04-20T00:00:00",
+        "tags": []
+    },
+    "SummerALT": {
+        "releaseDate": "2016-06-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "Sweat"
+        ]
+    },
+    "Sun": {
+        "releaseDate": "2017-10-16T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "SuperBass": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Superstition": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "Sushii": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "SushiiALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Swag": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Sway": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SweetLittle": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "SweetSensation": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "SwishSwish": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "HallOfFame"
+        ]
+    },
+    "SwishSwishALT": {
+        "releaseDate": "2019-01-17T00:00:00",
+        "tags": []
+    },
+    "SwitchChef": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SwitchHandyman": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SwitchMariachi": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SwitchSport": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "SwitchWitch": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TGIF": {
+        "tags": []
+    },
+    "TOY": {
+        "releaseDate": "2019-11-14T00:00:00",
+        "tags": []
+    },
+    "TakeMeOut": {
+        "releaseDate": "2016-08-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TakeOnMe": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "TakiTaki": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "TakiTakiALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Talk": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "TalkALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "TasteTheFeeling": {
+        "releaseDate": "2016-03-10T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TasteTheFeelingALT": {
+        "releaseDate": "2016-07-11T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TasteTheFeelingALTCMU": {
+        "releaseDate": "2016-09-08T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TeDominar": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "Teacher": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": []
+    },
+    "TeacherALT": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "TeacherMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TeacherPM": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TeenageDream": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "TelAviv": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Temperature": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "TemperatureALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Tetris": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "ThatPower": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "ThatPowerALT": {
+        "releaseDate": "2016-02-25T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "ThatPowerOSCDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ThatsNotMyName": {
+        "releaseDate": "2018-07-19T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "ThatsTheWay": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "TheChoice": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "TheChoiceCMU": {
+        "releaseDate": "2016-01-07T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TheExplorerKids": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "TheFinalCountdown": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "HallOfFame"
+        ]
+    },
+    "TheFox": {
+        "releaseDate": "2020-12-24T00:00:00",
+        "tags": []
+    },
+    "TheGreatest": {
+        "releaseDate": "2016-11-24T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "TheTime": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "TheTimeALT": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "TheWay": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "TheWayIAre": {
+        "releaseDate": "2021-04-22T00:00:00",
+        "tags": [
+            "Exclusive",
+            "ExcluJD21_Quickplay "
+        ]
+    },
+    "TheWeekend": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "TheWorldDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "TheseBoots": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "ThinkAboutThings": {
+        "tags": []
+    },
+    "ThisIsHow": {
+        "bannerTheme": "KP",
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "ThisIsHowALT": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "ThisIsHowFAN": {
+        "releaseDate": "2016-08-11T00:00:00",
+        "tags": []
+    },
+    "ThisIsHowMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2015-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "ThisIsHowSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Thumbs": {
+        "releaseDate": "2017-10-23T00:00:00",
+        "tags": [
+            "UplayLock"
+        ]
+    },
+    "TicoTico": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "TikTok": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "TillTheWorldEnds": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "TillTheWorldEndsALT": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "TimeWarpQUAT": {
+        "releaseDate": "2016-10-20T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "Titanium": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "TribalDance": {
+        "releaseDate": "2016-10-20T00:00:00",
+        "tags": []
+    },
+    "TribalDanceALT": {
+        "releaseDate": "2016-07-21T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Troublemaker": {
+        "releaseDate": "2020-05-14T00:00:00",
+        "tags": []
+    },
+    "TumBum": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "TumBumALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "TurnUpTheLove": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "TurnUpTheLoveALT": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": []
+    },
+    "TurnUpTheLoveFAN": {
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Tusa": {
+        "releaseDate": "2021-01-14T00:00:00",
+        "tags": []
+    },
+    "TwistShakeIt": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "USA": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "UglyBeauty": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Ulibayssia": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "UnderTheSea": {
+        "releaseDate": "2016-12-08T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "JDUKids"
+        ]
+    },
+    "Uno": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "Unusual": {
+        "releaseDate": "2021-02-11T00:00:00",
+        "tags": []
+    },
+    "UptownFunk": {
+        "releaseDate": "2017-04-06T00:00:00",
+        "tags": []
+    },
+    "UptownFunkALT": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": []
+    },
+    "UptownFunkCMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "UptownFunkMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "UptownFunkPM": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "UptownFunkSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "VenusB": {
+        "releaseDate": "2019-08-22T00:00:00",
+        "tags": []
+    },
+    "Vodovorot": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": []
+    },
+    "Volar": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "WakaWaka": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "WakaWakaALT": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": []
+    },
+    "WakaWakaKids": {
+        "releaseDate": "2018-10-23T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "WakeMeUp": {
+        "releaseDate": "2017-07-27T00:00:00",
+        "tags": []
+    },
+    "WakeMeUpALT": {
+        "releaseDate": "2017-08-03T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC",
+            "Unlimited2017",
+            "JDUKids"
+        ]
+    },
+    "WakeMeUpDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WakingUp": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WalkLike": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WalkThisWay": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WalkThisWayALT": {
+        "releaseDate": "2016-06-23T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "WantToWantMe": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": []
+    },
+    "WantToWantMeALT": {
+        "releaseDate": "2017-02-16T00:00:00",
+        "tags": []
+    },
+    "WantToWantMeMU": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2015-11-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WantToWantMePM": {
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WantToWantMeSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WantUBack": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WaterMe": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WaterMeALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WeRWhoWeRDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WhatAFeeling": {
+        "releaseDate": "2015-12-23T00:00:00",
+        "tags": [
+            "Sweat"
+        ]
+    },
+    "WhatAboutLoveDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WhatIsLove": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "WhatIsLoveALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy",
+            "ExcludedFromWDF"
+        ]
+    },
+    "WhatIsLoveMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WhatLoversDo": {
+        "releaseDate": "2018-06-21T00:00:00",
+        "tags": []
+    },
+    "WhenTheRain": {
+        "releaseDate": "2017-05-04T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "WhenTheRainSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WhereAreYou": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WhereAreYouALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WhereverIGo": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": []
+    },
+    "WhiteNoise": {
+        "releaseDate": "2020-08-13T00:00:00",
+        "tags": [
+            "Exclusive"
+        ]
+    },
+    "WhoRun": {
+        "tags": []
+    },
+    "WhoRunALTRETAKE": {
+        "tags": []
+    },
+    "Wild": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "WilliamTell": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "WithoutMe": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "WithoutMeALTRETAKE": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "WizardKids": {
+        "releaseDate": "2020-11-12T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "WomanLikeMe": {
+        "releaseDate": "2020-05-14T00:00:00",
+        "tags": []
+    },
+    "WorkWork": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WorkWorkALT": {
+        "releaseDate": "2019-10-15T00:00:00",
+        "tags": []
+    },
+    "WorthIt": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "HallOfFame"
+        ]
+    },
+    "WorthItALT": {
+        "releaseDate": "2017-10-09T00:00:00",
+        "tags": [
+            "Extreme"
+        ]
+    },
+    "WorthItMU": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Xmas": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "ExcludedFromWDF",
+            "ExcludedFromWDF-PC"
+        ]
+    },
+    "YMCA": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "HallOfFame",
+            "JDUKids"
+        ]
+    },
+    "YoLeLlego": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    },
+    "YouCanDance": {
+        "tags": []
+    },
+    "YouMakeMeFeelDLC": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": []
+    },
+    "YouNeverCan": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "YouReTheFirst": {
+        "releaseDate": "2015-10-20T00:00:00",
+        "tags": [
+            "EasyPeasy"
+        ]
+    },
+    "YoureTheOne": {
+        "releaseDate": "2017-03-09T00:00:00",
+        "tags": []
+    },
+    "YoureTheOneSHI": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "tags": [
+            "ExcludedFromWDF"
+        ]
+    },
+    "Youth": {
+        "releaseDate": "2016-10-25T00:00:00",
+        "tags": [
+            "Unlimited2017"
+        ]
+    },
+    "ZTestMapJD2022": {
+        "releaseDate": "2021-06-11T14:21:26",
+        "tags": []
+    },
+    "ZTestMapJD2022ALT": {
+        "releaseDate": "2021-04-30T11:34:00",
+        "tags": []
+    },
+    "Zagreb": {
+        "offers": {
+            "free": [],
+            "subscription": []
+        },
+        "releaseDate": "2017-12-07T00:00:00",
+        "tags": []
+    },
+    "Zenit": {
+        "releaseDate": "2021-11-04T00:00:00",
+        "tags": []
+    }
+}

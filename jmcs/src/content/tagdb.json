@@ -1,0 +1,4545 @@
+{
+    "canBeRecommendedInActivityPage": [],
+    "isPresentInSongLibrary": [
+        "842ac8b5-2d20-4d5d-bc14-1c1bf463c85d",
+        "7c6b5831-a444-4b16-8f22-cf1dec11ad56",
+        "81692c81-87d1-4207-9bee-600d27fa6a1c",
+        "afe658c2-752a-4f86-beb6-09b97dadd4f4",
+        "083cc4c5-cbed-4165-959c-488ffc700640",
+        "3bda36c9-046e-4f1f-9fad-64e5224f4460",
+        "626b4800-049e-4b91-a95d-62f1420851f2",
+        "c5a6097c-5c70-48bb-8645-cb1ffa29fc16",
+        "36bcca66-7362-4cbb-bebc-1075dca23ac7",
+        "141669f2-16f8-49eb-9613-908550246b31",
+        "b6ddcffe-b6d4-4f80-a4c4-0870ecb03e43",
+        "23989fb0-d720-4447-947d-f711e8ca3101",
+        "293720b7-b8cb-454d-a9bb-e4176e23ec13",
+        "d150b8c7-fdc3-42c6-831c-b00ae6504564",
+        "845cd687-f9c6-432a-aef1-a707790e0905",
+        "997c7803-a68c-40d7-8652-46554173449d",
+        "71d58a9c-7c81-40c3-ab0f-515f28db2328",
+        "ea91ebc1-7420-4b82-82c2-97d341f9de97",
+        "cff18df4-b614-4d83-8427-29c72e052db4",
+        "6744be17-d472-42ef-8e4a-a9006c9b2e41",
+        "774488d0-722a-4d44-9fb0-cb7424f2de0d",
+        "0613d020-98b5-40e1-acfc-d7d15efc107b",
+        "483d9863-7756-4d79-bf84-bbc365cea64f",
+        "aa9adedd-18ec-45ba-b6e3-d547c265afdc",
+        "8b021193-f215-4207-a8ed-6655048b0960",
+        "bcf1628d-5913-42fd-b08d-3670c266e805",
+        "8b10e095-0d24-4b71-b7bf-6bf063810dea",
+        "741bbcc0-8bcd-46aa-8cdd-58e85cf6dd8b",
+        "58e0403c-bf9b-4f58-84c4-5b9e1496483f",
+        "00793c76-3077-4403-831d-a91f3608b914",
+        "ec48ebcf-977a-47d5-a0a5-715fbcf60cc9",
+        "c73802c2-c0ba-443a-9117-1e45a9307409",
+        "e47d906d-57ed-4262-a62b-faf5fc6c1186",
+        "09b6cacb-41f4-441e-9c51-5abefb8c8ec9",
+        "65123c08-1ba9-4b72-989a-c861cc4603ba",
+        "9647a0c8-1e45-497e-92df-6928462b8271",
+        "ebb41e76-4fdc-4bfc-a883-dbe646134c94",
+        "15dc8f5a-29c4-4af0-b8ed-5edb5ae88bdd",
+        "a7878833-4a0c-4522-ae14-f798f2556418",
+        "592f05ca-1271-4323-bfeb-f5540db45571",
+        "37f4ecc5-c17c-42d4-91ba-6675d2773411",
+        "0c160b5b-8143-48b8-8e85-95c3b9cc7dff",
+        "45b7e043-1e28-4755-a389-f4befeb23254",
+        "57f4aa2e-be1e-41cb-9596-142c4e12542e",
+        "e29d5b4f-5fdd-411f-9507-389b4c891863",
+        "9c458783-34d6-4988-8a32-3f1e2d9c2f41",
+        "0c9e077f-4199-4717-adb2-80f452a0bfce"
+    ],
+    "isPresentInSongPageDetails": [
+        "09b6cacb-41f4-441e-9c51-5abefb8c8ec9",
+        "65123c08-1ba9-4b72-989a-c861cc4603ba",
+        "9647a0c8-1e45-497e-92df-6928462b8271",
+        "ec48ebcf-977a-47d5-a0a5-715fbcf60cc9",
+        "c73802c2-c0ba-443a-9117-1e45a9307409",
+        "e47d906d-57ed-4262-a62b-faf5fc6c1186",
+        "10013083-4496-4ed6-816d-f4a6c7e49b26",
+        "e8c63403-21b1-4348-a403-4d2975141486",
+        "9787875c-a357-49fe-83ea-5aceecfcc657",
+        "f545922f-294d-40c8-8d86-d8289f34fef0",
+        "bb091f30-6ed7-4d78-acbf-f64901675805",
+        "54c4943b-d532-444a-bc7f-f0f331a5e4a6",
+        "0bd9cdc7-4866-40c5-8280-b617964d8f2e",
+        "03ce9509-a37a-4ff7-a64e-0223bec6eb03",
+        "741bbcc0-8bcd-46aa-8cdd-58e85cf6dd8b",
+        "4d8598f6-3567-43c9-a443-9040f03240d3",
+        "4b07a01c-d422-4621-8698-f4925b72896b",
+        "541cf5fd-e1a4-4256-85ee-37ce1399a4d2",
+        "53e45c47-f323-460d-9095-d85a7db1e7d8",
+        "8fd1da7c-c995-43dd-aa02-faf09732ca48",
+        "0be144c7-09e4-4b4d-9553-4322d820bac0",
+        "246ff55a-b6cb-4c26-80bd-8bc79dc0af2d",
+        "c2f41333-e677-4738-b1bc-a0f2d67709b2",
+        "9c6ca727-0a28-4e59-8458-656e2854bf3a",
+        "11358567-2387-41e6-bde4-69a398890067",
+        "57f4aa2e-be1e-41cb-9596-142c4e12542e",
+        "b94feeab-d520-4888-907a-dafd4b1051ca",
+        "e819394e-fbea-4afd-a8a4-4d6c6e58b53a",
+        "ca169c87-ef2f-4ede-b238-b21e2b86cf57",
+        "7c6b5831-a444-4b16-8f22-cf1dec11ad56",
+        "548c62aa-130e-4af4-a1ca-b7c312f2101e",
+        "57a647b6-3ea9-4985-ac1e-f3e33b7881fd",
+        "626b4800-049e-4b91-a95d-62f1420851f2",
+        "be1b81b6-28f1-450d-ae28-fb316ae5fde6",
+        "45b7e043-1e28-4755-a389-f4befeb23254",
+        "91c3f064-c5ba-4070-8d34-23553c6af5d8",
+        "e082756f-5245-457e-8ef8-d96067f63de5",
+        "66b3bda0-f321-45e0-8419-7b45df232146",
+        "9c458783-34d6-4988-8a32-3f1e2d9c2f41",
+        "f283cb94-a4ef-4973-9a32-7a7e0b9d2943",
+        "626f8a81-4861-41e4-8afd-1d6a4f579eb6",
+        "ff0a9e44-9e1d-47ff-95a8-7de01a35abfd",
+        "424c4f8b-20fb-4336-8fec-0bb06a5fe561",
+        "300a0a0c-f651-4f58-b9aa-93c461286c5f",
+        "3bda36c9-046e-4f1f-9fad-64e5224f4460",
+        "651aa14c-b090-4b22-95ee-d630035a3340",
+        "0c160b5b-8143-48b8-8e85-95c3b9cc7dff",
+        "3eb2cc2f-2c9c-48f0-a770-5684f82c2f60",
+        "f271dd9d-3c43-4b0a-816c-3512098e60f6",
+        "9e9555e6-e7cf-4215-84b4-6a21643e9e4b",
+        "81580b0b-13c8-4716-9c7c-53b4974ed0ff",
+        "a81974f4-cc98-4188-a57d-e704de3577e3",
+        "7cf08eea-9998-4eb9-a2dd-610a49932753",
+        "8dce3f68-e698-4fa3-867a-c7faddce52b1",
+        "11749a6f-9fcf-438e-95bd-ab7e63fc7396",
+        "86dfb163-6d5e-40bf-9c36-9f09a3c598b9",
+        "7e8e9116-3a74-4f05-b003-d158c59dec0c",
+        "38aaa39a-b4a5-4b60-b24f-662895905aeb",
+        "a77e0efe-eebd-4ac8-adfb-f289acc9c62b",
+        "5717de73-d1c2-4e27-a9cf-9d7aa2775ef5",
+        "41d9ffdd-4f35-4502-8aac-efa3fc0a6c02",
+        "938a7659-83bd-48d4-b5b2-b39c1b9acf48",
+        "761e707b-b2b3-4a2d-b062-590bb0dd9f66",
+        "04796c6b-2dcb-4b2a-baed-9adb41d3f31c",
+        "27c0cc55-2471-43d2-a7c8-07961d226ded",
+        "3c062e91-e4f7-4698-8459-df281e900a3d",
+        "37b7709f-883f-437a-8c19-6f5b9eddd5f4",
+        "651d6ab4-4717-474a-8c6d-934a933846ff",
+        "f8cd6284-3e37-480a-871b-81078921039e",
+        "74f31962-6db5-4ae2-8545-ca80d63360cb",
+        "d9566034-442d-45d4-a848-532ca881a197",
+        "dda1c0f8-d82e-4461-94db-b42e3fc5d176",
+        "447e86e7-3a95-4c4f-bdc1-2ffa3e68387d",
+        "95a875ed-805f-4dde-b7d4-5069a7fc9ce8",
+        "68af9062-674e-4b38-b702-4b3167c85907",
+        "842ac8b5-2d20-4d5d-bc14-1c1bf463c85d",
+        "26d17c4d-0cef-43dd-b132-f911b8b1c321",
+        "033c164a-6bd0-4e4f-854a-b4a6a9b70286",
+        "d8063223-ad66-476a-aa99-28e967560c19",
+        "a45542b2-4322-4ec1-a113-b80536e04b53",
+        "06a2ed46-e2c1-4453-bdb6-d1fd646a422c",
+        "ef58ab63-1f5d-4a1a-a6aa-e179b5761384",
+        "4dceba3a-25d2-40a0-aa65-b09be2904b9c",
+        "b58f1aec-4956-4e61-be28-7839718f938d",
+        "3d865dec-ad84-4b13-8106-55a8bac66f29",
+        "3f80bad8-b13a-4058-b132-f781095a362d",
+        "f28b0353-4496-41be-8c45-4b37a9ac7468",
+        "23989fb0-d720-4447-947d-f711e8ca3101",
+        "49746e68-1c95-478c-afec-337bdb041fa0",
+        "7b29a35a-6d08-4bb5-9a73-3af909edc8c0",
+        "0691d4bb-b38e-4aaf-a000-396bb5372826",
+        "177eecaa-2ad3-4527-86f3-4520331d840e",
+        "50d1a91f-000f-4c44-86ff-c2f6cf731684",
+        "b6ddcffe-b6d4-4f80-a4c4-0870ecb03e43",
+        "0540b2df-17d7-405b-bd50-a0e6d9fa1278",
+        "66ffe7c0-6428-42fc-9a31-fac57df25d50",
+        "8b10e095-0d24-4b71-b7bf-6bf063810dea",
+        "200f6ffd-9905-426d-8987-24fb67ac73a8",
+        "f3a97532-ba9e-4808-a63a-194ba9e168da",
+        "c5a6097c-5c70-48bb-8645-cb1ffa29fc16",
+        "d3c0edd3-7661-4272-b6e1-d8f7f1234974",
+        "3873c425-6cbe-4fca-800c-0860d540ff65",
+        "998c4b44-cd85-45a5-a4cf-f1d3413801d7",
+        "293720b7-b8cb-454d-a9bb-e4176e23ec13",
+        "d150b8c7-fdc3-42c6-831c-b00ae6504564",
+        "71d58a9c-7c81-40c3-ab0f-515f28db2328",
+        "ea91ebc1-7420-4b82-82c2-97d341f9de97",
+        "cff18df4-b614-4d83-8427-29c72e052db4",
+        "6744be17-d472-42ef-8e4a-a9006c9b2e41",
+        "774488d0-722a-4d44-9fb0-cb7424f2de0d",
+        "0613d020-98b5-40e1-acfc-d7d15efc107b",
+        "aa9adedd-18ec-45ba-b6e3-d547c265afdc",
+        "8b021193-f215-4207-a8ed-6655048b0960",
+        "bcf1628d-5913-42fd-b08d-3670c266e805",
+        "845cd687-f9c6-432a-aef1-a707790e0905",
+        "997c7803-a68c-40d7-8652-46554173449d",
+        "36bcca66-7362-4cbb-bebc-1075dca23ac7",
+        "37e624f8-8821-4341-bb23-b2f77ed24036",
+        "d5e39360-62db-471c-a638-3bdc622f1db3",
+        "141669f2-16f8-49eb-9613-908550246b31",
+        "02798fda-5e9d-477f-b86f-bb78480be6f9",
+        "ddce9ede-a17d-4a27-af48-5f2e113cd0cb",
+        "b00c285d-771d-4a83-ba5c-4f0674b7ece3",
+        "67a3cd43-f2f8-469b-b976-8830fefd18b5",
+        "00793c76-3077-4403-831d-a91f3608b914",
+        "ad114380-1459-48fc-aa5e-5f53d8b24766",
+        "8a253de6-3191-433a-bab8-9b8c9cb69c13",
+        "af8c381e-07c2-487e-954b-7b7e723bf464",
+        "0cc5303f-453a-4bbe-9ec1-e8c1f1a00d37",
+        "bf7053ac-1909-4d44-b64a-f7a2b33e53d2",
+        "bbc2f58b-55bc-4475-bef1-d19ccd1e077f",
+        "5dfbc3e4-971d-42ee-8c97-79df7184a632",
+        "d9c15906-a55a-4a5a-b605-525cdae90b3d",
+        "43207b79-fab2-4826-b114-cfe2e7977f10",
+        "78fb37d3-572f-4d24-b3f1-65e8a9551747",
+        "483d9863-7756-4d79-bf84-bbc365cea64f",
+        "083cc4c5-cbed-4165-959c-488ffc700640",
+        "f7aff387-0a59-4e25-870a-c22577dbc855",
+        "afe658c2-752a-4f86-beb6-09b97dadd4f4",
+        "55aacd14-473e-4b36-84e3-aac127d84ae5",
+        "58e0403c-bf9b-4f58-84c4-5b9e1496483f",
+        "81692c81-87d1-4207-9bee-600d27fa6a1c",
+        "e29d5b4f-5fdd-411f-9507-389b4c891863",
+        "7eb854a6-8b6e-4162-8227-0ab0d8097111",
+        "d30e7c27-ee01-41c0-9e99-d800763f11de",
+        "9361b36e-5217-4854-b98a-13e05b952b98",
+        "791a3755-47fb-4344-9b30-5ac760cb24bd",
+        "97fc1d48-e218-4785-8dec-4cd9438ca00c",
+        "fce1db52-c1b5-4e4d-9a4a-f29fd35a1d38",
+        "d0f66448-db3a-4b44-b6d9-3bd6e7c790e0",
+        "8971ae2f-b088-478d-80d9-cd9465ccb411",
+        "15cf48bb-6102-439a-b0be-1cb959f05646",
+        "5f45c7dc-7ec6-4815-988f-b0d589dca7e1",
+        "c78b9be6-67be-4756-8e59-678950fbbdb4",
+        "bbe5e2f6-746d-4e2c-b26f-f1b8d3d6470c",
+        "5ea35711-66d3-448a-a3a6-a9ed6875f5ad",
+        "f4347ec0-55c8-450f-941f-047a2cd088a7",
+        "bc401324-08c8-4e6d-ad7b-638886f24ff3",
+        "b13f9e6c-0c74-48e2-bb5b-972663886542",
+        "54a1a54c-ffa0-4012-a691-66195537838d",
+        "e5ff9096-f7b2-48c2-b4b0-6bf2c3566973",
+        "e4faa1ca-8e76-4ab5-9c49-17d28bb3c494",
+        "efa922a0-2174-44ad-9999-343f4f49b2d2",
+        "087724e2-fda4-4482-aaaa-7110d45b3edc",
+        "7c2e5468-c2cd-4bae-86be-65a277ad1388",
+        "37b63d7c-323a-40fb-a582-ed69c1e53782",
+        "c2a85eee-bd76-485c-8652-62514deafbd3",
+        "10610b82-5727-4df1-a6b2-52f08cd14dda",
+        "7b2ebe91-8656-4dd8-9e84-910b80557c51",
+        "f7ae1bda-546a-4fff-ab81-fcc3d5d3f555",
+        "fc1edcda-57ae-4594-b27f-b43ea45f80a2",
+        "e21eeafa-4114-4d5b-9e8f-feb854f3b49d",
+        "bd2fdf0d-cde3-4e40-8f3b-21b057d27981",
+        "f536318a-cd3f-4763-a34a-8804048a6a4e",
+        "c47a1bff-b159-4a9e-a449-21a63786c14a",
+        "743fc3b7-631b-43db-94f8-5cabbb14bea6",
+        "48ad9a02-1abb-46ac-8f85-7195728a9c13",
+        "ed26f019-1552-46af-8983-60bbbf4e68d1",
+        "27735ad0-3af6-410e-a1a9-095f7bc0dd35",
+        "9cfae5cf-c854-4e3a-85ef-9208402e1d1c",
+        "e73910fc-f66b-48a9-8a07-6e919fb94e82",
+        "d03dc477-131f-49ac-b9b9-c8a7ccc09873",
+        "8bbc0a81-ec45-41a4-b8af-eb00e89acabe",
+        "54a711a4-ceda-4223-9569-2cc814562998",
+        "07e306e0-2a37-45b1-97c6-3a061d95d02c",
+        "881f28ae-9bfd-47de-a7ba-b7b229c06687",
+        "aa547488-b7fc-4166-850f-4680f54c1e1b",
+        "5db25718-bcb8-480e-8780-182bade9b1e4",
+        "3963a5fc-bab3-4e7d-8963-cacf4af282b9",
+        "2b17aa30-1553-45ca-b7ad-3996b39326af",
+        "44470151-6987-46ab-96c7-823644468615",
+        "e36d2a7c-abfb-4b6b-bae9-02c238fcd8b8",
+        "e2a4a061-a37f-468d-a88e-5ef367974e8c",
+        "30369329-50f6-4651-9dd8-67d020ddd149",
+        "bd02e4f7-44b9-4aac-b2de-cc258ba5bcb0",
+        "fc154db4-32e7-4d39-81c3-124f9a4862d6",
+        "2b90bfc9-1aee-47a2-85f7-1b25085b8887",
+        "b186c87b-d320-4abb-b3d8-9ce3e102301b",
+        "db7d9926-acd2-4fb2-972e-cf2edc759563",
+        "46a1f0f5-3c7a-412f-b360-e2fefc67022e",
+        "45e51c47-40e9-4a4e-81e6-c6ac9ba48774",
+        "90a193ff-f338-4006-8581-0b5d5ea7f8e6",
+        "6fcf3d92-d510-467e-b7aa-0ba8ee7f4583",
+        "a7878833-4a0c-4522-ae14-f798f2556418",
+        "592f05ca-1271-4323-bfeb-f5540db45571",
+        "ebb41e76-4fdc-4bfc-a883-dbe646134c94",
+        "f1ce9c9a-b1ed-436f-82ef-ce14f3cff800",
+        "15dc8f5a-29c4-4af0-b8ed-5edb5ae88bdd",
+        "37f4ecc5-c17c-42d4-91ba-6675d2773411",
+        "620c880a-92f5-4a8f-b748-66b947215c53",
+        "3c94bcda-9daa-438c-8ce2-50643bef00f4",
+        "5eef3dbd-daee-4742-be2f-b3df707aaf4e",
+        "9c38203f-f3cb-47b8-920a-3c8fbf768c04",
+        "248e8063-0521-487e-acf3-6ef1ab825787",
+        "0c9e077f-4199-4717-adb2-80f452a0bfce",
+        "632d1721-4578-4b96-83d3-bd7405975578",
+        "7ab87701-2978-4127-98c9-e75ed4d10581",
+        "a3072c02-dae0-43d6-b43c-8669dcfa03b9",
+        "d76ff02e-6c3f-4e70-a40b-9531b4a11353"
+    ],
+    "tags": {
+        "00793c76-3077-4403-831d-a91f3608b914": {
+            "assets": {},
+            "category": "mood",
+            "locId": 109,
+            "synonyms": [],
+            "tagName": "Motivational"
+        },
+        "007d35eb-836f-4490-ad87-9331ec2024ad": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4063,
+            "synonyms": [],
+            "tagName": "GTA"
+        },
+        "01bd3b10-f7e3-4ec4-ba2f-638ec8a91c1f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4403,
+            "synonyms": [],
+            "tagName": "Cutty Ranks"
+        },
+        "01cebe9e-2a4f-4525-bede-ebd4e1a4801b": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4035,
+            "synonyms": [],
+            "tagName": "Jinx"
+        },
+        "02798fda-5e9d-477f-b86f-bb78480be6f9": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 418,
+            "synonyms": [],
+            "tagName": "Locking"
+        },
+        "030d5f49-cda7-4d38-b1ed-d583da55cd05": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3454,
+            "synonyms": [],
+            "tagName": "Rocky"
+        },
+        "033c164a-6bd0-4e4f-854a-b4a6a9b70286": {
+            "assets": {},
+            "category": "mood",
+            "locId": 114,
+            "synonyms": [],
+            "tagName": "Sensual"
+        },
+        "039f05d4-2411-44b0-be87-2a53ec43f90e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4029,
+            "synonyms": [],
+            "tagName": "Tigermonkeys"
+        },
+        "03ce9509-a37a-4ff7-a64e-0223bec6eb03": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 440,
+            "synonyms": [],
+            "tagName": "Breakdance"
+        },
+        "0437c21f-465b-4ac3-bb15-55453fd061a9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3840,
+            "synonyms": [],
+            "tagName": "Bonnie Tyler"
+        },
+        "04796c6b-2dcb-4b2a-baed-9adb41d3f31c": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 430,
+            "synonyms": [],
+            "tagName": "Tango"
+        },
+        "047fdda6-7941-4397-ae3b-e94432f4db57": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3467,
+            "synonyms": [],
+            "tagName": "watch?v=dQw4w9WgXcQ"
+        },
+        "0540b2df-17d7-405b-bd50-a0e6d9fa1278": {
+            "assets": {},
+            "category": "language",
+            "locId": 74,
+            "synonyms": [],
+            "tagName": "Portuguese"
+        },
+        "05cb1250-8155-4fc9-b55c-0587260d7628": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4087,
+            "synonyms": [],
+            "tagName": "Stevie Wonder"
+        },
+        "06115e21-07dd-420e-aecc-2d3d773535fc": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3850,
+            "synonyms": [],
+            "tagName": "Big Freedia"
+        },
+        "0613d020-98b5-40e1-acfc-d7d15efc107b": {
+            "assets": {},
+            "category": "opus",
+            "locId": 344,
+            "synonyms": [],
+            "tagName": "Just Dance 2019"
+        },
+        "063f3fa9-05a5-4760-b17d-14e36372dfb6": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 53,
+            "synonyms": [],
+            "tagName": "Disney"
+        },
+        "0664c974-66ad-4eaa-a56b-9aa287d791f5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3641,
+            "synonyms": [],
+            "tagName": "Violetta"
+        },
+        "0691d4bb-b38e-4aaf-a000-396bb5372826": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 467,
+            "synonyms": [],
+            "tagName": "Rainy"
+        },
+        "06a2ed46-e2c1-4453-bdb6-d1fd646a422c": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 404,
+            "synonyms": [],
+            "tagName": "Scarf"
+        },
+        "06ee51f0-7683-42d3-8927-3263077362de": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4128,
+            "synonyms": [],
+            "tagName": "J Balvin"
+        },
+        "0746593c-1136-4a7d-9328-722d07b68980": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3505,
+            "synonyms": [],
+            "tagName": "Electric Six"
+        },
+        "077db3d9-a7ab-4411-9cd7-3df25764aded": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3503,
+            "synonyms": [],
+            "tagName": "Justin Timberlake"
+        },
+        "07a0096f-c78c-4333-b9de-68594204ecfd": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4752,
+            "synonyms": [],
+            "tagName": "ABBA"
+        },
+        "07e306e0-2a37-45b1-97c6-3a061d95d02c": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 3889,
+            "synonyms": [],
+            "tagName": "Nunchaku"
+        },
+        "083cc4c5-cbed-4165-959c-488ffc700640": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 58,
+            "synonyms": [],
+            "tagName": "Kids"
+        },
+        "087724e2-fda4-4482-aaaa-7110d45b3edc": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 3723,
+            "synonyms": [],
+            "tagName": "Tail"
+        },
+        "0981d330-dcdd-4c0b-8f7c-db2040644b7e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4005,
+            "synonyms": [],
+            "tagName": "Jessie J"
+        },
+        "098cc7be-2bb9-4cd7-893c-ff13edd19d12": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4382,
+            "synonyms": [],
+            "tagName": "Europe"
+        },
+        "09b6cacb-41f4-441e-9c51-5abefb8c8ec9": {
+            "assets": {},
+            "category": "decades",
+            "locId": 460,
+            "synonyms": [],
+            "tagName": "2000s"
+        },
+        "0a3f6dad-04a4-441b-9d04-5af143d3fef6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3988,
+            "synonyms": [],
+            "tagName": "Cardi B"
+        },
+        "0abc792e-918e-4599-a137-721e3aed6000": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3640,
+            "synonyms": [],
+            "tagName": "Disney's Frozen 2"
+        },
+        "0ba5b598-cec4-49fd-987c-544441986264": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4420,
+            "synonyms": [],
+            "tagName": "The Presidents of The United States of America"
+        },
+        "0bb6a859-bca6-4659-a1bf-2e2f572df921": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4197,
+            "synonyms": [],
+            "tagName": "Angry Birds"
+        },
+        "0bd9cdc7-4866-40c5-8280-b617964d8f2e": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 439,
+            "synonyms": [],
+            "tagName": "Belly dance"
+        },
+        "0be144c7-09e4-4b4d-9553-4322d820bac0": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 34,
+            "synonyms": [],
+            "tagName": "Classical"
+        },
+        "0c160b5b-8143-48b8-8e85-95c3b9cc7dff": {
+            "assets": {},
+            "category": "mood",
+            "locId": 102,
+            "synonyms": [],
+            "tagName": "Funny"
+        },
+        "0c9e077f-4199-4717-adb2-80f452a0bfce": {
+            "assets": {},
+            "category": "opus",
+            "locId": 4677,
+            "synonyms": [],
+            "tagName": "Just Dance 2024"
+        },
+        "0cc5303f-453a-4bbe-9ec1-e8c1f1a00d37": {
+            "assets": {},
+            "category": "timeOfDay",
+            "locId": 471,
+            "synonyms": [],
+            "tagName": "Night"
+        },
+        "0e1ae67c-b67d-49b3-8011-3f621da7be18": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4130,
+            "synonyms": [],
+            "tagName": "Mabel"
+        },
+        "0e1eff6d-c5af-423a-a419-fedc4a195789": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3627,
+            "synonyms": [],
+            "tagName": "Gossip"
+        },
+        "0e3044c1-3cc5-4a9c-bed2-e2039d1af87b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3496,
+            "synonyms": [],
+            "tagName": "Lexie Liu"
+        },
+        "0e31e677-0339-45eb-8970-b2f916fae9f9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3592,
+            "synonyms": [],
+            "tagName": "Soffi Tukker"
+        },
+        "0ea34e6a-987a-4618-a428-20b2677d2ae4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4108,
+            "synonyms": [],
+            "tagName": "Just Dance Classical Orchestra"
+        },
+        "0f1b4c27-23e3-4530-a7db-76c90a1132b7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4663,
+            "synonyms": [],
+            "tagName": "Paradisio"
+        },
+        "10013083-4496-4ed6-816d-f4a6c7e49b26": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 401,
+            "synonyms": [],
+            "tagName": "Accessory"
+        },
+        "102196fa-3ff9-4b2e-959f-086da2daf751": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4140,
+            "synonyms": [],
+            "tagName": "Marine Band"
+        },
+        "10610b82-5727-4df1-a6b2-52f08cd14dda": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3890,
+            "synonyms": [],
+            "tagName": "Anime"
+        },
+        "11358567-2387-41e6-bde4-69a398890067": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 48,
+            "synonyms": [],
+            "tagName": "Country"
+        },
+        "11749a6f-9fcf-438e-95bd-ab7e63fc7396": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 466,
+            "synonyms": [],
+            "tagName": "Winter"
+        },
+        "12048f87-eebc-44de-a20f-1958dd38ee7e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3990,
+            "synonyms": [],
+            "tagName": "Charli XCX"
+        },
+        "122deb84-8ab9-4e5b-9cf8-04a42aa93684": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4390,
+            "synonyms": [],
+            "tagName": "Sirah"
+        },
+        "141669f2-16f8-49eb-9613-908550246b31": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 42,
+            "synonyms": [],
+            "tagName": "Latino"
+        },
+        "146ef326-ef5e-4782-889d-534cad02d599": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4599,
+            "synonyms": [],
+            "tagName": "Alan Tam"
+        },
+        "14b13339-b11b-4665-9163-e54eb4f8416a": {
+            "assets": {},
+            "category": "intensity",
+            "locId": 3866,
+            "synonyms": [],
+            "tagName": "Chill"
+        },
+        "14cecb78-7845-4657-ae3a-5edf6ac52c5c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4275,
+            "synonyms": [],
+            "tagName": "Diva Carmina"
+        },
+        "155107db-426e-4d84-9df6-906e7bcd4a5c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4012,
+            "synonyms": [],
+            "tagName": "Louis Prima"
+        },
+        "15cf48bb-6102-439a-b0be-1cb959f05646": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3336,
+            "synonyms": [],
+            "tagName": "Si'Ha Nova"
+        },
+        "15dc8f5a-29c4-4af0-b8ed-5edb5ae88bdd": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 95,
+            "synonyms": [],
+            "tagName": "Seated"
+        },
+        "1733aead-8040-4bf4-8020-388281af1b32": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4202,
+            "synonyms": [],
+            "tagName": "Lena Meyer-Landrut"
+        },
+        "173e3c9d-6b17-41ab-afb9-2343669fed96": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3642,
+            "synonyms": [],
+            "tagName": "Disney's Frozen"
+        },
+        "177eecaa-2ad3-4527-86f3-4520331d840e": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 441,
+            "synonyms": [],
+            "tagName": "Quickstep"
+        },
+        "17b34f00-d733-4dab-bc3b-5a69eed271cc": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4210,
+            "synonyms": [],
+            "tagName": "Colby O'Donis"
+        },
+        "17e12669-4ccb-4803-80e4-0923b30990af": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4207,
+            "synonyms": [],
+            "tagName": "Boney M."
+        },
+        "18a8b516-4c26-464f-820a-af2db05ea86c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3983,
+            "synonyms": [],
+            "tagName": "Barry White"
+        },
+        "1abe6290-953a-4884-af66-13ff34b31668": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4590,
+            "synonyms": [],
+            "tagName": "Sweat Invaders"
+        },
+        "1b830790-77c6-4794-9531-364c96eb487c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4015,
+            "synonyms": [],
+            "tagName": "Maroon 5"
+        },
+        "1c614f27-5432-4c8a-b74c-3f7aed861d13": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3450,
+            "synonyms": [],
+            "tagName": "TikTok"
+        },
+        "1cd7c82f-68b1-45fb-83ce-20cb7d6cd687": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3629,
+            "synonyms": [],
+            "tagName": "Cobra Starship"
+        },
+        "1d073b54-6ad1-49a9-80ef-532725bc91a7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4058,
+            "synonyms": [],
+            "tagName": "VAVA"
+        },
+        "1d397d02-60e3-4fce-8432-ab13d037cf6d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4488,
+            "synonyms": [],
+            "tagName": "Daði Freyr"
+        },
+        "1d3e6073-80b0-46f4-8f62-e0a9a6647efe": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4106,
+            "synonyms": [],
+            "tagName": "The Streets"
+        },
+        "1dc064ad-98b1-41df-88b4-b084e76430d8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3835,
+            "synonyms": [],
+            "tagName": "Millennium Alert"
+        },
+        "1ed62c56-185a-4496-92dc-58552c34ce4d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4435,
+            "synonyms": [],
+            "tagName": "MainStreet"
+        },
+        "1f9612ba-9515-4494-a0b1-1e5f0493462c": {
+            "assets": {},
+            "category": "difficulty",
+            "locId": 3860,
+            "synonyms": [],
+            "tagName": "Medium"
+        },
+        "1f988b8a-9ace-4fe5-803c-a246120dbdf0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4809,
+            "synonyms": [],
+            "tagName": "Loreen"
+        },
+        "1fd677fa-1d7b-4378-9cbe-9dfc8deca218": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4485,
+            "synonyms": [],
+            "tagName": "Army Of Lovers"
+        },
+        "200f6ffd-9905-426d-8987-24fb67ac73a8": {
+            "assets": {},
+            "category": "language",
+            "locId": 78,
+            "synonyms": [],
+            "tagName": "Hebrew"
+        },
+        "2013d569-5f80-4e8d-8e51-d1e7c87e4e85": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3461,
+            "synonyms": [],
+            "tagName": "Rickroll"
+        },
+        "21356142-43ff-415a-9e79-6b3af75400c2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3848,
+            "synonyms": [],
+            "tagName": "Maluma"
+        },
+        "21b28723-993c-462e-b43e-fe27bea7c30e": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3464,
+            "synonyms": [],
+            "tagName": "Spoon"
+        },
+        "222d9833-d2d5-4320-b959-af2e9e16682d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4028,
+            "synonyms": [],
+            "tagName": "The Just Dancers"
+        },
+        "22305645-bffb-4353-b621-ba596ab0fc26": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4092,
+            "synonyms": [],
+            "tagName": "Ellie Goulding"
+        },
+        "230549a9-e642-470f-b9ac-2752674857ee": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3645,
+            "synonyms": [],
+            "tagName": "Danny Elfman"
+        },
+        "23989fb0-d720-4447-947d-f711e8ca3101": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 44,
+            "synonyms": [],
+            "tagName": "Rock"
+        },
+        "23dbfd85-d21a-4f7e-b5ef-c76ab33b924c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3520,
+            "synonyms": [],
+            "tagName": "Itzy"
+        },
+        "23ee1566-b151-491b-8298-7b889d8a6022": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4271,
+            "synonyms": [],
+            "tagName": "Halloween Thrills"
+        },
+        "246ff55a-b6cb-4c26-80bd-8bc79dc0af2d": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 405,
+            "synonyms": [],
+            "tagName": "Cloak"
+        },
+        "248e8063-0521-487e-acf3-6ef1ab825787": {
+            "assets": {},
+            "category": "status",
+            "locId": 4918,
+            "synonyms": [],
+            "tagName": "Season 2: Showdown"
+        },
+        "249bf56c-69ce-4380-84df-f9c8421f53b4": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4489,
+            "synonyms": [],
+            "tagName": "Easter"
+        },
+        "25988c40-7b99-4eef-b4b1-90bbbf7a1ce6": {
+            "assets": {},
+            "category": "difficulty",
+            "locId": 3861,
+            "synonyms": [],
+            "tagName": "Hard"
+        },
+        "25b73d72-096f-48a2-b26d-e1c5813529c9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4143,
+            "synonyms": [],
+            "tagName": "Ultraclub 90"
+        },
+        "26d17c4d-0cef-43dd-b132-f911b8b1c321": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 406,
+            "synonyms": [],
+            "tagName": "Shawl"
+        },
+        "27618dc5-3166-49bb-a4f6-684670830711": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4269,
+            "synonyms": [],
+            "tagName": "Bog Bog Orkestar"
+        },
+        "27735ad0-3af6-410e-a1a9-095f7bc0dd35": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 3263,
+            "synonyms": [],
+            "tagName": "Cloudy"
+        },
+        "27c0cc55-2471-43d2-a7c8-07961d226ded": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 429,
+            "synonyms": [],
+            "tagName": "Swing dance"
+        },
+        "2825d8af-06ce-488a-b527-46d04bd576b5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4407,
+            "synonyms": [],
+            "tagName": "Omer Adam"
+        },
+        "293720b7-b8cb-454d-a9bb-e4176e23ec13": {
+            "assets": {},
+            "category": "opus",
+            "locId": 335,
+            "synonyms": [],
+            "tagName": "Just Dance"
+        },
+        "296b90cf-53b3-4d57-ad59-b6163a440138": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3826,
+            "synonyms": [],
+            "tagName": "Jamiroquai"
+        },
+        "2ab3e097-7943-44ab-a949-d8d904d7959d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4687,
+            "synonyms": [],
+            "tagName": "Supergrass"
+        },
+        "2b17aa30-1553-45ca-b7ad-3996b39326af": {
+            "assets": {},
+            "category": "language",
+            "locId": 4237,
+            "synonyms": [],
+            "tagName": "Serbian"
+        },
+        "2b90bfc9-1aee-47a2-85f7-1b25085b8887": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4161,
+            "synonyms": [],
+            "tagName": "Winter solstice"
+        },
+        "2ba57cbc-ab25-4caa-91dc-65e33bbd79df": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3499,
+            "synonyms": [],
+            "tagName": "K-DA"
+        },
+        "2bd4fa03-47f1-414e-85a0-e1aa101774ba": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3630,
+            "synonyms": [],
+            "tagName": "Sabi"
+        },
+        "2c7b1c8b-3404-4bd0-8d90-dd8b0e7a92b7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4597,
+            "synonyms": [],
+            "tagName": "Black Eyed Peas"
+        },
+        "2cad01c8-aceb-4b3f-9d70-ec377e7981a2": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 4272,
+            "synonyms": [],
+            "tagName": "Chicken"
+        },
+        "300a0a0c-f651-4f58-b9aa-93c461286c5f": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 428,
+            "synonyms": [],
+            "tagName": "Folk dance"
+        },
+        "30369329-50f6-4651-9dd8-67d020ddd149": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4102,
+            "synonyms": [],
+            "tagName": "Tray"
+        },
+        "3038449b-d6f3-46ff-99a3-6569590eb07e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4408,
+            "synonyms": [],
+            "tagName": "Goldheart"
+        },
+        "30ca7f64-eab0-4118-bc0a-d0864550f023": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4353,
+            "synonyms": [],
+            "tagName": "RuPaul"
+        },
+        "31355cc7-a836-4692-aa17-87df571892e1": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 4591,
+            "synonyms": [],
+            "tagName": "Emo"
+        },
+        "3158d5c9-03a8-4ebe-a3a0-600befa29ecf": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4206,
+            "synonyms": [],
+            "tagName": "The Frankie Bostello Orchestra"
+        },
+        "31a3fc4c-c1d8-46ae-b2c4-fdd71995dacf": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4065,
+            "synonyms": [],
+            "tagName": "Iggy Azalea"
+        },
+        "31d1993f-46af-4dc0-8daa-9f8f3e49769b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3881,
+            "synonyms": [],
+            "tagName": "DJ Absi"
+        },
+        "31ebf659-c873-4599-ae96-a4d92af0ae2c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4384,
+            "synonyms": [],
+            "tagName": "Wham!"
+        },
+        "35a3f472-db11-416d-9e3b-2cdc47f4e484": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4397,
+            "synonyms": [],
+            "tagName": "Glass Animals"
+        },
+        "35c2a53a-e2bd-44a7-abcb-8335cf3e9685": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3828,
+            "synonyms": [],
+            "tagName": "Zedd"
+        },
+        "36601ca5-bbfb-40e8-b54b-da3ae72b6898": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4069,
+            "synonyms": [],
+            "tagName": "Santa Clones"
+        },
+        "36bcca66-7362-4cbb-bebc-1075dca23ac7": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 41,
+            "synonyms": [],
+            "tagName": "KPop"
+        },
+        "371996d7-a9f5-4f8f-9afd-d63175c9366d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3635,
+            "synonyms": [],
+            "tagName": "Bakermat"
+        },
+        "37b63d7c-323a-40fb-a582-ed69c1e53782": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3452,
+            "synonyms": [],
+            "tagName": "Video Game"
+        },
+        "37b7709f-883f-437a-8c19-6f5b9eddd5f4": {
+            "assets": {},
+            "category": "language",
+            "locId": 75,
+            "synonyms": [],
+            "tagName": "Swahili"
+        },
+        "37c400e0-1cb3-48cd-8c86-df47727e20f6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4099,
+            "synonyms": [],
+            "tagName": "Nick Phoenix"
+        },
+        "37e624f8-8821-4341-bb23-b2f77ed24036": {
+            "assets": {},
+            "category": "language",
+            "locId": 71,
+            "synonyms": [],
+            "tagName": "Korean"
+        },
+        "37f4ecc5-c17c-42d4-91ba-6675d2773411": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 98,
+            "synonyms": [],
+            "tagName": "Small spaces"
+        },
+        "3873c425-6cbe-4fca-800c-0860d540ff65": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 51,
+            "synonyms": [],
+            "tagName": "Jazz"
+        },
+        "38aaa39a-b4a5-4b60-b24f-662895905aeb": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 420,
+            "synonyms": [],
+            "tagName": "Waking"
+        },
+        "3925b52f-d23a-4407-a0ca-082f8ce1fd1f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4864,
+            "synonyms": [],
+            "tagName": "Netta"
+        },
+        "393cfb3e-dc49-46ef-8e92-a84b88be04b9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4709,
+            "synonyms": [],
+            "tagName": "Sundy Jules"
+        },
+        "3963a5fc-bab3-4e7d-8963-cacf4af282b9": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4274,
+            "synonyms": [],
+            "tagName": "School"
+        },
+        "3aabba5f-0eed-41bb-9363-f4760c7319af": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4605,
+            "synonyms": [],
+            "tagName": "Bollywood_artist"
+        },
+        "3ba5b9c2-87e0-427a-af5c-97db8ac89ff5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3838,
+            "synonyms": [],
+            "tagName": "Kelly Clarkson"
+        },
+        "3bab50b4-02b8-430c-a419-3d1abc69351a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3590,
+            "synonyms": [],
+            "tagName": "Doja Cat"
+        },
+        "3bda36c9-046e-4f1f-9fad-64e5224f4460": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 59,
+            "synonyms": [],
+            "tagName": "For Friends"
+        },
+        "3c062e91-e4f7-4698-8459-df281e900a3d": {
+            "assets": {},
+            "category": "language",
+            "locId": 84,
+            "synonyms": [],
+            "tagName": "Swedish"
+        },
+        "3c94bcda-9daa-438c-8ce2-50643bef00f4": {
+            "assets": {},
+            "category": "language",
+            "locId": 4601,
+            "synonyms": [],
+            "tagName": "Tamil"
+        },
+        "3cb56617-1c6f-4242-ac6f-a24aa2d4c3f2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4136,
+            "synonyms": [],
+            "tagName": "Camila Cabello"
+        },
+        "3cdf98a8-aaad-49c7-8fb9-61c01c69a4c8": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4031,
+            "synonyms": [],
+            "tagName": "Arcane"
+        },
+        "3d344e40-8b7c-4a68-8b79-17a2df7ad7f5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4705,
+            "synonyms": [],
+            "tagName": "Taio Cruz"
+        },
+        "3d865dec-ad84-4b13-8106-55a8bac66f29": {
+            "assets": {},
+            "category": "language",
+            "locId": 64,
+            "synonyms": [],
+            "tagName": "Russian"
+        },
+        "3ddfbab6-fb68-40ba-82ab-4dd564e30cd1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4001,
+            "synonyms": [],
+            "tagName": "Harry Styles"
+        },
+        "3e4f3c17-d264-4c0d-8fef-fc36ba4a07c3": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4049,
+            "synonyms": [],
+            "tagName": "XS Project"
+        },
+        "3e51ac3c-3cae-4746-b42e-a5c9839495f3": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3842,
+            "synonyms": [],
+            "tagName": "Fast Forward Highway"
+        },
+        "3e7dae30-2567-4a26-b37f-afcffd8e7e9a": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4144,
+            "synonyms": [],
+            "tagName": "Synthwave"
+        },
+        "3eb2cc2f-2c9c-48f0-a770-5684f82c2f60": {
+            "assets": {},
+            "category": "mood",
+            "locId": 118,
+            "synonyms": [],
+            "tagName": "Futuristic"
+        },
+        "3f0efe11-ef51-4c16-ab41-08082c6a9e12": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 4498,
+            "synonyms": [],
+            "tagName": "Pregnant"
+        },
+        "3f13e87c-c928-45ed-b1e9-b9a57f2d1f66": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4406,
+            "synonyms": [],
+            "tagName": "TomSka"
+        },
+        "3f30f031-d5bb-4083-bc35-c02eb0dbe9d4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4431,
+            "synonyms": [],
+            "tagName": "P!nk"
+        },
+        "3f6b9164-2112-4b35-b4e3-131b75d6f559": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4131,
+            "synonyms": [],
+            "tagName": "Jolin Tsai"
+        },
+        "3f80bad8-b13a-4058-b132-f781095a362d": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 432,
+            "synonyms": [],
+            "tagName": "Rumba"
+        },
+        "40c6e872-2243-4d71-9cd7-423cdd306c20": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3456,
+            "synonyms": [],
+            "tagName": "Emoji"
+        },
+        "41d9ffdd-4f35-4502-8aac-efa3fc0a6c02": {
+            "assets": {},
+            "category": "language",
+            "locId": 77,
+            "synonyms": [],
+            "tagName": "Turkish"
+        },
+        "424c4f8b-20fb-4336-8fec-0bb06a5fe561": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 47,
+            "synonyms": [],
+            "tagName": "Folk"
+        },
+        "43207b79-fab2-4826-b114-cfe2e7977f10": {
+            "assets": {},
+            "category": "language",
+            "locId": 76,
+            "synonyms": [],
+            "tagName": "Italian"
+        },
+        "4429b446-f9af-4976-9280-fbcad174181f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4017,
+            "synonyms": [],
+            "tagName": "Ms Dynamite"
+        },
+        "44470151-6987-46ab-96c7-823644468615": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4134,
+            "synonyms": [],
+            "tagName": "Superhero"
+        },
+        "4452c621-2645-4c5c-8238-4de9cb405fe9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4410,
+            "synonyms": [],
+            "tagName": "Arisa"
+        },
+        "447e86e7-3a95-4c4f-bdc1-2ffa3e68387d": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 403,
+            "synonyms": [],
+            "tagName": "Stick"
+        },
+        "44c1ddaf-55b6-4548-9fd9-3af4e678da0c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4273,
+            "synonyms": [],
+            "tagName": "The Just Dance School"
+        },
+        "451a9ccf-6ac2-4981-b122-6a99d3d17d69": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4419,
+            "synonyms": [],
+            "tagName": "Sevdaliza"
+        },
+        "45b7e043-1e28-4755-a389-f4befeb23254": {
+            "assets": {},
+            "category": "mood",
+            "locId": 107,
+            "synonyms": [],
+            "tagName": "Epic"
+        },
+        "45e51c47-40e9-4a4e-81e6-c6ac9ba48774": {
+            "assets": {},
+            "category": "artStyle",
+            "locId": 4638,
+            "synonyms": [],
+            "tagName": "2D Animation"
+        },
+        "46a1f0f5-3c7a-412f-b360-e2fefc67022e": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4441,
+            "synonyms": [],
+            "tagName": "Motorbike"
+        },
+        "47d3ec9e-6884-4904-9163-d04f00a03bec": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4487,
+            "synonyms": [],
+            "tagName": "Tommy Sparks"
+        },
+        "482ae76f-77f6-4885-874f-e1246ed7ffa8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3506,
+            "synonyms": [],
+            "tagName": "Taylor Swift"
+        },
+        "483d9863-7756-4d79-bf84-bbc365cea64f": {
+            "assets": {},
+            "category": "opus",
+            "locId": 345,
+            "synonyms": [],
+            "tagName": "Just Dance 2020"
+        },
+        "48ad9a02-1abb-46ac-8f85-7195728a9c13": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 3449,
+            "synonyms": [],
+            "tagName": "Bollywood"
+        },
+        "49615ed1-77a6-417e-84b4-04e9b2f81ce4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3871,
+            "synonyms": [],
+            "tagName": "Cheb Salama"
+        },
+        "49746e68-1c95-478c-afec-337bdb041fa0": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 46,
+            "synonyms": [],
+            "tagName": "Reggaeton"
+        },
+        "4a344491-dbbb-4997-b9f7-f987ed370b03": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3841,
+            "synonyms": [],
+            "tagName": "Ed Sheeran"
+        },
+        "4a3dc95b-caa2-4571-bfc9-fe54ea2f5e4a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4089,
+            "synonyms": [],
+            "tagName": "Calvin Harris"
+        },
+        "4aadcf1e-5c07-4045-b063-25b8d2bc970c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3626,
+            "synonyms": [],
+            "tagName": "Koyotie"
+        },
+        "4b07a01c-d422-4621-8698-f4925b72896b": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 438,
+            "synonyms": [],
+            "tagName": "Capoeira"
+        },
+        "4b24be39-b5dc-4d4b-b0b6-4758bb694c03": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4370,
+            "synonyms": [],
+            "tagName": "Alex Newell"
+        },
+        "4b99deb0-cc3d-432a-afce-0c72ea0f1325": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 4757,
+            "synonyms": [],
+            "tagName": "Tusa"
+        },
+        "4b9de387-3044-4f07-b04d-c3323aee067a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4377,
+            "synonyms": [],
+            "tagName": "Iggy Pop"
+        },
+        "4bac1239-8ec6-4408-b576-01694e51c30d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4380,
+            "synonyms": [],
+            "tagName": "One Direction"
+        },
+        "4c586b60-17c9-4010-b2f6-2657ac698f04": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4434,
+            "synonyms": [],
+            "tagName": "Yemi Alade"
+        },
+        "4cf12e85-db09-4c29-9f57-2bdc1223896d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4011,
+            "synonyms": [],
+            "tagName": "Little Mix"
+        },
+        "4d8598f6-3567-43c9-a443-9040f03240d3": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 409,
+            "synonyms": [],
+            "tagName": "Cancan"
+        },
+        "4dc8df8f-2a62-494c-9a7d-e8f9515fae11": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4686,
+            "synonyms": [],
+            "tagName": "Carly Rae Jepsen"
+        },
+        "4dceba3a-25d2-40a0-aa65-b09be2904b9c": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 433,
+            "synonyms": [],
+            "tagName": "Samba"
+        },
+        "4df1437d-edef-45f5-8caf-fdbc5b843e9d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4603,
+            "synonyms": [],
+            "tagName": "Tina Turner"
+        },
+        "4e75254a-206f-4f50-8c8f-423856841c85": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3636,
+            "synonyms": [],
+            "tagName": "Era Istrefi"
+        },
+        "4ee4b18f-e665-46bf-a397-b050276a626a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4050,
+            "synonyms": [],
+            "tagName": "Galantis"
+        },
+        "4eed88ee-ae75-4ff5-82ee-26411738614e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3984,
+            "synonyms": [],
+            "tagName": "Bea Miller"
+        },
+        "4f8d7a59-1f47-46d9-aba4-968b6036ebe1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3624,
+            "synonyms": [],
+            "tagName": "Hit The Electro Beat"
+        },
+        "4ffbcdde-b7a2-4861-8866-acebf5349aea": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3521,
+            "synonyms": [],
+            "tagName": "Alina Pash"
+        },
+        "501e0b0f-4032-4426-9fce-337c7d6bd82a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4018,
+            "synonyms": [],
+            "tagName": "Nicki Minaj"
+        },
+        "5057e38a-8c43-4702-84b8-a002536ef14b": {
+            "assets": {},
+            "category": "difficulty",
+            "locId": 3862,
+            "synonyms": [],
+            "tagName": "Extreme"
+        },
+        "506dde9e-7f31-46a9-a5fd-53930ceb27b0": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3718,
+            "synonyms": [],
+            "tagName": "Vegetable"
+        },
+        "50d1a91f-000f-4c44-86ff-c2f6cf731684": {
+            "assets": {},
+            "category": "language",
+            "locId": 85,
+            "synonyms": [],
+            "tagName": "Punjabi"
+        },
+        "514a2200-9069-4ff4-9eb5-a290b4c6a04c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4811,
+            "synonyms": [],
+            "tagName": "Subwoolfer"
+        },
+        "523de197-b828-475b-9b18-495e62d4a24b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4203,
+            "synonyms": [],
+            "tagName": "will.i.am"
+        },
+        "52eeed10-47a1-4f8e-93a7-ae6a71ebb0c8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4810,
+            "synonyms": [],
+            "tagName": "Chanel"
+        },
+        "5363c689-7ace-45ef-af87-1efdd89ad7c4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4204,
+            "synonyms": [],
+            "tagName": "Walk The Moon"
+        },
+        "53abc811-402a-4466-93b4-27ed1a319eb4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4101,
+            "synonyms": [],
+            "tagName": "The Supremes"
+        },
+        "53bb290a-1932-42d3-80ed-c0905183abed": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4754,
+            "synonyms": [],
+            "tagName": "Billy Ray Cyrus"
+        },
+        "53cdc7e0-cc39-467b-9743-17bb0d52563c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4629,
+            "synonyms": [],
+            "tagName": "Reggaeton_artist"
+        },
+        "53e45c47-f323-460d-9095-d85a7db1e7d8": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 407,
+            "synonyms": [],
+            "tagName": "Chair"
+        },
+        "541cf5fd-e1a4-4256-85ee-37ce1399a4d2": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 431,
+            "synonyms": [],
+            "tagName": "Cha-cha-cha"
+        },
+        "548c62aa-130e-4af4-a1ca-b7c312f2101e": {
+            "assets": {},
+            "category": "language",
+            "locId": 73,
+            "synonyms": [],
+            "tagName": "Dutch"
+        },
+        "54a1a54c-ffa0-4012-a691-66195537838d": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 3721,
+            "synonyms": [],
+            "tagName": "Musical"
+        },
+        "54a711a4-ceda-4223-9569-2cc814562998": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4142,
+            "synonyms": [],
+            "tagName": "Microphone"
+        },
+        "54b1f658-4407-4c41-8626-86d7b716d707": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4006,
+            "synonyms": [],
+            "tagName": "KAROL G"
+        },
+        "54c4943b-d532-444a-bc7f-f0f331a5e4a6": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 411,
+            "synonyms": [],
+            "tagName": "Ballroom"
+        },
+        "55aacd14-473e-4b36-84e3-aac127d84ae5": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 50,
+            "synonyms": [],
+            "tagName": "R&B"
+        },
+        "56382d8e-8868-44ee-917e-c59387b05dea": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3833,
+            "synonyms": [],
+            "tagName": "Ozuna"
+        },
+        "56a5d5a2-5c50-4acb-9ca6-efaaa964dde1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3502,
+            "synonyms": [],
+            "tagName": "Halsey"
+        },
+        "5717de73-d1c2-4e27-a9cf-9d7aa2775ef5": {
+            "assets": {},
+            "category": "language",
+            "locId": 67,
+            "synonyms": [],
+            "tagName": "Ukrainian"
+        },
+        "57204927-2b0b-4616-8b78-f7c4a92005bf": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4389,
+            "synonyms": [],
+            "tagName": "Battle"
+        },
+        "575c4528-c73f-423f-8926-1e108adf493f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4413,
+            "synonyms": [],
+            "tagName": "Naniwa Danshi"
+        },
+        "57a647b6-3ea9-4985-ac1e-f3e33b7881fd": {
+            "assets": {},
+            "category": "mood",
+            "locId": 113,
+            "synonyms": [],
+            "tagName": "Cute"
+        },
+        "57f4aa2e-be1e-41cb-9596-142c4e12542e": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 38,
+            "synonyms": [],
+            "tagName": "Dance"
+        },
+        "57fb1e6c-91e6-48b5-894f-e19ac04ab92f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4664,
+            "synonyms": [],
+            "tagName": "Dj Patrick Samoy"
+        },
+        "58e0403c-bf9b-4f58-84c4-5b9e1496483f": {
+            "assets": {},
+            "category": "mood",
+            "locId": 105,
+            "synonyms": [],
+            "tagName": "Romantic"
+        },
+        "5901ee63-47fd-4864-b525-f3e03c58c326": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3996,
+            "synonyms": [],
+            "tagName": "Evanescence"
+        },
+        "592f05ca-1271-4323-bfeb-f5540db45571": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 97,
+            "synonyms": [],
+            "tagName": "Jump-free"
+        },
+        "59563f91-8022-44a6-8eef-6d3ed44a606a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4418,
+            "synonyms": [],
+            "tagName": "The Bench Men"
+        },
+        "596a8530-718a-4d81-9f12-ef9358c35a0c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4095,
+            "synonyms": [],
+            "tagName": "Persian Nights"
+        },
+        "5a8cecf9-9657-4496-85e0-8d49008fc179": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3586,
+            "synonyms": [],
+            "tagName": "The Trammps"
+        },
+        "5c12b26e-4343-412a-9cf4-ec1b0d097c93": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4027,
+            "synonyms": [],
+            "tagName": "The Flexican"
+        },
+        "5c6d3519-c54b-46f0-b221-fb4aa037975f": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4371,
+            "synonyms": [],
+            "tagName": "Circus"
+        },
+        "5c75638e-6173-4ae1-b69f-76c31677bee5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4873,
+            "synonyms": [],
+            "tagName": "MIKA"
+        },
+        "5c8566fd-e5e7-42a8-83a5-feafe139ecec": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4103,
+            "synonyms": [],
+            "tagName": "Olé Orquesta"
+        },
+        "5d4959e7-4170-45b4-9c26-4d3ea52af7f0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4270,
+            "synonyms": [],
+            "tagName": "O'Callaghan's Orchestra"
+        },
+        "5d8c6bf9-7457-4b2a-aacf-cf03e8d4843e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3647,
+            "synonyms": [],
+            "tagName": "Disney's Toy Story"
+        },
+        "5da7bd9a-42c1-4f66-980b-f921a7b17822": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4861,
+            "synonyms": [],
+            "tagName": "Ylvis"
+        },
+        "5db25718-bcb8-480e-8780-182bade9b1e4": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 4036,
+            "synonyms": [],
+            "tagName": "Rasputin"
+        },
+        "5dfbc3e4-971d-42ee-8c97-79df7184a632": {
+            "assets": {},
+            "category": "language",
+            "locId": 63,
+            "synonyms": [],
+            "tagName": "Hindi"
+        },
+        "5ea35711-66d3-448a-a3a6-a9ed6875f5ad": {
+            "assets": {},
+            "category": "motivations",
+            "locId": 398,
+            "synonyms": [],
+            "tagName": "Explore"
+        },
+        "5eef3dbd-daee-4742-be2f-b3df707aaf4e": {
+            "assets": {},
+            "category": "status",
+            "locId": 4645,
+            "synonyms": [],
+            "tagName": "Season 1: Lover Coaster"
+        },
+        "5f45c7dc-7ec6-4815-988f-b0d589dca7e1": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3330,
+            "synonyms": [],
+            "tagName": "The Traveler"
+        },
+        "5f56bd51-4ea5-4748-adab-d11991f4759a": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3458,
+            "synonyms": [],
+            "tagName": "Football"
+        },
+        "5f9fe611-8a43-4878-a9b2-60637767a3d5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4387,
+            "synonyms": [],
+            "tagName": "Run-DMC"
+        },
+        "60d39419-7ef3-4f5a-9452-9163e88c08a5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3878,
+            "synonyms": [],
+            "tagName": "Imposs"
+        },
+        "60f9d82d-d488-4368-8cab-a9c8897e402a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3638,
+            "synonyms": [],
+            "tagName": "O-zone"
+        },
+        "616694f8-148d-4e8f-a03d-37fe4ec8120c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4211,
+            "synonyms": [],
+            "tagName": "Nick Jonas"
+        },
+        "6209608f-a5d0-4417-9be9-30c220cd2fde": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3477,
+            "synonyms": [],
+            "tagName": "Beyoncé"
+        },
+        "620c880a-92f5-4a8f-b748-66b947215c53": {
+            "assets": {},
+            "category": "language",
+            "locId": 4600,
+            "synonyms": [],
+            "tagName": "Cantonese"
+        },
+        "62151cae-f15c-46a9-a845-968a20b9cfaa": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4706,
+            "synonyms": [],
+            "tagName": "Bilal Hassani"
+        },
+        "622572ee-8d5d-4b8d-b394-13af5db37493": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4025,
+            "synonyms": [],
+            "tagName": "Spencer Ludwig"
+        },
+        "626b4800-049e-4b91-a95d-62f1420851f2": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 37,
+            "synonyms": [],
+            "tagName": "Electro"
+        },
+        "626f8a81-4861-41e4-8afd-1d6a4f579eb6": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 423,
+            "synonyms": [],
+            "tagName": "Fitness"
+        },
+        "632a10a0-0461-42a8-ac3d-79edbe479681": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4679,
+            "synonyms": [],
+            "tagName": "Sofi Tukker"
+        },
+        "632d1721-4578-4b96-83d3-bd7405975578": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 4805,
+            "synonyms": [],
+            "tagName": "Gray"
+        },
+        "63396918-a55a-46f5-b4b3-43be167b2a6a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4598,
+            "synonyms": [],
+            "tagName": "Digitalism"
+        },
+        "6339f5f5-07a0-484a-af6a-f0f9ae7c0aad": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4061,
+            "synonyms": [],
+            "tagName": "Little Sis Nora"
+        },
+        "6465bb7e-92eb-49a7-ba7b-0a1e716883b0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4375,
+            "synonyms": [],
+            "tagName": "Cyndi Lauper"
+        },
+        "6481e123-b496-429f-b0dc-cfdafbeef327": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3474,
+            "synonyms": [],
+            "tagName": "MJ"
+        },
+        "65123c08-1ba9-4b72-989a-c861cc4603ba": {
+            "assets": {},
+            "category": "decades",
+            "locId": 461,
+            "synonyms": [],
+            "tagName": "2010s"
+        },
+        "65175368-49a4-4c9d-9798-a2c3bc0ac010": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4062,
+            "synonyms": [],
+            "tagName": "Martin Solveig"
+        },
+        "651aa14c-b090-4b22-95ee-d630035a3340": {
+            "assets": {},
+            "category": "language",
+            "locId": 61,
+            "synonyms": [],
+            "tagName": "French"
+        },
+        "651d6ab4-4717-474a-8c6d-934a933846ff": {
+            "assets": {},
+            "category": "timeOfDay",
+            "locId": 470,
+            "synonyms": [],
+            "tagName": "Sunset"
+        },
+        "65401874-d327-4601-becc-e7f740e185e2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3849,
+            "synonyms": [],
+            "tagName": "Chic"
+        },
+        "658ca9e4-d06e-4d79-ae64-2adbbc8a5cf8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4000,
+            "synonyms": [],
+            "tagName": "GoonRock"
+        },
+        "65fd4491-dd25-49ac-bf90-0974e514b6e0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4212,
+            "synonyms": [],
+            "tagName": "Black Cats"
+        },
+        "66b3bda0-f321-45e0-8419-7b45df232146": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 408,
+            "synonyms": [],
+            "tagName": "Fan"
+        },
+        "66f827e8-a9da-4691-8ea8-90cb68f01d00": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3519,
+            "synonyms": [],
+            "tagName": "Ava Max"
+        },
+        "66ffe7c0-6428-42fc-9a31-fac57df25d50": {
+            "assets": {},
+            "category": "language",
+            "locId": 82,
+            "synonyms": [],
+            "tagName": "Polish"
+        },
+        "6744be17-d472-42ef-8e4a-a9006c9b2e41": {
+            "assets": {},
+            "category": "opus",
+            "locId": 342,
+            "synonyms": [],
+            "tagName": "Just Dance 2017"
+        },
+        "67a3cd43-f2f8-469b-b976-8830fefd18b5": {
+            "assets": {},
+            "category": "timeOfDay",
+            "locId": 468,
+            "synonyms": [],
+            "tagName": "Morning"
+        },
+        "68af9062-674e-4b38-b702-4b3167c85907": {
+            "assets": {},
+            "category": "language",
+            "locId": 66,
+            "synonyms": [],
+            "tagName": "Spanish"
+        },
+        "699fe106-6c7c-4590-a043-ec6aee5e7577": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4141,
+            "synonyms": [],
+            "tagName": "Studio Musicians"
+        },
+        "69dd676a-3370-41c5-b0e7-a0014a88f66c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4068,
+            "synonyms": [],
+            "tagName": "Meghan Trainor"
+        },
+        "6b0cbf9b-63d8-4dac-9836-7b42dfa03ad1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4205,
+            "synonyms": [],
+            "tagName": "Tinashe"
+        },
+        "6b9e012a-21e4-42e1-b09d-eb96beda966d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3836,
+            "synonyms": [],
+            "tagName": "Survivor"
+        },
+        "6c305230-a269-47ee-9de6-c4dec6da033e": {
+            "assets": {},
+            "category": "mood",
+            "locId": 4639,
+            "synonyms": [],
+            "tagName": "Ferocious"
+        },
+        "6c7e99b9-ecbd-48ee-9157-945f71895815": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3843,
+            "synonyms": [],
+            "tagName": "They Might Be Giants"
+        },
+        "6e3c6219-a98e-435b-9325-fcab99097dbf": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3495,
+            "synonyms": [],
+            "tagName": "(G)I-DLE"
+        },
+        "6e67785b-6346-49a6-8320-bbc23ca5dba0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3827,
+            "synonyms": [],
+            "tagName": "Ariana Grande"
+        },
+        "6f33e47f-6a9d-483c-afa4-64da389c2f8f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4423,
+            "synonyms": [],
+            "tagName": "The Step Brigade"
+        },
+        "6f3b8a89-bc17-47ef-987b-e8d85e2c37d4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4051,
+            "synonyms": [],
+            "tagName": "Daddy Yankee"
+        },
+        "6fcf3d92-d510-467e-b7aa-0ba8ee7f4583": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 99,
+            "synonyms": [],
+            "tagName": "Arm-friendly"
+        },
+        "706f49e4-05db-4fdb-8aba-3c7e13b3a61b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3999,
+            "synonyms": [],
+            "tagName": "FS Green"
+        },
+        "70c64edb-3fdd-4bd0-8f0b-2c7023879db5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3837,
+            "synonyms": [],
+            "tagName": "Blondie"
+        },
+        "70c9efcc-8dd9-4284-87d7-a10ba4644203": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3834,
+            "synonyms": [],
+            "tagName": "Katy Perry"
+        },
+        "710930f5-843b-4121-9931-1d191a53d4b5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3515,
+            "synonyms": [],
+            "tagName": "Jess Glynne"
+        },
+        "719ed17f-adca-4950-b908-30e07b203f41": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3830,
+            "synonyms": [],
+            "tagName": "Luis Fonsi"
+        },
+        "71d58a9c-7c81-40c3-ab0f-515f28db2328": {
+            "assets": {},
+            "category": "opus",
+            "locId": 339,
+            "synonyms": [],
+            "tagName": "Just Dance 2014"
+        },
+        "72ae21a0-1cf2-4d13-b1c2-cd709bc8156a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4276,
+            "synonyms": [],
+            "tagName": "Konshens"
+        },
+        "738ab2d3-424e-41d6-8f76-eeb30968ac08": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4067,
+            "synonyms": [],
+            "tagName": "Marc Anthony"
+        },
+        "741bbcc0-8bcd-46aa-8cdd-58e85cf6dd8b": {
+            "assets": {},
+            "category": "mood",
+            "locId": 104,
+            "synonyms": [],
+            "tagName": "Calm"
+        },
+        "74276af5-53a5-4ec7-9fe2-1c59ae5b200d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4678,
+            "synonyms": [],
+            "tagName": "Gayle"
+        },
+        "743fc3b7-631b-43db-94f8-5cabbb14bea6": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4033,
+            "synonyms": [],
+            "tagName": "Bike"
+        },
+        "74f31962-6db5-4ae2-8545-ca80d63360cb": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 416,
+            "synonyms": [],
+            "tagName": "Street Jazz"
+        },
+        "74f83fcf-78cc-44d7-868d-013b369e611b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4430,
+            "synonyms": [],
+            "tagName": "The Crypt-Kickers"
+        },
+        "75148548-a092-4cf7-8048-74487525a400": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4137,
+            "synonyms": [],
+            "tagName": "Queen"
+        },
+        "761e707b-b2b3-4a2d-b062-590bb0dd9f66": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 412,
+            "synonyms": [],
+            "tagName": "Tap"
+        },
+        "774488d0-722a-4d44-9fb0-cb7424f2de0d": {
+            "assets": {},
+            "category": "opus",
+            "locId": 343,
+            "synonyms": [],
+            "tagName": "Just Dance 2018"
+        },
+        "77c29f7f-4e61-4c72-bc07-5e3eb932aa00": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4098,
+            "synonyms": [],
+            "tagName": "Bollywood Rainbow"
+        },
+        "77f81f35-5e16-4a2f-b94b-6b8dece28b80": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4482,
+            "synonyms": [],
+            "tagName": "Royal Republic"
+        },
+        "78733426-01ab-407a-babd-a1b25ae9c2e0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4378,
+            "synonyms": [],
+            "tagName": "Frankie Bostello"
+        },
+        "78fb37d3-572f-4d24-b3f1-65e8a9551747": {
+            "assets": {},
+            "category": "language",
+            "locId": 62,
+            "synonyms": [],
+            "tagName": "Japanese"
+        },
+        "79173b9f-d7ed-4205-bfb5-333b01d40905": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4277,
+            "synonyms": [],
+            "tagName": "The Bouzouki's"
+        },
+        "791a3755-47fb-4344-9b30-5ac760cb24bd": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3333,
+            "synonyms": [],
+            "tagName": "Mihaly"
+        },
+        "79b0aa94-0965-4df4-bfda-d71e663b346f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4094,
+            "synonyms": [],
+            "tagName": "V V Brown"
+        },
+        "7a7d3a19-2181-4402-b465-8aa7eb46ebf3": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3813,
+            "synonyms": [],
+            "tagName": "Disney's Moana"
+        },
+        "7ab87701-2978-4127-98c9-e75ed4d10581": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 4802,
+            "synonyms": [],
+            "tagName": "Haze"
+        },
+        "7ae38ebd-da0f-462c-8363-cc9e05f137cb": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3876,
+            "synonyms": [],
+            "tagName": "Wanko Ni Mero Mero"
+        },
+        "7b29a35a-6d08-4bb5-9a73-3af909edc8c0": {
+            "assets": {},
+            "category": "artStyle",
+            "locId": 443,
+            "synonyms": [],
+            "tagName": "Live action"
+        },
+        "7b2ebe91-8656-4dd8-9e84-910b80557c51": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3355,
+            "synonyms": [],
+            "tagName": "Comics"
+        },
+        "7b86ef4f-667d-4a18-8400-bad91a51c677": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4010,
+            "synonyms": [],
+            "tagName": "Little Big"
+        },
+        "7c2e5468-c2cd-4bae-86be-65a277ad1388": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3451,
+            "synonyms": [],
+            "tagName": "TVshow"
+        },
+        "7c47ba60-fac6-4b08-a8b7-77a6fadbc333": {
+            "assets": {},
+            "category": "artist",
+            "locId": 5391,
+            "synonyms": [],
+            "tagName": "Gloria Groove"
+        },
+        "7c6b5831-a444-4b16-8f22-cf1dec11ad56": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 55,
+            "synonyms": [],
+            "tagName": "Duo"
+        },
+        "7cf08eea-9998-4eb9-a2dd-610a49932753": {
+            "assets": {},
+            "category": "language",
+            "locId": 81,
+            "synonyms": [],
+            "tagName": "Zulu"
+        },
+        "7d140d56-be41-4da0-ac01-a7919ddaeeb7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3588,
+            "synonyms": [],
+            "tagName": "Sia"
+        },
+        "7d74af2e-ff92-4c34-b818-2225208c1902": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4412,
+            "synonyms": [],
+            "tagName": "Michou"
+        },
+        "7d786560-4e96-42b3-bfde-0c0a9a565ef9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4100,
+            "synonyms": [],
+            "tagName": "Thomas Bergersen"
+        },
+        "7e8e9116-3a74-4f05-b003-d158c59dec0c": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 410,
+            "synonyms": [],
+            "tagName": "Waltz"
+        },
+        "7eb854a6-8b6e-4162-8227-0ab0d8097111": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3337,
+            "synonyms": [],
+            "tagName": "Animals"
+        },
+        "7fdd3ba2-1d3e-43c7-93a2-5a0dcf1e9089": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3716,
+            "synonyms": [],
+            "tagName": "Peace"
+        },
+        "8099b169-36e6-4a98-8880-5b56e4af4239": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3874,
+            "synonyms": [],
+            "tagName": "Gigi Rowe"
+        },
+        "8142c5df-3bdd-4f9b-b8cf-0f5c2136554d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4484,
+            "synonyms": [],
+            "tagName": "Emma"
+        },
+        "81580b0b-13c8-4716-9c7c-53b4974ed0ff": {
+            "assets": {},
+            "category": "mood",
+            "locId": 119,
+            "synonyms": [],
+            "tagName": "Wacky"
+        },
+        "815cfa3d-31f5-4b77-b70e-3fee1a4dc0f1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3622,
+            "synonyms": [],
+            "tagName": "New Kids on the Block"
+        },
+        "81692c81-87d1-4207-9bee-600d27fa6a1c": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 56,
+            "synonyms": [],
+            "tagName": "Trio"
+        },
+        "827aec7f-cd3c-4241-8093-a5ffc060d978": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4209,
+            "synonyms": [],
+            "tagName": "a-ha"
+        },
+        "834ed5bc-e92d-4340-ab49-c2e6fcf4eef7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3858,
+            "synonyms": [],
+            "tagName": "The Girly Team"
+        },
+        "842ac8b5-2d20-4d5d-bc14-1c1bf463c85d": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 54,
+            "synonyms": [],
+            "tagName": "Solo"
+        },
+        "845cd687-f9c6-432a-aef1-a707790e0905": {
+            "assets": {},
+            "category": "opus",
+            "locId": 337,
+            "synonyms": [],
+            "tagName": "Just Dance 3"
+        },
+        "84bc1446-98b8-4636-8efc-aa9dcb503156": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3982,
+            "synonyms": [],
+            "tagName": "Anitta"
+        },
+        "85ee07ee-861f-4dd4-9f55-6691cd97f10a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4107,
+            "synonyms": [],
+            "tagName": "Brahms"
+        },
+        "861d7ae6-6690-4ce3-bd43-0a466fcc283f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4004,
+            "synonyms": [],
+            "tagName": "Jay Fay"
+        },
+        "86dfb163-6d5e-40bf-9c36-9f09a3c598b9": {
+            "assets": {},
+            "category": "mood",
+            "locId": 400,
+            "synonyms": [],
+            "tagName": "Weird"
+        },
+        "870856e4-6845-4c12-82d5-f0b7c5bb8a6b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4404,
+            "synonyms": [],
+            "tagName": "LilDeuceDeuce"
+        },
+        "87bf9d34-6971-4a46-bdff-97d68cf4af46": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3497,
+            "synonyms": [],
+            "tagName": "Jaira Burns"
+        },
+        "881f28ae-9bfd-47de-a7ba-b7b229c06687": {
+            "assets": {},
+            "category": "language",
+            "locId": 4213,
+            "synonyms": [],
+            "tagName": "Persian"
+        },
+        "882c49ff-a046-445f-90df-868d6460e94c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4199,
+            "synonyms": [],
+            "tagName": "Lauren Bennett"
+        },
+        "88c6c6fa-dc56-47b4-9378-d388bfee65d0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3517,
+            "synonyms": [],
+            "tagName": "The Kid LAROI"
+        },
+        "8971ae2f-b088-478d-80d9-cd9465ccb411": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3332,
+            "synonyms": [],
+            "tagName": "Sara"
+        },
+        "8998e1ee-eb2e-4f68-8487-cc4d6f41962d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3847,
+            "synonyms": [],
+            "tagName": "Shakira"
+        },
+        "8a253de6-3191-433a-bab8-9b8c9cb69c13": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 417,
+            "synonyms": [],
+            "tagName": "Newstyle"
+        },
+        "8b021193-f215-4207-a8ed-6655048b0960": {
+            "assets": {},
+            "category": "opus",
+            "locId": 347,
+            "synonyms": [],
+            "tagName": "Just Dance 2022"
+        },
+        "8b10e095-0d24-4b71-b7bf-6bf063810dea": {
+            "assets": {},
+            "category": "mood",
+            "locId": 101,
+            "synonyms": [],
+            "tagName": "Happy"
+        },
+        "8b3308bc-b1da-4034-a4eb-64ff2d590e58": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3643,
+            "synonyms": [],
+            "tagName": "Alexandra Stan"
+        },
+        "8b7a772b-f123-4b45-80ca-fbfe757d5f5d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4104,
+            "synonyms": [],
+            "tagName": "Inspector Marceau"
+        },
+        "8ba9d2f6-a828-4f24-879e-242b68d26c48": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4093,
+            "synonyms": [],
+            "tagName": "Gloria Gaynor"
+        },
+        "8bbc0a81-ec45-41a4-b8af-eb00e89acabe": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3891,
+            "synonyms": [],
+            "tagName": "Mecha"
+        },
+        "8be36b56-81e4-4c19-b8f4-2aa0b6519193": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4372,
+            "synonyms": [],
+            "tagName": "Tones And I"
+        },
+        "8bf03c8f-b846-4e09-ac9e-6a85e8e617f9": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3516,
+            "synonyms": [],
+            "tagName": "The Weeknd"
+        },
+        "8c4b13e3-d92f-4737-aa9b-039dde3b0527": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3845,
+            "synonyms": [],
+            "tagName": "Equinox Stars"
+        },
+        "8ce6feb4-e36e-4447-b527-cfb659625a56": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4438,
+            "synonyms": [],
+            "tagName": "iann dior"
+        },
+        "8dce3f68-e698-4fa3-867a-c7faddce52b1": {
+            "assets": {},
+            "category": "language",
+            "locId": 79,
+            "synonyms": [],
+            "tagName": "Xhosa"
+        },
+        "8dd9c20c-1373-4ae9-a529-ac74112040c6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4369,
+            "synonyms": [],
+            "tagName": "John Newman"
+        },
+        "8de4f1c0-414c-4c26-acfb-00f28f8b14b0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3995,
+            "synonyms": [],
+            "tagName": "Donna Summer"
+        },
+        "8e314500-f81c-4b1a-b3aa-03f2dd2fb474": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4755,
+            "synonyms": [],
+            "tagName": "DNCE"
+        },
+        "8f6b5681-3a6f-471e-bab2-74e89882cf63": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3466,
+            "synonyms": [],
+            "tagName": "Escape"
+        },
+        "8fbf7679-d416-4004-8276-ece96b27c1c2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4030,
+            "synonyms": [],
+            "tagName": "Tiggs Da Author"
+        },
+        "8fd1da7c-c995-43dd-aa02-faf09732ca48": {
+            "assets": {},
+            "category": "language",
+            "locId": 83,
+            "synonyms": [],
+            "tagName": "Chinese"
+        },
+        "8fd52ad2-34bd-4175-b967-8d2d27bfd342": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4417,
+            "synonyms": [],
+            "tagName": "Steppenwolf"
+        },
+        "8ff528a8-ddc5-4fc1-8e02-59c2e9efbb82": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3985,
+            "synonyms": [],
+            "tagName": "Big Sean"
+        },
+        "9038a735-3f62-45bd-ac00-7c15f4ebeaca": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4595,
+            "synonyms": [],
+            "tagName": "LULU"
+        },
+        "90a193ff-f338-4006-8581-0b5d5ea7f8e6": {
+            "assets": {},
+            "category": "artStyle",
+            "locId": 4490,
+            "synonyms": [],
+            "tagName": "3D Animation"
+        },
+        "91c3f064-c5ba-4070-8d34-23553c6af5d8": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 52,
+            "synonyms": [],
+            "tagName": "Eurovision"
+        },
+        "92003843-794f-4411-94ff-583f8e9b497c": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4589,
+            "synonyms": [],
+            "tagName": "Alien"
+        },
+        "92fbb987-b39e-4197-8d87-5ce49ed762d4": {
+            "assets": {},
+            "category": "",
+            "locId": 3189,
+            "synonyms": [],
+            "tagName": "Queer"
+        },
+        "9361b36e-5217-4854-b98a-13e05b952b98": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3335,
+            "synonyms": [],
+            "tagName": "Jack Rose"
+        },
+        "937e2055-7e40-4801-8b51-18d82e058a40": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4132,
+            "synonyms": [],
+            "tagName": "Khalid"
+        },
+        "938a7659-83bd-48d4-b5b2-b39c1b9acf48": {
+            "assets": {},
+            "category": "mood",
+            "locId": 110,
+            "synonyms": [],
+            "tagName": "Troll"
+        },
+        "943917f3-8ec2-436a-946b-7437ad8cec7f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3619,
+            "synonyms": [],
+            "tagName": "Blu Cantrell"
+        },
+        "944b3792-4688-4a34-91dc-5f0c31d7fc82": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4133,
+            "synonyms": [],
+            "tagName": "Nikki Yanofsky"
+        },
+        "94addbe0-4bd6-446f-8de6-7bdadf1b96be": {
+            "assets": {},
+            "category": "",
+            "locId": 4813,
+            "synonyms": [],
+            "tagName": "Drag"
+        },
+        "9504dff0-20cf-4af7-b9b9-d8d5fb1c3b2f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3875,
+            "synonyms": [],
+            "tagName": "Sentai Express"
+        },
+        "9549aff4-e3f9-453d-97f4-798ef51a4aae": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3872,
+            "synonyms": [],
+            "tagName": "The Just Dance Orchestra"
+        },
+        "95a875ed-805f-4dde-b7d4-5069a7fc9ce8": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 463,
+            "synonyms": [],
+            "tagName": "Spring"
+        },
+        "9647a0c8-1e45-497e-92df-6928462b8271": {
+            "assets": {},
+            "category": "decades",
+            "locId": 462,
+            "synonyms": [],
+            "tagName": "2020s"
+        },
+        "965defee-ffd9-49ff-91c6-fa21117db001": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4440,
+            "synonyms": [],
+            "tagName": "1 Million"
+        },
+        "96a1cf8a-09f4-4a7f-8acb-c8b4b331a36a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3511,
+            "synonyms": [],
+            "tagName": "Linkin Park"
+        },
+        "9787875c-a357-49fe-83ea-5aceecfcc657": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 49,
+            "synonyms": [],
+            "tagName": "Afrobeats"
+        },
+        "97fc1d48-e218-4785-8dec-4cd9438ca00c": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3471,
+            "synonyms": [],
+            "tagName": "Night Swan"
+        },
+        "98e3de8d-0cb3-4869-ac65-25549174863d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3832,
+            "synonyms": [],
+            "tagName": "Natti Natasha"
+        },
+        "98f4ddb7-534c-4e47-85d3-b6de31f77639": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4003,
+            "synonyms": [],
+            "tagName": "Jason Derulo"
+        },
+        "997c7803-a68c-40d7-8652-46554173449d": {
+            "assets": {},
+            "category": "opus",
+            "locId": 338,
+            "synonyms": [],
+            "tagName": "Just Dance 4"
+        },
+        "998c4b44-cd85-45a5-a4cf-f1d3413801d7": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 435,
+            "synonyms": [],
+            "tagName": "Jive"
+        },
+        "9c27e183-9257-4a35-83bf-8e2210bcd323": {
+            "assets": {},
+            "category": "playlistDuration",
+            "locId": 3470,
+            "synonyms": [],
+            "tagName": "30mn"
+        },
+        "9c38203f-f3cb-47b8-920a-3c8fbf768c04": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4641,
+            "synonyms": [],
+            "tagName": "Skirt"
+        },
+        "9c458783-34d6-4988-8a32-3f1e2d9c2f41": {
+            "assets": {},
+            "category": "mood",
+            "locId": 116,
+            "synonyms": [],
+            "tagName": "Fierce"
+        },
+        "9c6ca727-0a28-4e59-8458-656e2854bf3a": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 414,
+            "synonyms": [],
+            "tagName": "Contemporary dance"
+        },
+        "9cfae5cf-c854-4e3a-85ef-9208402e1d1c": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 426,
+            "synonyms": [],
+            "tagName": "Dancehall"
+        },
+        "9d19d4ee-e130-43b8-b4c4-3e68c59d53ae": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4671,
+            "synonyms": [],
+            "tagName": "DREAMERS"
+        },
+        "9d2d971c-03a1-468e-b424-cf19cf63c0b1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3981,
+            "synonyms": [],
+            "tagName": "Alika"
+        },
+        "9dd7db28-6a4b-45e8-b7e7-a29a71b83cde": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3459,
+            "synonyms": [],
+            "tagName": "Romeo and Juliet"
+        },
+        "9e4623a2-fd22-49ce-94de-685b396ee915": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3518,
+            "synonyms": [],
+            "tagName": "Justin Bieber"
+        },
+        "9e4e9f0d-84cd-4988-9bda-e69ed873c0a4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4373,
+            "synonyms": [],
+            "tagName": "Astro"
+        },
+        "9e9555e6-e7cf-4215-84b4-6a21643e9e4b": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 36,
+            "synonyms": [],
+            "tagName": "Funk"
+        },
+        "9f2c830b-6779-430f-9c50-f612454cf0c7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4349,
+            "synonyms": [],
+            "tagName": "Sorcerer"
+        },
+        "9f5e3269-f2ad-447b-9d75-d3592804cbdf": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4032,
+            "synonyms": [],
+            "tagName": "Encanto"
+        },
+        "a1555991-4323-4c20-be7f-5788db3add1c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4135,
+            "synonyms": [],
+            "tagName": "Shawn Mendes"
+        },
+        "a178bf46-b7d7-4d29-ba35-4e85a2238787": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3892,
+            "synonyms": [],
+            "tagName": "Fruit Ninja"
+        },
+        "a196f4e5-0835-4c9a-8d78-29178a8b54dd": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4139,
+            "synonyms": [],
+            "tagName": "Timbaland"
+        },
+        "a28bb830-c100-4daa-a11e-346c60c671a4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3357,
+            "synonyms": [],
+            "tagName": "Britney Spears"
+        },
+        "a3072c02-dae0-43d6-b43c-8669dcfa03b9": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 4803,
+            "synonyms": [],
+            "tagName": "T-Bam"
+        },
+        "a39243f0-0306-4570-8993-9a65c85938d5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4625,
+            "synonyms": [],
+            "tagName": "Sylvester"
+        },
+        "a3a46c10-9829-4301-a13d-ab4aedaa5fed": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4483,
+            "synonyms": [],
+            "tagName": "Weekend"
+        },
+        "a3fa244a-562e-4283-907a-3f13786660f5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3504,
+            "synonyms": [],
+            "tagName": "Olivia Rodrigo"
+        },
+        "a45542b2-4322-4ec1-a113-b80536e04b53": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 436,
+            "synonyms": [],
+            "tagName": "Salsa"
+        },
+        "a4d876e8-a1ba-4bd9-9e5f-63a01fed87da": {
+            "assets": {},
+            "category": "playlistDuration",
+            "locId": 3468,
+            "synonyms": [],
+            "tagName": "10mn"
+        },
+        "a66e84ea-cccd-4e31-9484-90e14ebee9c4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3589,
+            "synonyms": [],
+            "tagName": "Sean Paul"
+        },
+        "a67fa887-af5f-4408-b799-cdd7c10a9e6c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4022,
+            "synonyms": [],
+            "tagName": "Red Velvet"
+        },
+        "a77e0efe-eebd-4ac8-adfb-f289acc9c62b": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 419,
+            "synonyms": [],
+            "tagName": "Voguing"
+        },
+        "a7878833-4a0c-4522-ae14-f798f2556418": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 96,
+            "synonyms": [],
+            "tagName": "Ground moves-free"
+        },
+        "a79d54c4-b46f-4ae5-a136-33c44d77f4f0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4019,
+            "synonyms": [],
+            "tagName": "Nicky Jam"
+        },
+        "a803c78d-8b45-4b08-8ed9-f12c30597792": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4753,
+            "synonyms": [],
+            "tagName": "Junior Senior"
+        },
+        "a81974f4-cc98-4188-a57d-e704de3577e3": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 402,
+            "synonyms": [],
+            "tagName": "Hat"
+        },
+        "a98f2713-1a39-4fc7-8338-6dc7ce849611": {
+            "assets": {},
+            "category": "playlistDuration",
+            "locId": 3469,
+            "synonyms": [],
+            "tagName": "15mn"
+        },
+        "aa122c1e-97d4-4102-b907-9f9a8814c867": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3625,
+            "synonyms": [],
+            "tagName": "A Caveman & The Backseats"
+        },
+        "aa547488-b7fc-4166-850f-4680f54c1e1b": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 3340,
+            "synonyms": [],
+            "tagName": "Phone"
+        },
+        "aa6a1aab-83a7-4a94-ad52-6dd3dc853b02": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4421,
+            "synonyms": [],
+            "tagName": "Disclosure"
+        },
+        "aa9adedd-18ec-45ba-b6e3-d547c265afdc": {
+            "assets": {},
+            "category": "opus",
+            "locId": 346,
+            "synonyms": [],
+            "tagName": "Just Dance 2021"
+        },
+        "abc03226-f78f-4913-96bc-2829bb85c8ee": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4661,
+            "synonyms": [],
+            "tagName": "Sho Madjozi"
+        },
+        "ac345ddf-10ae-4e0a-b5eb-945941801fe6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3512,
+            "synonyms": [],
+            "tagName": "Dua Lipa"
+        },
+        "ad114380-1459-48fc-aa5e-5f53d8b24766": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 424,
+            "synonyms": [],
+            "tagName": "Neo-classic"
+        },
+        "aeca640f-d091-47fd-b530-af1a7b316b3c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4020,
+            "synonyms": [],
+            "tagName": "Nico & Vinz"
+        },
+        "aed58ad5-f2bd-43c2-aeac-0f5aa80c4a31": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3473,
+            "synonyms": [],
+            "tagName": "Dracula"
+        },
+        "af8c381e-07c2-487e-954b-7b7e723bf464": {
+            "assets": {},
+            "category": "language",
+            "locId": 80,
+            "synonyms": [],
+            "tagName": "Nguni"
+        },
+        "afe658c2-752a-4f86-beb6-09b97dadd4f4": {
+            "assets": {},
+            "category": "choreoSettings",
+            "locId": 57,
+            "synonyms": [],
+            "tagName": "Quatuor"
+        },
+        "b00c285d-771d-4a83-ba5c-4f0674b7ece3": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 413,
+            "synonyms": [],
+            "tagName": "Modern dance"
+        },
+        "b13f9e6c-0c74-48e2-bb5b-972663886542": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3286,
+            "synonyms": [],
+            "tagName": "Movie"
+        },
+        "b186c87b-d320-4abb-b3d8-9ce3e102301b": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4433,
+            "synonyms": [],
+            "tagName": "Flippers"
+        },
+        "b19ae224-750d-44af-bc71-cc9a3c68d148": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4138,
+            "synonyms": [],
+            "tagName": "Nelly Furtado"
+        },
+        "b22145e6-8ce3-4faa-89ff-6771e54f1478": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4088,
+            "synonyms": [],
+            "tagName": "The Jackson 5"
+        },
+        "b290544e-33f6-4a80-9c70-8ab475b1d663": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3455,
+            "synonyms": [],
+            "tagName": "Youtube"
+        },
+        "b33c88af-8532-4001-bffd-897e9b37abbf": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3839,
+            "synonyms": [],
+            "tagName": "Outkast"
+        },
+        "b3f47da5-a9e9-4629-b0b6-2af6b7462024": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3591,
+            "synonyms": [],
+            "tagName": "Danceverse"
+        },
+        "b44cf228-d840-4144-b8fd-abb50cc9837b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3587,
+            "synonyms": [],
+            "tagName": "Kylie Minogue"
+        },
+        "b465f700-f450-4b7c-b00a-d67287c3dc24": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4381,
+            "synonyms": [],
+            "tagName": "Wrestling"
+        },
+        "b492a26c-bc06-4bb9-8fb9-3d3701dd13c0": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3453,
+            "synonyms": [],
+            "tagName": "Footlose"
+        },
+        "b58f1aec-4956-4e61-be28-7839718f938d": {
+            "assets": {},
+            "category": "mood",
+            "locId": 103,
+            "synonyms": [],
+            "tagName": "Sad"
+        },
+        "b5e53b1d-65f3-434f-ba3b-f722411d2cd4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3510,
+            "synonyms": [],
+            "tagName": "Wasiu"
+        },
+        "b6469ff6-c1da-4ce5-b26c-f7f7966660a7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4160,
+            "synonyms": [],
+            "tagName": "Cher Lloyd"
+        },
+        "b691c734-0b90-4b0b-9f69-f84fa00ca6ad": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3646,
+            "synonyms": [],
+            "tagName": "Disney's The Little Mermaid"
+        },
+        "b6ddcffe-b6d4-4f80-a4c4-0870ecb03e43": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 43,
+            "synonyms": [],
+            "tagName": "Pop"
+        },
+        "b747c138-fee0-4a2c-80ef-72eafaf58a4e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3628,
+            "synonyms": [],
+            "tagName": "Stella Mwangi"
+        },
+        "b842c08c-e738-4d19-9443-c72613f40136": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3632,
+            "synonyms": [],
+            "tagName": "Hatsune Miku"
+        },
+        "b86fefc0-7ad8-4000-819f-6f11283ca071": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4436,
+            "synonyms": [],
+            "tagName": "Stefanie Heinzmann"
+        },
+        "b911928f-c4d8-4ced-a099-b3903e1d4cdb": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4411,
+            "synonyms": [],
+            "tagName": "Sangiovanni"
+        },
+        "b9234656-9979-4535-abb8-94d449f59363": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4428,
+            "synonyms": [],
+            "tagName": "The Frighteners"
+        },
+        "b94feeab-d520-4888-907a-dafd4b1051ca": {
+            "assets": {},
+            "category": "mood",
+            "locId": 108,
+            "synonyms": [],
+            "tagName": "Dark"
+        },
+        "ba1c4901-0717-4266-af99-80419c2802ab": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 4386,
+            "synonyms": [],
+            "tagName": "Mozart"
+        },
+        "bb07d403-e2cb-4225-a5e7-c77ad5118d04": {
+            "assets": {},
+            "category": "intensity",
+            "locId": 3865,
+            "synonyms": [],
+            "tagName": "Intense"
+        },
+        "bb091f30-6ed7-4d78-acbf-f64901675805": {
+            "assets": {},
+            "category": "language",
+            "locId": 70,
+            "synonyms": [],
+            "tagName": "Arabic"
+        },
+        "bb6ff660-791b-49bf-8d92-06c95a43dd13": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3825,
+            "synonyms": [],
+            "tagName": "Lizzo"
+        },
+        "bbc2f58b-55bc-4475-bef1-d19ccd1e077f": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 422,
+            "synonyms": [],
+            "tagName": "Oriental fusion"
+        },
+        "bbd8be99-b9ac-4410-83fc-3f4e00d4e04c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4585,
+            "synonyms": [],
+            "tagName": "Natalia Nykiel"
+        },
+        "bbe5e2f6-746d-4e2c-b26f-f1b8d3d6470c": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 3720,
+            "synonyms": [],
+            "tagName": "Children's song"
+        },
+        "bc401324-08c8-4e6d-ad7b-638886f24ff3": {
+            "assets": {},
+            "category": "language",
+            "locId": 3719,
+            "synonyms": [],
+            "tagName": "Instrumental"
+        },
+        "bcf1628d-5913-42fd-b08d-3670c266e805": {
+            "assets": {},
+            "category": "opus",
+            "locId": 348,
+            "synonyms": [],
+            "tagName": "Just Dance 2023"
+        },
+        "bd02e4f7-44b9-4aac-b2de-cc258ba5bcb0": {
+            "assets": {},
+            "category": "status",
+            "locId": 4037,
+            "synonyms": [],
+            "tagName": "VIP"
+        },
+        "bd2fdf0d-cde3-4e40-8f3b-21b057d27981": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 4238,
+            "synonyms": [],
+            "tagName": "Traditional"
+        },
+        "bd8dda99-ad8a-4079-b6aa-2daef7cbd9c1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4090,
+            "synonyms": [],
+            "tagName": "The World Cup Girls"
+        },
+        "be1b81b6-28f1-450d-ae28-fb316ae5fde6": {
+            "assets": {},
+            "category": "language",
+            "locId": 60,
+            "synonyms": [],
+            "tagName": "English"
+        },
+        "be484e8c-a574-47fb-8a8a-d4fea942b7c5": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4385,
+            "synonyms": [],
+            "tagName": "Church"
+        },
+        "be7fc0b9-ba16-40bb-bba0-3e1db5416bd4": {
+            "assets": {},
+            "category": "intensity",
+            "locId": 3867,
+            "synonyms": [],
+            "tagName": "Moderate"
+        },
+        "bf315d45-3c8f-44fc-91b0-906672a04a97": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4409,
+            "synonyms": [],
+            "tagName": "Dee Dee Sharp"
+        },
+        "bf7053ac-1909-4d44-b64a-f7a2b33e53d2": {
+            "assets": {},
+            "category": "mood",
+            "locId": 106,
+            "synonyms": [],
+            "tagName": "Nostalgic"
+        },
+        "c03a0778-9f91-4da6-b602-ddd63a3c3401": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3633,
+            "synonyms": [],
+            "tagName": "Dancing Bros."
+        },
+        "c0b45a79-23e1-43e5-aa24-2de42558b93d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4707,
+            "synonyms": [],
+            "tagName": "Sulivan Gwed"
+        },
+        "c13230e1-69f7-4261-b352-55ff8bc30467": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4602,
+            "synonyms": [],
+            "tagName": "Ike"
+        },
+        "c14884e1-4d79-4c5e-8e4c-3c6b627bdbc2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4105,
+            "synonyms": [],
+            "tagName": "Charleston"
+        },
+        "c1f52b3a-d08e-4dff-a93b-2c08df6da8d6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4427,
+            "synonyms": [],
+            "tagName": "Tono Rosario"
+        },
+        "c1ffb6c2-538a-47d9-b240-2dce07580f4a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4070,
+            "synonyms": [],
+            "tagName": "The Weather Girls"
+        },
+        "c2a85eee-bd76-485c-8652-62514deafbd3": {
+            "assets": {},
+            "category": "motivations",
+            "locId": 396,
+            "synonyms": [],
+            "tagName": "Workout"
+        },
+        "c2f41333-e677-4738-b1bc-a0f2d67709b2": {
+            "assets": {},
+            "category": "mood",
+            "locId": 112,
+            "synonyms": [],
+            "tagName": "Colorful"
+        },
+        "c47a1bff-b159-4a9e-a449-21a63786c14a": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4163,
+            "synonyms": [],
+            "tagName": "Baton"
+        },
+        "c4a3f709-bd8f-4418-9a0d-b0ca94dc2e87": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3460,
+            "synonyms": [],
+            "tagName": "Slumdog Millionaire"
+        },
+        "c50336eb-dcdf-4d69-8911-81821447a842": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3648,
+            "synonyms": [],
+            "tagName": "The Lemon Cubes"
+        },
+        "c517227b-b7ab-48a5-8e03-816dab83a920": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3631,
+            "synonyms": [],
+            "tagName": "Pinkfong"
+        },
+        "c5a6097c-5c70-48bb-8645-cb1ffa29fc16": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 39,
+            "synonyms": [],
+            "tagName": "Hip-Hop"
+        },
+        "c5f2ddd9-5fa0-4162-9094-a28cb09c279b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3879,
+            "synonyms": [],
+            "tagName": "Daya Luz"
+        },
+        "c6880413-4c14-4254-9a5b-f0d06d33abef": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4432,
+            "synonyms": [],
+            "tagName": "Frankenstein"
+        },
+        "c73802c2-c0ba-443a-9117-1e45a9307409": {
+            "assets": {},
+            "category": "decades",
+            "locId": 458,
+            "synonyms": [],
+            "tagName": "80s"
+        },
+        "c78b9be6-67be-4756-8e59-678950fbbdb4": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3331,
+            "synonyms": [],
+            "tagName": "Wanderlust"
+        },
+        "c82d23fa-0801-4a04-bf81-bc5dcf00677f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3991,
+            "synonyms": [],
+            "tagName": "Chris Brown"
+        },
+        "c8a1eea2-64a1-44c3-97ea-5615daef693a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4405,
+            "synonyms": [],
+            "tagName": "Black Gryph0n"
+        },
+        "c92664dd-efaa-4e31-8f8f-523397a89c23": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3994,
+            "synonyms": [],
+            "tagName": "DJ Fresh"
+        },
+        "ca169c87-ef2f-4ede-b238-b21e2b86cf57": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 35,
+            "synonyms": [],
+            "tagName": "Disco"
+        },
+        "ca94d7ca-24ab-44d9-8d54-13b4635dc715": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3873,
+            "synonyms": [],
+            "tagName": "Sammie"
+        },
+        "cad4a39a-2fb2-4a9a-b491-6fa710468720": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4391,
+            "synonyms": [],
+            "tagName": "Ke$ha"
+        },
+        "cb64ae81-6a0f-4af1-8d4a-c02539a77ed3": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4486,
+            "synonyms": [],
+            "tagName": "INNA"
+        },
+        "cba6a12d-7f61-4105-8130-258f43cebcd7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3508,
+            "synonyms": [],
+            "tagName": "Zara Larsson"
+        },
+        "cbfdfd40-43eb-45f5-94fa-1ff1eafb5407": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3831,
+            "synonyms": [],
+            "tagName": "Stefflon Don"
+        },
+        "ccdeeebd-fdba-4809-b6ab-099ad2677e2d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4425,
+            "synonyms": [],
+            "tagName": "A.K.A"
+        },
+        "cdf761a8-fac8-48b2-a9dd-ecf8c5bbfff6": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3356,
+            "synonyms": [],
+            "tagName": "Love Stories"
+        },
+        "ced28fad-f977-4fe1-a424-88bf262f0d21": {
+            "assets": {},
+            "category": "difficulty",
+            "locId": 3859,
+            "synonyms": [],
+            "tagName": "Easy"
+        },
+        "cf9e0a8e-2d8b-4a11-9f53-07aa1e7f88b0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3846,
+            "synonyms": [],
+            "tagName": "Carlos Vives"
+        },
+        "cff18df4-b614-4d83-8427-29c72e052db4": {
+            "assets": {},
+            "category": "opus",
+            "locId": 341,
+            "synonyms": [],
+            "tagName": "Just Dance 2016"
+        },
+        "d03dc477-131f-49ac-b9b9-c8a7ccc09873": {
+            "assets": {},
+            "category": "language",
+            "locId": 4034,
+            "synonyms": [],
+            "tagName": "Jamaican"
+        },
+        "d0d482e2-e01e-49a0-a2d6-1b44c0d23e80": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4021,
+            "synonyms": [],
+            "tagName": "Q-Tip"
+        },
+        "d0e5227c-e71a-4966-9b6d-bc2750447a85": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3717,
+            "synonyms": [],
+            "tagName": "Vocaloid"
+        },
+        "d0f66448-db3a-4b44-b6d9-3bd6e7c790e0": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3329,
+            "synonyms": [],
+            "tagName": "Rudolf"
+        },
+        "d1129cac-fd57-4888-bf46-f56ab38c968d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3494,
+            "synonyms": [],
+            "tagName": "Madison Beer"
+        },
+        "d150b8c7-fdc3-42c6-831c-b00ae6504564": {
+            "assets": {},
+            "category": "opus",
+            "locId": 336,
+            "synonyms": [],
+            "tagName": "Just Dance 2"
+        },
+        "d1798a7c-74e8-4b43-8481-98a2fe8f8ba7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4424,
+            "synonyms": [],
+            "tagName": "Anja"
+        },
+        "d18a867f-c2f1-4a6f-905a-a2ddc476b092": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4201,
+            "synonyms": [],
+            "tagName": "Capital Cities"
+        },
+        "d222f15a-185a-4a17-9cfb-d1f3055b1ee0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3998,
+            "synonyms": [],
+            "tagName": "Flo Rida"
+        },
+        "d30e7c27-ee01-41c0-9e99-d800763f11de": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3334,
+            "synonyms": [],
+            "tagName": "Brezziana"
+        },
+        "d3c0edd3-7661-4272-b6e1-d8f7f1234974": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 40,
+            "synonyms": [],
+            "tagName": "JPop"
+        },
+        "d3e37562-f557-49a5-ac4e-54779059c651": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3880,
+            "synonyms": [],
+            "tagName": "Bollywood Santa"
+        },
+        "d5e39360-62db-471c-a638-3bdc622f1db3": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 425,
+            "synonyms": [],
+            "tagName": "Krump"
+        },
+        "d660b2c4-0b25-4621-8e34-be1a2730054a": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4059,
+            "synonyms": [],
+            "tagName": "Ty"
+        },
+        "d727367f-bbfd-493e-be38-bb25bda9e8c7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3993,
+            "synonyms": [],
+            "tagName": "Daya"
+        },
+        "d730b660-b07a-44e4-b040-f98c9b08a1a8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4208,
+            "synonyms": [],
+            "tagName": "Slawomir"
+        },
+        "d76ff02e-6c3f-4e70-a40b-9531b4a11353": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 4804,
+            "synonyms": [],
+            "tagName": "Joy-Ce"
+        },
+        "d8063223-ad66-476a-aa99-28e967560c19": {
+            "assets": {},
+            "category": "mood",
+            "locId": 115,
+            "synonyms": [],
+            "tagName": "Sassy"
+        },
+        "d913d829-1a89-4cfe-91c1-38778c9cfbb0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3500,
+            "synonyms": [],
+            "tagName": "The Beach Boys"
+        },
+        "d9356020-9570-4541-88a2-c962de590f7b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3986,
+            "synonyms": [],
+            "tagName": "Billie Ellish"
+        },
+        "d9566034-442d-45d4-a848-532ca881a197": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 415,
+            "synonyms": [],
+            "tagName": "Street"
+        },
+        "d965eb74-5459-4527-9adc-5a887441ec11": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4642,
+            "synonyms": [],
+            "tagName": "Kim Petras"
+        },
+        "d9c15906-a55a-4a5a-b605-525cdae90b3d": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 427,
+            "synonyms": [],
+            "tagName": "Irish dance"
+        },
+        "d9e0133f-427c-439e-bd4b-674a626b4436": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4129,
+            "synonyms": [],
+            "tagName": "Bad Bunny"
+        },
+        "db46a2ec-85da-42a9-837d-df9e2dc07ad2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4064,
+            "synonyms": [],
+            "tagName": "Top Culture"
+        },
+        "db7d9926-acd2-4fb2-972e-cf2edc759563": {
+            "assets": {},
+            "category": "language",
+            "locId": 4439,
+            "synonyms": [],
+            "tagName": "Igbo"
+        },
+        "dbc1d298-93db-4a2b-9123-bc584da610f1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4392,
+            "synonyms": [],
+            "tagName": "The Just Dance Kids"
+        },
+        "dc45764e-9c0a-47d4-b6c6-f4356bdb46b1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4026,
+            "synonyms": [],
+            "tagName": "The Chainsmokers"
+        },
+        "dcbcb44e-1618-41fe-93d7-d8e016f05d4d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4198,
+            "synonyms": [],
+            "tagName": "LMFAO"
+        },
+        "dcc8797d-3141-4b6b-b8f6-f4b1c7beb67d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3509,
+            "synonyms": [],
+            "tagName": "Apashe"
+        },
+        "dda1c0f8-d82e-4461-94db-b42e3fc5d176": {
+            "assets": {},
+            "category": "artStyle",
+            "locId": 444,
+            "synonyms": [],
+            "tagName": "Stop motion"
+        },
+        "ddce9ede-a17d-4a27-af48-5f2e113cd0cb": {
+            "assets": {},
+            "category": "mood",
+            "locId": 111,
+            "synonyms": [],
+            "tagName": "Magical"
+        },
+        "de5a2ffd-b151-464d-82ff-0c491b165b7c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4402,
+            "synonyms": [],
+            "tagName": "El Chombo"
+        },
+        "dfa22d22-a13c-485c-997b-7bd7bbd0c525": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3501,
+            "synonyms": [],
+            "tagName": "BTS"
+        },
+        "e014c970-32f8-4e45-bad6-0c1fa8d7540b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4689,
+            "synonyms": [],
+            "tagName": "Marvin Gaye"
+        },
+        "e05776f7-eebc-45a7-baeb-d3227869a2fc": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4708,
+            "synonyms": [],
+            "tagName": "Paola Locatelli"
+        },
+        "e05f9fed-879a-4c97-8e26-fbac4bd006e0": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4592,
+            "synonyms": [],
+            "tagName": "Avril Lavigne"
+        },
+        "e082756f-5245-457e-8ef8-d96067f63de5": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 465,
+            "synonyms": [],
+            "tagName": "Fall"
+        },
+        "e19e7c36-0f91-4c6b-ba15-5449ba840523": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3507,
+            "synonyms": [],
+            "tagName": "Bruno Mars"
+        },
+        "e21eeafa-4114-4d5b-9e8f-feb854f3b49d": {
+            "assets": {},
+            "category": "language",
+            "locId": 3341,
+            "synonyms": [],
+            "tagName": "Neapolitan"
+        },
+        "e29d5b4f-5fdd-411f-9507-389b4c891863": {
+            "assets": {},
+            "category": "decades",
+            "locId": 456,
+            "synonyms": [],
+            "tagName": "Way back"
+        },
+        "e2a4a061-a37f-468d-a88e-5ef367974e8c": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3853,
+            "synonyms": [],
+            "tagName": "The Bride"
+        },
+        "e2fac485-b773-43ca-8147-35fa1f06d9b5": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4376,
+            "synonyms": [],
+            "tagName": "African Ladies"
+        },
+        "e36d2a7c-abfb-4b6b-bae9-02c238fcd8b8": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 3852,
+            "synonyms": [],
+            "tagName": "Sword"
+        },
+        "e42cdac0-56fc-40c7-9ee7-4a38b81f83df": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3812,
+            "synonyms": [],
+            "tagName": "Love Letter"
+        },
+        "e47d906d-57ed-4262-a62b-faf5fc6c1186": {
+            "assets": {},
+            "category": "decades",
+            "locId": 459,
+            "synonyms": [],
+            "tagName": "90s"
+        },
+        "e4c0185a-1460-4207-8099-d54c7513c8e6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3618,
+            "synonyms": [],
+            "tagName": "The Sunlight Shakers"
+        },
+        "e4e1c577-5cc7-4b80-abab-e778fa5700ec": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3620,
+            "synonyms": [],
+            "tagName": "Wilson Pickett"
+        },
+        "e4faa1ca-8e76-4ab5-9c49-17d28bb3c494": {
+            "assets": {},
+            "category": "motivations",
+            "locId": 395,
+            "synonyms": [],
+            "tagName": "Rise"
+        },
+        "e530c988-9244-452b-900d-4feafc1eb932": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3870,
+            "synonyms": [],
+            "tagName": "Glorious Black Belts"
+        },
+        "e5ff9096-f7b2-48c2-b4b0-6bf2c3566973": {
+            "assets": {},
+            "category": "motivations",
+            "locId": 399,
+            "synonyms": [],
+            "tagName": "Party"
+        },
+        "e65aa8cc-5c27-4c53-8fbf-1f0f49f1e889": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3992,
+            "synonyms": [],
+            "tagName": "CLiQ"
+        },
+        "e6d08496-c687-4dfa-980e-c87b3012d0a1": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3989,
+            "synonyms": [],
+            "tagName": "Cast from Encanto"
+        },
+        "e7290c7a-3dd4-43b2-80af-5bec683ff7fe": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3637,
+            "synonyms": [],
+            "tagName": "OMI"
+        },
+        "e73910fc-f66b-48a9-8a07-6e919fb94e82": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 3339,
+            "synonyms": [],
+            "tagName": "Guest"
+        },
+        "e73f3d2b-531b-4a51-847c-fac8ce4d4f92": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4014,
+            "synonyms": [],
+            "tagName": "Marina and The Diamonds"
+        },
+        "e78b1a0c-1387-4104-b2fe-4a73d9efcd31": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4024,
+            "synonyms": [],
+            "tagName": "Selena Gomez"
+        },
+        "e7e633c5-1d9e-460a-a99a-0c664672cdfe": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4379,
+            "synonyms": [],
+            "tagName": "Panic! At The Disco"
+        },
+        "e819394e-fbea-4afd-a8a4-4d6c6e58b53a": {
+            "assets": {},
+            "category": "timeOfDay",
+            "locId": 469,
+            "synonyms": [],
+            "tagName": "Daylight"
+        },
+        "e834819c-6019-4c6d-8a54-1ecb856a6925": {
+            "assets": {},
+            "category": "easterEgg",
+            "locId": 3465,
+            "synonyms": [],
+            "tagName": "Vampire"
+        },
+        "e8c63403-21b1-4348-a403-4d2975141486": {
+            "assets": {},
+            "category": "language",
+            "locId": 68,
+            "synonyms": [],
+            "tagName": "Albanian"
+        },
+        "e9a11376-7d4e-4f5a-9c5e-d2b920ece3a2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4060,
+            "synonyms": [],
+            "tagName": "Nina Wang"
+        },
+        "ea7bdbba-679c-46cf-8f01-4d442d2504df": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3987,
+            "synonyms": [],
+            "tagName": "Busy Signal"
+        },
+        "ea91ebc1-7420-4b82-82c2-97d341f9de97": {
+            "assets": {},
+            "category": "opus",
+            "locId": 340,
+            "synonyms": [],
+            "tagName": "Just Dance 2015"
+        },
+        "eb0e0edc-63e7-406e-9965-432271809bdd": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3621,
+            "synonyms": [],
+            "tagName": "The Platters"
+        },
+        "eb10efb8-5333-4309-99f4-c5103ef7d3e7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4422,
+            "synonyms": [],
+            "tagName": "AlunaGeorge"
+        },
+        "eb371667-2ec7-4793-9059-51747d88fb52": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4414,
+            "synonyms": [],
+            "tagName": "K3"
+        },
+        "ebb41e76-4fdc-4bfc-a883-dbe646134c94": {
+            "assets": {},
+            "category": "accessibility",
+            "locId": 100,
+            "synonyms": [],
+            "tagName": "Leg-friendly"
+        },
+        "ebe25a48-663d-4a9e-8465-be8d222ab1f2": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4091,
+            "synonyms": [],
+            "tagName": "Prince Royce"
+        },
+        "ec48ebcf-977a-47d5-a0a5-715fbcf60cc9": {
+            "assets": {},
+            "category": "decades",
+            "locId": 457,
+            "synonyms": [],
+            "tagName": "70s"
+        },
+        "ed26f019-1552-46af-8983-60bbbf4e68d1": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 4383,
+            "synonyms": [],
+            "tagName": "Cheerleaders"
+        },
+        "edec177a-b4c4-4433-b5bb-d803055c8fbf": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4690,
+            "synonyms": [],
+            "tagName": "Ricky Martin"
+        },
+        "ef447e57-2736-430c-acc4-2310a844d740": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4374,
+            "synonyms": [],
+            "tagName": "Quincy Jones & His Orchestra"
+        },
+        "ef58ab63-1f5d-4a1a-a6aa-e179b5761384": {
+            "assets": {},
+            "category": "musicalGenre",
+            "locId": 45,
+            "synonyms": [],
+            "tagName": "Soul"
+        },
+        "ef7d78b9-5b9a-4598-a093-74dcc9c76cd6": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4688,
+            "synonyms": [],
+            "tagName": "Tammi Terrel"
+        },
+        "ef9565be-0536-4637-90f9-c0d76fd67588": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3476,
+            "synonyms": [],
+            "tagName": "Lady Gaga"
+        },
+        "efa922a0-2174-44ad-9999-343f4f49b2d2": {
+            "assets": {},
+            "category": "motivations",
+            "locId": 397,
+            "synonyms": [],
+            "tagName": "Shine"
+        },
+        "f005a5e3-9695-420c-87c1-3437555c1b8d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3844,
+            "synonyms": [],
+            "tagName": "Tom Jones"
+        },
+        "f01aaabe-816e-44a1-8546-be0496c44bee": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3894,
+            "synonyms": [],
+            "tagName": "Christmas"
+        },
+        "f0637e49-466b-41fd-8c38-e677ba41dbd7": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4057,
+            "synonyms": [],
+            "tagName": "AronChupa"
+        },
+        "f1954954-f6b8-40ea-aedd-6177c76b2469": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3868,
+            "synonyms": [],
+            "tagName": "Michelle Delamor"
+        },
+        "f1ce9c9a-b1ed-436f-82ef-ce14f3cff800": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4586,
+            "synonyms": [],
+            "tagName": "Rope"
+        },
+        "f271dd9d-3c43-4b0a-816c-3512098e60f6": {
+            "assets": {},
+            "category": "language",
+            "locId": 72,
+            "synonyms": [],
+            "tagName": "German"
+        },
+        "f283cb94-a4ef-4973-9a32-7a7e0b9d2943": {
+            "assets": {},
+            "category": "language",
+            "locId": 65,
+            "synonyms": [],
+            "tagName": "Finnish"
+        },
+        "f28b0353-4496-41be-8c45-4b37a9ac7468": {
+            "assets": {},
+            "category": "language",
+            "locId": 69,
+            "synonyms": [],
+            "tagName": "Romanian"
+        },
+        "f2f578d6-0c42-4545-aa5c-316fbc95459d": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3623,
+            "synonyms": [],
+            "tagName": "KC & the Sunshine Band"
+        },
+        "f36acac9-4505-4909-b557-d9ea78ffb142": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3851,
+            "synonyms": [],
+            "tagName": "Groove Century"
+        },
+        "f39147a4-984d-48ed-bc6c-b8ec15c4bfa3": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4388,
+            "synonyms": [],
+            "tagName": "Aerosmith"
+        },
+        "f3a97532-ba9e-4808-a63a-194ba9e168da": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 421,
+            "synonyms": [],
+            "tagName": "Heels"
+        },
+        "f3ae4762-5ff5-4dde-a0df-64dd4b188a4b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4437,
+            "synonyms": [],
+            "tagName": "24KGoldn"
+        },
+        "f3e2e246-f918-4f3c-9e89-e67f8ba81e2b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4429,
+            "synonyms": [],
+            "tagName": "Bobby 'Boris' Pickett"
+        },
+        "f422fe2d-24a7-4b34-ac4f-9c4d371cc036": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3513,
+            "synonyms": [],
+            "tagName": "Imagine Dragons"
+        },
+        "f4347ec0-55c8-450f-941f-047a2cd088a7": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3722,
+            "synonyms": [],
+            "tagName": "Halloween"
+        },
+        "f44499d2-b01b-4b6d-8749-a9598b1f97d8": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4096,
+            "synonyms": [],
+            "tagName": "Rutschen Planeten"
+        },
+        "f513aab5-e8cc-412a-9f24-5fdf77acc1ee": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4200,
+            "synonyms": [],
+            "tagName": "Skrillex"
+        },
+        "f536318a-cd3f-4763-a34a-8804048a6a4e": {
+            "assets": {},
+            "category": "status",
+            "locId": 349,
+            "synonyms": [],
+            "tagName": "Alternate"
+        },
+        "f545922f-294d-40c8-8d86-d8289f34fef0": {
+            "assets": {},
+            "category": "mood",
+            "locId": 117,
+            "synonyms": [],
+            "tagName": "Angry"
+        },
+        "f546f83b-a544-40ed-a777-7d0d2a783c33": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3498,
+            "synonyms": [],
+            "tagName": "Seraphine"
+        },
+        "f647f47a-5ab6-4e0b-893f-bf7cc4a77d33": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4008,
+            "synonyms": [],
+            "tagName": "Liam Payne"
+        },
+        "f660bc58-7bcd-4124-a030-c3a5de854998": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3644,
+            "synonyms": [],
+            "tagName": "Disney's Aladdin"
+        },
+        "f6907285-f2c2-49d5-8b6a-1c408295d166": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4596,
+            "synonyms": [],
+            "tagName": "Sergio Mendes"
+        },
+        "f6aebf4d-a917-4d47-8c03-f4b5a01cb4ec": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3462,
+            "synonyms": [],
+            "tagName": "Monty Python"
+        },
+        "f7ae1bda-546a-4fff-ab81-fcc3d5d3f555": {
+            "assets": {},
+            "category": "language",
+            "locId": 3478,
+            "synonyms": [],
+            "tagName": "Mandarin"
+        },
+        "f7aff387-0a59-4e25-870a-c22577dbc855": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 434,
+            "synonyms": [],
+            "tagName": "Mambo"
+        },
+        "f8cd6284-3e37-480a-871b-81078921039e": {
+            "assets": {},
+            "category": "seasonMeteo",
+            "locId": 464,
+            "synonyms": [],
+            "tagName": "Summer"
+        },
+        "f8f9a0b0-176b-493e-847f-8dc933ba7d76": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3463,
+            "synonyms": [],
+            "tagName": "League of Legends"
+        },
+        "f9dc801c-dba8-4db9-a3a6-3a71d3db8751": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4097,
+            "synonyms": [],
+            "tagName": "Latino Sunset"
+        },
+        "fa10fcb9-8fc8-4eb3-a1aa-38ff6dfd1a46": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4066,
+            "synonyms": [],
+            "tagName": "Pitbull"
+        },
+        "fa5fe475-0537-4d2e-a853-5ed8c2ee7160": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3514,
+            "synonyms": [],
+            "tagName": "Clean Bandit"
+        },
+        "fa710cab-c81b-4f58-b538-00c3772ec888": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3634,
+            "synonyms": [],
+            "tagName": "From The Movie Grease"
+        },
+        "fb37281c-ddeb-4440-bda4-fb78278fcf3e": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4013,
+            "synonyms": [],
+            "tagName": "Major Lazer"
+        },
+        "fbd9ac52-391e-4068-be39-27856f1a92de": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4009,
+            "synonyms": [],
+            "tagName": "Lil Nas X"
+        },
+        "fc0127e7-6f56-41bf-bf7e-53681b35bb1c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3829,
+            "synonyms": [],
+            "tagName": "Becky G"
+        },
+        "fc154db4-32e7-4d39-81c3-124f9a4862d6": {
+            "assets": {},
+            "category": "accessories",
+            "locId": 4162,
+            "synonyms": [],
+            "tagName": "Wand"
+        },
+        "fc1edcda-57ae-4594-b27f-b43ea45f80a2": {
+            "assets": {},
+            "category": "popCulture",
+            "locId": 3457,
+            "synonyms": [],
+            "tagName": "Meme"
+        },
+        "fc60f824-12e1-40f6-bf00-10fbe7cd0b7c": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3877,
+            "synonyms": [],
+            "tagName": "The Just Dance Band"
+        },
+        "fc9cddd7-d3ef-4ce2-9375-b6a55623cd4f": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3869,
+            "synonyms": [],
+            "tagName": "Cooking Meow Meow"
+        },
+        "fce1db52-c1b5-4e4d-9a4a-f29fd35a1d38": {
+            "assets": {},
+            "category": "recurrentCoaches",
+            "locId": 3328,
+            "synonyms": [],
+            "tagName": "Panda"
+        },
+        "fee0ec99-55b5-4b1e-8dc2-6a526171c34b": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4426,
+            "synonyms": [],
+            "tagName": "JD McCrary"
+        },
+        "ff0a9e44-9e1d-47ff-95a8-7de01a35abfd": {
+            "assets": {},
+            "category": "danceGenre",
+            "locId": 437,
+            "synonyms": [],
+            "tagName": "Flamenco"
+        },
+        "ff830fbe-e4ef-4ecd-b991-9dd2fd77b516": {
+            "assets": {},
+            "category": "artist",
+            "locId": 4016,
+            "synonyms": [],
+            "tagName": "Ms Banks"
+        },
+        "ffcc921f-1bec-4653-b3f7-61164e3d8fe4": {
+            "assets": {},
+            "category": "artist",
+            "locId": 3997,
+            "synonyms": [],
+            "tagName": "Fergie"
+        }
+    }
+}

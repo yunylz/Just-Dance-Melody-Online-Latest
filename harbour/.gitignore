@@ -1,0 +1,15 @@
+node_modules/
+
+.env
+!.env.default
+
+test.txt
+
+src/requests.log
+src/requests-admin.log
+*.log
+
+certs
+
+tools/import-config.json
+

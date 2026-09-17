@@ -1,0 +1,107 @@
+{
+    "145b91ae-4cbb-48e9-ad13-2c3495b6b6fd": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2021_Thumbnail_Versus_S2/eb0bab0493b6294ca6e2766681ce699e.jpg",
+        "trackingTag": "JD2021_Trailer_S2_Versus",
+        "version": 2,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2021_Trailer_S2_Versus/metadata/1fcbca68d7b61c872981c540c14d06fa.json"
+    },
+    "2877ee0f-99af-407f-ade5-2c2a7594b819": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2020_Thumbnail_GalaEvent_VP/61179a51107ed5454259d9452cbfd8f4.jpg",
+        "trackingTag": "JD2020_Trailer_GalaEvent_VP",
+        "version": 3,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2020_Trailer_GalaEvent_VP/metadata/db8c0e6168bc9df30240a49ac75d4ef5.json"
+    },
+    "302509d1-ca7c-4857-afaf-b0106cc3a00d": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail_TrailerAllStarModeJD2020/17ec517fbeb1d3d7bc6d2d1ed870cd74.jpg",
+        "trackingTag": "TrailerAllStarModeJD2020",
+        "version": 3,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/TrailerAllStarModeJD2020/metadata/1952b3ecfbe6b545857da5c22fa958fb.json"
+    },
+    "4001f4f5-49c3-49de-b9ca-dc6437ff0637": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/Demo_Home_Video/thumbsnail/558862fc616a732816595cb949729935.png",
+        "trackingTag": "Demo_Home_Video",
+        "version": 2,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/Demo_Home_Video/metadata/74d6299d04d544622f9f2b58a9ba58ac.json"
+    },
+    "44ce3603-0222-439d-bf57-06a73b971333": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2020_Thumbnail_GalaEvent_FTP/2478d0a83d5243c13826ddadafe75131.png",
+        "trackingTag": "JD2020_Trailer_GalaEvent_FTP",
+        "version": 5,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2020_Trailer_GalaEvent_FTP/metadata/c22f462f2f103e2cc4a1c61b645cdcca.json"
+    },
+    "60024fb0-d538-4042-abea-ab1bffb543ac": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2020_Thumbnail_PartyEvent_VP/0e95a6256f2be29841f1e80e67953ea2.jpg",
+        "trackingTag": "JD2020_Teaser_PartyEvent_VP",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2020_Teaser_PartyEvent_VP/metadata/c6e755bf71446180d47081d4b01e25ff.json"
+    },
+    "89b35c86-1ed4-4ed5-a514-8046e8a8e84f": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail_BTS_LULLABY_JD2020/fc1ec7ffe8d19c27e90da90680c8434d.jpg",
+        "trackingTag": "BTS_Lullaby_JD2020",
+        "version": 4,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/BTS_Lullaby_JD2020/metadata/938776c14f287c3cdd39a768765b7f53.json"
+    },
+    "9df3f553-b428-450f-a52d-c03a4cac43e2": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/WelcomeVideoJD2020/thumbsnail/78c27a46d7b1d5b2fba774ca778cd1ca.png",
+        "trackingTag": "WelcomeVideoJD2020",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/WelcomeVideoJD2020/metadata/8a4b816d756bb20348e513c27f960258.json"
+    },
+    "b01fbd4c-b4f7-4ce7-ba99-a6f5b43c10c1": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail_PartyEvent_FTP_JD2020/2707fe083630790d5be03848e7f2cef3.jpg",
+        "trackingTag": "TEASER_PartyEvent_FTP",
+        "version": 2,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/TEASER_PartyEvent_FTP/metadata/fdfc17a129f397c098456b3b9c399284.json"
+    },
+    "b16910e1-6b34-4f5e-8eae-9b312bbd3827": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail__OuaD_S1_JD2021/5db11d4c7d84f22429d8e296e01ad35f.jpg",
+        "trackingTag": "JD2021_Trailer_S1_OUAD",
+        "version": 2,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2021_Trailer_S1_OUAD/metadata/df7ec35818e00dcd66729de717f6222d.json"
+    },
+    "b41c535d-12c4-41be-902b-8d1118b3e816": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail_GalaEvent_WW_JD2020/4a65775f8d66c1140904eb55f7e220cd.jpg",
+        "trackingTag": "TRAILER_GalaEvent_WW",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/TRAILER_GalaEvent_WW/metadata/832ff6e1be6389cadee577fdb751bb58.json"
+    },
+    "c20f10f4-6cfc-4257-89a8-8e0c0bdaa428": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2021_Thumbnail_Festival_S3/9da9ba0d2966cd1a854d7234bf304b1e.jpg",
+        "trackingTag": "JD2021_Trailer_S3_Festival",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2021_Trailer_S3_Festival/metadata/93b45e6478340014a3ff82d42919fec0.json"
+    },
+    "c4508a92-03e4-4ec7-839f-b56961f4b648": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/JD2020_Thumbnail_PartyEvent_IS/ab8c4578abc419584d5c82ff54752db1.jpg",
+        "trackingTag": "JD2020_Teaser_PartyEvent_IS",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2020_Teaser_PartyEvent_IS/metadata/d82576a080e56b39aa36af82f2dd55ab.json"
+    },
+    "ca335197-bf55-4e96-8e0b-d9371826b9f1": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail_BTS_DJADJA_JD2020/d05b3ce9ac34de3e51f1832b4453acea.jpg",
+        "trackingTag": "BTSDjadjaJD2020",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/BTSDjadjaJD2020/metadata/64ffbe5bfdd56f2e1dbe9a1ea5627032.json"
+    },
+    "e53f2e47-98d7-4d2f-ab48-2505b0172a9e": {
+        "description": 20000756,
+        "thumbnailUrl": "https://jd-s3.akamaized.net/public/home/covers/Thumbnail/1e3234758b397a872a98f722433f89e9.png",
+        "trackingTag": "JD2020_Trailer_GalaEvent_IS",
+        "version": 1,
+        "videoDataUrl": "https://jd-s3.akamaized.net/public/streamed-videos/JD2020_Trailer_GalaEvent_IS/metadata/95f59c354f5f59f65b1fe4e74871deda.json"
+    }
+}

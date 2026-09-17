@@ -1,0 +1,3 @@
+[
+    "{\"lastUpdateTime\":1628684434659,\"type\":\"news\",\"activationTime\":1605006600000,\"locked\":true,\"filters\":[{\"__class\":\"JD_CarouselSkuFilter\",\"gameVersion\":[\"jd2020\",\"jd2021\",\"jd2022\"]}],\"subtype\":\"Tips\",\"contentExpiry\":1672527540,\"lockDuration\":86400000,\"lockPosition\":3,\"title\":null,\"text\":null,\"trackingTag\":\"\",\"url\":null,\"uuid\":\"eb22378a-18c0-4e57-a6c4-951d60162580\"}"
+]

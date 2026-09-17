@@ -1,0 +1,962 @@
+{
+    "JDMAfricanDance": {
+        "changelist": 0,
+        "dataFolder": "06496f22-3835-468e-a547-bc288074c8f7",
+        "urls": {}
+    },
+    "JDMApplauseConcert": {
+        "changelist": 249889,
+        "dataFolder": "45e91d0e-1ee9-4a32-b051-6270f97e7dad",
+        "urls": {
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert.ogg/5641f4b79795a15b65cf0c68520d6e65.ogg",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_HIGH.hd.webm/6294287715d9190fcd0768a7d089848c.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_HIGH.webm/b28a6e700442b2f07bfbfae5905abae1.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_LOW.hd.webm/7325b6526fcf41ad80f09fad50df25e3.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_LOW.webm/67fda718d3f50b4913c86567cfab3322.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_MID.hd.webm/7c149ca1c80d3ae8d462d52de12d8127.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_MID.webm/8099b66fe9ff9789e2a57a4c02244e98.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_ULTRA.hd.webm/3554788374cdf98ad8cab6e70ed9119f.webm",
+            "jmcs://jd-contents/JDMApplauseConcert/JDMApplauseConcert_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMApplauseConcert/JDMApplauseConcert_ULTRA.webm/002cc657e9a0a4bf9485692fb46d4d84.webm"
+        }
+    },
+    "JDMBSBallerina": {
+        "changelist": 0,
+        "dataFolder": "671c84b2-299a-4ea4-af57-d90d1419eeed",
+        "urls": {}
+    },
+    "JDMBSCharleston": {
+        "changelist": 0,
+        "dataFolder": "db95d8c0-9298-4d7b-938c-31760d31fe35",
+        "urls": {}
+    },
+    "JDMBSEgyptian": {
+        "changelist": 0,
+        "dataFolder": "f292007f-bd85-4185-9d72-b09ee1dac097",
+        "urls": {}
+    },
+    "JDMBSLimbo": {
+        "changelist": 0,
+        "dataFolder": "4d1caed7-fca9-4669-a72c-0668de52ecbb",
+        "urls": {}
+    },
+    "JDMBSRunningMan": {
+        "changelist": 0,
+        "dataFolder": "4fb27211-6f5d-46ae-af94-75b4fec6236c",
+        "urls": {}
+    },
+    "JDMBSTwerk": {
+        "changelist": 0,
+        "dataFolder": "315facf5-aae8-4b59-a77b-04e13a8f6d0d",
+        "urls": {}
+    },
+    "JDMBallerina": {
+        "changelist": 249889,
+        "dataFolder": "76dfabb1-ae87-4410-82e1-f0331c882dd0",
+        "urls": {
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina.ogg/364970dc08b8d6282af8e43732b852d5.ogg",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_HIGH.hd.webm/bf9b6b338123c17d36309b33bfc58e26.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_HIGH.webm/4db3e822dfeffbe792a59862ecfeeb11.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_LOW.hd.webm/694cf2b20fda0dfe1c70c9d6ec62c465.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_LOW.webm/6621f1e2d51e1bd76e41638acfea3a81.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_MID.hd.webm/452416af0d67a5700e7acd3e39705e66.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_MID.webm/4509d877e7e01512e5ecdacb5331f70d.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_ULTRA.hd.webm/ae4741d3b1216f15cb4380a649be537a.webm",
+            "jmcs://jd-contents/JDMBallerina/JDMBallerina_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerina/JDMBallerina_ULTRA.webm/33a07d07790ade2d4ed618d7cf2ace4a.webm"
+        }
+    },
+    "JDMBallerinaALT01": {
+        "changelist": 253671,
+        "dataFolder": "6bb3ffdd-4228-468f-b9ed-1f23833d04c6",
+        "urls": {
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01.ogg/fa586be8a70376c2a7df519d3d116c31.ogg",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_HIGH.hd.webm/1333ec1ac6db221ecdd2a4360c79b9af.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_HIGH.webm/87067b28635d37316ed7b02e41013c8c.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_LOW.hd.webm/9ca49f71d3ad95db72718a880f174530.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_LOW.webm/bafbafb504f0b5ce719a03388c93b98a.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_MID.hd.webm/8d7598f07c4eeb5498ca9483006250e0.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_MID.webm/1d85b3a8871cf2af22419afa0f3de289.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_ULTRA.hd.webm/96e47bc71defca20d28046a57739f0bf.webm",
+            "jmcs://jd-contents/JDMBallerinaALT01/JDMBallerinaALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaALT01/JDMBallerinaALT01_ULTRA.webm/5cb9b3b611c26933b1f5ae28e8879b7d.webm"
+        }
+    },
+    "JDMBallerinaBS": {
+        "changelist": 252890,
+        "dataFolder": "9c750608-5264-467f-bd81-5239c6c2dacf",
+        "urls": {
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS.ogg/db106372d1fdcc3696be18f4d5361b74.ogg",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_HIGH.hd.webm/3540f80f9b350d2cc092979f9e67aed5.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_HIGH.webm/72750818351ebcc9eb777ed080f19b6b.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_LOW.hd.webm/a7775df9d7aec5c4c71ae773eb32d7e9.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_LOW.webm/5cf4425393153b64d8656c198fecabb4.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_MID.hd.webm/3c18be54680042092c9f8e7b8eea7300.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_MID.webm/3f9387f24ef60c04036e2f917f1932cd.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_ULTRA.hd.webm/0fc6c33e048448bb4b824f7e85bedaab.webm",
+            "jmcs://jd-contents/JDMBallerinaBS/JDMBallerinaBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBallerinaBS/JDMBallerinaBS_ULTRA.webm/de0abb1961fe5c93da4b5bba8422555e.webm"
+        }
+    },
+    "JDMBollywood": {
+        "changelist": 249889,
+        "dataFolder": "9da9b360-93c4-42f2-9ce6-390cc8962539",
+        "urls": {
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood.ogg/66d27b44c61227578d63bd452513b3d9.ogg",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_HIGH.hd.webm/5fc056eeb4e106c9fc9a9146e8891753.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_HIGH.webm/06c56d552818efc2eee88a4ffd378d81.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_LOW.hd.webm/29f866d54a31694177cc43e163d286ac.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_LOW.webm/a5a7ad405d10da39413f381fe51d1297.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_MID.hd.webm/c034fd55adf0e9ffdc5bfd312c9f54ea.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_MID.webm/60c6ff57758b4d68f9a77f0cafe935a2.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_ULTRA.hd.webm/2bf90f3996f1a4fa700fb0236ec876b2.webm",
+            "jmcs://jd-contents/JDMBollywood/JDMBollywood_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywood/JDMBollywood_ULTRA.webm/b436023cc8ba88b039f201f732338ea2.webm"
+        }
+    },
+    "JDMBollywoodALT01": {
+        "changelist": 249747,
+        "dataFolder": "803ecc8f-9081-4bfa-aad4-d3f2f81de0f7",
+        "urls": {
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01.ogg/0ee2e2026f24cfc5a96223e0cee7da00.ogg",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_HIGH.hd.webm/73d534919cf71eb8c73463db4b7b6156.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_HIGH.webm/8e54e73d3de7f4a4dca6217991047102.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_LOW.hd.webm/dc41958a849db8212ddfb159b71c06ef.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_LOW.webm/2aa29a5d9401653b7c327840d4a00f89.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_MID.hd.webm/ac3b17f929f1ee422cb415ef95b06bc1.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_MID.webm/85673c327cff789827ba9214d12b5b3b.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_ULTRA.hd.webm/1f37fcae87c40e1875213ecb71e4693f.webm",
+            "jmcs://jd-contents/JDMBollywoodALT01/JDMBollywoodALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBollywoodALT01/JDMBollywoodALT01_ULTRA.webm/23f9362295532c760b0d6249ef961eeb.webm"
+        }
+    },
+    "JDMBruceLee": {
+        "changelist": 252727,
+        "dataFolder": "90f2eaa6-6350-4cc4-8c26-de37f85a1453",
+        "urls": {
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee.ogg/b0d0103de3526d7299ad97e8451bf72c.ogg",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_HIGH.hd.webm/e6175485deda1e9b2788631a65b819d9.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_HIGH.webm/e6f314986f4e365743e9947c7017a5af.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_LOW.hd.webm/1a520ef9385c10df134e9da471be874a.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_LOW.webm/7ade71389b9817f8e125d81e2c2bffd6.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_MID.hd.webm/c60a21e67c2cbf9c2f1570574efdb786.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_MID.webm/bb2ca11055177939ccb12c6384528036.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_ULTRA.hd.webm/09fc43b74528132f6b2b614535ed0148.webm",
+            "jmcs://jd-contents/JDMBruceLee/JDMBruceLee_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMBruceLee/JDMBruceLee_ULTRA.webm/9ae17c7af9238b7823cc417a8a7f73ad.webm"
+        }
+    },
+    "JDMCharleston": {
+        "changelist": 0,
+        "dataFolder": "43513265-24e0-490e-bf3b-1120f8967356",
+        "urls": {}
+    },
+    "JDMCharlestonALT01": {
+        "changelist": 251804,
+        "dataFolder": "ded35a79-0eec-4fb8-b45e-3b1174610ecb",
+        "urls": {
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01.ogg/2a9febcc798ebfa29c7b3bd8af01d1ab.ogg",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_HIGH.hd.webm/c0979f1d3dd92924fea385c412b74772.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_HIGH.webm/ca8702e210f084e330913a72008eb161.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_LOW.hd.webm/a52c08d8cf844f64b4ddd132f3af8caa.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_LOW.webm/89b30a8bbcd8d16c880c9448cd4efcbc.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_MID.hd.webm/9c494aaa13ba8f36d4ce8f118880ec2a.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_MID.webm/376d47624831f8143760ab0b70ee8bb3.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_ULTRA.hd.webm/b432b2cf6a55b123b47a49f1a0ee8d8b.webm",
+            "jmcs://jd-contents/JDMCharlestonALT01/JDMCharlestonALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonALT01/JDMCharlestonALT01_ULTRA.webm/99160fbbea9d29adcf3d467e2bb18e23.webm"
+        }
+    },
+    "JDMCharlestonBS": {
+        "changelist": 252889,
+        "dataFolder": "4765386a-01e6-4f05-b315-f0c1b9f70ea2",
+        "urls": {
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS.ogg/ca569ed7d2f82669ddb11647b2cf23a2.ogg",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_HIGH.hd.webm/e9c8eba5e1ff99c0de4896e0e935bdac.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_HIGH.webm/528889c5b480625660d2169c2fce628c.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_LOW.hd.webm/e20a350dbd0e0a6348dba4b62615b553.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_LOW.webm/bfda243055adcd1c232fb6e6ee619deb.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_MID.hd.webm/f913d56919a8ad27aba8921632b87dd9.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_MID.webm/21f767f2c8264b1e3f8e0e0d1016cad3.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_ULTRA.hd.webm/8cda9cd09c6b1bc8fdfd8b29801834d9.webm",
+            "jmcs://jd-contents/JDMCharlestonBS/JDMCharlestonBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCharlestonBS/JDMCharlestonBS_ULTRA.webm/f2ca8fa3e7b6c3fec03d7fd532bf7ba9.webm"
+        }
+    },
+    "JDMCheerleader": {
+        "changelist": 279847,
+        "dataFolder": "e8efbcb8-b693-44fe-b613-7e6040d0de58",
+        "urls": {
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader.ogg/e6727ca612ae4db6cb78e75c29652068.ogg",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_HIGH.hd.webm/3d818dee7eddfec287c5fbc03f181557.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_HIGH.webm/3903d5f30ea4438fec438d45757faee2.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_LOW.hd.webm/8ea5dd295a9fc7d8b5eaffabda020a12.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_LOW.webm/28699fd299d729e126afafcdf047e831.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_MID.hd.webm/e3e052d7995013117db65bfdb83d75fb.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_MID.webm/16efdf88ae4b9e3b5018d9ab5bbca470.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_ULTRA.hd.webm/0d5fae8aab8e3f0f6bf4593dc9efde5f.webm",
+            "jmcs://jd-contents/JDMCheerleader/JDMCheerleader_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMCheerleader/JDMCheerleader_ULTRA.webm/74b396de23666357b64af8746b272aac.webm"
+        }
+    },
+    "JDMCircusLion": {
+        "changelist": 0,
+        "dataFolder": "d8dd462f-a521-4c59-a4b1-b4ea76cf08bb",
+        "urls": {}
+    },
+    "JDMEgyptian": {
+        "changelist": 252893,
+        "dataFolder": "e46256d9-bf39-4943-afbd-35476beda069",
+        "urls": {
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian.ogg/add41a3e5f3b3d9a87a153c684a9e6f4.ogg",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_HIGH.hd.webm/d14c4e142aa430eb9868d64781fab5ad.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_HIGH.webm/d971e21e8f4d7234ab76b325fa46e6ee.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_LOW.hd.webm/5f4d338ba59b7bf2388e2499d1b1b64e.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_LOW.webm/ba08e6a36e1c33602ea5f849bc6c376a.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_MID.hd.webm/fbcd5d0dd0c392292b6bfb0691f81ec9.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_MID.webm/77cd5dd906814f639136eb24e2720c05.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_ULTRA.hd.webm/e0638248a896dce9460f77ad7538442e.webm",
+            "jmcs://jd-contents/JDMEgyptian/JDMEgyptian_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptian/JDMEgyptian_ULTRA.webm/f61cbaf84bc9d0a144db2df683bbefcc.webm"
+        }
+    },
+    "JDMEgyptianBS": {
+        "changelist": 252891,
+        "dataFolder": "77b0c3ce-da56-412b-be58-ee632516b8aa",
+        "urls": {
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS.ogg/20853684601169b635e783fb23c9c75e.ogg",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_HIGH.hd.webm/a459df13df2e47109e7990c88580d040.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_HIGH.webm/468df74bf8b95ff257a48ff9d59cb633.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_LOW.hd.webm/420fd99a5de27dd2423f003633ce3236.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_LOW.webm/354b4b198de97d3a34f61ece918aa629.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_MID.hd.webm/9e32f2a28310c4d47382204a74c74de9.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_MID.webm/d03fa42c116ab2930a37676e676249cc.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_ULTRA.hd.webm/d71b8d2e5f2d6fe213a9c8c417bbe28c.webm",
+            "jmcs://jd-contents/JDMEgyptianBS/JDMEgyptianBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMEgyptianBS/JDMEgyptianBS_ULTRA.webm/ad062efc9f7a359420d7ea86b3d16edb.webm"
+        }
+    },
+    "JDMFlamenco": {
+        "changelist": 249889,
+        "dataFolder": "30add7e6-1d48-4c96-8273-9804c4ffeeef",
+        "urls": {
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco.ogg/6a98f288f62e35f5e8bd29229bc4eafe.ogg",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_HIGH.hd.webm/5319ec7f339a075edb40cde2e39a8a71.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_HIGH.webm/671814ec053cea6c5c766def917621c9.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_LOW.hd.webm/6220e6d6b2cfceeda9bcb31c1b9759fe.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_LOW.webm/014d61e4e44de08ca2c9fa7a3f1125e3.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_MID.hd.webm/f5f12400a12a8c192bbad126ea17a1bd.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_MID.webm/e919a97e402d507fa186f788e5831dae.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_ULTRA.hd.webm/7f4c801f021e34300019d914251bd14d.webm",
+            "jmcs://jd-contents/JDMFlamenco/JDMFlamenco_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamenco/JDMFlamenco_ULTRA.webm/8ceaa2ef82e727ebac10637c94588269.webm"
+        }
+    },
+    "JDMFlamencoALT01": {
+        "changelist": 249747,
+        "dataFolder": "05dd70ce-2a63-43ee-9e30-18b07a194086",
+        "urls": {
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01.ogg/6c75c8c8d3a19425895cc53f917ae714.ogg",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_HIGH.hd.webm/7fdaf368ff9acc05ffbba12818c710fc.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_HIGH.webm/c9d3a64125b22237024d1f095774c17c.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_LOW.hd.webm/87ae86b368c939f13c04fcb4ebbd27ab.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_LOW.webm/4e1096d8c6c5f58b8d2b80f5d0c544bd.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_MID.hd.webm/0e6a22eab6fb02e8e39132c990b0b55a.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_MID.webm/e3780dd9eb5a3edeea903c04c730c4f0.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_ULTRA.hd.webm/4a71d826be001cb8c0b9cc0b039a734b.webm",
+            "jmcs://jd-contents/JDMFlamencoALT01/JDMFlamencoALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFlamencoALT01/JDMFlamencoALT01_ULTRA.webm/a5f1905d8ae5854d6c184f20b10ea19b.webm"
+        }
+    },
+    "JDMFrenchCancan": {
+        "changelist": 249889,
+        "dataFolder": "07105055-6adf-489b-8d0c-7ac874149b70",
+        "urls": {
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan.ogg/4ddd2d4937643a37161a8e1fca734f60.ogg",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_HIGH.hd.webm/92bd66ec9850c8e07e8fc741e06d0fba.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_HIGH.webm/3b2b16304f01e5f63feb786705ff1c73.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_LOW.hd.webm/465105c8ea37d5f1d994aa479703101d.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_LOW.webm/b1b5835895bcc80532fcaa6462abc7f6.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_MID.hd.webm/c9e9fa0543e735504e416a069aa3ba97.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_MID.webm/3b41ff99dcac23a1f57e4cf1b0519d63.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_ULTRA.hd.webm/e4fffab171ff2d8baff81a0f52255358.webm",
+            "jmcs://jd-contents/JDMFrenchCancan/JDMFrenchCancan_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMFrenchCancan/JDMFrenchCancan_ULTRA.webm/5899e005040487b9653ab21a2af46ba2.webm"
+        }
+    },
+    "JDMGI": {
+        "changelist": 0,
+        "dataFolder": "2e2a918a-d54c-4a0f-b920-d3dbe2d5c96a",
+        "urls": {}
+    },
+    "JDMGIALT01": {
+        "changelist": 0,
+        "dataFolder": "d8b86a8a-ff6b-4f87-adb0-50c7278f8e96",
+        "urls": {}
+    },
+    "JDMGymnast": {
+        "changelist": 249889,
+        "dataFolder": "3b421791-daf2-4ccc-bb95-cf2af26c20a1",
+        "urls": {
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast.ogg/fcfd895cb1e4c4037c3730f9e37aa368.ogg",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_HIGH.hd.webm/43c6ad6e6cbe9ede971ccaca92666d2c.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_HIGH.webm/13692a31ce90cb4bda99693bfdecd62a.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_LOW.hd.webm/d114a40959a2a6fecbcc993aeaa588f2.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_LOW.webm/563f7c502e5990c8845c74cd7d88a4e6.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_MID.hd.webm/861689980f6febf1d330c5a2d1ee40b3.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_MID.webm/54970d9ed5198bf2f8487760c894f5e4.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_ULTRA.hd.webm/5d3228a42d478cf0e69b1ad5e7c02a53.webm",
+            "jmcs://jd-contents/JDMGymnast/JDMGymnast_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnast/JDMGymnast_ULTRA.webm/df2cdb060a3a7b39cf37e9d62119e190.webm"
+        }
+    },
+    "JDMGymnastALT01": {
+        "changelist": 249747,
+        "dataFolder": "5e34c583-a982-414e-9158-496c8b90022e",
+        "urls": {
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01.ogg/a0ec3ee4ee6e064706f255c28a776932.ogg",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_HIGH.hd.webm/a2468d9ce13e39799df300faa4c515ed.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_HIGH.webm/33998768dc86b53f9bc10192c9c3ee20.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_LOW.hd.webm/93d116bbdfa39d9795241105bd5cfcbb.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_LOW.webm/216a09eda879f718cdc424981f53d815.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_MID.hd.webm/288c2dafbf1fbd0a8e49661ac038544b.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_MID.webm/f3d6b717d52af3e871ba6d4e10d5e8b1.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_ULTRA.hd.webm/8499265a377f1ec4d0d91fdf1214ff62.webm",
+            "jmcs://jd-contents/JDMGymnastALT01/JDMGymnastALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMGymnastALT01/JDMGymnastALT01_ULTRA.webm/4158fc3a7da0335126c695ab153da5ea.webm"
+        }
+    },
+    "JDMHaka": {
+        "changelist": 249889,
+        "dataFolder": "92dda330-51d2-4d20-a91d-d9434af97eab",
+        "urls": {
+            "jmcs://jd-contents/JDMHaka/JDMHaka.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka.ogg/f353ca493ba68af2427c4684feab5e64.ogg",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_HIGH.hd.webm/dcbb0e1d409d4d07553716e3e2613bf9.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_HIGH.webm/714ef32ce0881c6a637a995d47c5297d.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_LOW.hd.webm/f5681b1d4abf3ea5e37ca855d5d6b083.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_LOW.webm/0377d19d018e681908daaeaf455e3aa9.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_MID.hd.webm/9439721f2e24248b983ec73243c7d98d.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_MID.webm/0695fb948e59a5cac300434962ee5e4b.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_ULTRA.hd.webm/f6dfb7e71b0862f1712b20d6c21fe986.webm",
+            "jmcs://jd-contents/JDMHaka/JDMHaka_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMHaka/JDMHaka_ULTRA.webm/50cdd116714b43ec2519e593937e0108.webm"
+        }
+    },
+    "JDMIsidora": {
+        "changelist": 249889,
+        "dataFolder": "e0f1f5ae-f589-4dd1-bafd-b0efd8f8ead6",
+        "urls": {
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora.ogg/0f57bb7affc156ebc160fbe540df4f29.ogg",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_HIGH.hd.webm/f940d5f7fb551191d7228af14c68008a.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_HIGH.webm/57ce5ec46765930d4bb8acb040734412.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_LOW.hd.webm/22d2e2a861e23e0fc50098d2a7db716c.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_LOW.webm/c941e4d9857ed4e5311237728b3b33f4.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_MID.hd.webm/e0eb5ba18010db1276f85de09be147d4.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_MID.webm/0b6be4e0dcf900d11298893a3d79665d.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_ULTRA.hd.webm/54565bc5cfe4a3be24137f94d0a109e2.webm",
+            "jmcs://jd-contents/JDMIsidora/JDMIsidora_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMIsidora/JDMIsidora_ULTRA.webm/3244a88ccf4a53843868a2eb17a4d282.webm"
+        }
+    },
+    "JDMKungFu": {
+        "changelist": 252062,
+        "dataFolder": "5062a83a-81ad-46c6-bfbf-9e4a8aeb8116",
+        "urls": {
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu.ogg/6943b21a8a9c9b92f39d10ce8d62e189.ogg",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_HIGH.hd.webm/5789afd6e847dfc911c2bcd0a98d3634.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_HIGH.webm/ddeafb330d45dc3d9dce8bdf5f2b0e74.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_LOW.hd.webm/28dda9a2f6ee31c3fb39e3d16cce34fb.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_LOW.webm/e13837143d8a4d8ebf2471ab94225cd3.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_MID.hd.webm/cb98bc67afdb2191570862b13cf1d112.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_MID.webm/645abb22f5ef77028fc4c07a8bc7f257.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_ULTRA.hd.webm/beb7e390ea1904c178ced7ce0a951214.webm",
+            "jmcs://jd-contents/JDMKungFu/JDMKungFu_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFu/JDMKungFu_ULTRA.webm/cf8db3c2b0bfdb3e7cee07513f26a388.webm"
+        }
+    },
+    "JDMKungFuALT01": {
+        "changelist": 252063,
+        "dataFolder": "0756f333-ac39-4fc5-91e3-f8a9f2314890",
+        "urls": {
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01.ogg/f1cb41b5b3df0de57dff3186b8fa3c15.ogg",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_HIGH.hd.webm/8ad21b686507849d8b6c14770b71495b.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_HIGH.webm/73ff4b2533d142662aa2881f68309c2b.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_LOW.hd.webm/39027ee38b6fce0955963bbbc88682d1.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_LOW.webm/bc17c62cafb7bbc47137618f8d70f9b8.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_MID.hd.webm/688fd769da9550fdada622a770c5925e.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_MID.webm/9b816885816ace16f90271c56ba1e5bf.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_ULTRA.hd.webm/e1df81db2324b399cc1159f9261edc04.webm",
+            "jmcs://jd-contents/JDMKungFuALT01/JDMKungFuALT01_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMKungFuALT01/JDMKungFuALT01_ULTRA.webm/59aa2284808c61c305d7828178019e4b.webm"
+        }
+    },
+    "JDMLimbo": {
+        "changelist": 249889,
+        "dataFolder": "4adb0506-e208-4ad5-a362-55e84ccb5445",
+        "urls": {
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo.ogg/b71f9cc2d197c81406ccb52b4645cc1e.ogg",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_HIGH.hd.webm/a76442681ef29e1bac85af5c55eb1de7.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_HIGH.webm/98029bc6875f26c63c92c7a823361f49.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_LOW.hd.webm/2d874abf993f4ca18e4e78bc84bc70ab.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_LOW.webm/95d4ba27d4505410289e79302ca2fe87.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_MID.hd.webm/fae14ef80f7d33028bfa99f632fda0ea.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_MID.webm/7fcca4b80c258fac5ebe4a283e2581bd.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_ULTRA.hd.webm/f8d6fea048d1bcf8f417584dfa722289.webm",
+            "jmcs://jd-contents/JDMLimbo/JDMLimbo_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimbo/JDMLimbo_ULTRA.webm/c1d394dd2c2a6f8e04e4b1b170cd91a9.webm"
+        }
+    },
+    "JDMLimboBS": {
+        "changelist": 252896,
+        "dataFolder": "959a1f24-9127-4258-af63-29ce5f505de0",
+        "urls": {
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS.ogg/bfe95efc52a26c21e4591453b0f1c600.ogg",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_HIGH.hd.webm/a3dc1bdfb8bb4f4441ca2c9448561872.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_HIGH.webm/db23955d22a7194f065a8d35b7b710e9.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_LOW.hd.webm/f5f5f855d9cde8cb17e69511700543c6.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_LOW.webm/8810aefdb3d5f189fbd235bf26537b46.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_MID.hd.webm/b3e26a5cd5039c6b24c4c89858f9e4b1.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_MID.webm/1c0be91b3d3d4f984109837526cd1452.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_ULTRA.hd.webm/27327ac17cb39fef23f638d1fc62202b.webm",
+            "jmcs://jd-contents/JDMLimboBS/JDMLimboBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMLimboBS/JDMLimboBS_ULTRA.webm/88398acf8d902d605b29bff63113a3f8.webm"
+        }
+    },
+    "JDMMaestro": {
+        "changelist": 249889,
+        "dataFolder": "6a5a1719-2187-4a97-9cfd-6398b4e69d43",
+        "urls": {
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro.ogg/ba33fa6ec7b6378820397f62a26a1d49.ogg",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_HIGH.hd.webm/cb23702a377c095edb3290055052c9fc.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_HIGH.webm/209e599d3346f1dabf0cbc57833dd9ef.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_LOW.hd.webm/99138336ca155de2ca1de279b663c5ff.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_LOW.webm/2242e464e0011eb1fdbc64d17fefc48c.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_MID.hd.webm/7a93d147ab9280a44c4965ba9664e6f0.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_MID.webm/2abd8219bdf5f4ac2dc5defc05af0f91.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_ULTRA.hd.webm/49e9475b41d6c3ab76781c64652a3143.webm",
+            "jmcs://jd-contents/JDMMaestro/JDMMaestro_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMaestro/JDMMaestro_ULTRA.webm/0e3ea7f4a5ad4b7e0bd9cf6125f62bbc.webm"
+        }
+    },
+    "JDMMagicMike": {
+        "changelist": 0,
+        "dataFolder": "5e8f0295-fe93-4cdb-9da3-ac1ec1d584e7",
+        "urls": {}
+    },
+    "JDMMetalDrum": {
+        "changelist": 0,
+        "dataFolder": "e7686ff0-e5e6-4443-8436-86e96a66770d",
+        "urls": {}
+    },
+    "JDMMetalGuitar": {
+        "changelist": 249889,
+        "dataFolder": "9c29dda2-9d68-4d17-9dca-98eac898fda9",
+        "urls": {
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar.ogg/60aa01d10047b18138f722bf12fc1c97.ogg",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_HIGH.hd.webm/17f4bd978f51eb13daba597c9df2ca02.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_HIGH.webm/f7f1dffbb935c786f167e6ece161a610.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_LOW.hd.webm/36006a1706e85b73dfdd1d545d360574.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_LOW.webm/e7094c3617cdd4c7e15d0782b14f3ec4.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_MID.hd.webm/cdd09b71d6314c2c1df0a25cafab2513.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_MID.webm/8082c56f8391e53fb4e198d798a316ed.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_ULTRA.hd.webm/102f280ce089d7084c830e809532f63b.webm",
+            "jmcs://jd-contents/JDMMetalGuitar/JDMMetalGuitar_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMMetalGuitar/JDMMetalGuitar_ULTRA.webm/2ed179956d1ca11de7df0280599d590b.webm"
+        }
+    },
+    "JDMMetalHeadBang": {
+        "changelist": 0,
+        "dataFolder": "1dfc4b7e-1aab-4279-b297-d522d03d4c11",
+        "urls": {}
+    },
+    "JDMNaeNae": {
+        "changelist": 0,
+        "dataFolder": "5c261aff-0a31-4f7f-bb11-4d17e677a309",
+        "urls": {}
+    },
+    "JDMOrientalDance": {
+        "changelist": 279847,
+        "dataFolder": "fc873ee8-d589-46a6-a2f6-8c7add6536ff",
+        "urls": {
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance.ogg/3be7964ab9a6be3c3474acf4f365cb8f.ogg",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_HIGH.hd.webm/b0b937587768c08b98451c321acf4bd8.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_HIGH.webm/1aeedfb977bfad03ae499f48568ac14f.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_LOW.hd.webm/5bb31187b527d04a2f84b7bd7418090a.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_LOW.webm/19fdb16f0d837df6d2b198bdefc83211.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_MID.hd.webm/bab859c08057a7eddd21f56c484f02ec.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_MID.webm/d726116dbecf89a9817a376895805efa.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_ULTRA.hd.webm/979bd29337855d741bd208c186ec5fab.webm",
+            "jmcs://jd-contents/JDMOrientalDance/JDMOrientalDance_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMOrientalDance/JDMOrientalDance_ULTRA.webm/21b89cd5295c0d812ad51cdb48b9d42c.webm"
+        }
+    },
+    "JDMRapper": {
+        "changelist": 253002,
+        "dataFolder": "13a10325-2f06-4517-8ec2-c7b129179785",
+        "urls": {
+            "jmcs://jd-contents/JDMRapper/JDMRapper.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper.ogg/21fcd9dcb6bb6f2b9b9d13e99715c2f7.ogg",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_HIGH.hd.webm/a41e4e6689ca0666273a2e743ca6c5bd.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_HIGH.webm/37de120c42e89e8aa70ef6264424a283.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_LOW.hd.webm/1062b88d50494695c6f7ca69d00b116b.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_LOW.webm/d3c6429df98e7217bd8024dc0a2a94e7.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_MID.hd.webm/af1b549ec23d9d826efcb92665bf8a8d.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_MID.webm/df115cbb5ee666fa2a7c972c056ce8e2.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_ULTRA.hd.webm/84fc901974a36fc7e5a7c56e1c66c6fb.webm",
+            "jmcs://jd-contents/JDMRapper/JDMRapper_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRapper/JDMRapper_ULTRA.webm/df75ee7ace0eda6b18366b65dce9a20d.webm"
+        }
+    },
+    "JDMRaveParty": {
+        "changelist": 249889,
+        "dataFolder": "c7bb2748-f875-4780-8ba6-02154d79c7af",
+        "urls": {
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty.ogg/2c832d204d0c32113034a799affaa8c5.ogg",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_HIGH.hd.webm/2477e0abe0bc823372a6f7fec086a78d.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_HIGH.webm/6e4139bc0ac9a119fa33c9ce43861d65.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_LOW.hd.webm/f01f78cfd6e3e049c71853f3fdfd8272.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_LOW.webm/f56f85b522839d52f504eb11833a0619.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_MID.hd.webm/2b14ed4ff92763513349ff6a6d147e60.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_MID.webm/ae333315a0f1eb6971834bad671d01da.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_ULTRA.hd.webm/beb316c574ad9eedb8b217a02af828ed.webm",
+            "jmcs://jd-contents/JDMRaveParty/JDMRaveParty_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRaveParty/JDMRaveParty_ULTRA.webm/e289b8d089b7ec647c109dbbf14f3da3.webm"
+        }
+    },
+    "JDMRobot": {
+        "changelist": 249889,
+        "dataFolder": "112e6a89-878a-4085-9705-00104b541527",
+        "urls": {
+            "jmcs://jd-contents/JDMRobot/JDMRobot.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot.ogg/2f703eb24d7e6db98054589c2848e996.ogg",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_HIGH.hd.webm/3b7c8d422209463e405952c3d2c0c0e9.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_HIGH.webm/a078022eed40d990eb12f7d6fdc75ff9.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_LOW.hd.webm/56ea6be5b48a9f6a734ca0ff8327c800.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_LOW.webm/28874c67a1a351abe3f045f7ddeb6ce7.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_MID.hd.webm/f442b2f42ab05cb86c523a24a29c57f5.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_MID.webm/5dbd2d3ecc1cfc33b256474c76be1ab0.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_ULTRA.hd.webm/42a41e060e616a9ad8f65e0ccbaeaacd.webm",
+            "jmcs://jd-contents/JDMRobot/JDMRobot_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRobot/JDMRobot_ULTRA.webm/2373782118e18ccb3dd4a823b8688034.webm"
+        }
+    },
+    "JDMRunningMan": {
+        "changelist": 249889,
+        "dataFolder": "2afde7d9-c0d1-4fe2-88fe-4023b1fddf68",
+        "urls": {
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan.ogg/3c45ac6072e21f7da80f3a00d4b43a42.ogg",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_HIGH.hd.webm/061b69ff33e7b55775c74d491462d203.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_HIGH.webm/fa1bb819803e33c7277c1db1ca8023a7.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_LOW.hd.webm/c97a13a82fc6855db1bef1719fb06e3e.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_LOW.webm/fc9fa647b3ff704b8085963ef4a157e3.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_MID.hd.webm/5553105b12c7086ffb08272f972651b1.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_MID.webm/bf8d5ce2752d6bf711582b954d8fc76d.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_ULTRA.hd.webm/20092eadd4f496d3fe7bc844147084a2.webm",
+            "jmcs://jd-contents/JDMRunningMan/JDMRunningMan_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningMan/JDMRunningMan_ULTRA.webm/be40c18e2e913db6f4aa757a58bca98f.webm"
+        }
+    },
+    "JDMRunningManBS": {
+        "changelist": 252892,
+        "dataFolder": "e0b70851-8ea1-4b76-82dd-79f47c709a00",
+        "urls": {
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS.ogg/aa75e33415cc2f92d3e208ce055e9d9b.ogg",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_HIGH.hd.webm/1445dd050b5ca5b4f1f06af4c8d5440f.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_HIGH.webm/ea6ae9ac2fc5a304258bfb8c98798a87.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_LOW.hd.webm/8f7400b1735eac39793aafdca1ac464b.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_LOW.webm/4b56bf94de8d795db3f802a0e76c6d4b.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_MID.hd.webm/ce19c1caf5d67446d3fe20f1dbc72227.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_MID.webm/0a1be32aa5e2c84fd6a6b906b66b2c3f.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_ULTRA.hd.webm/9c837999fe7b9baf1b0d078dd03dcb3a.webm",
+            "jmcs://jd-contents/JDMRunningManBS/JDMRunningManBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRunningManBS/JDMRunningManBS_ULTRA.webm/dc27a7f2be53beb8360047901e8898bf.webm"
+        }
+    },
+    "JDMRussian": {
+        "changelist": 252898,
+        "dataFolder": "5500f100-2678-4d89-b625-aec82d6ad950",
+        "urls": {
+            "jmcs://jd-contents/JDMRussian/JDMRussian.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian.ogg/71d9e46893fedab884836e52d342f296.ogg",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_HIGH.hd.webm/c8ff3463948756e62bac02ddefb521f5.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_HIGH.webm/0f7e5e50eb80abc258f6f3bc46696f62.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_LOW.hd.webm/d53e6317e5940521afd6a88be91aa170.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_LOW.webm/846eb814dca5fa6b75ba0f8f84a3aebe.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_MID.hd.webm/e6a21c8514a4fd1dbf527ab30146bee8.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_MID.webm/19c3e22b88b3883a91fe369aa063a395.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_ULTRA.hd.webm/f7c500f700b166be42d271c56d5cb183.webm",
+            "jmcs://jd-contents/JDMRussian/JDMRussian_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMRussian/JDMRussian_ULTRA.webm/dcf2d61df96f8ac9971f269a5fc9f230.webm"
+        }
+    },
+    "JDMSaloon": {
+        "changelist": 249889,
+        "dataFolder": "3b3e8e37-fbf7-4d85-b068-baea27a42253",
+        "urls": {
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon.ogg/3f5c6061e3da1e78e0c696a628e8bff9.ogg",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_HIGH.hd.webm/ffa15dc3bdd19579b76d00acb88165ba.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_HIGH.webm/fcc031f43543a7249609ed24c48c8652.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_LOW.hd.webm/8085e42f9d81e40f6ff7a142377d7029.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_LOW.webm/f70c5a9cf692e7ba47e3c8222951196c.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_MID.hd.webm/bdb564a800739f513c885237b4efbdf5.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_MID.webm/19b3bb69449d2e4e1c018961428d2564.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_ULTRA.hd.webm/586a5e38e5b4ba91acb4ce1e8184b9b9.webm",
+            "jmcs://jd-contents/JDMSaloon/JDMSaloon_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSaloon/JDMSaloon_ULTRA.webm/df3dfe4db13a45b38a86d98f802498ca.webm"
+        }
+    },
+    "JDMSirtaki": {
+        "changelist": 252894,
+        "dataFolder": "780d8f14-941d-4a6e-b14a-0272839718ca",
+        "urls": {
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki.ogg/49e65c7ff32e6c3189ba2ecbd9d4b28c.ogg",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_HIGH.hd.webm/8e4e812e8d64ddf4265eb85ae7b5e8ff.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_HIGH.webm/b5800bd36b45379c2424b849035712dc.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_LOW.hd.webm/a3f0a0af1daab4e95a41ce6a3b88532e.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_LOW.webm/a3a7ab244ca5ba33b658e14378ae8b4a.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_MID.hd.webm/543dd36fceb9ba9aa9368e1ae2e673c8.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_MID.webm/1415f67c110a723c053b9b9626dc6c53.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_ULTRA.hd.webm/30d4f07a40af9e79a4f9f41ac47b5f3a.webm",
+            "jmcs://jd-contents/JDMSirtaki/JDMSirtaki_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMSirtaki/JDMSirtaki_ULTRA.webm/670e9fc8de30d0b8d12e2673a6cd6906.webm"
+        }
+    },
+    "JDMStripteaseBurlesque": {
+        "changelist": 279847,
+        "dataFolder": "fd4c3957-327e-4900-b319-4b1ce7e188e7",
+        "urls": {
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque.ogg/070b7f8602fa11d545e3430725d2ebec.ogg",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_HIGH.hd.webm/0f18cd8f66f004b4aa69896d51e36052.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_HIGH.webm/0b10e61356e827f78f57f5d5e40a7a3b.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_LOW.hd.webm/a60327f0281fc993b98fee5acc5cf169.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_LOW.webm/6eb8bad7de62b34ae6cc9065b83e3e1e.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_MID.hd.webm/537fa1447653f4f3270af8f620b9f00e.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_MID.webm/83ab287cb092677495cea5a00a47379b.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_ULTRA.hd.webm/16bebfb4a2d4a7a05c902e37188f9903.webm",
+            "jmcs://jd-contents/JDMStripteaseBurlesque/JDMStripteaseBurlesque_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMStripteaseBurlesque/JDMStripteaseBurlesque_ULTRA.webm/c61a125ff2c7ae80f9394fcca2b8354d.webm"
+        }
+    },
+    "JDMTectonic": {
+        "changelist": 279847,
+        "dataFolder": "ae11d443-4b9e-4cf4-adf1-0fdb4a8a0eb6",
+        "urls": {
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic.ogg/f82fa11b48354ae39fff8ad663251ad1.ogg",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_HIGH.hd.webm/34bfe203dd81172ac9d864ac76cdf798.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_HIGH.webm/abc958c2ea0c69b5484356545bc457b9.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_LOW.hd.webm/b12416a5505c5a6cd702e917271704ad.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_LOW.webm/730c41754496e6d19560f5204ac17b0e.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_MID.hd.webm/2f0291801e13aaa47c3af7c510841b94.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_MID.webm/c513ef00fdb1f485476f478f1ae07da3.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_ULTRA.hd.webm/4c994209e6fd781b4c74b0d79031a14b.webm",
+            "jmcs://jd-contents/JDMTectonic/JDMTectonic_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTectonic/JDMTectonic_ULTRA.webm/34e46b75f0476efdfaafc4dc5f4a22b9.webm"
+        }
+    },
+    "JDMTwerk": {
+        "changelist": 249889,
+        "dataFolder": "f17dff84-8875-46c0-a356-1f2fc31181c1",
+        "urls": {
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk.ogg/6d0e667e2084d21f1eda4ea1549a461b.ogg",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_HIGH.hd.webm/510d19d911d176ead186af4d6f714888.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_HIGH.webm/09584af9e31022dcbea1c09b5f8656f3.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_LOW.hd.webm/2fe77b4b43dd85f43936ef00f64fb30c.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_LOW.webm/fcf7176ea1d2c6ffa8da8b78c77d6007.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_MID.hd.webm/169159023df57256b13a991ff4fb9b0c.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_MID.webm/df51974d1117fa85f40e9512ee057076.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_ULTRA.hd.webm/58d072b75b9a87e983c4057df651e851.webm",
+            "jmcs://jd-contents/JDMTwerk/JDMTwerk_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerk/JDMTwerk_ULTRA.webm/761e0279edbc3cbe701c057fa593fb12.webm"
+        }
+    },
+    "JDMTwerkBS": {
+        "changelist": 253324,
+        "dataFolder": "b1562eb5-d4d8-406b-b3f6-6464f1b3c658",
+        "urls": {
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS.ogg/ad76affda33db5e4a9e79343baccaab7.ogg",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_HIGH.hd.webm/a91386e1db5951cc467ecaf943ba867a.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_HIGH.webm/c2e0f0d826c6fe510eee067b62400003.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_LOW.hd.webm/2346c501ccbfab3a220ba118daed56f0.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_LOW.webm/9d9f2f840f57ff3c7f5e540c24b2b391.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_MID.hd.webm/8c9a2971376af9ef9f8cbc2b766f0e3d.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_MID.webm/2323f6c49ad1504110a04911f8aafa7e.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_ULTRA.hd.webm/f54a43a0d0d2b4599e1b96cc0232db65.webm",
+            "jmcs://jd-contents/JDMTwerkBS/JDMTwerkBS_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMTwerkBS/JDMTwerkBS_ULTRA.webm/274a8b289d03ff8f7793f444c3ee8d4a.webm"
+        }
+    },
+    "JDMUAirHostess": {
+        "changelist": 299949,
+        "dataFolder": "9bda80e5-1177-4d93-af6b-30afa1e76d84",
+        "urls": {
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess.ogg/66ed274486ef9d4a9bf47e3c9cf1f0ef.ogg",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_HIGH.hd.webm/abb0c19d08b3395fe7f86b2e6cefea68.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_HIGH.webm/88ecebcc424beaba70c78d5cf8deac06.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_LOW.hd.webm/f11f38c800ee8bd94b680c5822173974.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_LOW.webm/fba73837e7cdc3a9dc18b771d2bedfbc.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_MID.hd.webm/3c0fb015c67b43e870463e42d47dfe20.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_MID.webm/65413252e8229498189a831fab46ca9e.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_ULTRA.hd.webm/839de80684bb14d352e31ace99e3538c.webm",
+            "jmcs://jd-contents/JDMUAirHostess/JDMUAirHostess_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUAirHostess/JDMUAirHostess_ULTRA.webm/ebb6bc03543461306a52a1d24baef51b.webm"
+        }
+    },
+    "JDMUBaroque": {
+        "changelist": 299949,
+        "dataFolder": "4a91b75c-41cd-44d7-b1b2-4933e1adb5cb",
+        "urls": {
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque.ogg/f0e2a31342d950675bb795cfb000dbf9.ogg",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_HIGH.hd.webm/19d41e9f2182929395c8664c1075116e.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_HIGH.webm/e199401d8b805610fa99ee83d257d063.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_LOW.hd.webm/97e278a8d82971e5d29c3d14328d204c.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_LOW.webm/5129f2e72bbf61ad14652e9dda0a73a7.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_MID.hd.webm/c9aa3e29c53125be6a8e67414b5455f7.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_MID.webm/5ff7b8c835cab7c295d1fc0e43c77b02.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_ULTRA.hd.webm/0ae96231b217eaa40703e7df6624c799.webm",
+            "jmcs://jd-contents/JDMUBaroque/JDMUBaroque_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBaroque/JDMUBaroque_ULTRA.webm/ebfb3e01b607c30004a2efcfaebc94a7.webm"
+        }
+    },
+    "JDMUBathroomSinger": {
+        "changelist": 299949,
+        "dataFolder": "81f61927-e509-40e7-bd97-18604561a52b",
+        "urls": {
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger.ogg/cb36d4b56489a63e31f2d3a9d5a0a0c7.ogg",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_HIGH.hd.webm/fe77e5dbc7961c188baab913ee84d341.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_HIGH.webm/02f5267b3a64c9b63b5a5c24c77edb3f.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_LOW.hd.webm/a237e29aa44b7d386ccd516307acca1c.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_LOW.webm/2c5d3300ce492551e4ff2cd16a60a6ea.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_MID.hd.webm/35af1e176408d3aa4e37fd74f1739034.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_MID.webm/db1b3757a797d35832572d45c3125625.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_ULTRA.hd.webm/d2cf46452f652cd82ab686f3eb3156d1.webm",
+            "jmcs://jd-contents/JDMUBathroomSinger/JDMUBathroomSinger_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBathroomSinger/JDMUBathroomSinger_ULTRA.webm/dff1f0de6abf919d630f62ad9e7c3f6c.webm"
+        }
+    },
+    "JDMUBoxer": {
+        "changelist": 299949,
+        "dataFolder": "4f1b17dd-d6c1-423d-b6f8-b263be8ea5ac",
+        "urls": {
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer.ogg/3998d6d6c5f9b98c52ff271c4053e7a2.ogg",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_HIGH.hd.webm/e620ce2db36445035762dd1c15fae714.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_HIGH.webm/f580213ce1ba333e08355e5d1861510e.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_LOW.hd.webm/7ea52881638ab80c40368bcc0d14be9c.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_LOW.webm/f253c5e1854753eed6bcd05df31af658.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_MID.hd.webm/78e3b4109d34b0bcf3753624959e5c96.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_MID.webm/3a7eb0063aefddab034a06559f3a4021.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_ULTRA.hd.webm/c0d87c1e3c58e9cd92f1d0cf82b7e551.webm",
+            "jmcs://jd-contents/JDMUBoxer/JDMUBoxer_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUBoxer/JDMUBoxer_ULTRA.webm/0f0c319f7a0c5662f7356589920a8370.webm"
+        }
+    },
+    "JDMUChef": {
+        "changelist": 299949,
+        "dataFolder": "961147b2-d5b2-49e0-91f0-0785de60620d",
+        "urls": {
+            "jmcs://jd-contents/JDMUChef/JDMUChef.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef.ogg/2db6b226d5c67d10018580b82fea65d5.ogg",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_HIGH.hd.webm/cc2eb79aa6d774b780659039252bbf7e.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_HIGH.webm/0a4dbe7d4c5776610565ee3a31b57eae.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_LOW.hd.webm/54884a47cfd0313532d104af7bf3a0c7.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_LOW.webm/21678540b99bdfe548e8c7ca8f7a73ab.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_MID.hd.webm/9be0cb883e07fa8d05820bd6d84325f8.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_MID.webm/2dc48485ae5084b8110d0370353ab602.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_ULTRA.hd.webm/c212815d8409fde70e4da5556f247665.webm",
+            "jmcs://jd-contents/JDMUChef/JDMUChef_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUChef/JDMUChef_ULTRA.webm/5f52cf208440ca110ec3d301866df69d.webm"
+        }
+    },
+    "JDMUCrab": {
+        "changelist": 299949,
+        "dataFolder": "5b9dbafb-7ce3-4a53-933f-a94f2e848615",
+        "urls": {
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab.ogg/f56ce7207789758ec7e6ba8bda7693d4.ogg",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_HIGH.hd.webm/061c34453d8e80eccab33f0baabaead0.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_HIGH.webm/23928a9c0e5032db9bfc6b2d463f7f57.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_LOW.hd.webm/e6f9c5d6d6df5a16e73a40d630391eda.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_LOW.webm/f897d51fb15f057a0379e51ce3fff254.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_MID.hd.webm/b9ae39eb01183d17d6a542d323338799.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_MID.webm/e752472ed5bf086e301105b958074aa2.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_ULTRA.hd.webm/b3242dfc852590a513f0aa9421cae270.webm",
+            "jmcs://jd-contents/JDMUCrab/JDMUCrab_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrab/JDMUCrab_ULTRA.webm/4f0b53788aed7cef414614eded307d10.webm"
+        }
+    },
+    "JDMUCrazyBallerina": {
+        "changelist": 299949,
+        "dataFolder": "6a3deedf-1333-4f82-8d06-5ba5e19c087c",
+        "urls": {
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina.ogg/d30e55e3beb49e10e1238bb4bd0d4c9b.ogg",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_HIGH.hd.webm/35dcdbe239759107999a43bc9c0f2cf2.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_HIGH.webm/42f09419a805723a265ba187c19cb278.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_LOW.hd.webm/be64257f9324b26edf2cd29fc6312b92.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_LOW.webm/fcce3ffbf019e4a3602e0dc5fdc6c59f.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_MID.hd.webm/e148f140f3d7e2d9212e0b06fd3d66d6.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_MID.webm/d0ffc6259ea6426dea97ef036bbae187.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_ULTRA.hd.webm/4e4806af97815de9b3e483fbe971cdcd.webm",
+            "jmcs://jd-contents/JDMUCrazyBallerina/JDMUCrazyBallerina_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUCrazyBallerina/JDMUCrazyBallerina_ULTRA.webm/647c1d15fd20ac2add7d76bbdda7a6d2.webm"
+        }
+    },
+    "JDMUGeisha": {
+        "changelist": 299949,
+        "dataFolder": "b2ac6940-6119-4075-b833-80784f603475",
+        "urls": {
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha.ogg/fb77e24649bfa0ccb83219cf5544156b.ogg",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_HIGH.hd.webm/764f54facdb3795be4c41faa63185e87.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_HIGH.webm/f690ff371b5a4be88fba3a488d972d33.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_LOW.hd.webm/1426ffd3b0c947bc838ab51db27265dc.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_LOW.webm/0c51a9b4a5a2baa4b1df97d7f015bbfa.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_MID.hd.webm/4cdfc441532b90493961bf934fc87086.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_MID.webm/d91b5bd4cddc597e797b0385c4da1fcc.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_ULTRA.hd.webm/a8a6c671f97ff0c6fdd623ff463444d8.webm",
+            "jmcs://jd-contents/JDMUGeisha/JDMUGeisha_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGeisha/JDMUGeisha_ULTRA.webm/5abae44bf82170aca249a66aecd9a900.webm"
+        }
+    },
+    "JDMUGlassCleaner": {
+        "changelist": 299949,
+        "dataFolder": "931b441f-bee8-4e42-af7c-ddaffdf1e935",
+        "urls": {
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner.ogg/c975b3f8f4c08b5152bff62f2fc4c8b5.ogg",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_HIGH.hd.webm/b7b40fa75c87dfbb73da74c6ebc1b27e.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_HIGH.webm/e3513de3559afac5eba5867ef5d70942.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_LOW.hd.webm/79f18b073ec127c2e51fc7f6f668c05d.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_LOW.webm/c8e094a19de947a895665fd4e61f5903.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_MID.hd.webm/1799f141041e6ba81af8f53f88dcf6cd.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_MID.webm/c67b3a28d4bdee3482021794f07bb59b.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_ULTRA.hd.webm/eb1f77901c1f1dfadb4069ff5e054a8d.webm",
+            "jmcs://jd-contents/JDMUGlassCleaner/JDMUGlassCleaner_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUGlassCleaner/JDMUGlassCleaner_ULTRA.webm/0e2dd0f26097da70060125343c14df22.webm"
+        }
+    },
+    "JDMUHurdle": {
+        "changelist": 299949,
+        "dataFolder": "1b19f770-2576-4ece-9e81-259f89cfe9bd",
+        "urls": {
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle.ogg/abf429e9563c5b32ec1cf2ec4ab0616c.ogg",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_HIGH.hd.webm/71299eb9043a3b0b38c0306172f775be.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_HIGH.webm/420c68429f58854ce57ed90d404195b9.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_LOW.hd.webm/418db1a8fb5b130e0254bcf7b73190bf.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_LOW.webm/0a5f73da0e237774afea234b562d5e7f.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_MID.hd.webm/795a75129f5d45b3d90df61163c47b11.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_MID.webm/6fd9d72036f0250f75a4e366c71a63ac.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_ULTRA.hd.webm/c4531ae01ad5f9d2c4ad31688b12f17c.webm",
+            "jmcs://jd-contents/JDMUHurdle/JDMUHurdle_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUHurdle/JDMUHurdle_ULTRA.webm/353d2255382dc1b28fd75a752dde5fe5.webm"
+        }
+    },
+    "JDMUPirate": {
+        "changelist": 299949,
+        "dataFolder": "e9027402-3f33-42bd-9993-091144405ec6",
+        "urls": {
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate.ogg/3467cb24145b7b5c715a4b806039895f.ogg",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_HIGH.hd.webm/ff8583fdcbf24e400f19286e196070ed.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_HIGH.webm/04276ff7e851812d02ea1ffd984105c7.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_LOW.hd.webm/52cc5c53ea8c870e8cf501328ef986ac.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_LOW.webm/64df221c50000065885d56423b939025.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_MID.hd.webm/5dcbe77eb19d05e9116adb7c0fe0fc73.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_MID.webm/1b1cb0c1c11cccc650de5f3febba61a5.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_ULTRA.hd.webm/c3ec1d96edaa572b6e9fe5d7d30609a6.webm",
+            "jmcs://jd-contents/JDMUPirate/JDMUPirate_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUPirate/JDMUPirate_ULTRA.webm/834469e0d9256bf7f1c054692ee82458.webm"
+        }
+    },
+    "JDMUSecretaryTypewriter": {
+        "changelist": 299949,
+        "dataFolder": "3b0f523b-9551-4eaa-a925-768954fa6aa1",
+        "urls": {
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter.ogg/5153aaa548d454bb95ce48b5cd8bd110.ogg",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_HIGH.hd.webm/ac42cf1ee712cc6ebf36acacac771fda.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_HIGH.webm/01dc2d3dde290771879bc8817b060f12.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_LOW.hd.webm/4c09121dd5f3e4ce72931908de78cd59.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_LOW.webm/b30fc972ae58cfc7ffa805b63a23f8c1.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_MID.hd.webm/57172b174c1d106ee91dc251f87d8f7d.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_MID.webm/220d47d92a8cb73c89e482a6b3ba74d3.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_ULTRA.hd.webm/8bdc778c51e60e31e79731a3e0fe97eb.webm",
+            "jmcs://jd-contents/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSecretaryTypewriter/JDMUSecretaryTypewriter_ULTRA.webm/59e59a41f5447333749e794e1cd5cd1b.webm"
+        }
+    },
+    "JDMUSuperHero": {
+        "changelist": 299949,
+        "dataFolder": "59206dc3-b25a-4461-be9a-412821657ff3",
+        "urls": {
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero.ogg/a8448318b31058e938ee938af453a31e.ogg",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_HIGH.hd.webm/1d6c13d0e55a87a6b6c0e060a3024a70.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_HIGH.webm/6a0bd64632767d2d5451a5b39da61794.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_LOW.hd.webm/6d8ec1e4da2f6a919250dbf36ae3f95c.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_LOW.webm/ee84908d148b224678c50531df667095.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_MID.hd.webm/d14d668bd7c4224f18c50d28aecaa577.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_MID.webm/c4adff6763da93fcaecdbfbf0f2894fe.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_ULTRA.hd.webm/276fdd4ed102b4d19d58a5f5da7903a2.webm",
+            "jmcs://jd-contents/JDMUSuperHero/JDMUSuperHero_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSuperHero/JDMUSuperHero_ULTRA.webm/f80b4d13fac25bcfabd0d616c75a0b4e.webm"
+        }
+    },
+    "JDMUSupporter": {
+        "changelist": 299949,
+        "dataFolder": "d9d34f1c-236f-4aa9-a959-529f27417d3d",
+        "urls": {
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter.ogg/03e75ccd98fc4aeee78de6aed35025de.ogg",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_HIGH.hd.webm/bb10d95a07195b6e0a78dfb6980b9705.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_HIGH.webm/df8953bc76503432f74f3c4ba2dd3d99.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_LOW.hd.webm/ab57d949931640c2ddc5001d48ea8b20.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_LOW.webm/ec63aae82306db3c6c9d700ab6e139e7.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_MID.hd.webm/482e66f065a30fd5f3429f04dc99cfd1.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_MID.webm/498791452ccbe9e0f5c6a4b04e809252.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_ULTRA.hd.webm/13c55d19ba9057e59f6147a361967ff2.webm",
+            "jmcs://jd-contents/JDMUSupporter/JDMUSupporter_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUSupporter/JDMUSupporter_ULTRA.webm/7069799e8e83f060566829fff288ad4f.webm"
+        }
+    },
+    "JDMUTapDance": {
+        "changelist": 299949,
+        "dataFolder": "6be7ca07-2b4c-41b5-ba66-75f7b916fd82",
+        "urls": {
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance.ogg/474ea29a325d5bcc71745cc6c97a9aed.ogg",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_HIGH.hd.webm/5f21c940b338aca13c8996343577ea0e.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_HIGH.webm/1440ca555024f4b730c6b67701560e28.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_LOW.hd.webm/679c1262b9335cd8ade28363ecb031ef.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_LOW.webm/dc95d32e36cf0c699c0ea084df68be88.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_MID.hd.webm/f1caa512ab1903e6a1fce55c1ee1d94f.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_MID.webm/31b279ca3a6738f737db7399da0c58ff.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_ULTRA.hd.webm/ddba55979a8b07342295152f1da7db99.webm",
+            "jmcs://jd-contents/JDMUTapDance/JDMUTapDance_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUTapDance/JDMUTapDance_ULTRA.webm/3a72e2dabf2c8f74b927e65fba3c040b.webm"
+        }
+    },
+    "JDMUWizard": {
+        "changelist": 299949,
+        "dataFolder": "8dde7f03-ab47-41a1-a7be-a69c2f85b0c3",
+        "urls": {
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard.ogg/50ae496f3799bd2ef38bf97882cf3dcf.ogg",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_HIGH.hd.webm/9713f2130aedeeaf8d643dca1b061640.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_HIGH.webm/7395c4ecaf9798531b72ff9ba8f8f401.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_LOW.hd.webm/a7b1d35e7db5456146a24e98e5eda033.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_LOW.webm/cdb797391689fe63295860f459f5657f.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_MID.hd.webm/46f5376446d72d8f3c01d668ee4dfc44.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_MID.webm/7bd1d1e9f2b5231a8b04451926d8c85f.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_ULTRA.hd.webm/bb858f6cea9e10cd5400516373495c8c.webm",
+            "jmcs://jd-contents/JDMUWizard/JDMUWizard_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUWizard/JDMUWizard_ULTRA.webm/f142ac8b149c4ff3b21c0c9c2e62a1ba.webm"
+        }
+    },
+    "JDMUZombie": {
+        "changelist": 299949,
+        "dataFolder": "d51abcfd-4b79-4454-b37f-ea0814195c02",
+        "urls": {
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie.ogg/bb66c5d5efce6a0f735291cb47fe3806.ogg",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_HIGH.hd.webm/b17c97fbfc9b9ed0759e31c1be271f2a.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_HIGH.webm/7cf4bb6a82e319da5edeabf6721b7cf6.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_LOW.hd.webm/d7d5019d5a6829d7571600dd2093e96c.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_LOW.webm/fd4bd366d0dbc827a44d17ba03f51762.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_MID.hd.webm/a8cd8c087e4b8f9185afaeaa2c5a2e5e.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_MID.webm/6a17464b7186e4f3a9e514342084671c.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_ULTRA.hd.webm/4f22dce9b69b49316ef0744a3483414b.webm",
+            "jmcs://jd-contents/JDMUZombie/JDMUZombie_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUZombie/JDMUZombie_ULTRA.webm/4b2aa2e729a2c1f614464e62b1ac0f7e.webm"
+        }
+    },
+    "JDMUnderwater": {
+        "changelist": 249889,
+        "dataFolder": "38c607da-fbe5-48f0-b7b2-67f63e3459d4",
+        "urls": {
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater.ogg/5bda4ab52c2d0178162cbc1df5570446.ogg",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_HIGH.hd.webm/c49f3d7c2c21a5ee867fbc0175adb8c5.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_HIGH.webm/6b094c4c457ae1bc3c12af83aaa5ccc8.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_LOW.hd.webm/5d60b2590713a30c4cdf66d87ef79f02.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_LOW.webm/8eded52de8dc2f4e078c93a6faf611a4.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_MID.hd.webm/0fb0658d8be1d9fa0e7ea352d1e9175f.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_MID.webm/d100f296951184a0a8f5eb4ca14ccedc.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_ULTRA.hd.webm/7896c276f61c890a45eac329d6dab53b.webm",
+            "jmcs://jd-contents/JDMUnderwater/JDMUnderwater_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMUnderwater/JDMUnderwater_ULTRA.webm/a8f7a87188e087aadd4baf0d552e9251.webm"
+        }
+    },
+    "JDMWestCoast": {
+        "changelist": 279847,
+        "dataFolder": "67634408-6096-4615-8e04-ab458c57720a",
+        "urls": {
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast.ogg/d175a8fe99fb4ec2f3dfe2da863fd958.ogg",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_HIGH.hd.webm/a4d752497f01cefdaedf2ebcc3877f32.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_HIGH.webm/c9b7b13c006f7d0b0695687e68f694be.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_LOW.hd.webm/40259d849e6a0fdf41cc2b424522a402.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_LOW.webm/d5db91d5c04f18012554888296704f49.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_MID.hd.webm/6158b244426464660b844db7b8d84e22.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_MID.webm/a449613bce29162928b3617f8797ac44.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_ULTRA.hd.webm/4464bb1c34e020f3612fe67b2ce0ec29.webm",
+            "jmcs://jd-contents/JDMWestCoast/JDMWestCoast_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMWestCoast/JDMWestCoast_ULTRA.webm/477957761114173a4792c9127d92d4d0.webm"
+        }
+    },
+    "JDMYodel": {
+        "changelist": 279847,
+        "dataFolder": "a58c59d7-8417-4021-a00f-35be4c85660c",
+        "urls": {
+            "jmcs://jd-contents/JDMYodel/JDMYodel.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel.ogg/27e6f20e3894f346a84c3dbf108233c2.ogg",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_HIGH.hd.webm/4bef77be5cfe34963300613caf4c83a4.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_HIGH.webm/d96f342b831e064e4ed49e5e3f85e680.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_LOW.hd.webm/3671034231420ddd12436b6fa06e54eb.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_LOW.webm/e23dbed6aceb7f96e7162a9cb8594636.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_MID.hd.webm/52e480292074d78504dff7a04f81d01a.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_MID.webm/d93683418a7a35da32e91b9c6d1c4372.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_ULTRA.hd.webm/d903c08b2d5d16692e6950eb451a456f.webm",
+            "jmcs://jd-contents/JDMYodel/JDMYodel_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYodel/JDMYodel_ULTRA.webm/954594f39ea6eb937436559b04bcb477.webm"
+        }
+    },
+    "JDMYoga": {
+        "changelist": 249889,
+        "dataFolder": "65f6149b-f41e-48c6-9813-ecec7d0530fe",
+        "urls": {
+            "jmcs://jd-contents/JDMYoga/JDMYoga.ogg": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga.ogg/dc7a68ae2821a0ccbfef89108401f3db.ogg",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_HIGH.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_HIGH.hd.webm/61e18aa8ef2096cdc7feac6dbf67902f.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_HIGH.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_HIGH.webm/8b6fc8727bc0463b693a0ed4ebfb3c0a.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_LOW.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_LOW.hd.webm/0279af3aac71bd4a10e246e713cd2108.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_LOW.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_LOW.webm/d020c6fd6d9f086d8d2c9f109b750b26.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_MID.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_MID.hd.webm/372f0678de72c4901d52af57e91cc94b.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_MID.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_MID.webm/1e0b89030434541663b5aea4b0d7cd89.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_ULTRA.hd.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_ULTRA.hd.webm/f3c248bf4771239cddead33eb9cd6eea.webm",
+            "jmcs://jd-contents/JDMYoga/JDMYoga_ULTRA.webm": "https://jd-s3.akamaized.net/private/dance-machine/JDMYoga/JDMYoga_ULTRA.webm/64dd0cd65c54a369a72d4b110ca2b33e.webm"
+        }
+    }
+}

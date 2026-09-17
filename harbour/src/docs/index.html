@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Harbour Docs</title>
+  <meta name="description" content="Harbour server documentation">
+  <!-- Docsify CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16/dist/katex.min.css">
+  <!-- Mermaid -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+  <style>
+    .mermaid { text-align: center; margin: 1rem 0; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      name: 'Harbour',
+      repo: 'jdmo-tech/harbour',
+      basePath: '/docs/',
+      loadSidebar: true,
+      loadNavbar: false,
+      subMaxLevel: 3,
+      auto2top: true,
+      coverpage: false,
+      notFoundPage: false,
+      search: {
+        placeholder: 'Search docs...',
+        maxAge: 86400000,
+        paths: 'auto',
+        depth: 3
+      },
+      formatUpdated: '{YYYY}-{MM}-{DD}',
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(function () {
+            // Convert mermaid code blocks to rendered diagrams
+            var pres = document.querySelectorAll('pre');
+            for (var i = 0; i < pres.length; i++) {
+              var code = pres[i].querySelector('code.lang-mermaid');
+              if (code) {
+                var pre = document.createElement('pre');
+                pre.className = 'mermaid';
+                pre.textContent = code.textContent.trim();
+                pres[i].parentNode.replaceChild(pre, pres[i]);
+              }
+            }
+            // Render any new mermaid elements
+            var els = document.querySelectorAll('.mermaid');
+            if (els.length && window.mermaid) {
+              mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
+              mermaid.run({ nodes: els });
+            }
+          });
+        }
+      ]
+    };
+  </script>
+
+  <!-- Docsify core + plugins (order matters: config first) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <!-- emoji plugin is built into docsify v4.13+ -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-katex@1"></script>
+</body>
+</html>

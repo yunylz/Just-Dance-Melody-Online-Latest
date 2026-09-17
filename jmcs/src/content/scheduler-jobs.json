@@ -1,0 +1,850 @@
+{
+    "cb-cleanup": [
+        {
+            "id": "b002e1da-6140-47f5-ad19-088d574acc03",
+            "interval": 10000,
+            "jobConfig": {
+                "batchInterval": 10,
+                "batchSize": 100,
+                "deleteBeforeTime": 1567296000
+            },
+            "name": "cb-cleanup",
+            "started": true
+        }
+    ],
+    "cb-ugc-migration": [],
+    "dancer-of-the-week-reset": [
+        {
+            "id": "77d6bfcb-d8d2-4fe3-a8b8-996d76c49b25",
+            "interval": 2000,
+            "jobConfig": {},
+            "name": "dancer-of-the-week-reset",
+            "started": true
+        }
+    ],
+    "map-history-clean": [],
+    "push-notifications": [
+        {
+            "id": "c9ac635b-eb74-4b0b-a369-c22046db0087",
+            "interval": 60000,
+            "jobConfig": {},
+            "name": "push-notification-scheduler",
+            "started": true
+        }
+    ],
+    "related-songs-reset": [
+        {
+            "id": "77f2ebdf-17a0-47a3-869d-e9cf3fdd656f",
+            "interval": 300000,
+            "jobConfig": {},
+            "name": "related-songs-reset",
+            "started": true
+        }
+    ],
+    "swift-migration": [
+        {
+            "id": "45882319-7d7d-4b92-a4f8-305fa614284f",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 10,
+                "migratorName": "avatars",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "avatars",
+            "started": false
+        },
+        {
+            "id": "2d391c12-22aa-4684-b178-a5887faabc7c",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 15,
+                "migratorName": "skins",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "skins",
+            "started": false
+        },
+        {
+            "id": "0af413df-30db-469c-8de8-c746c49ed2c1",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 10,
+                "migratorName": "wdf-bosses",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "wdf-bosses",
+            "started": false
+        },
+        {
+            "id": "772b8d1d-84a0-4793-81cf-627cb05707af",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 2,
+                "migratorName": "dance-machine",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "dance-machine",
+            "started": false
+        },
+        {
+            "id": "49692b30-f55b-4aa4-ada6-e4c49fbbcfe3",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 1,
+                "migratorName": "quests",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "quests",
+            "started": false
+        },
+        {
+            "id": "03df5637-1069-4af9-ad38-f33beb267f67",
+            "interval": 120000,
+            "jobConfig": {
+                "batchInterval": 120,
+                "batchSize": 1,
+                "migratorName": "maps",
+                "operation": "StartMigration",
+                "syncDescsFromUATJD2018": false,
+                "syncURLsFromUATJD2018": false
+            },
+            "name": "maps",
+            "started": false
+        }
+    ],
+    "tracking-server-events": [
+        {
+            "id": "19efc18c-7625-4a27-9003-24ab8b73e732",
+            "interval": 30000,
+            "jobConfig": {},
+            "name": "tracking-server-events",
+            "started": true
+        }
+    ],
+    "wdf-room": [
+        {
+            "id": "22945c4e-c491-44ae-9746-219c16ff4805",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "ps4",
+                                "x1",
+                                "nx",
+                                "ggp",
+                                "ps5",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 1,
+                "rangeMax": 50,
+                "rangeMin": 20,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "type": "medium",
+                "winPoints": 2
+            },
+            "name": "MediumMainJD2022",
+            "started": true
+        },
+        {
+            "id": "06c8d3db-9084-4fe1-8fe9-88cf37ad5194",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 3,
+                "rangeMax": 30,
+                "rangeMin": 0,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "type": "easy",
+                "winPoints": 3
+            },
+            "name": "EasyXoneJD2022",
+            "started": true
+        },
+        {
+            "id": "d143c6a5-620f-4b87-b12a-42ad787455a9",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 5,
+                "rangeMax": 70,
+                "rangeMin": 40,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "type": "hard",
+                "winPoints": 1
+            },
+            "name": "HardXoneJD2022",
+            "started": true
+        },
+        {
+            "id": "022516d2-1fa0-4157-ba5b-bdbf647a4e14",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "ps4",
+                                "x1",
+                                "nx",
+                                "ggp",
+                                "ps5",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 8,
+                "rangeMax": 70,
+                "rangeMin": 40,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "type": "hard",
+                "winPoints": 1
+            },
+            "name": "HardMainJD2021",
+            "started": true
+        },
+        {
+            "id": "f08bd05d-9bf9-4942-afb3-c061de615df6",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 9,
+                "rangeMax": 30,
+                "rangeMin": 0,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "type": "easy",
+                "winPoints": 3
+            },
+            "name": "EasyXoneJD2021",
+            "started": true
+        },
+        {
+            "id": "e5d643e8-3503-4774-bd06-2cb0b33f9d87",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 10,
+                "rangeMax": 50,
+                "rangeMin": 20,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "type": "medium",
+                "winPoints": 2
+            },
+            "name": "MediumXoneJD2021",
+            "started": true
+        },
+        {
+            "id": "b85a7ded-7062-4f67-87e5-32416c2c2c11",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 11,
+                "rangeMax": 70,
+                "rangeMin": 40,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "x1",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "type": "hard",
+                "winPoints": 1
+            },
+            "name": "HardXoneJD2021",
+            "started": true
+        },
+        {
+            "id": "e93734f8-adee-47bb-8869-bd6d34ff2b50",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2020"
+                            ],
+                            "platform": [
+                                "ggp",
+                                "nx",
+                                "ps4",
+                                "x1"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": true,
+                "priority": 12,
+                "roomConfigName": "MainJD2020config",
+                "roomGameVersion": "jd2020"
+            },
+            "name": "MainJD2020",
+            "started": true
+        },
+        {
+            "id": "8fcb9b07-5475-4802-aa75-4f0c49180e9b",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2020"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": true,
+                "priority": 13,
+                "roomConfigName": "MainJD2020config",
+                "roomGameVersion": "jd2020",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2020"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ]
+            },
+            "name": "XoneJD2020",
+            "started": true
+        },
+        {
+            "id": "64ee48a8-45c2-4621-8b62-72b63ca3fe6e",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2019"
+                            ],
+                            "platform": [
+                                "nx",
+                                "ps4",
+                                "x1",
+                                "wiiu"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": true,
+                "priority": 14,
+                "roomConfigName": "MainJD2019config",
+                "roomGameVersion": "jd2019"
+            },
+            "name": "MainJD2019",
+            "started": true
+        },
+        {
+            "id": "20980df8-ac60-40b1-a626-15a1dcb13403",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2019"
+                            ],
+                            "platform": [
+                                "wiiu"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": false,
+                "priority": 16,
+                "roomConfigName": "MainJD2019config",
+                "roomGameVersion": "jd2019"
+            },
+            "name": "WiiUJD2019",
+            "started": true
+        },
+        {
+            "id": "7dfe96f9-8497-4ede-b1b8-a1e52f713cf6",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2018"
+                            ],
+                            "platform": [
+                                "nx",
+                                "wiiu",
+                                "ps4",
+                                "x1"
+                            ]
+                        }
+                    ]
+                ],
+                "priority": 17,
+                "roomConfigName": "MainJD2018config",
+                "roomGameVersion": "jd2018"
+            },
+            "name": "MainJD2018",
+            "started": true
+        },
+        {
+            "id": "6b3de4e7-1cf8-4732-991c-2677edb69b3b",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2018"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": false,
+                "priority": 18,
+                "roomConfigName": "MainJD2018config",
+                "roomGameVersion": "jd2018",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2018"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ]
+            },
+            "name": "XoneJD2018",
+            "started": true
+        },
+        {
+            "id": "6face757-5672-47b3-bbfa-d6d74dfcb19a",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2017"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": false,
+                "priority": 20,
+                "roomConfigName": "MainJD2017config",
+                "roomGameVersion": "jd2017",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2017"
+                            ],
+                            "platform": [
+                                "x1"
+                            ]
+                        }
+                    ]
+                ]
+            },
+            "name": "XoneJD2017",
+            "started": true
+        },
+        {
+            "id": "951020d7-2471-4a7e-8369-e6e2b336f639",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": false,
+                "monitoring": false,
+                "priority": 22,
+                "roomConfigName": "onlyboss",
+                "roomGameVersion": "jd2020"
+            },
+            "name": "OnlyBoss",
+            "started": false
+        },
+        {
+            "id": "794ef14a-d86f-4e2b-ab0b-cc5790fd5e9c",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "ps4",
+                                "x1",
+                                "nx",
+                                "ggp",
+                                "ps5",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 7,
+                "rangeMax": 50,
+                "rangeMin": 20,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "type": "medium",
+                "winPoints": 2
+            },
+            "name": "MediumMainJD2021",
+            "started": true
+        },
+        {
+            "id": "6b3b5e62-cfd9-4d42-abfc-b4fda4b2ee26",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2021"
+                            ],
+                            "platform": [
+                                "ps4",
+                                "x1",
+                                "nx",
+                                "ggp",
+                                "ps5",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 6,
+                "rangeMax": 30,
+                "rangeMin": 0,
+                "roomConfigName": "MainJD2021config",
+                "roomGameVersion": "jd2021",
+                "type": "easy",
+                "winPoints": 3
+            },
+            "name": "EasyMainJD2021",
+            "started": true
+        },
+        {
+            "id": "21601ef9-22d3-4f35-a48a-dc4c6d6b4f21",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2022"
+                            ],
+                            "platform": [
+                                "ps4",
+                                "x1",
+                                "nx",
+                                "ggp",
+                                "ps5",
+                                "xboxsx"
+                            ]
+                        }
+                    ]
+                ],
+                "losePoints": 1,
+                "monitoring": true,
+                "priority": 0,
+                "rangeMax": 30,
+                "rangeMin": 0,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "type": "easy",
+                "winPoints": 3
+            },
+            "name": "EasyMainJD2022",
+            "started": true
+        },
+        {
+            "id": "abb0dfbe-30fe-48dc-852e-b6fa926368ae",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2017"
+                            ],
+                            "platform": [
+                                "pc"
+                            ]
+                        }
+                    ]
+                ],
+                "monitoring": false,
+                "priority": 21,
+                "roomConfigName": "MainJD2017config",
+                "roomGameVersion": "jd2017",
+                "singleSkuFilter": [
+                    [
+                        {
+                            "__class": "JD_CarouselSkuFilter",
+                            "gameVersion": [
+                                "jd2017"
+                            ],
+                            "platform": [
+                                "pc"
+                            ]
+                        }
+                    ]
+                ]
+            },
+            "name": "PCJD2017",
+            "started": true
+        },
+        {
+            "id": "56939f72-6d1b-48ec-9443-a09b07faea8e",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": false,
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 24,
+                "rangeMax": 1,
+                "rangeMin": 1,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "type": "easy",
+                "winPoints": 1
+            },
+            "name": "TestLaura",
+            "started": false
+        },
+        {
+            "id": "54d3a752-1e6f-4c72-b76c-7c0a88c4096f",
+            "interval": 2000,
+            "jobConfig": {
+                "filters": false,
+                "losePoints": 1,
+                "monitoring": false,
+                "priority": 25,
+                "rangeMax": 1,
+                "rangeMin": 1,
+                "roomConfigName": "MainJD2022config",
+                "roomGameVersion": "jd2022",
+                "type": "easy",
+                "winPoints": 1
+            },
+            "name": "Test",
+            "started": false
+        }
+    ]
+}

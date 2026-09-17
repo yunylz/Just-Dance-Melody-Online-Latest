@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JMCS Documentation</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/themes/vue.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+  <style>
+    .mermaid { text-align: center; margin: 1rem 0; }
+    table { display: table; width: 100%; border-collapse: collapse; }
+    table th, table td { padding: 8px 12px; border: 1px solid #ddd; text-align: left; }
+    table th { background: #f5f5f5; font-weight: 600; }
+    table tr:nth-child(even) { background: #fafafa; }
+    table code { white-space: nowrap; }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: "JMCS",
+      repo: "https://github.com/jdmo-tech/jmcs",
+      loadSidebar: true,
+      subMaxLevel: 3,
+      search: "auto",
+      plugins: [
+        function (hook) {
+          var infoCache = null;
+          hook.doneEach(function () {
+            // Populate environment/version from API
+            var infoEls = document.querySelectorAll('[data-info]');
+            if (infoEls.length) {
+              if (infoCache) {
+                infoEls.forEach(function (el) { el.textContent = infoCache[el.getAttribute('data-info')] || '?'; });
+              } else {
+                fetch('/status/v1/info')
+                  .then(function (r) { return r.json(); })
+                  .then(function (data) {
+                    infoCache = data;
+                    infoEls.forEach(function (el) { el.textContent = data[el.getAttribute('data-info')] || '?'; });
+                  })
+                  .catch(function () {});
+              }
+            }
+            // Convert mermaid code blocks to rendered diagrams
+            var pres = document.querySelectorAll('pre');
+            for (var i = 0; i < pres.length; i++) {
+              var code = pres[i].querySelector('code.lang-mermaid');
+              if (code) {
+                var pre = document.createElement('pre');
+                pre.className = 'mermaid';
+                pre.textContent = code.textContent.trim();
+                pres[i].parentNode.replaceChild(pre, pres[i]);
+              }
+            }
+            // Render any new mermaid elements
+            var els = document.querySelectorAll('.mermaid');
+            if (els.length && window.mermaid) {
+              mermaid.initialize({ startOnLoad: false, theme: 'neutral' });
+              mermaid.run({ nodes: els });
+            }
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"></script>
+</body>
+</html>

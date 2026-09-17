@@ -1,0 +1,56 @@
+{
+    "d87062ba-85ff-4fa5-9e86-2274fd97a8d8": {
+        "name": "DefaultSongPack", 
+        "songIds": [
+            "78d1c627-d449-4f25-b847-c71dd42b3624",
+            "eebccff6-19d0-452b-83e2-d48b53b43031",
+            "7462344f-f2ae-4041-9936-fbd1361356c2",
+            "de4840cf-c1bf-442e-b8af-23d3ae0f93d1",
+            "e6a14cbf-417b-4874-be2d-12e749b58058",
+            "1eb6c730-0045-4b74-93d7-22f5eceac264",
+            "df56ddc6-648c-4c93-b0b1-f8341c1f068a",
+            "09bf2b24-bb17-4a0d-874e-66d28f992215",
+            "eda99f2f-7701-476b-a6b4-0ba4d81bb5fa",
+            "11e61a1f-68f8-4bdd-a11b-b0d653efab83",
+            "6a72e47d-b7e7-482d-9bec-5f9d3feadec3",
+            "99d4799e-b949-4852-95ed-b2d615aa9402",
+            "a025a981-7c5d-4ad6-bd7e-5c73897d3dcf",
+            "5ca43845-fa4d-4618-b046-854701cae4ed",
+            "f94f8520-7553-40d9-a117-83edfa18a482",
+            "cde28808-1c3b-4259-8609-7e83dd460861",
+            "1772be08-3608-48dc-996c-b42b08ad382f",
+            "5df71fa5-36f4-4cdc-b50b-efc282f8cdd7",
+            "f442c25c-0801-45f9-a57a-85558bf434ae",
+            "08039fdb-dd63-4a06-aea5-c275be25d9f6",
+            "287450b8-1fa0-4b5b-8717-fac45e601c54",
+            "a231e52e-9dca-445f-b133-c9c336f630c5",
+            "880489a0-eb6c-4c06-99c8-a897f8f70d56",
+            "0d515b0f-5040-47b2-b729-5f4c0c51c3af",
+            "f653e7de-a61c-48af-9001-be8d96a96dd8",
+            "d13cc3b2-1fba-4c0c-a493-b81d3eec18d3",
+            "d5d6e57e-f388-4fde-b745-8fd87c28ef1a",
+            "fa10ad5b-55a2-4569-84de-f5a675019ea0",
+            "8f39a4aa-d486-4cbc-ba00-a988db99eea4",
+            "918db6f2-7ad1-4b7d-8926-08cf115ac97c",
+            "080dd82d-df95-4da1-a564-39be209d296a",
+            "27222e41-98f5-4e1a-8d09-648e97d37d5e"
+        ]
+    },
+    "3ed955b4-a221-4e0e-ace7-fdec5cdb8f2d": {
+        "name": "AlphaSongPackFull", 
+        "songIds": [
+            "5df71fa5-36f4-4cdc-b50b-efc282f8cdd7",
+            "ea071dda-4461-4da7-99d6-18ff231757a3",
+            "6a72e47d-b7e7-482d-9bec-5f9d3feadec3",
+            "0d515b0f-5040-47b2-b729-5f4c0c51c3af",
+            "99d4799e-b949-4852-95ed-b2d615aa9402",
+            "11e61a1f-68f8-4bdd-a11b-b0d653efab83",
+            "880489a0-eb6c-4c06-99c8-a897f8f70d56",
+            "cde28808-1c3b-4259-8609-7e83dd460861",
+            "fa10ad5b-55a2-4569-84de-f5a675019ea0",
+            "a231e52e-9dca-445f-b133-c9c336f630c5",
+            "287450b8-1fa0-4b5b-8717-fac45e601c54",
+            "2e1af2f3-a85e-4875-a7e5-c6f1241fdf1c"
+        ]
+    }
+}

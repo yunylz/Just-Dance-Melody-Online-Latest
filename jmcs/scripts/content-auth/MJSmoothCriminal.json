@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/MJSmoothCriminal/MJSmoothCriminal.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/MJSmoothCriminal/MJSmoothCriminal.ogg/5e17ab03dcf5e393ff2424906d773ab6.ogg",
+    "jmcs://jd-contents/MJSmoothCriminal/MJSmoothCriminal_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJSmoothCriminal/MJSmoothCriminal_ULTRA.hd.webm/55e17cde928414b0d09d8a9f60cd4ec0.webm",
+    "jmcs://jd-contents/MJSmoothCriminal/MJSmoothCriminal_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJSmoothCriminal/MJSmoothCriminal_HIGH.hd.webm/71fc0600d28405d0eb3301da9b241ecf.webm",
+    "jmcs://jd-contents/MJSmoothCriminal/MJSmoothCriminal_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJSmoothCriminal/MJSmoothCriminal_MID.hd.webm/ccad7054f8caf346719773aa63184438.webm",
+    "jmcs://jd-contents/MJSmoothCriminal/MJSmoothCriminal_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/MJSmoothCriminal/MJSmoothCriminal_LOW.hd.webm/e47f8a3c69bfeadbe7ed554dfe928995.webm"
+  }
+}

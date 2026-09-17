@@ -1,0 +1,120 @@
+{
+    "148984fb-575f-4d6b-a0dd-19241054f7a3": {
+        "lastUpdateTime": 1586530178000,
+        "type": "offlineReplaceable",
+        "uuid": "148984fb-575f-4d6b-a0dd-19241054f7a3"
+    },
+    "3676dc16-8b68-4858-98ea-3b92c8d7863c": {
+        "activationTime": 1624962300000,
+        "contentExpiry": 1625394600,
+        "filters": [
+            {
+                "__class": "JD_CarouselSkuFilter",
+                "gameVersion": [
+                    "jd2022"
+                ]
+            }
+        ],
+        "lastUpdateTime": 1624981382102,
+        "lockDuration": 432000,
+        "lockPosition": 3,
+        "locked": true,
+        "subtype": "news",
+        "text": 20003315,
+        "title": 20002161,
+        "trackingTag": "JD21_News_Online_Modes",
+        "type": "news",
+        "url": "https://jd-s3.akamaized.net/public/home/covers/article_OnlineModes/2eacf59a7cdef7c2b4b1f697bb42f8ad.png",
+        "uuid": "3676dc16-8b68-4858-98ea-3b92c8d7863c"
+    },
+    "3c87846d-0ceb-4295-8a5a-6e7343798c39": {
+        "lastUpdateTime": 1586530115000,
+        "type": "offlineReplaceable",
+        "uuid": "3c87846d-0ceb-4295-8a5a-6e7343798c39"
+    },
+    "67c001d3-b918-4056-a85b-3bfeddf84e55": {
+        "type": "offlineReplaceable",
+        "uuid": "67c001d3-b918-4056-a85b-3bfeddf84e55"
+    },
+    "6b0cf6a2-f8e0-4435-8e74-7cfec24dbfa6": {
+        "type": "offlineReplaceable",
+        "uuid": "6b0cf6a2-f8e0-4435-8e74-7cfec24dbfa6"
+    },
+    "87c6bd46-c1e2-4d14-9b25-9f4ee6335c7b": {
+        "lastUpdateTime": 1628684578000,
+        "type": "offlineReplaceable",
+        "uuid": "87c6bd46-c1e2-4d14-9b25-9f4ee6335c7b"
+    },
+    "938021f8-aa2a-40c9-89ee-0790a4acbbe4": {
+        "lastUpdateTime": 1586530143000,
+        "type": "offlineReplaceable",
+        "uuid": "938021f8-aa2a-40c9-89ee-0790a4acbbe4"
+    },
+    "991653dc-0008-454c-937e-972577a022df": {
+        "type": "offlineReplaceable",
+        "uuid": "991653dc-0008-454c-937e-972577a022df"
+    },
+    "bf568499-d4a7-444e-b2f1-7233e1b3bbd7": {
+        "lastUpdateTime": 1586530126000,
+        "type": "offlineReplaceable",
+        "uuid": "bf568499-d4a7-444e-b2f1-7233e1b3bbd7"
+    },
+    "de58fb21-d579-4879-b802-9c8867c6b59f": {
+        "lastUpdateTime": 1624002995000,
+        "type": "offlineReplaceable",
+        "uuid": "de58fb21-d579-4879-b802-9c8867c6b59f"
+    },
+    "eb22378a-18c0-4e57-a6c4-951d60162580": {
+        "activationTime": 1605006600000,
+        "contentExpiry": 1672527540,
+        "filters": [
+            {
+                "__class": "JD_CarouselSkuFilter",
+                "gameVersion": [
+                    "jd2020",
+                    "jd2021",
+                    "jd2022"
+                ]
+            }
+        ],
+        "lastUpdateTime": 1628684434659,
+        "lockDuration": 86400000,
+        "lockPosition": 3,
+        "locked": true,
+        "subtype": "Tips",
+        "text": null,
+        "title": null,
+        "trackingTag": "",
+        "type": "news",
+        "url": null,
+        "uuid": "eb22378a-18c0-4e57-a6c4-951d60162580"
+    },
+    "f44a613a-3cd8-4bec-b3a5-c4d4646739c2": {
+        "type": "offlineReplaceable",
+        "uuid": "f44a613a-3cd8-4bec-b3a5-c4d4646739c2"
+    },
+    "ffc4c53e-6412-4b5d-ac4d-03c4a8e5c178": {
+        "activationTime": 1570701600000,
+        "contentExpiry": 1761994800,
+        "filters": [
+            {
+                "__class": "JD_CarouselSkuFilter",
+                "gameVersion": [
+                    "jd2020",
+                    "jd2021"
+                ]
+            }
+        ],
+        "lastUpdateTime": 1603840071168,
+        "lockDuration": 8639913600,
+        "lockPosition": 3,
+        "locked": true,
+        "subtype": "Tips",
+        "text": null,
+        "title": null,
+        "trackingTag": "",
+        "type": "news",
+        "url": null,
+        "uuid": "ffc4c53e-6412-4b5d-ac4d-03c4a8e5c178"
+    }
+}

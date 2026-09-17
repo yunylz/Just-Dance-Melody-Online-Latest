@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harbour Dashboard</title>
+    <link rel="stylesheet" href="assets/style.css">
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+</head>
+
+<body>
+    <div class="app-layout">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-logo">
+                    <i data-lucide="anchor" class="logo-icon"></i>
+                    Harbour
+                </div>
+                <div class="sidebar-sub">Admin Dashboard</div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-section-label">Overview</div>
+                <div class="nav-item active" data-page="sessions" onclick="navigate(this)">
+                    <i data-lucide="activity" class="nav-icon"></i>
+                    Sessions
+                    <span class="nav-badge" id="session-count">0</span>
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-section-label">Registry</div>
+                <div class="nav-item" data-page="apps" onclick="navigate(this)">
+                    <i data-lucide="package" class="nav-icon"></i>
+                    Apps
+                </div>
+                <div class="nav-item" data-page="spaces" onclick="navigate(this)">
+                    <i data-lucide="globe" class="nav-icon"></i>
+                    Spaces
+                </div>
+                <div class="nav-item" data-page="entities" onclick="navigate(this)">
+                    <i data-lucide="layers" class="nav-icon"></i>
+                    Entities
+                </div>
+                <div class="nav-item" data-page="config" onclick="navigate(this)">
+                    <i data-lucide="settings" class="nav-icon"></i>
+                    Configuration
+                </div>
+                <div class="nav-item" data-page="parameters" onclick="navigate(this)">
+                    <i data-lucide="sliders" class="nav-icon"></i>
+                    Parameters
+                </div>
+            </div>
+
+            <div class="sidebar-section">
+                <div class="sidebar-section-label">Tools</div>
+                <div class="nav-item" data-page="tickets" onclick="navigate(this)">
+                    <i data-lucide="key" class="nav-icon"></i>
+                    Tickets
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="user-info" id="user-profile" style="display:none">
+                    <div class="user-avatar" id="user-avatar">?</div>
+                    <div class="user-details">
+                        <div class="user-name" id="user-name">Admin</div>
+                        <div class="user-email" id="user-email">...</div>
+                    </div>
+                </div>
+                <div class="nav-item" onclick="logout()" style="color:var(--text-3)">
+                    <i data-lucide="log-out" class="nav-icon"></i>
+                    Sign out
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main -->
+        <div class="main-content">
+            <div class="topbar">
+                <div>
+                    <div class="topbar-title" id="page-title">Sessions</div>
+                    <div class="topbar-subtitle" id="page-subtitle">Active player sessions</div>
+                </div>
+                <div class="flex gap-2 ml-auto" id="topbar-actions"></div>
+            </div>
+
+            <!-- Sessions -->
+            <div class="page active" id="page-sessions">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon-wrap"><i data-lucide="activity" class="stat-icon-svg"></i></div>
+                        <div class="stat-value" id="stat-sessions">—</div>
+                        <div class="stat-label">Active Sessions</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrap"><i data-lucide="package" class="stat-icon-svg"></i></div>
+                        <div class="stat-value" id="stat-apps">—</div>
+                        <div class="stat-label">Registered Apps</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrap"><i data-lucide="globe" class="stat-icon-svg"></i></div>
+                        <div class="stat-value" id="stat-spaces">—</div>
+                        <div class="stat-label">Spaces</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrap"><i data-lucide="layers" class="stat-icon-svg"></i></div>
+                        <div class="stat-value" id="stat-entities">—</div>
+                        <div class="stat-label">Entities</div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Active Sessions</h2>
+                        <button class="btn btn-ghost btn-sm ml-auto" onclick="loadSessions()">
+                            <i data-lucide="refresh-cw" style="width:13px;height:13px"></i>
+                            Refresh
+                        </button>
+                    </div>
+                    <div class="table-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Session ID</th>
+                                    <th>User</th>
+                                    <th>Platform</th>
+                                    <th>App ID</th>
+                                    <th>Expires</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="sessions-tbody">
+                                <tr>
+                                    <td colspan="6">
+                                        <div class="empty-state">
+                                            <p>Loading…</p>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Apps -->
+            <div class="page" id="page-apps">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Applications</h2>
+                        <button class="btn btn-primary btn-sm ml-auto" onclick="openAppModal()">
+                            <i data-lucide="plus" style="width:14px;height:14px"></i>
+                            New App
+                        </button>
+                    </div>
+                    <div class="table-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>App ID</th>
+                                    <th>Platform</th>
+                                    <th>Space ID</th>
+                                    <th>Game Code</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="apps-tbody">
+                                <tr>
+                                    <td colspan="6">
+                                        <div class="empty-state">
+                                            <p>Loading…</p>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Spaces -->
+            <div class="page" id="page-spaces">
+                <div class="flex gap-4" style="align-items:flex-start">
+                    <div class="card" style="width:300px;flex-shrink:0">
+                        <div class="card-header">
+                            <h2>Space Tree</h2>
+                            <button class="btn btn-primary btn-sm ml-auto" onclick="openSpaceModal()">
+                                <i data-lucide="plus" style="width:14px;height:14px"></i>
+                            </button>
+                        </div>
+                        <div class="card-body" id="space-tree" style="padding:8px">
+                            <p style="color:var(--text-3);font-size:12px">Loading…</p>
+                        </div>
+                    </div>
+                    <div class="card" style="flex:1" id="space-detail-card">
+                        <div class="card-header">
+                            <h2>Select a space</h2>
+                        </div>
+                        <div class="card-body">
+                            <p style="color:var(--text-3);font-size:13px">Click a space in the tree to view and edit its
+                                details.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Entities -->
+            <div class="page" id="page-entities">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Entities</h2>
+                        <select class="form-select" id="entity-space-select" onchange="loadEntities()"
+                            style="width:240px;margin-left:12px">
+                            <option value="">Select a space…</option>
+                        </select>
+                        <button class="btn btn-primary btn-sm ml-auto" onclick="openEntityModal()">
+                            <i data-lucide="plus" style="width:14px;height:14px"></i>
+                            New Entity
+                        </button>
+                    </div>
+                    <div class="table-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Type</th>
+                                    <th>Entity ID</th>
+                                    <th>Tags</th>
+                                    <th>Modified</th>
+                                    <th>Rev</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="entities-tbody">
+                                <tr>
+                                    <td colspan="7">
+                                        <div class="empty-state">
+                                            <p>Select a space to view entities.</p>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Configuration -->
+            <div class="page" id="page-config">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>App Configuration</h2>
+                        <select class="form-select" id="config-app-select" onchange="loadConfig()"
+                            style="width:240px;margin-left:12px">
+                            <option value="">Select an app…</option>
+                        </select>
+                    </div>
+                    <div class="card-body" style="display:flex;flex-direction:column;gap:12px">
+                        <p style="font-size:12px;color:var(--text-2)">Edit the full configuration JSON.
+                            <code>platformConfig</code> is auto-injected from app fields — no need to include it here.
+                        </p>
+                        <textarea class="json-editor" id="config-editor"
+                            placeholder="Select an app above to load its configuration…"></textarea>
+                        <p class="login-error" id="config-error"></p>
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-ghost" onclick="resetConfig()">
+                            <i data-lucide="rotate-ccw" style="width:13px;height:13px"></i>
+                            Reset
+                        </button>
+                        <button class="btn btn-primary btn-sm ml-auto" onclick="saveConfig()">
+                            <i data-lucide="save" style="width:13px;height:13px"></i>
+                            Save configuration
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Parameters -->
+            <div class="page" id="page-parameters">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Parameters</h2>
+                        <div class="flex gap-2 ml-4">
+                            <button class="btn btn-primary btn-xs" id="params-mode-app"
+                                onclick="setParamsMode('app')">Apps</button>
+                            <button class="btn btn-ghost btn-xs" id="params-mode-space"
+                                onclick="setParamsMode('space')">Spaces</button>
+                        </div>
+                        <select class="form-select ml-auto" id="params-target-select" onchange="loadParameters()"
+                            style="width:280px">
+                            <option value="">Select a target…</option>
+                        </select>
+                    </div>
+                    <div class="card-body">
+                        <textarea class="json-editor" id="params-editor" style="min-height:500px"
+                            placeholder="Select a target above to load parameters…"></textarea>
+                        <p class="login-error" id="params-error"></p>
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-primary btn-sm ml-auto" onclick="saveParameters()">
+                            <i data-lucide="save" style="width:13px;height:13px"></i>
+                            Save Parameters
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ticket Tools -->
+            <div class="page" id="page-tickets">
+                <div class="ticket-panels">
+                    <div class="card">
+                        <div class="card-header">
+                            <i data-lucide="unlock" class="nav-icon" style="color:var(--green)"></i>
+                            <h2>Decrypt Ticket</h2>
+                        </div>
+                        <div class="card-body" style="display:flex;flex-direction:column;gap:12px">
+                            <div class="form-group">
+                                <label class="form-label">Harbour Ticket (JWT)</label>
+                                <textarea class="json-editor" id="decrypt-input" placeholder="Paste ticket here…"
+                                    style="min-height:100px"></textarea>
+                            </div>
+                            <button class="btn btn-success btn-sm" onclick="decryptTicket()">
+                                <i data-lucide="search" style="width:14px;height:14px"></i>
+                                Decrypt
+                            </button>
+                            <div id="decrypt-result" style="display:none">
+                                <h3 style="margin-bottom:8px">Claims</h3>
+                                <table class="claims-table" style="width:100%">
+                                    <tbody id="claims-tbody"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <i data-lucide="lock" class="nav-icon" style="color:var(--accent-2)"></i>
+                            <h2>Create Ticket</h2>
+                        </div>
+                        <div class="card-body" style="display:flex;flex-direction:column;gap:12px">
+                            <p style="font-size:12px;color:var(--text-2)">Fields: <code>profile</code>,
+                                <code>app</code>, <code>platform</code>, <code>sessionId</code>, <code>isS2s</code>.
+                            </p>
+                            <div class="form-group">
+                                <label class="form-label">Payload JSON</label>
+                                <textarea class="json-editor" id="encrypt-input" style="min-height:160px">{
+  "profile": { "userId": "", "profileId": "" },
+  "app": { "appId": "", "spaceId": "" },
+  "platform": { "id": "nx" },
+  "isS2s": false
+}</textarea>
+                            </div>
+                            <button class="btn btn-primary btn-sm" onclick="encryptTicket()">
+                                <i data-lucide="zap" style="width:14px;height:14px"></i>
+                                Generate Ticket
+                            </button>
+                            <div id="encrypt-result" style="display:none">
+                                <div class="form-group">
+                                    <label class="form-label">Generated Ticket</label>
+                                    <textarea class="json-editor" id="ticket-output" readonly
+                                        style="min-height:80px"></textarea>
+                                </div>
+                                <button class="btn btn-ghost btn-sm" onclick="copyTicket()">
+                                    <i data-lucide="clipboard" style="width:13px;height:13px"></i>
+                                    Copy
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- App Modal -->
+    <div class="modal-overlay hidden" id="app-modal-overlay" onclick="closeModal('app-modal-overlay')">
+        <div class="modal" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <h2 id="app-modal-title">New App</h2>
+                <button class="modal-close" onclick="closeModal('app-modal-overlay')">
+                    <i data-lucide="x" style="width:18px;height:18px"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="app-editing-id">
+                <div class="form-grid form-grid-2">
+                    <div class="form-group">
+                        <label class="form-label">App ID (UUID)</label>
+                        <input class="form-input" id="app-appId" placeholder="auto-generated">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Name *</label>
+                        <input class="form-input" id="app-name" placeholder="Just Dance 2022">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Platform *</label>
+                        <select class="form-select" id="app-platform"></select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Space ID</label>
+                        <input class="form-input" id="app-spaceId" placeholder="UUID">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Uplay Game Code</label>
+                        <input class="form-input" id="app-gameCode" placeholder="JD2022">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Build ID</label>
+                        <input class="form-input" id="app-buildId">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">User Agent</label>
+                    <input class="form-input" id="app-userAgent" placeholder="UbiServices_SDK_HTTP_Client_…">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-ghost" onclick="closeModal('app-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary btn-sm" onclick="saveApp()">
+                    <i data-lucide="save" style="width:14px;height:14px"></i>
+                    Save App
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Space Modal -->
+    <div class="modal-overlay hidden" id="space-modal-overlay" onclick="closeModal('space-modal-overlay')">
+        <div class="modal" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <h2 id="space-modal-title">New Space</h2>
+                <button class="modal-close" onclick="closeModal('space-modal-overlay')">
+                    <i data-lucide="x" style="width:18px;height:18px"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="space-editing-id">
+                <div class="form-grid form-grid-2">
+                    <div class="form-group">
+                        <label class="form-label">Space Name *</label>
+                        <input class="form-input" id="space-name">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Space Type</label>
+                        <select class="form-select" id="space-type">
+                            <option value="brand">brand</option>
+                            <option value="installment">installment</option>
+                            <option value="title" selected>title</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Platform Type</label>
+                        <input class="form-input" id="space-platformType" placeholder="NX, PS4, …">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Release Type</label>
+                        <input class="form-input" id="space-releaseType" placeholder="RETAIL">
+                    </div>
+                    <div class="form-group" style="grid-column:1/-1">
+                        <label class="form-label">Parent Space ID</label>
+                        <input class="form-input" id="space-parentId" placeholder="UUID">
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-ghost" onclick="closeModal('space-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary btn-sm" onclick="saveSpace()">
+                    <i data-lucide="save" style="width:14px;height:14px"></i>
+                    Save Space
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Entity Modal -->
+    <div id="entity-modal-overlay" class="modal-overlay hidden" onclick="closeModal('entity-modal-overlay')">
+        <div class="modal card" style="max-width:600px" onclick="event.stopPropagation()">
+            <div class="card-header">
+                <h2 id="entity-modal-title">New Entity</h2>
+                <button class="btn btn-ghost btn-sm btn-icon ml-auto" onclick="closeModal('entity-modal-overlay')"><i
+                        data-lucide="x"></i></button>
+            </div>
+            <div class="card-body">
+                <input type="hidden" id="entity-editing-id">
+                <div class="form-grid form-grid-2">
+                    <div class="form-group">
+                        <label class="form-label">Name *</label>
+                        <input class="form-input" id="entity-name" placeholder="e.g. settings">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Type *</label>
+                        <input class="form-input" id="entity-type" placeholder="e.g. config">
+                    </div>
+                    <div class="form-group" style="grid-column:1/-1">
+                        <label class="form-label">Tags (comma separated)</label>
+                        <input class="form-input" id="entity-tags" placeholder="tag1, tag2">
+                    </div>
+                    <div class="form-group" style="grid-column:1/-1">
+                        <label class="form-label">Object (JSON)</label>
+                        <textarea class="json-editor" id="entity-obj" style="min-height:200px">{}</textarea>
+                    </div>
+                </div>
+                <div id="entity-error" class="error-text"></div>
+            </div>
+            <div class="card-footer flex-end">
+                <button class="btn btn-ghost" onclick="closeModal('entity-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary" onclick="saveEntity()">Save Entity</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Event Config Modal -->
+    <div id="event-config-modal-overlay" class="modal-overlay hidden"
+        onclick="closeModal('event-config-modal-overlay')">
+        <div class="modal card" style="max-width:640px" onclick="event.stopPropagation()">
+            <div class="card-header">
+                <h2 id="event-config-modal-title">Event Configuration</h2>
+                <button class="btn btn-ghost btn-sm btn-icon ml-auto"
+                    onclick="closeModal('event-config-modal-overlay')"><i data-lucide="x"></i></button>
+            </div>
+            <div class="card-body">
+                <input type="hidden" id="event-config-space-id">
+                <div class="form-group">
+                    <label class="form-label">Event Types (comma separated)</label>
+                    <textarea class="json-editor" id="event-config-types" style="min-height:80px"
+                        placeholder="player.start, game.start..."></textarea>
+                </div>
+                <div class="form-grid-3">
+                    <div class="form-group">
+                        <label class="form-label">S2S Max Batch</label>
+                        <input type="number" class="form-input" id="event-config-s2s-maxBatchSize">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">S2S Send Period (s)</label>
+                        <input type="number" class="form-input" id="event-config-s2s-sendPeriod">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">S2S Player Period (s)</label>
+                        <input type="number" class="form-input" id="event-config-s2s-sendPlayerEventsPeriod">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Public Send Period (s)</label>
+                    <input type="number" class="form-input" id="event-config-public-sendPeriod">
+                </div>
+                <div class="form-group" style="display:flex; align-items:center; gap:8px">
+                    <input type="checkbox" id="event-config-public-hmacEnabled">
+                    <label class="form-label" for="event-config-public-hmacEnabled" style="margin:0">Public HMAC
+                        Enabled</label>
+                </div>
+                <div id="event-config-error" class="error-text"></div>
+            </div>
+            <div class="card-footer flex-end">
+                <button class="btn btn-ghost" onclick="closeModal('event-config-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary" onclick="saveEventConfig()">Save Configuration</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Population Modal -->
+    <div id="population-modal-overlay" class="modal-overlay hidden" onclick="closeModal('population-modal-overlay')">
+        <div class="modal card" style="max-width:500px" onclick="event.stopPropagation()">
+            <div class="card-header">
+                <h2 id="population-modal-title">Edit Population</h2>
+                <button class="btn btn-ghost btn-sm btn-icon ml-auto"
+                    onclick="closeModal('population-modal-overlay')"><i data-lucide="x"></i></button>
+            </div>
+            <div class="card-body">
+                <input type="hidden" id="population-editing-id">
+                <div class="form-group">
+                    <label class="form-label">Name</label>
+                    <input type="text" class="form-input" id="population-name" placeholder="e.g. All Players">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Subject</label>
+                    <input type="text" class="form-input" id="population-subject" placeholder="e.g. player">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Object (JSON)</label>
+                    <textarea class="json-editor" id="population-obj" style="min-height:160px">{}</textarea>
+                </div>
+                <div id="population-error" class="error-text"></div>
+            </div>
+            <div class="card-footer flex-end">
+                <button class="btn btn-ghost" onclick="closeModal('population-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary" onclick="savePopulation()">Save Population</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Action Modal -->
+    <div id="action-modal-overlay" class="modal-overlay hidden" onclick="closeModal('action-modal-overlay')">
+        <div class="modal card" style="max-width:500px" onclick="event.stopPropagation()">
+            <div class="card-header">
+                <h2 id="action-modal-title">Edit Action</h2>
+                <button class="btn btn-ghost btn-sm btn-icon ml-auto" onclick="closeModal('action-modal-overlay')"><i
+                        data-lucide="x"></i></button>
+            </div>
+            <div class="card-body">
+                <input type="hidden" id="action-editing-id">
+                <div class="form-group">
+                    <label class="form-label">ID</label>
+                    <input type="text" class="form-input" id="action-id" placeholder="e.g. ACTION_01">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Name</label>
+                    <input type="text" class="form-input" id="action-name">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">XP</label>
+                    <input type="number" class="form-input" id="action-xp">
+                </div>
+                <div class="form-group" style="display:flex; align-items:center; gap:8px">
+                    <input type="checkbox" id="action-isBadge">
+                    <label class="form-label" for="action-isBadge" style="margin:0">Is Badge</label>
+                </div>
+                <div id="action-error" class="error-text"></div>
+            </div>
+            <div class="card-footer flex-end">
+                <button class="btn btn-ghost" onclick="closeModal('action-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary" onclick="saveAction()">Save Action</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reward Modal -->
+    <div id="reward-modal-overlay" class="modal-overlay hidden" onclick="closeModal('reward-modal-overlay')">
+        <div class="modal card" style="max-width:500px" onclick="event.stopPropagation()">
+            <div class="card-header">
+                <h2 id="reward-modal-title">Edit Reward</h2>
+                <button class="btn btn-ghost btn-sm btn-icon ml-auto" onclick="closeModal('reward-modal-overlay')"><i
+                        data-lucide="x"></i></button>
+            </div>
+            <div class="card-body">
+                <input type="hidden" id="reward-editing-id">
+                <div class="form-group">
+                    <label class="form-label">ID</label>
+                    <input type="text" class="form-input" id="reward-id">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Name</label>
+                    <input type="text" class="form-input" id="reward-name">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">XP</label>
+                    <input type="number" class="form-input" id="reward-xp">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Type Name</label>
+                    <input type="text" class="form-input" id="reward-typeName" placeholder="e.g. Virtual Item">
+                </div>
+                <div id="reward-error" class="error-text"></div>
+            </div>
+            <div class="card-footer flex-end">
+                <button class="btn btn-ghost" onclick="closeModal('reward-modal-overlay')">Cancel</button>
+                <button class="btn btn-primary" onclick="saveReward()">Save Reward</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hub User Modal -->
+    <div id="hub-user-modal-overlay" class="modal-overlay hidden" onclick="closeModal('hub-user-modal-overlay')">
+        <div class="modal" style="max-width:700px" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <h2>Hub User Data</h2>
+                <button class="modal-close" onclick="closeModal('hub-user-modal-overlay')">
+                    <i data-lucide="x" style="width:18px;height:18px"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <textarea class="json-editor" id="hub-user-json" readonly
+                    style="min-height:450px; font-size:11px"></textarea>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary btn-sm" onclick="closeModal('hub-user-modal-overlay')">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast-container" id="toasts"></div>
+    <script src="assets/app.js"></script>
+    <script>lucide.createIcons();</script>
+</body>
+
+</html>

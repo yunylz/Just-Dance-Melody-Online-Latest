@@ -1,0 +1,49 @@
+{
+    "poolsWithEntries": [
+        {
+            "entries": [
+                "31bc5f97-359b-4a00-a15c-49093fa8e0f0",
+                "6f9f8bfb-a657-4b71-b3ae-d0f8879748a0",
+                "b9a50d18-4d82-403c-aaa5-59ea4c6bd34d",
+                "d8c4823f-d657-4188-b2f0-5261aaf9dd0e"
+            ],
+            "name": "Priority1_CountDown",
+            "newsCount": 8,
+            "position": 0
+        },
+        {
+            "entries": [
+                "100b7ce4-70dc-4851-bbe2-0da995324eb5",
+                "1242f0b5-ca12-42fa-b5d5-39ea0f409242",
+                "163387db-0160-4e53-98f9-b384f348de61",
+                "1f651531-f3fb-4788-b331-b8eda8296e1e",
+                "26e6f0d9-e567-4b9b-bd26-84428e70fe68",
+                "3901a23f-8aa9-4b61-a32e-60666295c156",
+                "5e7ceb93-f332-4b6d-9182-e7f9b5c1b423",
+                "793603b0-83c9-4e9d-ab9b-1ba7239e7a48",
+                "7e83cc54-5953-45fb-bee7-67b4d9d30f9a",
+                "916d9f77-09fe-4441-adf0-1bdec69f1e7b",
+                "a287c67c-8a13-42ed-84ff-51b3e878da69",
+                "c0732845-f326-406a-8944-a805e142945b",
+                "cc9b7f11-7d54-459e-967f-3c905b30a088",
+                "d4d1e916-eeca-472c-b2d4-e3bc5715ef42",
+                "fa86ca2e-6c6b-4f02-8eba-f7e2b9b52c84"
+            ],
+            "name": "Priority2_Stats",
+            "newsCount": 7,
+            "position": 1
+        },
+        {
+            "entries": [],
+            "name": "Priority3_Tips",
+            "newsCount": 2,
+            "position": 2
+        },
+        {
+            "entries": [],
+            "name": "Test",
+            "newsCount": 0,
+            "position": 3
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Hello,
+
+Your account was deleted from the Hub.
+
+Reason: {{reason}}
+
+From now on, you will not be able to access the Hub. All your linked consoles will be unlinked and deleted from the games as well. You won't be able to go online in any of the games that we support as long as you use our method of connecting.
+
+All of your data was erased and no longer exists in our system.
+
+- RyuAtelier Team

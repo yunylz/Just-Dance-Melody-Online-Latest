@@ -1,0 +1,11 @@
+Hello,
+
+You have been banned from Just Dance Melody Online Hub.
+
+Reason: {{reason}}
+
+From now on, you will not be able to access the Hub. All your linked consoles will be unlinked and banned from the games as well. You won't be able to go online in any of the games that we support as long as you use our method of connecting.
+
+If you think this is a mistake and you would like to appeal this ban, please contact us at hello@c0llydoll.dev
+
+- JDMO Team

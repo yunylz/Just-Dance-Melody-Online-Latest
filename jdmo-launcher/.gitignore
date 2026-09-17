@@ -1,0 +1,33 @@
+# ── Secrets ──
+.env
+.jd2017-settings.json
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.spec
+
+# ── Virtual environment ──
+.venv/
+venv/
+
+# ── Launcher data ──
+.jdmo-launcher/
+
+# ── IDE / Editor ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── Tools temp files ──
+tools/__pycache__/

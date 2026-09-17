@@ -1,0 +1,1112 @@
+{
+    "__class": "OnlineQuestDb",
+    "quests": [
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/29/quest_logo.png/338798c51107cf010220f72c654ca171.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/nx/quest_cover.tga.ckd/8dd9436809e5d7224eef8fa8e79e7a9e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/nx/quest_logo.tga.ckd/6ecdf5a5eb9dd08e4072f39792eed3fe.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/nx/quest_logo_shaded.tga.ckd/3994c0d72fb0a2babcc6fa7d40c68dcf.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_cover.tga.ckd/159924ac35e6a6a2c1f23da728d486cc.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_logo.tga.ckd/dbcd6b999232ab1e0abf5e21920472f0.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_logo_shaded.tga.ckd/13f2bd9d8f3179633b563787d623185d.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/ps4/quest_cover.tga.ckd/159924ac35e6a6a2c1f23da728d486cc.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/ps4/quest_logo.tga.ckd/0fdc68fe211eac1eb9abaa33c6089cb5.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/ps4/quest_logo_shaded.tga.ckd/22c27351a88bda089f40b55d18f0d0a3.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/wiiu/quest_cover.tga.ckd/2d3c9734b5eba73449874cd3297ed373.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/wiiu/quest_logo.tga.ckd/a46d79f50610250b0a9844d73de9e853.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/wiiu/quest_logo_shaded.tga.ckd/f3ccb311cc7eddc419e939fed14d8f87.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/x1/quest_cover.tga.ckd/159924ac35e6a6a2c1f23da728d486cc.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/x1/quest_logo.tga.ckd/0fdc68fe211eac1eb9abaa33c6089cb5.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/x1/quest_logo_shaded.tga.ckd/22c27351a88bda089f40b55d18f0d0a3.ckd"
+                    }
+                }
+            },
+            "id": "29",
+            "locked": 0,
+            "playlist": [
+                "FindYourMove",
+                "MrSaxobeat",
+                "WakeMeUpALT"
+            ],
+            "title": "Watermelon"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/28/quest_logo.png/24d1ec60e83494e05969e83ed7d4e74d.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/28/nx/quest_cover.tga.ckd/0799abf9efecb80baba6fad011897dec.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/28/nx/quest_logo.tga.ckd/d543dfe014d16b662a86a19cf35b45ad.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/28/nx/quest_logo_shaded.tga.ckd/3554d85c8b48254eaf4fc9faf478b9a6.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/28/pc/quest_cover.tga.ckd/9b879d2b3207d89c32cc0fc0baaf3baf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/28/pc/quest_logo.tga.ckd/7d11df956cb40aae9f30666a640aed95.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/28/pc/quest_logo_shaded.tga.ckd/95a627e06ae3e962f713367014815524.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/28/ps4/quest_cover.tga.ckd/9b879d2b3207d89c32cc0fc0baaf3baf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/28/ps4/quest_logo.tga.ckd/7220b220407696c7298039c48bbc5ff0.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/28/ps4/quest_logo_shaded.tga.ckd/a00aea1d62e5241803bfc5e2ff1e3cf2.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/28/wiiu/quest_cover.tga.ckd/66858a772c4268951fe7e68ec36fda08.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/28/wiiu/quest_logo.tga.ckd/3e66e1c65187e6d66fa3d26f1ad6342f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/28/wiiu/quest_logo_shaded.tga.ckd/1c7a9e6f2f4eeb0458b75a0f8db9be8b.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/28/x1/quest_cover.tga.ckd/9b879d2b3207d89c32cc0fc0baaf3baf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/28/x1/quest_logo.tga.ckd/7220b220407696c7298039c48bbc5ff0.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/28/x1/quest_logo_shaded.tga.ckd/a00aea1d62e5241803bfc5e2ff1e3cf2.ckd"
+                    }
+                }
+            },
+            "id": "28",
+            "locked": 0,
+            "playlist": [
+                "BreakFreeDLC",
+                "KaboomPow",
+                "HowDeep"
+            ],
+            "title": "Comics"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/27/quest_logo.png/bf3cec27e8de577f657208cfd51d932e.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/nx/quest_cover.tga.ckd/83aa2ea8731d3a459c898db8cc858c48.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/nx/quest_logo.tga.ckd/37bba74343e2ab56427c786b7889b92d.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/nx/quest_logo_shaded.tga.ckd/f490c98b4a7b316a123b7d1611304af7.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_cover.tga.ckd/7091424e7cbb1da6b736bb7ffea9ff34.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_logo.tga.ckd/82b818785da971cbba0d262da0cd1a73.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_logo_shaded.tga.ckd/ce1e9c6e49a146ff5222082d112e6b24.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/ps4/quest_cover.tga.ckd/7091424e7cbb1da6b736bb7ffea9ff34.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/ps4/quest_logo.tga.ckd/76bfba143900ea1f5c4c1fa826990f13.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/ps4/quest_logo_shaded.tga.ckd/d7b5693f0b5756aca0987d2c91973f75.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/wiiu/quest_cover.tga.ckd/639f0b143d192b2d5f7ab753090fae04.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/wiiu/quest_logo.tga.ckd/6c46c05732315cffcb62693c17e0c11d.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/wiiu/quest_logo_shaded.tga.ckd/58814a965955aff8b03429868c372587.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/x1/quest_cover.tga.ckd/7091424e7cbb1da6b736bb7ffea9ff34.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/x1/quest_logo.tga.ckd/76bfba143900ea1f5c4c1fa826990f13.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/x1/quest_logo_shaded.tga.ckd/d7b5693f0b5756aca0987d2c91973f75.ckd"
+                    }
+                }
+            },
+            "id": "27",
+            "locked": 0,
+            "playlist": [
+                "AintMy",
+                "Aquarius",
+                "MrSaxobeat"
+            ],
+            "title": "Surfboard"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/26/quest_logo.png/df5720ad8387c4852d848af60994820b.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/26/nx/quest_cover.tga.ckd/c58e7a9d5b4a78da1efc70327c79bf45.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/26/nx/quest_logo.tga.ckd/2fc60fe7c14bf3816a52d73856d8791a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/26/nx/quest_logo_shaded.tga.ckd/7426318e3c94b1dafed35f5ff0134590.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/26/pc/quest_cover.tga.ckd/a11a110c3d6e00324bfc1dbd90828b7f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/26/pc/quest_logo.tga.ckd/a7e54eed42f69369a15750b470413582.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/26/pc/quest_logo_shaded.tga.ckd/0c5c79972355cd0a97855132016f5125.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/26/ps4/quest_cover.tga.ckd/a11a110c3d6e00324bfc1dbd90828b7f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/26/ps4/quest_logo.tga.ckd/2790698db2494abc4a4cff89ff72805a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/26/ps4/quest_logo_shaded.tga.ckd/88c215e93ebfe266973376efb024a057.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/26/wiiu/quest_cover.tga.ckd/f926f37d7d981a3b38ac237c91b0dc0d.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/26/wiiu/quest_logo.tga.ckd/fb43a0a59ca494ffa67691b6d23412f8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/26/wiiu/quest_logo_shaded.tga.ckd/8ab312abe974982aaf0598ef1580d139.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/26/x1/quest_cover.tga.ckd/a11a110c3d6e00324bfc1dbd90828b7f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/26/x1/quest_logo.tga.ckd/2790698db2494abc4a4cff89ff72805a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/26/x1/quest_logo_shaded.tga.ckd/88c215e93ebfe266973376efb024a057.ckd"
+                    }
+                }
+            },
+            "id": "26",
+            "locked": 0,
+            "playlist": [
+                "DontLet",
+                "RockNRollDLC",
+                "TurnUpTheLoveALT"
+            ],
+            "title": "Origami"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/25/quest_logo.png/816427293e03aea07ae754fb359e76df.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/25/nx/quest_cover.tga.ckd/dee0111206bc753393441e97e19a2be9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/25/nx/quest_logo.tga.ckd/a709e1f8a8dbd05a054146299d8bbc7f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/25/nx/quest_logo_shaded.tga.ckd/cf05d311fa38bbe31db8fd4d0ee00227.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/25/pc/quest_cover.tga.ckd/b514e9fabbc39152d2ee9362437a1fb2.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/25/pc/quest_logo.tga.ckd/9c6630baf9b2ab30e8fd75b0699f2cc8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/25/pc/quest_logo_shaded.tga.ckd/aa100767755dfc65ce74708dc09b94c7.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/25/ps4/quest_cover.tga.ckd/b514e9fabbc39152d2ee9362437a1fb2.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/25/ps4/quest_logo.tga.ckd/9c6630baf9b2ab30e8fd75b0699f2cc8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/25/ps4/quest_logo_shaded.tga.ckd/aa100767755dfc65ce74708dc09b94c7.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/25/wiiu/quest_cover.tga.ckd/d6283c522ab0f91e4d98d15f26c0b83a.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/25/wiiu/quest_logo.tga.ckd/6dd42976c3fe89157e5f8434a28ccda3.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/25/wiiu/quest_logo_shaded.tga.ckd/2e3c81c5ed9010b4ab36cee480405fb1.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/25/x1/quest_cover.tga.ckd/b514e9fabbc39152d2ee9362437a1fb2.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/25/x1/quest_logo.tga.ckd/9c6630baf9b2ab30e8fd75b0699f2cc8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/25/x1/quest_logo_shaded.tga.ckd/aa100767755dfc65ce74708dc09b94c7.ckd"
+                    }
+                }
+            },
+            "id": "25",
+            "locked": 0,
+            "playlist": [
+                "HandClap",
+                "JailHouse",
+                "AmericanGirlDLC"
+            ],
+            "title": "Cactus"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/24/quest_logo.png/f9bf9b9dea0a07aead88872148ee7e9d.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/24/nx/quest_cover.tga.ckd/3448f273fa0b2e57e9bd12146425abe6.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/24/nx/quest_logo.tga.ckd/fbadd4baf4552a56854677ff27913d6a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/24/nx/quest_logo_shaded.tga.ckd/c304e2fddcb9c9c331748af6537c04a9.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/24/pc/quest_cover.tga.ckd/c64c4a33421a5d48e6715f38dfe623f7.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/24/pc/quest_logo.tga.ckd/ed7d9fb1d2b327069f61d5505d22c2d6.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/24/pc/quest_logo_shaded.tga.ckd/d32ef16e1b5c06c89cfa4b0db38b8d16.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/24/ps4/quest_cover.tga.ckd/c64c4a33421a5d48e6715f38dfe623f7.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/24/ps4/quest_logo.tga.ckd/ed7d9fb1d2b327069f61d5505d22c2d6.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/24/ps4/quest_logo_shaded.tga.ckd/d32ef16e1b5c06c89cfa4b0db38b8d16.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/24/wiiu/quest_cover.tga.ckd/2869b9f12da4adf159ba1593298acf5a.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/24/wiiu/quest_logo.tga.ckd/b085fbaa26493e56938adde63125196a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/24/wiiu/quest_logo_shaded.tga.ckd/aad3e362491eed1bfe1aec80ca163375.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/24/x1/quest_cover.tga.ckd/c64c4a33421a5d48e6715f38dfe623f7.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/24/x1/quest_logo.tga.ckd/ed7d9fb1d2b327069f61d5505d22c2d6.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/24/x1/quest_logo_shaded.tga.ckd/d32ef16e1b5c06c89cfa4b0db38b8d16.ckd"
+                    }
+                }
+            },
+            "id": "24",
+            "locked": 0,
+            "playlist": [
+                "MeToo",
+                "LoveIsAll",
+                "SomethinStupid"
+            ],
+            "title": "Kiss"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/23/quest_logo.png/7628092640bc7f0e1461e6dcf807d2fa.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/23/nx/quest_cover.tga.ckd/a56988f730ac93fcd8ffa46cbdbcc7f0.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/23/nx/quest_logo.tga.ckd/efcdba292831b74b0f9f1bbe583ee6b3.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/23/nx/quest_logo_shaded.tga.ckd/4375c846f5e4b7235e7347f7e8133099.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/23/pc/quest_cover.tga.ckd/c03b910b00cb2d61a21a83a2bf7ede47.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/23/pc/quest_logo.tga.ckd/1100664f144f0b5024091e4d29977b95.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/23/pc/quest_logo_shaded.tga.ckd/440d9fbb0feef0f19c1662f886586172.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/23/ps4/quest_cover.tga.ckd/c03b910b00cb2d61a21a83a2bf7ede47.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/23/ps4/quest_logo.tga.ckd/1100664f144f0b5024091e4d29977b95.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/23/ps4/quest_logo_shaded.tga.ckd/440d9fbb0feef0f19c1662f886586172.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/23/wiiu/quest_cover.tga.ckd/1ca6dc962b8aa0e77c0121e76c1f7674.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/23/wiiu/quest_logo.tga.ckd/f13d3efe43508f337dc6cbbc9417a300.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/23/wiiu/quest_logo_shaded.tga.ckd/ce0c19515975fbd61105f9f8e7c134eb.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/23/x1/quest_cover.tga.ckd/c03b910b00cb2d61a21a83a2bf7ede47.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/23/x1/quest_logo.tga.ckd/1100664f144f0b5024091e4d29977b95.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/23/x1/quest_logo_shaded.tga.ckd/440d9fbb0feef0f19c1662f886586172.ckd"
+                    }
+                }
+            },
+            "id": "23",
+            "locked": 0,
+            "playlist": [
+                "DontWorryMadcon",
+                "Gigolo",
+                "GotMeDancing"
+            ],
+            "title": "Dandy"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/21/quest_logo.png/53e8b57342a6b5ed488714feb9accd28.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/21/nx/quest_cover.tga.ckd/70ba4bdba70f1b2e8acb4054d7aa4c3d.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/21/nx/quest_logo.tga.ckd/a522d006ff9a526638e9c03d1603c338.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/21/nx/quest_logo_shaded.tga.ckd/759eeb1a1ac335a11cd49b4ffd5ec769.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/21/pc/quest_cover.tga.ckd/caf1e9f1c011e5740f03dac55f956799.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/21/pc/quest_logo.tga.ckd/611dfe4496f37be09ff25783fbe88749.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/21/pc/quest_logo_shaded.tga.ckd/bf9db0ef763fc0375abfa942c3636113.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/21/ps4/quest_cover.tga.ckd/caf1e9f1c011e5740f03dac55f956799.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/21/ps4/quest_logo.tga.ckd/611dfe4496f37be09ff25783fbe88749.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/21/ps4/quest_logo_shaded.tga.ckd/bf9db0ef763fc0375abfa942c3636113.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/21/wiiu/quest_cover.tga.ckd/628e13fbe64d54f58ab9ece344edd497.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/21/wiiu/quest_logo.tga.ckd/9a32cf060194e0c99dec470c5f1766b9.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/21/wiiu/quest_logo_shaded.tga.ckd/a7260c42c5760d78d541cd3fe112e9c3.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/21/x1/quest_cover.tga.ckd/caf1e9f1c011e5740f03dac55f956799.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/21/x1/quest_logo.tga.ckd/611dfe4496f37be09ff25783fbe88749.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/21/x1/quest_logo_shaded.tga.ckd/bf9db0ef763fc0375abfa942c3636113.ckd"
+                    }
+                }
+            },
+            "id": "21",
+            "locked": 0,
+            "playlist": [
+                "TheGreatest",
+                "CaliforniaGurls",
+                "WantUBack"
+            ],
+            "title": "Unicorn"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/20/quest_logo.png/cae9fe5093b162228e249d0ac951f923.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/20/nx/quest_cover.tga.ckd/59d38a003da66725e47c86b0913f8dcb.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/20/nx/quest_logo.tga.ckd/77a32ea45daec7a6aca7e659c19a26b1.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/20/nx/quest_logo_shaded.tga.ckd/82c9e52095820a4601feeefb84a18005.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/20/pc/quest_cover.tga.ckd/b930b1cf962639524ce2a7871630c676.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/20/pc/quest_logo.tga.ckd/7faa506e28513e297720559ec2380fe9.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/20/pc/quest_logo_shaded.tga.ckd/afd285b2a524a077ad439f06708ec88b.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/20/ps4/quest_cover.tga.ckd/b930b1cf962639524ce2a7871630c676.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/20/ps4/quest_logo.tga.ckd/7faa506e28513e297720559ec2380fe9.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/20/ps4/quest_logo_shaded.tga.ckd/afd285b2a524a077ad439f06708ec88b.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/20/wiiu/quest_cover.tga.ckd/9eca905e1d413d86afe3c019fb9406de.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/20/wiiu/quest_logo.tga.ckd/160d6833da29690accd741c74c78a0de.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/20/wiiu/quest_logo_shaded.tga.ckd/0c922433874cdcc5af6a9834fa726595.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/20/x1/quest_cover.tga.ckd/b930b1cf962639524ce2a7871630c676.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/20/x1/quest_logo.tga.ckd/7faa506e28513e297720559ec2380fe9.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/20/x1/quest_logo_shaded.tga.ckd/afd285b2a524a077ad439f06708ec88b.ckd"
+                    }
+                }
+            },
+            "id": "20",
+            "locked": 0,
+            "playlist": [
+                "TimeWarpQUAT",
+                "MonsterMash",
+                "Youth"
+            ],
+            "title": "Zombi"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/19/quest_logo.png/5e68281231e324dd8c15476e612332a3.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/19/nx/quest_cover.tga.ckd/af3163ffb5fb12242b2a4fecc6e06ed2.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/19/nx/quest_logo.tga.ckd/b7f5026cc3297eb00009e7ffaf6ace1f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/19/nx/quest_logo_shaded.tga.ckd/8c141e33136955821d46547eb05e855c.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/19/pc/quest_cover.tga.ckd/9ecc4616494ebf59eacab34d22be4d1f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/19/pc/quest_logo.tga.ckd/9a86fa38b320607040a1d25dbfa743a2.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/19/pc/quest_logo_shaded.tga.ckd/58b4949cfb2782fec097c008ad925326.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/19/ps4/quest_cover.tga.ckd/9ecc4616494ebf59eacab34d22be4d1f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/19/ps4/quest_logo.tga.ckd/9a86fa38b320607040a1d25dbfa743a2.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/19/ps4/quest_logo_shaded.tga.ckd/58b4949cfb2782fec097c008ad925326.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/19/wiiu/quest_cover.tga.ckd/b9b02b8f1e6e1c5dfcb54b5d324ad66e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/19/wiiu/quest_logo.tga.ckd/bf42c2f481ae6ae21ca7f57a2769b09b.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/19/wiiu/quest_logo_shaded.tga.ckd/453e56793d7512b570af78332080ec8c.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/19/x1/quest_cover.tga.ckd/9ecc4616494ebf59eacab34d22be4d1f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/19/x1/quest_logo.tga.ckd/9a86fa38b320607040a1d25dbfa743a2.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/19/x1/quest_logo_shaded.tga.ckd/58b4949cfb2782fec097c008ad925326.ckd"
+                    }
+                }
+            },
+            "id": "19",
+            "locked": 0,
+            "playlist": [
+                "Summer",
+                "KetchupSong",
+                "TheWorldDLC"
+            ],
+            "title": "Summer"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/18/quest_logo.png/b1986839a0d5c6a55de4621194b8686c.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/18/nx/quest_cover.tga.ckd/9ac68c543ba62af212faf9bf7f42ee05.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/18/nx/quest_logo.tga.ckd/1bb1e9e1c438932a1dfb047186a3a3ce.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/18/nx/quest_logo_shaded.tga.ckd/eaf729260687124af0a8835b9f9faa8d.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/18/pc/quest_cover.tga.ckd/b77701a7d8e3637b22a206cf6f77d738.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/18/pc/quest_logo.tga.ckd/87600b39ff5f8aad2c4afac0ceb417cb.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/18/pc/quest_logo_shaded.tga.ckd/2bc36ac5414da2f024f793eb466aeffa.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/18/ps4/quest_cover.tga.ckd/b77701a7d8e3637b22a206cf6f77d738.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/18/ps4/quest_logo.tga.ckd/87600b39ff5f8aad2c4afac0ceb417cb.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/18/ps4/quest_logo_shaded.tga.ckd/2bc36ac5414da2f024f793eb466aeffa.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/18/wiiu/quest_cover.tga.ckd/75b791bec81e8a032beac88942cc6e6f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/18/wiiu/quest_logo.tga.ckd/bac78b391174992cc364a4cfb828ae22.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/18/wiiu/quest_logo_shaded.tga.ckd/b23f8a8eb9cc382755a8ff0e40b48960.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/18/x1/quest_cover.tga.ckd/b77701a7d8e3637b22a206cf6f77d738.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/18/x1/quest_logo.tga.ckd/87600b39ff5f8aad2c4afac0ceb417cb.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/18/x1/quest_logo_shaded.tga.ckd/2bc36ac5414da2f024f793eb466aeffa.ckd"
+                    }
+                }
+            },
+            "id": "18",
+            "locked": 0,
+            "playlist": [
+                "Birthday",
+                "Lollipop",
+                "OhNo"
+            ],
+            "title": "Lollipop"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/17/quest_logo.png/d2b910447666d0f7ad02996c5b1a927a.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/17/nx/quest_cover.tga.ckd/6c3458d6aa2a8bb45dcf2ada56d8b4de.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/17/nx/quest_logo.tga.ckd/bb72396378b97a2a1f1c9be7deb2e696.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/17/nx/quest_logo_shaded.tga.ckd/854594cd4edbb1d716479a319c9c38a5.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/17/pc/quest_cover.tga.ckd/dcb3d330a657f4dda87cc1a9bf3a438f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/17/pc/quest_logo.tga.ckd/8de883906eeef3163662aba2d4c621fc.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/17/pc/quest_logo_shaded.tga.ckd/97a218cad6ecf28e1b5c98b21e3e9191.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/17/ps4/quest_cover.tga.ckd/dcb3d330a657f4dda87cc1a9bf3a438f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/17/ps4/quest_logo.tga.ckd/8de883906eeef3163662aba2d4c621fc.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/17/ps4/quest_logo_shaded.tga.ckd/97a218cad6ecf28e1b5c98b21e3e9191.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/17/wiiu/quest_cover.tga.ckd/2c625bbb1537f71c42983676ba0a0fd8.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/17/wiiu/quest_logo.tga.ckd/3210ed5c1477288fde3c729cd26dec07.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/17/wiiu/quest_logo_shaded.tga.ckd/7ab0da985ed598c5d1adee44f9e37f4d.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/17/x1/quest_cover.tga.ckd/dcb3d330a657f4dda87cc1a9bf3a438f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/17/x1/quest_logo.tga.ckd/8de883906eeef3163662aba2d4c621fc.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/17/x1/quest_logo_shaded.tga.ckd/97a218cad6ecf28e1b5c98b21e3e9191.ckd"
+                    }
+                }
+            },
+            "id": "17",
+            "locked": 0,
+            "playlist": [
+                "Maneater",
+                "HoldMyHand",
+                "BeautyAndABeatDLC"
+            ],
+            "title": "Grimoire"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/16/quest_logo.png/c36e933fa8144f76be1f5ebbbebbf698.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/16/nx/quest_cover.tga.ckd/ee962fc1359e7f92fc6ff007e5572519.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/16/nx/quest_logo.tga.ckd/6d5c65758f1f2c053ce6960d7d715d32.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/16/nx/quest_logo_shaded.tga.ckd/abca316a6e05cf990e7d856c66cd8fb9.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/16/pc/quest_cover.tga.ckd/fbc1ab6e28738917420548852154e336.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/16/pc/quest_logo.tga.ckd/95cfb9df65b01ded7438396879fe5457.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/16/pc/quest_logo_shaded.tga.ckd/34eb7a055d4a61d4bfe1e392b40a9f96.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/16/ps4/quest_cover.tga.ckd/fbc1ab6e28738917420548852154e336.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/16/ps4/quest_logo.tga.ckd/95cfb9df65b01ded7438396879fe5457.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/16/ps4/quest_logo_shaded.tga.ckd/34eb7a055d4a61d4bfe1e392b40a9f96.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/16/wiiu/quest_cover.tga.ckd/d9fce26f2e679554e20835888ee9f94e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/16/wiiu/quest_logo.tga.ckd/415eb77b05e348e2d9f264b90cc833b1.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/16/wiiu/quest_logo_shaded.tga.ckd/917cfcd80c336ad2d6b7f847779d29d0.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/16/x1/quest_cover.tga.ckd/fbc1ab6e28738917420548852154e336.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/16/x1/quest_logo.tga.ckd/95cfb9df65b01ded7438396879fe5457.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/16/x1/quest_logo_shaded.tga.ckd/34eb7a055d4a61d4bfe1e392b40a9f96.ckd"
+                    }
+                }
+            },
+            "id": "16",
+            "locked": 0,
+            "playlist": [
+                "Domino",
+                "Luftballons",
+                "LoveYouLike"
+            ],
+            "title": "Lily of the Valley"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/15/quest_logo.png/635664f2aa6021ce9df498bc0b7b9406.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/15/nx/quest_cover.tga.ckd/b0f27609c174a98d78f7a7044915f2c1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/15/nx/quest_logo.tga.ckd/266cb9cc9179148b424647a473bbafb1.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/15/nx/quest_logo_shaded.tga.ckd/e515e9ec729450d2096cb12dba6c269a.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/15/pc/quest_cover.tga.ckd/489ec14fed3e6e705d766617cca6c7c3.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/15/pc/quest_logo.tga.ckd/fc600396b9a8d67475fb8d9146e076c7.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/15/pc/quest_logo_shaded.tga.ckd/47d40401a61b3562e402fc3e1db2e702.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/15/ps4/quest_cover.tga.ckd/489ec14fed3e6e705d766617cca6c7c3.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/15/ps4/quest_logo.tga.ckd/fc600396b9a8d67475fb8d9146e076c7.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/15/ps4/quest_logo_shaded.tga.ckd/47d40401a61b3562e402fc3e1db2e702.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/15/wiiu/quest_cover.tga.ckd/95250e51964b16f07523f665ae8ae743.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/15/wiiu/quest_logo.tga.ckd/310b9f7c131d3fdc117ec4df930d5ba7.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/15/wiiu/quest_logo_shaded.tga.ckd/8d4f4d2b7bdd4a98acda3cf72700183e.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/15/x1/quest_cover.tga.ckd/489ec14fed3e6e705d766617cca6c7c3.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/15/x1/quest_logo.tga.ckd/fc600396b9a8d67475fb8d9146e076c7.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/15/x1/quest_logo_shaded.tga.ckd/47d40401a61b3562e402fc3e1db2e702.ckd"
+                    }
+                }
+            },
+            "id": "15",
+            "locked": 0,
+            "playlist": [
+                "Balance",
+                "AmIWrong",
+                "Gentleman"
+            ],
+            "title": "Cupcake"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/14/quest_logo.png/c0a65c3ee3f1deed33ea802cf6258573.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/14/nx/quest_cover.tga.ckd/4d95b0a319993c81d946c4271a415396.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/14/nx/quest_logo.tga.ckd/f238f37bc0af5e6edb2c2ac6221158b0.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/14/nx/quest_logo_shaded.tga.ckd/169ddac3562ee8e7e409ef400f201a86.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/14/pc/quest_cover.tga.ckd/0cc249321525cc309424af91273e8d95.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/14/pc/quest_logo.tga.ckd/851972c6213a1d0afd95b0e9349edc4a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/14/pc/quest_logo_shaded.tga.ckd/eae358efcd2fa9b63e40fdd57c789689.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/14/ps4/quest_cover.tga.ckd/0cc249321525cc309424af91273e8d95.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/14/ps4/quest_logo.tga.ckd/851972c6213a1d0afd95b0e9349edc4a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/14/ps4/quest_logo_shaded.tga.ckd/eae358efcd2fa9b63e40fdd57c789689.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/14/wiiu/quest_cover.tga.ckd/10a1e75a48c4d4a8cb32e503a79a0d37.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/14/wiiu/quest_logo.tga.ckd/66e420a3eded395d6d49ef12c860d7d1.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/14/wiiu/quest_logo_shaded.tga.ckd/daab24b2761a664e2cbcad94d1912a77.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/14/x1/quest_cover.tga.ckd/0cc249321525cc309424af91273e8d95.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/14/x1/quest_logo.tga.ckd/851972c6213a1d0afd95b0e9349edc4a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/14/x1/quest_logo_shaded.tga.ckd/eae358efcd2fa9b63e40fdd57c789689.ckd"
+                    }
+                }
+            },
+            "id": "14",
+            "locked": 0,
+            "playlist": [
+                "BlurredLines",
+                "DontYouWorryDLC",
+                "DynamiteQUAT"
+            ],
+            "title": "Mushroom"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/13/quest_logo.png/74f502356412b40a623d7b95660ae76f.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/13/nx/quest_cover.tga.ckd/825e695b7a3d99b93926c0b5439417c1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/13/nx/quest_logo.tga.ckd/9948fe8f926153bd872b0562a3c7a2eb.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/13/nx/quest_logo_shaded.tga.ckd/a40803138a25bdcb40d82dac86eae10e.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/13/pc/quest_cover.tga.ckd/8149d51dca9a7b9a321547e8100de201.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/13/pc/quest_logo.tga.ckd/aaf7d376b312436abaf8d762e793ca6c.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/13/pc/quest_logo_shaded.tga.ckd/fbeb1f5454ef05ad9d0dc5038cf8de0c.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/13/ps4/quest_cover.tga.ckd/8149d51dca9a7b9a321547e8100de201.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/13/ps4/quest_logo.tga.ckd/aaf7d376b312436abaf8d762e793ca6c.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/13/ps4/quest_logo_shaded.tga.ckd/fbeb1f5454ef05ad9d0dc5038cf8de0c.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/13/wiiu/quest_cover.tga.ckd/2485f731cf48e162598022535a030ce0.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/13/wiiu/quest_logo.tga.ckd/478e1d57a7a30e1bb65a9f2614682e66.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/13/wiiu/quest_logo_shaded.tga.ckd/e6e2dd428ef6d072b1cde27af7e110ad.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/13/x1/quest_cover.tga.ckd/8149d51dca9a7b9a321547e8100de201.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/13/x1/quest_logo.tga.ckd/aaf7d376b312436abaf8d762e793ca6c.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/13/x1/quest_logo_shaded.tga.ckd/fbeb1f5454ef05ad9d0dc5038cf8de0c.ckd"
+                    }
+                }
+            },
+            "id": "13",
+            "locked": 0,
+            "playlist": [
+                "BreakFreeDLC",
+                "PartyRock",
+                "IndiaWaale"
+            ],
+            "title": "Special Easter"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/12/quest_logo.png/5311d0135ede4c0f8347e423047b9778.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/12/nx/quest_cover.tga.ckd/953241d9614c5d36006908907839e8d1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/12/nx/quest_logo.tga.ckd/0273f2c475d5d9d28a420804fd7f6440.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/12/nx/quest_logo_shaded.tga.ckd/8f8e78365b0988bf48a8d3f23c601e1f.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/12/pc/quest_cover.tga.ckd/db1a9316ef932e95729b707fa0deddaf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/12/pc/quest_logo.tga.ckd/de582030f36091eabc583d8af3c4c41f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/12/pc/quest_logo_shaded.tga.ckd/7baef08ecbf787edd8fbe3eceecf38d7.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/12/ps4/quest_cover.tga.ckd/db1a9316ef932e95729b707fa0deddaf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/12/ps4/quest_logo.tga.ckd/de582030f36091eabc583d8af3c4c41f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/12/ps4/quest_logo_shaded.tga.ckd/7baef08ecbf787edd8fbe3eceecf38d7.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/12/wiiu/quest_cover.tga.ckd/2be8e08e8177ffa62aed4e99cf0ecbee.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/12/wiiu/quest_logo.tga.ckd/2f280d754e7f4c86a0d96a145f1fd7f2.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/12/wiiu/quest_logo_shaded.tga.ckd/1fbdabbdac94be546d6ffb299fadd1fd.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/12/x1/quest_cover.tga.ckd/db1a9316ef932e95729b707fa0deddaf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/12/x1/quest_logo.tga.ckd/de582030f36091eabc583d8af3c4c41f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/12/x1/quest_logo_shaded.tga.ckd/7baef08ecbf787edd8fbe3eceecf38d7.ckd"
+                    }
+                }
+            },
+            "id": "12",
+            "locked": 0,
+            "playlist": [
+                "SexyAndIKnowItDLC",
+                "TasteTheFeeling",
+                "Wild"
+            ],
+            "title": "Lucky"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/11/quest_logo.png/abbefb0ab56600e7917e3ba522d2c59b.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/11/nx/quest_cover.tga.ckd/c0756b027052cfd2c38ade5ab5de62ff.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/11/nx/quest_logo.tga.ckd/10e1fa686c9ec6e4a4085bf057b4a038.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/11/nx/quest_logo_shaded.tga.ckd/2de37b3ee548e6a7a8c4d6c90faabd62.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-pc-all/quest_cover.tga.ckd/c567b0c89d8ae453e281dadc8e6308aa.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-pc-all/quest_logo.tga.ckd/57be10a1e786909f8a7127976ae20ac8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-pc-all/quest_logo_shaded.tga.ckd/a2f662a8933e61706dcc08c49fd3851a.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-ps4-scee/quest_cover.tga.ckd/c567b0c89d8ae453e281dadc8e6308aa.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-ps4-scee/quest_logo.tga.ckd/57be10a1e786909f8a7127976ae20ac8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/a2f662a8933e61706dcc08c49fd3851a.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-wiiu-noe/quest_cover.tga.ckd/b4d10e128b719eea57b09daff0f8960f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-wiiu-noe/quest_logo.tga.ckd/dee63cdf85d6ed47af3ad88c8f062dda.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/2095abed4e002b85e07c1092324d94cf.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-xone-ncsa/quest_cover.tga.ckd/c567b0c89d8ae453e281dadc8e6308aa.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-xone-ncsa/quest_logo.tga.ckd/57be10a1e786909f8a7127976ae20ac8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/11/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/a2f662a8933e61706dcc08c49fd3851a.ckd"
+                    }
+                }
+            },
+            "id": "11",
+            "locked": 0,
+            "playlist": [
+                "BoomClapDLC",
+                "YouReTheFirst",
+                "FindYou"
+            ],
+            "title": "Special Valentine"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/9/quest_logo.png/02234d2f68340f5803c995be4369c7d0.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/9/nx/quest_cover.tga.ckd/8eb79a90941444236c46f5902b51abb7.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/9/nx/quest_logo.tga.ckd/36754784ce44fb8978b8a2f39fd6ba2f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/9/nx/quest_logo_shaded.tga.ckd/207b98cefea547d70bf36d6ca82ea18a.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-pc-all/quest_cover.tga.ckd/e9ad251548b89569b26d874e35b4995e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-pc-all/quest_logo.tga.ckd/0ba02470475bdfb34868398bfcd637a4.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-pc-all/quest_logo_shaded.tga.ckd/dd695d93c4f213aacbe94b0ee60d6c3c.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-ps4-scee/quest_cover.tga.ckd/e9ad251548b89569b26d874e35b4995e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-ps4-scee/quest_logo.tga.ckd/0ba02470475bdfb34868398bfcd637a4.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/dd695d93c4f213aacbe94b0ee60d6c3c.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-wiiu-noe/quest_cover.tga.ckd/7c7db6fca4a1b04135a7031a93ce74a7.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-wiiu-noe/quest_logo.tga.ckd/275f92725cdf2c33dbc9a743e1114c73.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/69c63ff4628e5e06f67bc5f1789d0c6b.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-xone-ncsa/quest_cover.tga.ckd/e9ad251548b89569b26d874e35b4995e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-xone-ncsa/quest_logo.tga.ckd/0ba02470475bdfb34868398bfcd637a4.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/9/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/dd695d93c4f213aacbe94b0ee60d6c3c.ckd"
+                    }
+                }
+            },
+            "id": "9",
+            "locked": 0,
+            "playlist": [
+                "LetItGo",
+                "Xmas",
+                "Rasputin"
+            ],
+            "title": "Special New Year"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/8/quest_logo.png/7cffa3bfde67292fc6db4b6d71135216.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/8/nx/quest_cover.tga.ckd/84b2380636940f0bb9afe48bdaf40f8e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/8/nx/quest_logo.tga.ckd/a29aa50eedc714b52833263714536b7e.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/8/nx/quest_logo_shaded.tga.ckd/beb450b548c72be28e405b654ed4f6cc.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-pc-all/quest_cover.tga.ckd/53f073649fa623de7a2ce9c2068fee8e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-pc-all/quest_logo.tga.ckd/83edfd18c0170287bf4f53ca021632a8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-pc-all/quest_logo_shaded.tga.ckd/77c9195cbc07a065cf2bb4f651eed324.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-ps4-scee/quest_cover.tga.ckd/53f073649fa623de7a2ce9c2068fee8e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-ps4-scee/quest_logo.tga.ckd/83edfd18c0170287bf4f53ca021632a8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/77c9195cbc07a065cf2bb4f651eed324.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-wiiu-noe/quest_cover.tga.ckd/b3cefab5be9114b14b01e2bf4c6a513b.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-wiiu-noe/quest_logo.tga.ckd/77fe5b3c4b49689dde8e16a0115cdbbf.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/79db8d17144b2a12da60355200e4f169.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-xone-ncsa/quest_cover.tga.ckd/53f073649fa623de7a2ce9c2068fee8e.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-xone-ncsa/quest_logo.tga.ckd/83edfd18c0170287bf4f53ca021632a8.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/8/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/77c9195cbc07a065cf2bb4f651eed324.ckd"
+                    }
+                }
+            },
+            "id": "8",
+            "locked": 0,
+            "playlist": [
+                "MovesLikeDLC",
+                "ShutUp",
+                "TurnUpTheLove"
+            ],
+            "title": "Royal Key"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/7/quest_logo.png/10e2e3fa08edae8efebd021f06350cdf.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/7/nx/quest_cover.tga.ckd/483bf2f77865fd1cee791df38950c0bc.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/7/nx/quest_logo.tga.ckd/bcabb858f1fd0109c9937a7446fe6196.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/7/nx/quest_logo_shaded.tga.ckd/ca1110e0d35dd1029b314e6828cdd0ce.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-pc-all/quest_cover.tga.ckd/24677a442f399f91b3f940a87b15b247.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-pc-all/quest_logo.tga.ckd/898de48f6d617d1f416735e0c44e2b70.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-pc-all/quest_logo_shaded.tga.ckd/533c9c7f5bfc0df7198dd084275d2e94.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-ps4-scee/quest_cover.tga.ckd/24677a442f399f91b3f940a87b15b247.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-ps4-scee/quest_logo.tga.ckd/898de48f6d617d1f416735e0c44e2b70.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/533c9c7f5bfc0df7198dd084275d2e94.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-wiiu-noe/quest_cover.tga.ckd/0e1912194f409d785f545ee50ff8ae1f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-wiiu-noe/quest_logo.tga.ckd/964e0c8a54d38fcf85def2b79ad33c6a.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/06f61279266b6fa4cfcbd6bcff9656ce.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-xone-ncsa/quest_cover.tga.ckd/24677a442f399f91b3f940a87b15b247.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-xone-ncsa/quest_logo.tga.ckd/898de48f6d617d1f416735e0c44e2b70.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/7/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/533c9c7f5bfc0df7198dd084275d2e94.ckd"
+                    }
+                }
+            },
+            "id": "7",
+            "locked": 0,
+            "playlist": [
+                "Mad",
+                "HeyYa",
+                "BetterWhen"
+            ],
+            "title": "Castle"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/6/quest_logo.png/6751c7a26488a99c3fa1a3f68744e658.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/6/nx/quest_cover.tga.ckd/60ef620db5d3febce8c7a05dc2d52d5f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/6/nx/quest_logo.tga.ckd/721dc938ce0936b1d1415bb6a779d69e.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/6/nx/quest_logo_shaded.tga.ckd/1d8e0f1963a2918a59645008157fa7d2.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-pc-all/quest_cover.tga.ckd/f1a42d8cd25b5ffb9246d19e1bb9c2c9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-pc-all/quest_logo.tga.ckd/f6a9aefdc0ea779f745d717c3ac2dc5f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-pc-all/quest_logo_shaded.tga.ckd/6e21cbba14f40d5294bfd700818a2a9e.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-ps4-scee/quest_cover.tga.ckd/f1a42d8cd25b5ffb9246d19e1bb9c2c9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-ps4-scee/quest_logo.tga.ckd/f6a9aefdc0ea779f745d717c3ac2dc5f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/6e21cbba14f40d5294bfd700818a2a9e.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-wiiu-noe/quest_cover.tga.ckd/d443b10cef6eab56813247e3f211267f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-wiiu-noe/quest_logo.tga.ckd/f5201b88c7a814e6e780ad996d257087.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/48c0c96e13260bc0f2390c6c8434c91b.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-xone-ncsa/quest_cover.tga.ckd/f1a42d8cd25b5ffb9246d19e1bb9c2c9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-xone-ncsa/quest_logo.tga.ckd/f6a9aefdc0ea779f745d717c3ac2dc5f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/6/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/6e21cbba14f40d5294bfd700818a2a9e.ckd"
+                    }
+                }
+            },
+            "id": "6",
+            "locked": 0,
+            "playlist": [
+                "GoodFeeling",
+                "IDidItAgainQUAT",
+                "BuiltForThis"
+            ],
+            "title": "Royal"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/5/quest_logo.png/809c25c0e6f365305c15cd47c9a6bb6b.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/5/nx/quest_cover.tga.ckd/1c2dcc7751d6369213406e88a4d83ee9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/5/nx/quest_logo.tga.ckd/5900e3e42d4e600094645ae137ddd46f.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/5/nx/quest_logo_shaded.tga.ckd/32cbdb2900907afafbdc8e2eac52bf4e.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-pc-all/quest_cover.tga.ckd/b0a7fbe83595de3ccd1e3b582f18bb51.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-pc-all/quest_logo.tga.ckd/4a5431acf99c575761caf4f298ebc010.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-pc-all/quest_logo_shaded.tga.ckd/081b5061adc87f66e2b01381ad7cceba.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-ps4-scee/quest_cover.tga.ckd/b0a7fbe83595de3ccd1e3b582f18bb51.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-ps4-scee/quest_logo.tga.ckd/4a5431acf99c575761caf4f298ebc010.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/081b5061adc87f66e2b01381ad7cceba.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-wiiu-noe/quest_cover.tga.ckd/612c4a3abeab161ba2521bb2bcd01492.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-wiiu-noe/quest_logo.tga.ckd/9aad1109a8aa87f0ecad8b159fadddf6.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/57b421f4dc74c891c7fcc9963ce6d771.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-xone-ncsa/quest_cover.tga.ckd/b0a7fbe83595de3ccd1e3b582f18bb51.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-xone-ncsa/quest_logo.tga.ckd/4a5431acf99c575761caf4f298ebc010.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/5/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/081b5061adc87f66e2b01381ad7cceba.ckd"
+                    }
+                }
+            },
+            "id": "5",
+            "locked": 0,
+            "playlist": [
+                "HalloweenQUAT",
+                "IWillSurvive",
+                "Ghostbusters"
+            ],
+            "title": "Special Halloween"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/4/quest_logo.png/fb7b37c10b5527a8b202a94575725295.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/4/nx/quest_cover.tga.ckd/f2628ddcb3f9b10876638c8a773fcadd.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/4/nx/quest_logo.tga.ckd/5674084de555f6a7cb6b4d526cb2efee.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/4/nx/quest_logo_shaded.tga.ckd/cabc31c6ee7d6f2fb32e47fdd164cd51.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-pc-all/quest_cover.tga.ckd/c7f1e3ffa46db464491b14735803eb13.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-pc-all/quest_logo.tga.ckd/a90165516797cfbe16b6d258ba2c14ba.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-pc-all/quest_logo_shaded.tga.ckd/0d461a70699fe07db316c47e0fe7156d.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-ps4-scee/quest_cover.tga.ckd/c7f1e3ffa46db464491b14735803eb13.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-ps4-scee/quest_logo.tga.ckd/a90165516797cfbe16b6d258ba2c14ba.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/0d461a70699fe07db316c47e0fe7156d.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-wiiu-noe/quest_cover.tga.ckd/87f5ff900b3a77d57ae7f6a80815d4a2.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-wiiu-noe/quest_logo.tga.ckd/ce5ea9f5c8a48eb3dd36af629559f542.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/cec0e32d35b26469a32d0f0ad5db126b.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-xone-ncsa/quest_cover.tga.ckd/c7f1e3ffa46db464491b14735803eb13.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-xone-ncsa/quest_logo.tga.ckd/a90165516797cfbe16b6d258ba2c14ba.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/4/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/0d461a70699fe07db316c47e0fe7156d.ckd"
+                    }
+                }
+            },
+            "id": "4",
+            "locked": 0,
+            "playlist": [
+                "Happy",
+                "Cmon",
+                "PoundTheAlarm"
+            ],
+            "title": "Ring"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/3/quest_logo.png/4ddd43c50a3fc4a625e75712541e304d.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/3/nx/quest_cover.tga.ckd/478b9d1c8b48dd0a3779d026aa942c42.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/3/nx/quest_logo.tga.ckd/72bd1f28b7eb0b471697546929fc954e.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/3/nx/quest_logo_shaded.tga.ckd/38253a4c6a4f315bcefaebe6514a46bc.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-pc-all/quest_cover.tga.ckd/4f50e3e612b389ecfd6a86ddd94c89b1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-pc-all/quest_logo.tga.ckd/37a776c63bd96a87d21fd3bbb4b2af68.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-pc-all/quest_logo_shaded.tga.ckd/0d89016437bdfca9e0082a3a89acd889.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-ps4-scee/quest_cover.tga.ckd/4f50e3e612b389ecfd6a86ddd94c89b1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-ps4-scee/quest_logo.tga.ckd/37a776c63bd96a87d21fd3bbb4b2af68.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/0d89016437bdfca9e0082a3a89acd889.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-wiiu-noe/quest_cover.tga.ckd/cc9875cfe731b61feca9daf965ea6c96.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-wiiu-noe/quest_logo.tga.ckd/26d0df5ee54e0b626c78c82ad9ecedde.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/6a9b01c01ad9644989baa3ddb367a048.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-xone-ncsa/quest_cover.tga.ckd/4f50e3e612b389ecfd6a86ddd94c89b1.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-xone-ncsa/quest_logo.tga.ckd/37a776c63bd96a87d21fd3bbb4b2af68.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/3/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/0d89016437bdfca9e0082a3a89acd889.ckd"
+                    }
+                }
+            },
+            "id": "3",
+            "locked": 0,
+            "playlist": [
+                "JustDance",
+                "Americano",
+                "ThatPower"
+            ],
+            "title": "Scepter"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/2/quest_logo.png/451367e761e147544cbbd7a7f25e777f.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/2/nx/quest_cover.tga.ckd/416310ee7fb7abdbb6568c6cbefc9af9.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/2/nx/quest_logo.tga.ckd/ffaa9b7f86a8190f54375412d0a727dc.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/2/nx/quest_logo_shaded.tga.ckd/eaf9b3a48d3aa1e3050e8a3759bed837.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-pc-all/quest_cover.tga.ckd/658bb292c680d3b4aaf552e070442de4.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-pc-all/quest_logo.tga.ckd/d66ff52e888ca3a47a9c43efc29bfb6b.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-pc-all/quest_logo_shaded.tga.ckd/dbc4f4818f1055c566307367784fcb6e.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-ps4-scee/quest_cover.tga.ckd/658bb292c680d3b4aaf552e070442de4.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-ps4-scee/quest_logo.tga.ckd/d66ff52e888ca3a47a9c43efc29bfb6b.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-ps4-scee/quest_logo_shaded.tga.ckd/dbc4f4818f1055c566307367784fcb6e.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-wiiu-noe/quest_cover.tga.ckd/d799b6270834c8ac28131175d6de8edf.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-wiiu-noe/quest_logo.tga.ckd/a42eb8fae0ea9c63b13166cc6201e7f6.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-wiiu-noe/quest_logo_shaded.tga.ckd/8d7a3cd8f3d4b3e0f540881eebb3c208.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-xone-ncsa/quest_cover.tga.ckd/658bb292c680d3b4aaf552e070442de4.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-xone-ncsa/quest_logo.tga.ckd/d66ff52e888ca3a47a9c43efc29bfb6b.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/2/jd2016-xone-ncsa/quest_logo_shaded.tga.ckd/dbc4f4818f1055c566307367784fcb6e.ckd"
+                    }
+                }
+            },
+            "id": "2",
+            "locked": 0,
+            "playlist": [
+                "GangnamStyleDLC",
+                "Cheerleader",
+                "BadRomance"
+            ],
+            "title": "Throne"
+        },
+        {
+            "__class": "OnlineQuest",
+            "assetUrls": {
+                "phoneImageURL": "https://jd-s3.akamaized.net/public/quests/22/quest_logo.png/32b781760c19dcea47ae7b5997d8d5d2.png",
+                "skus": {
+                    "nx": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/22/nx/quest_cover.tga.ckd/4a9f10df148af5dfec31186411cb3c76.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/22/nx/quest_logo.tga.ckd/6121e853dea5b4b16abf332ba705dd5e.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/22/nx/quest_logo_shaded.tga.ckd/9bf4557fe3206b27d9f768bdf285ae36.ckd"
+                    },
+                    "pc": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/22/pc/quest_cover.tga.ckd/2fe3160dd1ab317314f72199700bdd0f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/22/pc/quest_logo.tga.ckd/bdc2f610be1d35df2d04b5063a9d2767.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/22/pc/quest_logo_shaded.tga.ckd/ec5116d38a96c8e0aa264a7316daabe3.ckd"
+                    },
+                    "ps4": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/22/ps4/quest_cover.tga.ckd/2fe3160dd1ab317314f72199700bdd0f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/22/ps4/quest_logo.tga.ckd/bdc2f610be1d35df2d04b5063a9d2767.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/22/ps4/quest_logo_shaded.tga.ckd/ec5116d38a96c8e0aa264a7316daabe3.ckd"
+                    },
+                    "wiiu": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/22/wiiu/quest_cover.tga.ckd/43628d37b5f78baf0e5fc90f9d03bcac.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/22/wiiu/quest_logo.tga.ckd/15ff6b1ad5107d64b70a511e5849799e.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/22/wiiu/quest_logo_shaded.tga.ckd/55505f57646543a01e8fcd0db4d9aee3.ckd"
+                    },
+                    "x1": {
+                        "coverImageURL": "https://jd-s3.akamaized.net/public/quests/22/x1/quest_cover.tga.ckd/2fe3160dd1ab317314f72199700bdd0f.ckd",
+                        "logoImageURL": "https://jd-s3.akamaized.net/public/quests/22/x1/quest_logo.tga.ckd/bdc2f610be1d35df2d04b5063a9d2767.ckd",
+                        "logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/22/x1/quest_logo_shaded.tga.ckd/ec5116d38a96c8e0aa264a7316daabe3.ckd"
+                    }
+                }
+            },
+            "id": "22",
+            "locked": 0,
+            "playlist": [
+                "Juju",
+                "DontWorryMadcon",
+                "Firework"
+            ],
+            "title": "SpecialChristmas"
+        }
+    ]
+}

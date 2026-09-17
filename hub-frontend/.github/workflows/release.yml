@@ -1,0 +1,220 @@
+name: Build and Release Tauri App
+
+on:
+  push:
+    tags:
+      - '*'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.get-version.outputs.version }}
+    steps:
+      - name: Get version from tag
+        id: get-version
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+  build:
+    needs: version
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: macos-latest
+            target: aarch64-apple-darwin
+            bundle_name: macos
+          - os: windows-latest
+            target: x86_64-pc-windows-msvc
+            bundle_name: windows
+
+    runs-on: ${{ matrix.os }}
+    env:
+      APP_VERSION: ${{ needs.version.outputs.version }}
+      # Required to sign the updater artifacts (createUpdaterArtifacts: true)
+      TAURI_SIGNING_PRIVATE_KEY: ${{ secrets.TAURI_SIGNING_PRIVATE_KEY }}
+      TAURI_SIGNING_PRIVATE_KEY_PASSWORD: ${{ secrets.TAURI_SIGNING_PRIVATE_KEY_PASSWORD }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: ${{ matrix.target }}
+
+      - name: Sync version to tauri.conf.json
+        run: |
+          node -e "
+            const fs = require('fs');
+            const conf = JSON.parse(fs.readFileSync('src-tauri/tauri.conf.json', 'utf8'));
+            conf.version = process.env.APP_VERSION;
+            fs.writeFileSync('src-tauri/tauri.conf.json', JSON.stringify(conf, null, 2) + '\n');
+          "
+
+      - name: Build Tauri app
+        uses: tauri-apps/tauri-action@v0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: --target ${{ matrix.target }}
+
+      - name: Standardize artifacts (macOS)
+        if: runner.os == 'macOS'
+        run: |
+          BUNDLE_DIR="$GITHUB_WORKSPACE/src-tauri/target/${{ matrix.target }}/release/bundle"
+          cd "$BUNDLE_DIR/macos" || exit 1
+
+          # Rename the updater bundle (.tar.gz + .sig) to a space-free name
+          if [ -f "JDMO Hub.app.tar.gz" ]; then
+            mv "JDMO Hub.app.tar.gz" "JDMO.Hub.app.tar.gz"
+          fi
+          if [ -f "JDMO Hub.app.tar.gz.sig" ]; then
+            mv "JDMO Hub.app.tar.gz.sig" "JDMO.Hub.app.tar.gz.sig"
+          fi
+
+      - name: Standardize artifacts (Windows)
+        if: runner.os == 'Windows'
+        shell: bash
+        run: |
+          BUNDLE_DIR="$GITHUB_WORKSPACE/src-tauri/target/${{ matrix.target }}/release/bundle"
+          VERSION="${{ needs.version.outputs.version }}"
+
+          echo "Bundle dir: $BUNDLE_DIR"
+          find "$BUNDLE_DIR" -type f | sort
+
+          # NSIS installer (+ .sig)
+          cd "$BUNDLE_DIR/nsis"
+          for f in *setup.exe; do
+            [ -f "$f" ] && mv "$f" "JDMO.Hub_${VERSION}_x64-setup.exe"
+            [ -f "$f.sig" ] && mv "$f.sig" "JDMO.Hub_${VERSION}_x64-setup.exe.sig"
+          done
+
+          # MSI installer (+ .sig)
+          cd "$BUNDLE_DIR/msi"
+          for f in *.msi; do
+            [ -f "$f" ] && mv "$f" "JDMO.Hub_${VERSION}_x64.msi"
+            [ -f "$f.sig" ] && mv "$f.sig" "JDMO.Hub_${VERSION}_x64.msi.sig"
+          done
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: jdmo-hub-${{ needs.version.outputs.version }}-${{ matrix.bundle_name }}
+          path: src-tauri/target/${{ matrix.target }}/release/bundle/**
+          if-no-files-found: error
+
+  release:
+    needs: [version, build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      APP_VERSION: ${{ needs.version.outputs.version }}
+      CDN_BASE: ${{ vars.CDN_BASE || 'https://jdmo-builds-cdn.c0llydoll.dev' }}
+      S3_BUCKET: ${{ vars.S3_BUCKET || 'jdmo-builds' }}
+      S3_ENDPOINT: ${{ secrets.S3_ENDPOINT || vars.S3_ENDPOINT }}
+      S3_REGION: ${{ vars.S3_REGION || 'auto' }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+      AWS_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT || vars.S3_ENDPOINT }}
+      AWS_DEFAULT_REGION: ${{ vars.S3_REGION || 'auto' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          pattern: jdmo-hub-*
+          merge-multiple: true
+
+      - name: List downloaded artifacts
+        run: find artifacts -type f | sort
+
+      # Keep the per-platform subdirs (macos/msi/nsis) so the generated
+      # latest.json URLs match the S3 layout, but drop the raw .app folder
+      # (only its .tar.gz is needed for the updater).
+      - name: Stage release files (keep subdirs)
+        run: |
+          mkdir -p stage/macos stage/msi stage/nsis
+          cp artifacts/macos/*.tar.gz artifacts/macos/*.sig stage/macos/ 2>/dev/null || true
+          cp artifacts/msi/*.msi artifacts/msi/*.sig stage/msi/ 2>/dev/null || true
+          cp artifacts/nsis/*.exe artifacts/nsis/*.sig stage/nsis/ 2>/dev/null || true
+          find stage -type f | sort
+
+      - name: Validate S3 configuration
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ] || [ -z "$AWS_ENDPOINT_URL" ]; then
+            echo "::error::S3 is not configured. Set S3_ACCESS_KEY_ID and S3_SECRET_ACCESS_KEY (secrets) and S3_ENDPOINT (variable or secret), e.g. https://s3.us-east-005.backblazeb2.com"
+            exit 1
+          fi
+
+      - name: Upload version artifacts to S3 (/hub/{version}/)
+        run: |
+          aws s3 sync stage/ "s3://${S3_BUCKET}/hub/${APP_VERSION}/" --no-progress
+
+      - name: Generate latest.json
+        run: |
+          node scripts/generate-latest-json.mjs ./stage
+
+      - name: Upload latest.json to S3 (/hub/latest.json)
+        run: |
+          aws s3 cp stage/latest.json "s3://${S3_BUCKET}/hub/latest.json" --no-progress
+
+      - name: Generate release notes
+        id: notes
+        run: |
+          {
+            echo "notes<<EOF"
+            echo "## JDMO Hub Desktop v${{ needs.version.outputs.version }}"
+            echo ""
+            echo "### Downloads"
+            echo ""
+            echo "| Platform | File |"
+            echo "|----------|------|"
+            for file in stage/macos/*.tar.gz stage/nsis/*.exe; do
+              fname=$(basename "$file")
+              case "$fname" in
+                *.app.tar.gz) echo "| macOS (Apple Silicon) | \`$fname\` |" ;;
+                *-setup.exe) echo "| Windows | \`$fname\` |" ;;
+              esac
+            done
+            echo ""
+            if [ -f CHANGELOG.md ]; then
+              echo "### Changelog"
+              echo ""
+              grep -A 100 "^## \[" CHANGELOG.md | head -50
+            fi
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ needs.version.outputs.version }}
+          name: JDMO Hub v${{ needs.version.outputs.version }}
+          body: ${{ steps.notes.outputs.notes }}
+          draft: true
+          prerelease: false
+          files: |
+            stage/macos/*.tar.gz
+            stage/nsis/*.exe
+            stage/msi/*.msi

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/TexasHoldEm/TexasHoldEm.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/TexasHoldEm/TexasHoldEm.ogg/ec86c40e9b390ab98515a42130d87fb5.ogg",
+    "jmcs://jd-contents/TexasHoldEm/TexasHoldEm_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/TexasHoldEm/TexasHoldEm_HIGH.hd.webm/66791e08c15aa62da113b138f77b50a8.webm",
+    "jmcs://jd-contents/TexasHoldEm/TexasHoldEm_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/TexasHoldEm/TexasHoldEm_LOW.hd.webm/e4a2cdf069a2ace9ee61ecf9ec18edac.webm",
+    "jmcs://jd-contents/TexasHoldEm/TexasHoldEm_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/TexasHoldEm/TexasHoldEm_MID.hd.webm/227cea4fea88d3c0d09e4770c6dfda80.webm",
+    "jmcs://jd-contents/TexasHoldEm/TexasHoldEm_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/TexasHoldEm/TexasHoldEm_ULTRA.hd.webm/0b1fb2ae191f27f1b0f8f760455c51d9.webm"
+  }
+}

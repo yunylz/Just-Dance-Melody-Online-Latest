@@ -1,0 +1,16 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/WorldEater/WorldEater.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater.ogg/7eae3840b6449f3f39d32aabd20384cd.ogg",
+    "jmcs://jd-contents/WorldEater/WorldEater_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_ULTRA.hd.webm/bd4c41fecf12d0c523004508156b5221.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_HIGH.hd.webm/cd940ce0feaadedcaa27d441623f8c5d.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_MID.hd.webm/560dddfc1a5b7ce892e700b489f8d73f.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_LOW.hd.webm/446ada06ef3509d43712f0825de8ef38.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_ULTRA.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_ULTRA.webm/a0d9027dc40a60258a0f5019576320a7.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_HIGH.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_HIGH.webm/3dd2254313baf08f8b79986aa7227bf5.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_MID.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_MID.webm/7fd74412582869a792363d400b9c3d03.webm",
+    "jmcs://jd-contents/WorldEater/WorldEater_LOW.webm": "https://jdmo-cdn.c0llydoll.com/private/map/WorldEater/WorldEater_LOW.webm/895f31153c27494f35b8803993fe3d8f.webm"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 0,
+  "urls": {
+    "jmcs://jd-contents/SexyGirlRETAKE/SexyGirlRETAKE.ogg": "https://jdmo-cdn.c0llydoll.com/private/map/SexyGirlRETAKE/SexyGirlRETAKE.ogg/999cbbc805c029585f3feb025126e257.ogg",
+    "jmcs://jd-contents/SexyGirlRETAKE/SexyGirlRETAKE_ULTRA.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/SexyGirlRETAKE/SexyGirlRETAKE_ULTRA.hd.webm/6f5bec547336e4a126be1413c793b9a1.webm",
+    "jmcs://jd-contents/SexyGirlRETAKE/SexyGirlRETAKE_HIGH.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/SexyGirlRETAKE/SexyGirlRETAKE_HIGH.hd.webm/394f59cfd1b62dd6aff07e5a5bbb7968.webm",
+    "jmcs://jd-contents/SexyGirlRETAKE/SexyGirlRETAKE_MID.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/SexyGirlRETAKE/SexyGirlRETAKE_MID.hd.webm/0b160ca510448b8aeec8dcdc604c5998.webm",
+    "jmcs://jd-contents/SexyGirlRETAKE/SexyGirlRETAKE_LOW.hd.webm": "https://jdmo-cdn.c0llydoll.com/private/map/SexyGirlRETAKE/SexyGirlRETAKE_LOW.hd.webm/0e5bf5d8a1489e7cf7ba6542079f78c4.webm"
+  }
+}

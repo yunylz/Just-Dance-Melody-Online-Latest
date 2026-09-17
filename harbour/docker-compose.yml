@@ -1,0 +1,20 @@
+services:
+  api:
+    build: .
+    ports:
+      - "${PORT:-80}:80"
+    environment:
+      - MONGODB_URI=${MONGODB_URI}
+      - REDIS_URI=${REDIS_URI}
+    restart: unless-stopped
+    networks:
+      - coolify
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:80/v1/gateway/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  coolify:
+    external: true

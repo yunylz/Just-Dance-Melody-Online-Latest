@@ -1,0 +1,48 @@
+@import 'tailwindcss';
+
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@plugin "daisyui";
+
+html, body {
+  background-color: #111827;
+  min-height: 100dvh;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease forwards;
+}
+
+/* Prevent image-specific context menu (Save image as…, Open image in new tab) */
+img {
+	pointer-events: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+/* Brand gradient matching theme.js brand_gradient_* colors */
+.bg-brand-gradient {
+  background-image: linear-gradient(130deg, #4c7fe8 5%, #9a5ddf, #e33cd7, #f26580, #ffa302 100%);
+}
+
+.bg-brand-gradient-bkg {
+  background: linear-gradient(130deg, #4c7fe8 5%, #9a5ddf, #e33cd7, #f26580, #ffa302 100%);
+}
+
+/* Horizontal brand gradient for bg-clip-text — stays consistent regardless of element width */
+.text-brand-gradient {
+  background-image: linear-gradient(to right, #4c7fe8, #9a5ddf, #e33cd7, #f26580, #ffa302);
+}

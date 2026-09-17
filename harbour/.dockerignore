@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.git
+.env
+README.md
+TODO.md
+ecosystem.config.js
+*.log
